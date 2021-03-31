@@ -1,0 +1,9 @@
+header#banner h2 {
+  font-weight: normal;
+  letter-spacing: 0.75rem;
+  text-transform: uppercase;
+}
+
+code {
+  font-size: 80% !important;
+}

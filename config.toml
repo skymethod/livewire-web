@@ -1,0 +1,13 @@
+baseURL = "https://livewire.io/"
+languageCode = "en-us"
+title = "Livewire"
+theme = "etch"
+
+[params]
+  description = "livewire.io: WebSub + Podcasts"
+  dark = "auto"
+  highlight = true
+  custom_css = ["custom.css"]
+
+[permalinks]
+  posts = "/:slug/"
