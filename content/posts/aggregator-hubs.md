@@ -6,6 +6,12 @@ draft: false
 ---
 Reduce feed polling, improve feed change notification reliability.  Turn pollers into pushers!
 
+---
+
+*[Modify](https://github.com/johnspurlock-skymethod/livewire-web/blob/master/content/posts/aggregator-hubs.md) this proposal, [Discuss](https://github.com/johnspurlock-skymethod/livewire-web/discussions) this proposal*
+
+---
+
 ### Current state {#current-state}
 * Podcasters update their rss feed when new content is available, either directly, or via their podcast hosting provider.
 * Aggregators (podcast apps, directories) periodically poll for changes to podcasts of interest, which may number in the [millions](https://podnews.net/update/2-million-podcasts).
@@ -54,6 +60,7 @@ Subscription List JSON objects have the following properties:
 * `type: "static-subscription-list" | "dynamic-subscription-list` (required)
 * `name: string` (required, human readable name describing the list)
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
+* `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds` (static lists only, optional array of underlying feed objects)
   * `url: string` (required, the underlying feed url)
   * `status: positive integer` (required, the current subscription status, e.g. `202` if accepted, see https://www.w3.org/TR/websub/#subscription-response-details)
@@ -72,6 +79,9 @@ ETag: "24c5f1231737"
   "type": "static-subscription-list",
   "name": "Feeds to watch for Hub1",
   "modified": "2021-03-27T12:54:47.725Z",
+  "hubs": [
+    "https://websub.hub2.fm"
+  ],
   "feeds": [
     { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1 },
     { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1 },
@@ -89,6 +99,9 @@ ETag: "24c5f1231737"
   "type": "dynamic-subscription-list",
   "name": "All feeds managed by hub2.fm",
   "modified": "2021-03-27T12:54:47.725Z",
+  "hubs": [
+    "https://websub.hub2.fm"
+  ],
 }
 ```
 
@@ -102,6 +115,9 @@ ETag: "d50d8036590b"
   "type": "static-subscription-list",
   "name": "Feeds to watch for Hub1",
   "modified": "2021-03-27T12:54:47.725Z",
+  "hubs": [
+    "https://websub.hub2.fm"
+  ],
   "includes": [
     { "url": "https://hub2.fm/subscription-lists/sublist-1.json", "etag": "24c5f1231737" },
   ]
@@ -131,6 +147,7 @@ Subscription List Request JSON objects have the following properties:
 * `type: "subscription-list-request"` (required)
 * `name: string` (required, human readable name describing the list)
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
+* `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds: string[]` (optional array of underlying feed urls)
 * `includes:` (optional array of reference objects to other subscription list requests)
   * `url: string` (required, the url to another Subscription List Request)
@@ -145,6 +162,9 @@ ETag: "b5d3971829c0"
   "type": "subscription-list-request",
   "name": "Delegated feeds for Hub2",
   "modified": "2021-03-26T22:54:47.725Z",
+  "hubs": [
+    "https://websub.hub1.fm"
+  ],
   "feeds": [
     "https://example1.com/feed1.xml"
   ],
@@ -174,18 +194,18 @@ ETag: "b5d52dee01db"
 ![Alt Text](/hubs.png)
 
 Agreement and setup, out of band (e.g. over email):
-* Owner of Hub1 gives owner of Hub2 the Subscription List Request coordinates (hub1-url, subscription-list-request-url)
-* Owner of Hub2 gives owner of Hub1 the Subscription List coordinates (hub2-url, subscription-list-url)
+* Owner of Hub1 gives owner of Hub2 the Subscription List Request URL
+* Owner of Hub2 gives owner of Hub1 the Subscription List URL
 
-subscription-list-request-url and subscription-list-url should be [capability URLs](https://www.w3.org/TR/capability-urls/)
+Subscription List Request URL and Subscription List URL should be [capability URLs](https://www.w3.org/TR/capability-urls/)
 
 Typical flow:
-* Hub1 creates Subscription List Request (JSON resource with list of feeds to watch), makes it available via agreed-upon subscription-list-request-url
-* Hub1 subscribes to agreed-upon subscription-list-url on Hub2
+* Hub1 creates the Subscription List Request (JSON resource with list of feeds to watch), makes it available via the agreed-upon Subscription List Request URL
+* Hub1 fetches the agreed-upon Subscription List URL on Hub2, and subscribes using a hub discovered in the `hubs` property.
 
  
-* Hub2 subscribes to agreed-upon subscription-list-request-url on Hub1
-* Hub2 fetches Subscription List Request, creates associated Subscription List, makes it available via agreed-upon subscription-list-url
+* Hub2 fetches the agreed-upon Subscription List Request Url on Hub1, and subscribes using a hub discovered in the `hubs` property.
+* Hub2 fetches the Subscription List Request, creates associated Subscription List, makes it available via agreed-upon Subscription List URL
 
  
 * Hub2 polls the feeds in the Subscription List, updating the Subscription List with status as necessary
@@ -216,3 +236,7 @@ A smaller delegate Aggregator Hub could create a named Subscription List resourc
 * WebSub spec: https://www.w3.org/TR/websub/
 * Capability URLs: https://www.w3.org/TR/capability-urls/
 * WebSub CDR: [Content Distribution Request](https://www.w3.org/TR/websub/#x7-content-distribution) (the "ping")
+
+---
+
+*[Modify](https://github.com/johnspurlock-skymethod/livewire-web/blob/master/content/posts/aggregator-hubs.md) this proposal, [Discuss](https://github.com/johnspurlock-skymethod/livewire-web/discussions) this proposal*
