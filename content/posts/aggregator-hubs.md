@@ -8,7 +8,7 @@ Reduce feed polling, improve feed change notification reliability.  Turn pollers
 
 ---
 
-*[Modify](https://github.com/johnspurlock-skymethod/livewire-web/blob/master/content/posts/aggregator-hubs.md) this proposal, [Discuss](https://github.com/johnspurlock-skymethod/livewire-web/discussions) this proposal*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/aggregator-hubs.md) this proposal, [Discuss](https://github.com/skymethod/livewire-web/discussions) this proposal*
 
 ---
 
@@ -59,6 +59,7 @@ Subscription Lists can be either static or dynamic:
 Subscription List JSON objects have the following properties:
 * `type: "static-subscription-list" | "dynamic-subscription-list` (required)
 * `name: string` (required, human readable name describing the list)
+* `comment: string` (optional, longer human readable notes or comments pertaining to the list)
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds` (static lists only, optional array of underlying feed objects)
@@ -146,6 +147,7 @@ Subscription List Request resources are essentially named lists of feeds for ano
 Subscription List Request JSON objects have the following properties:
 * `type: "subscription-list-request"` (required)
 * `name: string` (required, human readable name describing the list)
+* `comment: string` (optional, longer human readable notes or comments pertaining to the list)
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds: string[]` (optional array of underlying feed urls)
@@ -239,4 +241,4 @@ A smaller delegate Aggregator Hub could create a named Subscription List resourc
 
 ---
 
-*[Modify](https://github.com/johnspurlock-skymethod/livewire-web/blob/master/content/posts/aggregator-hubs.md) this proposal, [Discuss](https://github.com/johnspurlock-skymethod/livewire-web/discussions) this proposal*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/aggregator-hubs.md) this proposal, [Discuss](https://github.com/skymethod/livewire-web/discussions) this proposal*
