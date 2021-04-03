@@ -6,8 +6,8 @@ WebSub + Podcasts
 
 ---
 
-[Aggregator Hubs, using WebSub Subscription Lists](/aggregator-hubs)
+Proposal: [Aggregator Hubs, using WebSub Subscription Lists](/aggregator-hubs)
 
 ---
 
-[GitHub](https://github.com/johnspurlock-skymethod/livewire-web)
+*Source for this site on [GitHub](https://github.com/skymethod/livewire-web)*
