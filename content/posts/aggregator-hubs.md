@@ -61,6 +61,7 @@ Subscription List JSON objects have the following properties:
 * `name: string` (required, human readable name describing the list)
 * `comment: string` (optional, longer human readable notes or comments pertaining to the list)
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
+* `self: string` (canonical url of this resource for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds` (static lists only, optional array of underlying feed objects)
   * `url: string` (required, the underlying feed url)
@@ -80,6 +81,7 @@ ETag: "24c5f1231737"
   "type": "static-subscription-list",
   "name": "Feeds to watch for Hub1",
   "modified": "2021-03-27T12:54:47.725Z",
+  "self": "https://hub2.fm/subscription-lists/b7244c0f-e3e3-4886-8aa5-55ef1ba2c0cf.json",
   "hubs": [
     "https://websub.hub2.fm"
   ],
@@ -100,6 +102,7 @@ ETag: "24c5f1231737"
   "type": "dynamic-subscription-list",
   "name": "All feeds managed by hub2.fm",
   "modified": "2021-03-27T12:54:47.725Z",
+  "self": "https://hub2.fm/subscription-lists/b7244c0f-e3e3-4886-8aa5-55ef1ba2c0cf.json",
   "hubs": [
     "https://websub.hub2.fm"
   ],
@@ -116,6 +119,7 @@ ETag: "d50d8036590b"
   "type": "static-subscription-list",
   "name": "Feeds to watch for Hub1",
   "modified": "2021-03-27T12:54:47.725Z",
+  "self": "https://hub2.fm/subscription-lists/b7244c0f-e3e3-4886-8aa5-55ef1ba2c0cf.json",
   "hubs": [
     "https://websub.hub2.fm"
   ],
@@ -149,6 +153,7 @@ Subscription List Request JSON objects have the following properties:
 * `name: string` (required, human readable name describing the list)
 * `comment: string` (optional, longer human readable notes or comments pertaining to the list)
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
+* `self: string` (canonical url of this resource for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds: string[]` (optional array of underlying feed urls)
 * `includes:` (optional array of reference objects to other subscription list requests)
@@ -164,6 +169,7 @@ ETag: "b5d3971829c0"
   "type": "subscription-list-request",
   "name": "Delegated feeds for Hub2",
   "modified": "2021-03-26T22:54:47.725Z",
+  "self": "https://hub1.fm/subscription-list-requests/fab26f5a-6e21-4c8f-9651-0bc18b815817.json",
   "hubs": [
     "https://websub.hub1.fm"
   ],
