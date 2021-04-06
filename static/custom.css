@@ -7,3 +7,7 @@ header#banner h2 {
 code {
   font-size: 80% !important;
 }
+
+header time {
+  line-height: 2.5;
+}

@@ -6,6 +6,8 @@ WebSub + Podcasts
 
 ---
 
+Now available: [The first public WebSub Subscription List](/first-public-subscription-list)
+
 Proposal: [Aggregator Hubs, using WebSub Subscription Lists](/aggregator-hubs)
 
 ---
