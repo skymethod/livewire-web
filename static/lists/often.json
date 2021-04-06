@@ -1,0 +1,20 @@
+{
+  "type": "static-subscription-list",
+  "name": "Podcast feeds that are known to update frequently",
+  "comment": "This resource is subscribable via WebSub, and will send notifications when we observe any of the underlying feeds change – see https://livewire.io/aggregator-hubs/",
+  "modified": "2021-04-06T21:00:13.174Z",
+  "self": "https://livewire.io/lists/often.json",
+  "hubs": [
+    "https://hub.livewire.io/"
+  ],
+  "feeds": [
+    { "url": "http://wsrss.bbc.co.uk/bizdev/bbcminute/bbcminute.rss", "status": 200, "level": 1 },
+    { "url": "https://www.cbc.ca/podcasting/includes/hourlynews.xml", "status": 200, "level": 1 },
+    { "url": "http://feeds.feedburner.com/BbcHourlyNewsBulletin", "status": 200, "level": 1 },
+    { "url": "https://feeds.megaphone.fm/ESP9792844572", "status": 200, "level": 1 },
+    { "url": "https://feeds.npr.org/500005/podcast.xml", "status": 200, "level": 1 },
+    { "url": "http://feeds.foxnewsradio.com/FBNReport", "status": 200, "level": 1 },
+    { "url": "https://www.spreaker.com/show/1632695/episodes/feed", "status": 200, "level": 1 },
+    { "url": "https://audioboom.com/channels/5023446.rss", "status": 200, "level": 1 }
+  ]
+}
