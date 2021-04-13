@@ -5,6 +5,8 @@ date: 2021-04-12T14:40:00-05:00
 draft: false
 ---
 
+{{< iframe "https://api.livewire.io/reflections.html" >}}
+
 There has been some talk recently (particularly from the podcast host [Buzzsprout](https://www.buzzsprout.com/)) that [Spotify has overtaken Apple Podcasts in podcast downloads](https://discoverpods.com/spotify-overtakes-apple-podcast-downloads/).  One way they arrived at this was by excluding any "AppleCoreMedia" [^1] [user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) strings found in their backend analytics from attributing to the Apple Podcasts app.
 
 While it's true that the AppleCoreMedia user agent string is not exclusive to Apple Podcasts, it is better thought of as applying equally to all podcast apps on Apple's platforms. It should therefore not be excluded, but rather allocated according to the percentage of the "Apple Share" each app already receives.  
