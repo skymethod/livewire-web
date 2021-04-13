@@ -1,0 +1,24 @@
+{
+  "short_name": "livewire",
+  "name": "livewire",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "type": "image/png",
+      "src": "/livewire-192.png?v1",
+      "purpose": "any maskable"
+    },
+    {
+      "sizes": "512x512",
+      "type": "image/png",
+      "src": "/livewire-512.png?v1",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#0088FF",
+  "background_color": "#121212",
+  "start_url": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/"
+}

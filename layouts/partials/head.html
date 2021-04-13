@@ -32,6 +32,8 @@
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
     {{ template "_internal/opengraph.html" . }}
-    
+    <link rel="icon" href="/livewire-logo.svg?v1" type="image/svg+xml">
+    <link rel="alternate icon" href="/livewire-64.png?v1" sizes="64x64" type="image/png">
+    <link rel="manifest" href="/manifest.json?v1">
     <title>{{ .Title }}</title>
 </head>
