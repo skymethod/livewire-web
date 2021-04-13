@@ -1,5 +1,6 @@
 ---
 title: "Aggregator Hubs, using WebSub Subscription Lists"
+description: "Reduce feed polling, improve feed change notification reliability. Turn pollers into pushers!"
 slug: "aggregator-hubs"
 date: 2021-03-30T16:01:41-05:00
 draft: false

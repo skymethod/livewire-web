@@ -1,5 +1,6 @@
 ---
 title: "First public WebSub Subscription List is now available"
+description: "Here is the first known publicly-available working example of a WebSub static Subscription List, it contains a handful of podcast feeds that are known to update frequently."
 slug: "first-public-subscription-list"
 date: 2021-04-06T17:56:00-05:00
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "New podcast: Reflections"
+description: "A new test podcast called Reflections that not only will show you in the show notes which user agent was used to fetch the feed, but each episode will also read back which user agent was used to fetch the audio file!"
 slug: "new-podcast-reflections"
 date: 2021-04-12T14:40:00-05:00
 draft: false
