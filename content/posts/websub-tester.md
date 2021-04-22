@@ -1,6 +1,6 @@
 ---
 title: "WebSub Tester now available"
-description: "Here is the first known publicly-available working example of a WebSub static Subscription List, it contains a handful of podcast feeds that are known to update frequently."
+description: "We've developed a testing site that any WebSub hub developer can use to run a few automated WebSub scenarios against their hub."
 slug: "websub-tester"
 date: 2021-04-22T17:32:00-05:00
 draft: false
