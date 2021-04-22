@@ -6,6 +6,8 @@ WebSub + Podcasts
 
 ---
 
+Now available: [WebSub Tester](/websub-tester)
+
 New podcast: [Reflections (the case of the curious AppleCoreMedia)](/new-podcast-reflections)
 
 Now available: [The first public WebSub Subscription List](/first-public-subscription-list)

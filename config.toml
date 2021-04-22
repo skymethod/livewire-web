@@ -1,6 +1,6 @@
 baseURL = "https://livewire.io/"
 languageCode = "en-us"
-title = "Livewire"
+title = "Livewire Labs"
 theme = "etch"
 
 [params]
