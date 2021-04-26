@@ -69,7 +69,7 @@ Subscription List JSON objects have the following properties:
   * `url: string` (required – the underlying feed url)
   * `status: positive integer` (required – the current subscription status, e.g. `202` if accepted, see https://www.w3.org/TR/websub/#subscription-response-details)
   * `level: positive integer` (required – how close is this hub to polling the underlying url: `1`=hub is polling directly, `2`=hub is subscribed to another agg hub with level=`1`, etc)
-  * `frequency: positive decimal` (optional – if polling, roughly how many times a day the feed is checked for updates)
+  * `frequency: positive decimal string` (optional – if polling, roughly how many times a day the feed is checked for updates)
 * `includes` (static lists only, optional array of reference objects to other static subscription lists)
   * `url: string` (required – the url to another Static Subscription List)
   * `etag: string` (required – strong etag value, without embedded surrounding double quotes, can be used for in-none-match conditionals)
@@ -89,8 +89,8 @@ ETag: "24c5f1231737"
     "https://websub.hub2.fm"
   ],
   "feeds": [
-    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1, "frequency": 24 },
-    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1, "frequency": 24 },
+    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1, "frequency": "24" },
+    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1, "frequency": "24" },
   ]
 }
 ```
@@ -139,8 +139,8 @@ ETag: "24c5f1231737"
   "name": "Feeds to watch for Hub1 - Sublist 1",
   "modified": "2021-03-27T12:54:47.725Z",
   "feeds": [
-    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1, "frequency": 24 },
-    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1, "frequency": 24 },
+    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1, "frequency": "24" },
+    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1, "frequency": "24" },
   ]
 }
 ```
@@ -160,7 +160,7 @@ Subscription List Request JSON objects have the following properties:
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds` (optional array of underlying feed request objects)
   * `url: string` (required – the underlying feed url)
-  * `frequency: positive decimal` (optional – roughly how many times a day the feed is requested to be checked for updates)
+  * `frequency: positive decimal string` (optional – roughly how many times a day the feed is requested to be checked for updates)
 * `includes:` (optional array of reference objects to other subscription list requests)
   * `url: string` (required, the url to another Subscription List Request)
   * `etag: string` (required, strong etag value, without embedded surrounding double quotes, can be used for in-none-match conditionals)
@@ -179,7 +179,7 @@ ETag: "b5d3971829c0"
     "https://websub.hub1.fm"
   ],
   "feeds": [
-    { "url": "https://example1.com/feed1.xml", "frequency": 24 }
+    { "url": "https://example1.com/feed1.xml", "frequency": "24" }
   ],
   "includes": [
     { "url": "https://hub1.fm/sublist-1.json", "etag": "b5d52dee01db" }
@@ -194,7 +194,7 @@ ETag: "b5d52dee01db"
   "name": "Delegated feeds for Hub2 - Sublist 1",
   "modified": "2021-03-26T12:54:47.725Z",
   "feeds": [
-    { "url": https://example2.com/feed2.xml", "frequency": 24 }
+    { "url": https://example2.com/feed2.xml", "frequency": "24" }
   ]
 }
 ```
