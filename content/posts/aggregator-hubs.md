@@ -59,18 +59,20 @@ Subscription Lists can be either static or dynamic:
 
 Subscription List JSON objects have the following properties:
 * `type: "static-subscription-list" | "dynamic-subscription-list` (required)
-* `name: string` (required, human readable name describing the list)
-* `comment: string` (optional, longer human readable notes or comments pertaining to the list)
-* `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
+* `name: string` (required – human readable name describing the list)
+* `comment: string` (optional – longer human readable notes or comments pertaining to the list)
+* `modified: string` (required – date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
+* `asof: string` (required only if this list corresponds to a [Subscription List Request]({{< ref "#subscription-list-request" >}}) – references the request's latest `modified` value that this list incorporates)
 * `self: string` (canonical url of this resource for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `feeds` (static lists only, optional array of underlying feed objects)
-  * `url: string` (required, the underlying feed url)
-  * `status: positive integer` (required, the current subscription status, e.g. `202` if accepted, see https://www.w3.org/TR/websub/#subscription-response-details)
-  * `level: positive integer` (required, how close is this hub to polling the underlying url: `1`=hub is polling directly, `2`=hub is subscribed to another agg hub with level=`1`, etc)
+  * `url: string` (required – the underlying feed url)
+  * `status: positive integer` (required – the current subscription status, e.g. `202` if accepted, see https://www.w3.org/TR/websub/#subscription-response-details)
+  * `level: positive integer` (required – how close is this hub to polling the underlying url: `1`=hub is polling directly, `2`=hub is subscribed to another agg hub with level=`1`, etc)
+  * `frequency: positive decimal` (optional – if polling, roughly how many times a day the feed is checked for updates)
 * `includes` (static lists only, optional array of reference objects to other static subscription lists)
-  * `url: string` (required, the url to another Static Subscription List)
-  * `etag: string` (required, strong etag value, without embedded surrounding double quotes, can be used for in-none-match conditionals)
+  * `url: string` (required – the url to another Static Subscription List)
+  * `etag: string` (required – strong etag value, without embedded surrounding double quotes, can be used for in-none-match conditionals)
 
 #### Example 1: Static Subscription List, no inclusion
 
@@ -87,8 +89,8 @@ ETag: "24c5f1231737"
     "https://websub.hub2.fm"
   ],
   "feeds": [
-    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1 },
-    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1 },
+    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1, "frequency": 24 },
+    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1, "frequency": 24 },
   ]
 }
 ```
@@ -137,8 +139,8 @@ ETag: "24c5f1231737"
   "name": "Feeds to watch for Hub1 - Sublist 1",
   "modified": "2021-03-27T12:54:47.725Z",
   "feeds": [
-    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1 },
-    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1 },
+    { "url": "https://example1.com/feed1.xml", "status": 202, "level": 1, "frequency": 24 },
+    { "url": "https://example2.com/feed2.xml", "status": 202, "level": 1, "frequency": 24 },
   ]
 }
 ```
@@ -156,7 +158,9 @@ Subscription List Request JSON objects have the following properties:
 * `modified: string` (required, date-time of last content change, must be ISO-8601 e.g. `1970-01-01T00:00:00Z`)
 * `self: string` (canonical url of this resource for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
 * `hubs: string[]` (array of one or more websub hub urls for [discovery](https://www.w3.org/TR/websub/#discovery), required if subscribable, not necessary for included sublists)
-* `feeds: string[]` (optional array of underlying feed urls)
+* `feeds` (optional array of underlying feed request objects)
+  * `url: string` (required – the underlying feed url)
+  * `frequency: positive decimal` (optional – roughly how many times a day the feed is requested to be checked for updates)
 * `includes:` (optional array of reference objects to other subscription list requests)
   * `url: string` (required, the url to another Subscription List Request)
   * `etag: string` (required, strong etag value, without embedded surrounding double quotes, can be used for in-none-match conditionals)
@@ -175,7 +179,7 @@ ETag: "b5d3971829c0"
     "https://websub.hub1.fm"
   ],
   "feeds": [
-    "https://example1.com/feed1.xml"
+    { "url": "https://example1.com/feed1.xml", "frequency": 24 }
   ],
   "includes": [
     { "url": "https://hub1.fm/sublist-1.json", "etag": "b5d52dee01db" }
@@ -190,8 +194,8 @@ ETag: "b5d52dee01db"
   "name": "Delegated feeds for Hub2 - Sublist 1",
   "modified": "2021-03-26T12:54:47.725Z",
   "feeds": [
-    "https://example2.com/feed2.xml"
-  ],
+    { "url": https://example2.com/feed2.xml", "frequency": 24 }
+  ]
 }
 ```
 
@@ -238,6 +242,11 @@ A podcast hosting company could host a publicly-subscribable Subscription List r
 
 ### Dynamic Subscription List scenario: Notifications for logical feed groups  {#feed-groups-scenario}
 A smaller delegate Aggregator Hub could create a named Subscription List resource to notify a larger hub about feed changes it finds for the feeds it's polling, without enumerating them.  For example, it could notify the parent when it finds ANY change it knows the parent would care about, or a subset of feeds, say feeds that are known to produce new content hourly.
+
+---
+
+### Examples
+* Publicly-available subscribable static subscription list: https://livewire.io/first-public-subscription-list/
 
 ---
 
