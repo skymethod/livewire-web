@@ -11,3 +11,10 @@ code {
 header time {
   line-height: 2.5;
 }
+
+.index-subhead {
+  letter-spacing: 0.50rem;
+  text-transform: uppercase;
+  margin-top: -2rem !important;
+  margin-block-start: 0;
+}
