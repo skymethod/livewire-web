@@ -1,0 +1,10 @@
+{
+  "type": "dynamic-subscription-list",
+  "name": "Podcast feeds that notify podping.cloud",
+  "comment": "This resource is subscribable via WebSub, and will send WebSub notifications whenever any of the underlying podping.cloud podcast feeds are updated – see https://livewire.io/aggregator-hubs/",
+  "modified": "2021-05-20T23:20:16.290Z",
+  "self": "https://livewire.io/lists/podping.json",
+  "hubs": [
+    "https://hub.livewire.io/"
+  ]
+}
