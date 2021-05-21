@@ -7,6 +7,8 @@ date: 2021-03-30T16:01:41-05:00
 
 ---
 
+Now available: [Podping via WebSub](/podping-via-websub)
+
 Now available: [WebSub Tester](/websub-tester)
 
 New podcast: [Reflections (the case of the curious AppleCoreMedia)](/new-podcast-reflections)
