@@ -20,7 +20,12 @@ The subscribable list url is:
 * https://livewire.io/lists/podping.json
 
 You can preview the event stream by creating a temporary short-lived WebSub listener using our WebSub testing tool:
-* [Start listening](https://test.livewire.io/start?topic-url=https://livewire.io/lists/podping.json&intent=short-lived)
+* {{< button listen-using-test-livewire-io "Start listening using test.livewire.io" >}}
+
+You can also preview the event stream by creating a WebSub listener using the excellent [webhook.site](https://webhook.site/) service:
+* {{< button listen-using-webhook-site "Start listening using webhook.site" >}}
+
+{{< podping-via-websub-script >}}
 
 Hope that helps!
 

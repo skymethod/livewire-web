@@ -1,0 +1,10 @@
+<script>
+    const livewire = document.getElementById('listen-using-test-livewire-io');
+    livewire.addEventListener('click', () => {
+        document.location = 'https://test.livewire.io/start?topic-url=https://livewire.io/lists/podping.json&intent=short-lived';
+    });
+    const webhook = document.getElementById('listen-using-webhook-site');
+    webhook.addEventListener('click', () => {
+        document.location = 'https://test.livewire.io/webhook-site?podping';
+    });
+</script>
