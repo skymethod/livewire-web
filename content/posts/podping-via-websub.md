@@ -16,13 +16,25 @@ This sounded like a great use case for a [subscribable dynamic subscription list
 
 So we've created a publicly-available subscribable list, which makes these pings available for free via standard [WebSub](https://www.w3.org/TR/websub) for anyone who wants to receive these updates via http webhook-style callbacks.
 
-The subscribable list url is:
+The subscribable list topic url is:
 * https://livewire.io/lists/podping.json
 
-You can preview the event stream by creating a temporary short-lived WebSub listener using our WebSub testing tool:
+Subscribe with a standard WebSub request, for example, if your callback url is `https://example.com/callback`, send the following https request:
+```
+POST / HTTP/1.1
+Host: hub.livewire.io
+Content-Type: application/x-www-form-urlencoded
+
+hub.callback=subscribe
+  &hub.lease_seconds=86400
+  &hub.topic=https://livewire.io/lists/podping.json
+  &hub.callback=https://example.com/callback
+```
+
+You can preview the event stream by creating a temporary short-lived WebSub subscriber using our WebSub testing tool:
 * {{< button listen-using-test-livewire-io "Start listening using test.livewire.io" >}}
 
-You can also preview the event stream by creating a WebSub listener using the excellent [webhook.site](https://webhook.site/) service:
+You can also preview the event stream by creating a WebSub subscriber using the excellent [webhook.site](https://webhook.site/) service:
 * {{< button listen-using-webhook-site "Start listening using webhook.site" >}}
 
 {{< podping-via-websub-script >}}
