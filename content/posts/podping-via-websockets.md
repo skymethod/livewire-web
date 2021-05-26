@@ -23,8 +23,15 @@ Example browser-side script:
     const ws = new WebSocket("wss://api.livewire.io/ws/podping");
     ws.addEventListener("message", event => {
         const msg = JSON.parse(event.data);
-        console.log("message", msg);
-        // handle message
+        // see message format below
+        if (msg.t === "podping") {
+            console.log("podping message", msg);
+            for (const op of msg.p) {
+                for (const url of op.p.urls) {
+                    // process feed url
+                }
+            }
+        }
     });
     ws.addEventListener("close", event => {
         // handle close event
@@ -32,6 +39,53 @@ Example browser-side script:
     ws.addEventListener("error", event => {
         // handle error event
     });
+```
+
+---
+
+Message format:
+```typescript
+interface PodpingMessage {
+     /** Type. */ 
+    readonly t: 'podping';
+
+    /** Version. */ 
+    readonly v: 1;
+
+    /** Hive api server polled by the backend to provide the data. */ 
+    readonly a: string;
+
+    /** Hive block number. */ 
+    readonly n: number;
+
+    /** Hive operation count.
+     * 
+     * Total number of operations in the block, not just Podpings. */ 
+    readonly o: number;
+
+    /** Podping operations. */
+    readonly p: Operation[];
+}
+
+interface Operation {
+    /** Auth used to write the transaction. */ 
+    readonly a: string;
+    
+    /** ISO 8601 timestamp. */
+    readonly t: string;
+
+    /** Podpings. */
+    readonly p: Podping[];
+}
+
+// Raw Podping payload json format
+// i.e. "json" from https://github.com/Podcastindex-org/podping.cloud#what-it-does
+interface Podping {
+    readonly version: string;
+    readonly num_urls: number;
+    readonly reason: 'feed_update';
+    readonly urls: string[];
+}
 ```
 
 ---
