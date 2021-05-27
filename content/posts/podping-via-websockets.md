@@ -74,8 +74,8 @@ interface Operation {
     /** ISO 8601 timestamp. */
     readonly t: string;
 
-    /** Podpings. */
-    readonly p: Podping[];
+    /** Podping. */
+    readonly p: Podping;
 }
 
 // Raw Podping payload json format
