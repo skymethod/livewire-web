@@ -5,7 +5,7 @@ theme = "etch"
 
 [params]
   description = "livewire.io: WebSub + Podcasts"
-  dark = "auto"
+  dark = "on"
   highlight = true
   custom_css = ["custom.css"]
 
