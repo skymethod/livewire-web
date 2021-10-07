@@ -22,3 +22,7 @@ header time {
 button {
   padding: 0.75rem 2rem;
 }
+
+.weak {
+  opacity: 66%;
+}
