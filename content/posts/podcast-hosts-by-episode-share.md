@@ -197,7 +197,6 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
-
 *Updated 2021-10-09, to clarify the universe and identification scheme, added an overall episode count, and replaced short domains with hosting company names.*
 
 ---
