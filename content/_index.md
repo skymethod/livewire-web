@@ -7,6 +7,8 @@ date: 2021-03-30T16:01:41-05:00
 
 ---
 
+New data: [Podcast Tracker Rankings by Episode Share (Sept 2021)](/podcast-trackers-by-episode-share)
+
 New data: [Podcast Host Rankings by Episode Share (Sept 2021)](/podcast-hosts-by-episode-share)
 
 Now available: [Podping via Websockets](/podping-via-websockets)
