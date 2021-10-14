@@ -34,6 +34,11 @@ instead of the feed url domain, which can often undercount hosts that offer cust
 Let's now take a look at the tracking services themselves.  Of those episodes that were published in September, how many
 of them included one or more of these tracking services?  Some episodes had as many as five of these redirecting trackers!
 
+*Note we can only observe "client-side" trackers. There are other podcast analytics services 
+such as {{< a "https://www.tritondigital.com/solutions/audience-measurement" "Triton Digital" >}} that receive private request logs 
+directly from partner hosts. Like first-party podcast host analytics, the reach of these services is not measurable in a public
+way, and thus not included in this analysis.*
+
 Below is the ranking of podcast analytics services ordered by new episodes published during 
 the month of September 2021.
 
