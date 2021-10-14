@@ -52,13 +52,13 @@ For episodes that used Podtrac, here are the top underlying podcast hosts:
 1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "19.91%" >}}
 2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "15.63%" >}}
 3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "14.20%" >}}
-4. {{< a "https://analytics.podtrac.com/" "Podtrac" >}} {{< span "weak" "11.89%" >}}
-5. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "7.76%" >}}
-6. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}} {{< span "weak" "4.00%" >}}
-7. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "3.63%" >}}
-8. {{< a "https://www.libsyn.com/" "Libsyn" >}} {{< span "weak" "3.37%" >}}
-9. {{< a "https://www.akamai.com/" "Akamai CDN" >}} {{< span "weak" "3.09%" >}}
-10. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.24%" >}}
+4. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "7.76%" >}}
+5. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}} {{< span "weak" "4.00%" >}}
+6. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "3.63%" >}}
+7. {{< a "https://www.libsyn.com/" "Libsyn" >}} {{< span "weak" "3.37%" >}}
+8. {{< a "https://www.akamai.com/" "Akamai CDN" >}} {{< span "weak" "3.09%" >}}
+9. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.24%" >}}
+10. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.68%" >}}
 ---
 
 ### 2. [Chartable](https://chartable.com/)
@@ -186,7 +186,6 @@ For episodes that used Médiamétrie, here are the top underlying podcast hosts:
 3. {{< a "https://www.europe1.fr/" "Europe 1" >}} {{< span "weak" "24.84%" >}}
 4. {{< a "https://www.akamai.com/" "Akamai CDN" >}} {{< span "weak" "12.67%" >}}
 5. {{< a "https://www.ausha.co/" "Ausha" >}} {{< span "weak" "7.72%" >}}
-6. {{< a "https://www.mediametrie.fr/" "Médiamétrie" >}} {{< span "weak" "0.40%" >}}
 ---
 
 ### 8. [Feedpress](https://feedpress.com/)
@@ -251,6 +250,9 @@ to check for new episodes.
 
 And thanks to the [Open Podcast Analytics Working Group](https://github.com/opawg) for maintaining a list of media url patterns and analytics services patterns.
 We've incorporated these patterns along with some of our own to come up with the host and analytics service identification and metadata for this ranking.
+
+---
+*Updated 2021-10-13, to remove Podtrac as a host under itself, even when it is the last media file url in the redirect chain*
 
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-trackers-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
