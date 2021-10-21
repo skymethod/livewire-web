@@ -169,7 +169,7 @@ For episodes that used Fastly, here are the top underlying podcast hosts, and pe
 9. {{< a "https://www.supportingcast.fm/" "Supporting Cast" >}} {{< span "weak" "100%" >}}
 ---
 
-### 11-20.
+### 11-50.
 
 11. {{< a "https://archive.org/" "Internet Archive · 1.22%" >}}
 12. {{< a "https://www.cogentco.com/en/" "Cogent · 1.21%" >}}
@@ -182,14 +182,58 @@ For episodes that used Fastly, here are the top underlying podcast hosts, and pe
 19. {{< a "https://he.net/" "Hurricane Electric · 0.48%" >}}
 20. {{< a "https://aws.amazon.com/ec2/" "Amazon EC2 · 0.46%" >}}
 
+<br>
+
+21. {{< a "https://www.alibabacloud.com/product/networking" "Alibaba Cloud CDN · 0.44%" >}}
+22. {{< a "https://en.wikipedia.org/wiki/Level_3_Communications" "Level 3 Communications · 0.34%" >}}
+23. {{< a "https://www.gtt.net/us-en" "GTT Communications · 0.33%" >}}
+24. {{< a "https://www.scaleway.com/en/" "Scaleway · 0.32%" >}}
+25. {{< a "https://empirestreaming.com/" "Empire Streaming · 0.30%" >}}
+26. {{< a "https://www.deft.com/" "Deft · 0.25%" >}}
+27. {{< a "https://www.godaddy.com/" "GoDaddy · 0.21%" >}}
+28. {{< a "https://cloud.ionos.com/" "IONOS Cloud · 0.20%" >}}
+29. {{< a "https://www.dreamhost.com/" "DreamHost · 0.20%" >}}
+30. {{< a "https://www.swan.sk/" "SWAN · 0.18%" >}}
+
+<br>
+
+31. {{< a "https://automattic.com/" "Automattic · 0.15%" >}}
+32. {{< a "https://www.master.cz/" "MasterDC · 0.14%" >}}
+33. {{< a "https://www.digitalocean.com/" "DigitalOcean · 0.14%" >}}
+34. {{< a "https://www.mediactive-network.net/" "Mediactive Network · 0.12%" >}}
+35. {{< a "https://www.axians.fr/en/" "AXIANS · 0.11%" >}}
+36. {{< a "https://wasabi.com/" "Wasabi · 0.11%" >}}
+37. {{< a "https://www.infomaniak.com/en" "Infomaniak · 0.10%" >}}
+38. {{< a "https://www.cachefly.com/" "CacheFly · 0.10%" >}}
+39. {{< a "https://www.quantil.com/" "QUANTIL · 0.10%" >}}
+40. {{< a "https://advancedhosting.com/en" "Advanced Hosting · 0.10%" >}}
+
+<br>
+
+41. {{< a "https://intergrid.com.au/" "Intergrid · 0.09%" >}}
+42. {{< a "http://www.avensys.net/" "Avensys Networks · 0.09%" >}}
+43. {{< a "https://en.wikipedia.org/wiki/Strato_AG" "Strato AG · 0.09%" >}}
+44. {{< a "https://www.swisstxt.ch/de/" "SWISS TXT · 0.08%" >}}
+45. {{< a "https://www.linode.com/" "Linode · 0.08%" >}}
+46. {{< a "https://lv.wikipedia.org/wiki/Latnet" "Latnet · 0.07%" >}}
+47. {{< a "https://apa.at/about/apa-tech/" "APA Tech · 0.07%" >}}
+48. {{< a "https://www.gmo.jp/en/" "GMO Internet Group · 0.07%" >}}
+49. {{< a "https://www.liquidweb.com/" "Liquid Web · 0.07%" >}}
+50. {{< a "https://microsoft.com/" "Microsoft · 0.06%" >}}
+
 ---
 Analysis by [John Spurlock](https://twitter.com/johnspurlock)
 
 Thanks to the [Podcast Index](https://podcastindex.org/) for crawling every podcast, and giving us a signal of when 
 to check for new episodes.
 
-And thanks to the [Open Podcast Analytics Working Group](https://github.com/opawg) for maintaining a list of media url patterns and analytics services patterns.
+Also thanks to the [Open Podcast Analytics Working Group](https://github.com/opawg) for maintaining a list of media url patterns and analytics services patterns.
 We've incorporated these patterns along with some of our own to come up with the host and analytics service identification and metadata for this ranking.
+
+And thanks to folks working at various networks to help us identify each one as accurately as possible.
+
+---
+*Updated 2021-10-21: Was showing the top 20, now showing the top 50, added thanks about feedback from networks.*
 
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-cdns-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
