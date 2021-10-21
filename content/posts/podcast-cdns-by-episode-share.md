@@ -189,7 +189,7 @@ For episodes that used Fastly, here are the top underlying podcast hosts, and pe
 22. {{< a "https://en.wikipedia.org/wiki/Level_3_Communications" "Level 3 Communications · 0.34%" >}}
 23. {{< a "https://www.gtt.net/us-en" "GTT Communications · 0.33%" >}}
 24. {{< a "https://www.scaleway.com/en/" "Scaleway · 0.32%" >}}
-25. {{< a "https://empirestreaming.com/" "Empire Streaming · 0.30%" >}}
+25. {{< a "https://empirestreaming.com/" "EmpireStreaming · 0.30%" >}}
 26. {{< a "https://www.deft.com/" "Deft · 0.25%" >}}
 27. {{< a "https://www.godaddy.com/" "GoDaddy · 0.21%" >}}
 28. {{< a "https://cloud.ionos.com/" "IONOS Cloud · 0.20%" >}}
