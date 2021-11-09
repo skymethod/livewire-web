@@ -7,6 +7,8 @@ date: 2021-03-30T16:01:41-05:00
 
 ---
 
+Now available: [Instant WebSub support for Podpingers](/instant-websub-for-podpingers)
+
 New data: [Podcast CDN Rankings by Episode Share (Sept 2021)](/podcast-cdns-by-episode-share)
 
 New data: [Podcast Tracker Rankings by Episode Share (Sept 2021)](/podcast-trackers-by-episode-share)
