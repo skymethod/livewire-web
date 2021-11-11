@@ -4,20 +4,18 @@ description: "Ranked list of podcast hosts, based on number of new episodes publ
 slug: "podcast-hosts-by-episode-share"
 images:
 - ranking-2021-10.png
-date: 2021-10-07T17:40:00-05:00
-lastmod: 2021-11-10T19:15:00-06:00
+date: 2021-11-10T19:15:00-06:00
+lastmod: 2021-11-11T09:50:00-06:00
 draft: false
 ---
-*(Updated November 10, 2021)*
-
 One of the ways to measure the health of the current podcast ecosystem is to measure
 the number of _new episodes published_ in a given period.
 
 We looked at _every single new podcast episode published_ (about 2.0 million in October 2021)
 and identified which podcast hosting company it belongs to.
 
-We used the actual media file url (past any tracking redirects) to identify the host
-instead of the feed url domain, which can often undercount hosts that offer custom domains.
+We used the actual media file url (past any tracking redirects) to identify the host.
+It is not based on the feed url domain, which can often undercount hosts that offer custom domains.
 
 There are many market share numbers floating around out there for the various podcast hosting companies, 
 but it's often difficult to compare apples to apples - especially when considering inactive shows.
@@ -199,9 +197,15 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
+*Updated 2021-11-11, added a new footer link to last month's version.*
+
 *Updated 2021-11-10, with data for the month of October 2021.*
 
 *Updated 2021-10-09, to clarify the universe and identification scheme, added an overall episode count, and replaced short domains with hosting company names.*
+
+---
+Previous versions:
+ - [Podcast Host Rankings by Episode Share (Sept 2021)](/archive/podcast-hosts-by-episode-share-september-2021/)
 
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-hosts-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
