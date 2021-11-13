@@ -5,6 +5,9 @@
     <meta name="description" content="{{ . }}">
     {{ end }}
     {{ printf `<link rel="icon" href="%s" sizes="any">` ("favicon.ico" | absURL) | safeHTML }}
+    <link rel="icon" href="/livewire-logo.svg?v1" type="image/svg+xml">
+    <link rel="mask-icon" href="/livewire-logo.svg?v1" color="#0088FF">
+    <link rel="manifest" href="/manifest.json?v1">
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
@@ -32,7 +35,5 @@
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
     {{ template "_internal/opengraph.html" . }}
-    <link rel="icon" href="/livewire-logo.svg?v1" type="image/svg+xml">
-    <link rel="manifest" href="/manifest.json?v1">
     <title>{{ .Title }}</title>
 </head>
