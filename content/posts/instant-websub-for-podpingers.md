@@ -34,8 +34,16 @@ Any podcast that is already Podping-enabled (but not WebSub-enabled) can now add
 <rss>
   <channel>
     ...
-    <link rel="self" href="https://YOUR-FEED-URL"  xmlns="http://www.w3.org/2005/Atom" />
+    <link rel="self" href="https://YOUR-FEED-URL" xmlns="http://www.w3.org/2005/Atom" />
     <link rel="hub" href="https://hub.livewire.io/" xmlns="http://www.w3.org/2005/Atom" />
+```
+Or, using xml-prefixing (which is more common):
+```xml
+<rss xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    ...
+    <atom:link rel="self" href="https://YOUR-FEED-URL" />
+    <atom:link rel="hub" href="https://hub.livewire.io/" />
 ```
 
 We'll listen for your podping under the hood, and publish out a WebSub ping to any WebSub subscribers for you.
