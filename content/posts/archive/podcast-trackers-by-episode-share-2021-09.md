@@ -1,5 +1,5 @@
 ---
-title: "Podcast Tracker Rankings by Episode Share (Sept 2021)"
+title: "Podcast Tracker Rankings by Episode Share (September 2021)"
 description: "Ranked list of podcast trackers (third-party analytics services), based on number of new episodes published"
 slug: "archive/podcast-trackers-by-episode-share-september-2021"
 images:

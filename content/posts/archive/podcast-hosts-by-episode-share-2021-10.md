@@ -1,5 +1,5 @@
 ---
-title: "Podcast Host Rankings by Episode Share (Oct 2021)"
+title: "Podcast Host Rankings by Episode Share (October 2021)"
 description: "Ranked list of podcast hosts, based on number of new episodes published"
 slug: "archive/podcast-hosts-by-episode-share-october-2021"
 images:

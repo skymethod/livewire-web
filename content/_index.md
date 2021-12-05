@@ -1,17 +1,18 @@
 ---
 title: "livewire.io: WebSub + Podcasts"
 date: 2021-03-30T16:01:41-05:00
+lastmod: 2021-12-04T17:56:00-06:00
 ---
 
 {{< p index-subhead "Podcasts + WebSub" >}}
 
 ---
 
-New data: [Podcast Host Rankings by Episode Share (Nov 2021)](/podcast-hosts-by-episode-share)
+New data: [Podcast Tracker Rankings by Episode Share (November 2021)](/podcast-trackers-by-episode-share)
 
-New data: [Podcast CDN Rankings by Episode Share (Oct 2021)](/podcast-cdns-by-episode-share)
+New data: [Podcast Host Rankings by Episode Share (November 2021)](/podcast-hosts-by-episode-share)
 
-New data: [Podcast Tracker Rankings by Episode Share (Oct 2021)](/podcast-trackers-by-episode-share)
+New data: [Podcast CDN Rankings by Episode Share (October 2021)](/podcast-cdns-by-episode-share)
 
 Now available: [Instant WebSub support for Podpingers](/instant-websub-for-podpingers)
 

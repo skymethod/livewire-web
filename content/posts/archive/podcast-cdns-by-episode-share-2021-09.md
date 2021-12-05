@@ -1,5 +1,5 @@
 ---
-title: "Podcast CDN Rankings by Episode Share (Sept 2021)"
+title: "Podcast CDN Rankings by Episode Share (September 2021)"
 description: "Ranked list of podcast CDNs (content delivery networks), based on number of new episodes published"
 slug: "archive/podcast-cdns-by-episode-share-september-2021"
 images:
