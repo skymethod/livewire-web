@@ -20,6 +20,8 @@
     { "url": "http://feeds.feedburner.com/CbsRadioNetworkNewscast", "status": 200, "level": 1, "frequency": "288" },
     { "url": "https://www.radio4.dk/rss/podcast/radio4_nyhederne.rss", "status": 200, "level": 1, "frequency": "288" },
     { "url": "https://apifeeds.kqed.org/feeds/newscast", "status": 200, "level": 1, "frequency": "288" },
-    { "url": "https://audioboom.com/channels/4277258.rss", "status": 200, "level": 1, "frequency": "288" }
+    { "url": "https://audioboom.com/channels/4277258.rss", "status": 200, "level": 1, "frequency": "288" },
+    { "url": "https://audioboom.com/channels/3270305.rss", "status": 200, "level": 1, "frequency": "288" },
+    { "url": "https://audioboom.com/channels/5023446.rss", "status": 200, "level": 1, "frequency": "288" }
   ]
 }
