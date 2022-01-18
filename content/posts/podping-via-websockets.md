@@ -3,6 +3,7 @@ title: "Podping via Websockets"
 description: "Listen to Podping updates via standard Websockets"
 slug: "podping-via-websockets"
 date: 2021-05-26T17:05:00-05:00
+updated: 2022-01-18T12:30:00-06:00
 draft: false
 ---
 
@@ -27,9 +28,17 @@ Example browser-side script:
         if (msg.t === "podping") {
             console.log("podping message", msg);
             for (const op of msg.p) {
-                for (const url of op.p.urls) {
-                    // process feed url
-                }
+                if (op.i === "podping") {
+                    // version 0.x payload
+                    for (const url of op.p.urls) {
+                        // process feed url
+                    }
+                } else {
+                    // version 1.0 payload
+                    for (const iri of op.p.iris) {
+                        // process iri
+                    }
+                })
             }
         }
     });
@@ -49,8 +58,8 @@ interface PodpingMessage {
      /** Type. */ 
     readonly t: 'podping';
 
-    /** Version. */ 
-    readonly v: 1;
+    /** Websocket payload version. */ 
+    readonly v: 2;
 
     /** Hive api server polled by the backend to provide the data. */ 
     readonly a: string;
@@ -74,19 +83,35 @@ interface Operation {
     /** ISO 8601 timestamp. */
     readonly t: string;
 
+    /** Hive event id like 'podping' (v0.x) or 'pp_podcast_update' (v1.0) */
+    readonly i: string;
+
     /** Podping. */
     readonly p: Podping;
 }
 
 // Raw Podping payload json format
 // i.e. "json" from https://github.com/Podcastindex-org/podping.cloud#what-it-does
-interface Podping {
-    readonly version: string;
+type Podping = PodpingV0 | PodpingV1;
+
+interface PodpingV0 {
+    readonly version: '0.2' | '0.3';
     readonly num_urls: number;
     readonly reason: 'feed_update';
     readonly urls: string[];
 }
+
+interface PodpingV1 {
+    readonly version: '1.0';
+    readonly medium: string; // e.g. podcast, music, video, etc
+    readonly reason: string; // e.g. update or live
+    readonly iris: string[]; // can contain IRIs that are not http(s) URLs
+}
+
 ```
+
+---
+*Updated 2022-01-18, to support the new [Podping 1.0 payload format](https://write.agates.io/podcasting-2-0-evolution-of-podping#definition)*
 
 ---
 
