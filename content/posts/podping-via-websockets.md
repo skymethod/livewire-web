@@ -38,7 +38,7 @@ Example browser-side script:
                     for (const iri of op.p.iris) {
                         // process iri
                     }
-                })
+                }
             }
         }
     });
