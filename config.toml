@@ -4,7 +4,7 @@ title = "Livewire Labs"
 theme = "etch"
 
 [params]
-  description = "livewire.io: WebSub + Podcasts"
+  description = "livewire.io: Podcasting ▷ Forward"
   dark = "on"
   highlight = true
   custom_css = ["custom.css"]

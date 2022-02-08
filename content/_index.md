@@ -1,5 +1,5 @@
 ---
-title: "livewire.io: WebSub + Podcasts"
+title: "livewire.io: Podcasting ▷ Forward"
 date: 2021-03-30T16:01:41-05:00
 lastmod: 2022-02-08T16:30:00-06:00
 ---
