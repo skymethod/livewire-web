@@ -1,16 +1,16 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2021-03-30T16:01:41-05:00
-lastmod: 2022-02-10T20:10:00-06:00
+lastmod: 2022-02-19T9:14:00-06:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
 
-New data: [Podcast CDN Rankings by Episode Share (January 2021)](/podcast-cdns-by-episode-share)
+Updated / Spotify acquisitions: [Podcast Tracker Rankings by Episode Share (January 2022)](/podcast-trackers-by-episode-share)
 
-New data: [Podcast Tracker Rankings by Episode Share (January 2022)](/podcast-trackers-by-episode-share)
+New data: [Podcast CDN Rankings by Episode Share (January 2021)](/podcast-cdns-by-episode-share)
 
 New data: [Podcast Host Rankings by Episode Share (January 2022)](/podcast-hosts-by-episode-share)
 

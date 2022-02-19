@@ -4,8 +4,8 @@ description: "Ranked list of podcast trackers (third-party analytics services), 
 slug: "podcast-trackers-by-episode-share"
 images:
 - trackers-2022-01.png
-date: 2022-02-08T16:30:00-06:00
-lastmod: 2022-02-08T16:30:00-06:00
+date: 2022-02-19T9:14:00-06:00
+lastmod: 2022-02-19T9:14:00-06:00
 draft: false
 ---
 
@@ -40,12 +40,52 @@ such as {{< a "https://www.tritondigital.com/solutions/audience-measurement" "Tr
 directly from partner hosts. Like first-party podcast host analytics, the reach of these services is not measurable in a public
 way, and thus not included in this analysis.*
 
-Below is the ranking of podcast analytics services ordered by new episodes published during 
-the month of January 2022.
+---
+
+### Overall
+
+At least one tracker was found on 12.16% of new episodes in January.
+
+For episodes that used at least one tracker, here are the top underlying podcast hosts:
+
+1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "12.68%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "11.54%" >}}
+3. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "10.00%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "8.29%" >}}
+5. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "7.77%" >}}
+6. {{< a "https://www.libsyn.com/" "Libsyn" >}} {{< span "weak" "4.91%" >}}
+7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "4.89%" >}}
+8. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "4.45%" >}}
+9. {{< a "https://analytics.podtrac.com/" "Podtrac" >}} {{< span "weak" "3.66%" >}}
+10. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "2.60%" >}}
+---
+
+### [Spotify (Chartable & Podsights)](https://newsroom.spotify.com/2022-02-16/spotify-acquires-podsights-and-chartable-to-advance-podcast-measurement-for-advertisers-and-insights-for-publishers/)
+
+At least one Spotify tracker was found on 4.66% of new episodes in January.
+
+Of these, 36.03% also included Podtrac, 5.78% also included Adswizz, 5.15% also included Podcorn, 1.34% also included Firstory, 0.48% also included Blubrry, 0.24% also included Magellan AI, 0.04% also included Backtracks, and 0.01% also included Feedpress.
+
+For episodes that used at least one Spotify tracker, here are the top underlying podcast hosts:
+
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "25.36%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "17.37%" >}}
+3. {{< a "https://www.libsyn.com/" "Libsyn" >}} {{< span "weak" "7.90%" >}}
+4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.00%" >}}
+5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.70%" >}}
+6. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "5.26%" >}}
+7. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "3.58%" >}}
+8. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}} {{< span "weak" "3.48%" >}}
+9. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "3.14%" >}}
+10. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "3.13%" >}}
+---
+### Individual Service Rankings
+
+And now, the full list of individual podcast analytics services ordered by new episodes published during the month of January 2022.
 
 ---
 
-### 1. [Chartable](https://chartable.com/)
+### 1. [Chartable by Spotify](https://chartable.com/)
 
 Chartable was found on 4.45% of new episodes in January.
 
@@ -155,7 +195,7 @@ For episodes that used Adswizz, here are the top underlying podcast hosts:
 10. {{< a "https://www.washingtonpost.com/" "The Washington Post" >}} {{< span "weak" "0.34%" >}}
 ---
 
-### 6. [Podsights](https://podsights.com/)
+### 6. [Podsights by Spotify](https://podsights.com/)
 
 Podsights was found on 1.21% of new episodes in January.
 
@@ -291,6 +331,8 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host and analytics service identification and metadata for this ranking.
 
 ---
+*Updated 2022-02-19, added new overall breakdowns of how many new episodes use at least one tracker, and how many use at least one Spotify-owned tracker.*
+
 *Updated 2022-02-08, with data for the month of January 2022.*
 
 *Updated 2022-01-10, was missing data for December 31, now fixed.*
