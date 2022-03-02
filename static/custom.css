@@ -26,3 +26,7 @@ button {
 .weak {
   opacity: 66%;
 }
+
+table td {
+  text-align: center;
+}
