@@ -29,7 +29,7 @@
     {{ end -}}
 
     {{ range .Site.Params.custom_css -}}
-        <link rel="stylesheet" href="{{ . | absURL }}">
+        <link rel="stylesheet" href="{{ . | absURL }}?v2">
     {{- end }}
 
     {{ $css := $resources | resources.Concat "css/style.css" | minify }}
