@@ -305,4 +305,4 @@ Previous versions:
  - [Podcast Tracker Rankings by Episode Share (September 2021)](/archive/podcast-trackers-by-episode-share-september-2021/)
 
 ---
-*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-trackers-by-episode-share-2021-12.mdmd) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-trackers-by-episode-share-2021-12.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
