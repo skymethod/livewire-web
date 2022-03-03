@@ -9,7 +9,7 @@ lastmod: 2022-03-03T10:22:00-06:00
 draft: false
 ---
 
-In our third and final installment observing the current state of the podcast world, as measured by number of new episodes produced in January 2022, 
+In our third and final installment observing the current state of the podcast world, as measured by number of new episodes produced in February 2022, 
 we wanted to take a look at which underlying CDNs serve which episodes, and which podcast hosting companies use which network.
 
 *See our earlier analyses of [podcast hosts by episode share](/podcast-hosts-by-episode-share) and [podcast trackers by episode share](/podcast-trackers-by-episode-share)*
