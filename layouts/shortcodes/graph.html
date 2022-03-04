@@ -1,0 +1,185 @@
+<style>
+    .graphContainer {
+        height: 450px;
+    }
+
+    .graphContainer noscript {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+
+    @media (min-width: 770px) {
+        .graphContainer {
+            margin-left: calc(-50vw + 350px);
+            margin-right: calc(-50vw + 350px);
+            margin-top: 4rem;
+            margin-bottom: 4rem;
+        }
+    }
+
+</style>
+<div class="graphContainer">
+    <noscript>Enable JavaScript to see the “{{.Get 1}}” graph</noscript>
+    <canvas id="{{.Get 0}}"></canvas>
+</div>
+<script>
+function computeColor(i) {
+    // https://google.github.io/palette.js/
+    const colors = `
+152,78,163
+102,166,30
+55,126,184
+255,0,41
+0,210,213
+175,141,0
+127,128,205
+179,233,0
+255,127,0
+196,46,96
+166,86,40
+247,129,191
+141,211,199
+190,186,218
+251,128,114
+128,177,211
+253,180,98
+252,205,229
+188,128,189
+255,237,111`.trim().split('\n')
+    return 'rgb(' + colors[i % colors.length] + ')';
+}
+function render() {
+    const canvas = document.getElementById('{{.Get 0}}');
+    const colors = [];
+    const tsv = `{{.Inner}}`;
+    const labels = [];
+    const datasets = [];
+    let headers = [];
+    const dataByApp = new Map();
+    let maxValue = 0;
+    let percentages = true;
+    for (const line of tsv.split('\n').filter(v => v.length > 1)) {
+        const tokens = line.split('\t').map(v => v.trim());
+        if (headers.length === 0) {
+            headers = tokens;
+        } else {
+            for (let i = 0; i < tokens.length; i++) {
+                const token = tokens[i];
+                const header = headers[i];
+                if (header === 'Month') {
+                    labels.push(token);
+                } else {
+                    if (!dataByApp.has(header)) {
+                        const data = [];
+                        if (datasets.length < 20) {
+                            const color = computeColor(i-1);
+                            datasets.push({
+                                label: header,
+                                backgroundColor: color,
+                                borderColor: color,
+                                data,
+                            });
+                        }
+                        dataByApp.set(header, data);
+                    }
+                    let value = parseFloat(token === '' ? 0 : token);
+                    percentages = percentages && value <= 100;
+                    if (percentages) value = value / 100;
+                    maxValue = Math.max(maxValue, value);
+                    dataByApp.get(header).push(value);
+                }
+            }
+        }
+    }
+
+    function legendOnHover(e, legendItem, legend) {
+        canvas.style.cursor = 'pointer';
+    }
+
+    function legendOnLeave(e, legendItem, legend) {
+        canvas.style.cursor = 'default';
+    }
+
+    let singleSeries = false;
+
+    function legendOnClick(e, legendItem, legend) {
+        singleSeries = !singleSeries;
+        const index = legendItem.datasetIndex;
+        const ci = legend.chart;
+        ci.data.datasets.forEach(function(ds, i) {
+            ds.hidden = singleSeries ? ds.hidden = i !== index : false;
+        });
+        ci.update();
+    }
+
+    const data = { labels, datasets };
+
+    const max = percentages ? Math.ceil(maxValue * 10) / 10 : maxValue;
+
+    function computeLegendPosition() {
+        return window.matchMedia('(min-width: 770px)').matches ? 'right' : 'bottom';
+    }
+
+    const config = {
+        type: 'line',
+        data: data,
+        options: {
+            maintainAspectRatio: false,
+            animation: false,
+            pointHitRadius: 20,
+            hoverBorderWidth: 2,
+            borderWidth: 1,
+            pointRadius: 0,
+            scales: {
+                y: {
+                    ticks: {
+                        callback: v => percentages ? v.toLocaleString('en-US', { style:'percent' }) : v.toLocaleString('en-US', { })
+                    },
+                    min: 0,
+                    max,
+                }
+            },
+            plugins: {
+                legend: {
+                    display: true,
+                    position: computeLegendPosition(),
+                    maxWidth: 200,
+                    onClick: legendOnClick,
+                    onHover: legendOnHover,
+                    onLeave: legendOnLeave,
+                },
+                tooltip: {
+                    borderColor: 'rgba(255, 255, 255, 0.25)',
+                    borderWidth: 1,
+                    callbacks: {
+                        label: v => v.dataset.label + ': ' + (percentages ? v.parsed.y.toLocaleString('en-US', { style:'percent', minimumFractionDigits: 2 }) :  v.parsed.y.toLocaleString('en-US', { }))
+                    }
+                },
+                title: {
+                    display: true,
+                    text: '{{.Get 1}}',
+                    font: {
+                        size: 18
+                    },
+                    padding: {
+                        top: 10,
+                        bottom: 20,
+                    },
+                    color: '#f5f5f5',
+                }
+            }
+        }
+    };
+    const chart = new Chart(canvas, config);
+    window.addEventListener('resize', () => {
+        const position = computeLegendPosition();
+        if (chart.options.plugins.legend.position !== position) {
+            chart.options.plugins.legend.position = position;
+        }
+    });
+}
+document.addEventListener('DOMContentLoaded', render);
+</script>
