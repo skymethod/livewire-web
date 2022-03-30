@@ -55,6 +55,8 @@ function render() {
     const canvas = document.getElementById('{{.Get 0}}');
     const options = Object.fromEntries('{{.Get 2}}'.split(',').map(v => v.split(':')));
     const colorShift = parseInt(options.colorShift || '0');
+    const legendPosition = options.legendPosition;
+    const limit = typeof options.limit === 'string' ? parseInt(options.limit) : 20;
     let type = options.type || 'percentages';
     if (typeof options.height === 'string') {
         canvas.parentNode.style.height = options.height;
@@ -79,7 +81,7 @@ function render() {
                 } else {
                     if (!dataByApp.has(header)) {
                         const data = [];
-                        if (type === 'rankings' || (datasets.length < (20 - colorShift))) {
+                        if (type === 'rankings' || (datasets.length < (limit - colorShift))) {
                             const color = computeColor(i - 1, colorShift);
                             datasets.push({
                                 label: header,
@@ -130,7 +132,7 @@ function render() {
     const max = type === 'percentages' ? (maxValue <= 0.05 ? 0.05 : maxValue <= 0.07 ? 0.07 : Math.ceil(maxValue * 10) / 10) : maxValue;
 
     function computeLegendPosition() {
-        return window.matchMedia('(min-width: 770px)').matches ? 'right' : 'bottom';
+        return legendPosition ? legendPosition : window.matchMedia('(min-width: 770px)').matches ? 'right' : 'bottom';
     }
 
     const config = {

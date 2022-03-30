@@ -7,6 +7,8 @@ images:
 date: 2022-01-10T13:03:00-06:00
 lastmod: 2022-01-10T13:03:00-06:00
 draft: false
+tags:
+- archive
 ---
 *This is an archived version, the current version is [here](/podcast-cdns-by-episode-share/).*
 

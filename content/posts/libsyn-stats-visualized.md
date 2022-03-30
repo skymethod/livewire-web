@@ -5,7 +5,7 @@ slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
 date: 2022-03-30T11:55:00-05:00
-lastmod: 2022-03-30T11:55:00-05:00
+lastmod: 2022-03-30T13:15:00-05:00
 draft: false
 ---
 
@@ -17,7 +17,7 @@ First, a breakdown of download share by mobile aggregator app:
 
 ---
 
-{{< graph apps "Podcast Apps">}}
+{{< graph apps "Podcast Apps (top 25)" "limit:25,legendPosition:bottom,height:700px">}}
 Month	Apple Podcasts¹	Spotify	Ex Apple/Spotify/Stitcher²	Google Podcasts	Podcast Addict	Castbox	Pocketcasts	iHeartRadio	Overcast	Podbean	Podnods	Amazon Music & Audible	Facebook	Player FM	TuneIn Radio	Podcast Republic	Downcast	iVoox	Pandora	Antennapod	Deezer	Acast	Podimo	Gaana	MixerBox	Castro	RSSRadio	iCatcher!	Podkicker	Breaker	Luminary	Podcast Guru	Bullhorn	Exoplayer	Innovative	Instacast	Laughable	NPR One	Otto Radio	Podcasts (Windows)	Podcoin	Podcruncher	Radio Public	Stitcher	The Podcast App	Ximalaya	Your Application Name
 Oct 2017	63.4		17.4		2.72	1.56	1.91	0.02	3.2	0.023				0.024	0.016		0.021			0.017						0.014	0.018	0.015	0.019							0.01		0.012	0.011	0.022		0.013		2.42			
 Nov 2017	63.44		18.4		2.5	1.91	1.82	0.021	4.2	0.023				0.025	0.018		0.022			0.017						0.014	0.019	0.015	0.02					0.013	0.016			0.012	0.01	0.024		0.011		2.24			
@@ -85,7 +85,7 @@ Zooming in on mobile aggregator app download share for the smaller apps:
 
 ---
 
-{{< graph smallapps "Podcast Apps (under 5% share)" "colorShift:3">}}
+{{< graph smallapps "Podcast Apps (under 5% share)" "colorShift:3,limit:500,legendPosition:bottom,height:700px">}}
 Month	Google Podcasts	Podcast Addict	Castbox	Pocketcasts	iHeartRadio	Overcast	Podbean	Podnods	Amazon Music & Audible	Facebook	Player FM	TuneIn Radio	Podcast Republic	Downcast	iVoox	Pandora	Antennapod	Deezer	Acast	Podimo	Gaana	MixerBox	Castro	RSSRadio	iCatcher!	Podkicker	Breaker	Luminary	Podcast Guru	Bullhorn	Exoplayer	Innovative	Instacast	Laughable	NPR One	Otto Radio	Podcasts (Windows)	Podcoin	Podcruncher	Radio Public	Stitcher	The Podcast App	Ximalaya	Your Application Name
 Oct 2017		2.72	1.56	1.91	0.02	3.2	0.023				0.024	0.016		0.021			0.017						0.014	0.018	0.015	0.019							0.01		0.012	0.011	0.022		0.013		2.42			
 Nov 2017		2.5	1.91	1.82	0.021	4.2	0.023				0.025	0.018		0.022			0.017						0.014	0.019	0.015	0.02					0.013	0.016			0.012	0.01	0.024		0.011		2.24			
@@ -149,7 +149,7 @@ Now, since Libsyn provides a download share ranking order for apps every month, 
 
 ---
 
-{{< graph appranks "Podcast Apps (Rank Position)" "type:rankings,height:900px">}}
+{{< graph appranks "Podcast Apps (Rank Position)" "type:rankings,height:900px,legendPosition:bottom">}}
 Month	Apple Podcasts	Spotify	Google Podcasts	Podcast Addict	Castbox	Pocketcasts	iHeartRadio	Overcast	Podbean	Podnods	Amazon Music & Audible	Facebook	Player FM	TuneIn Radio	Podcast Republic	Downcast	iVoox	Pandora	Antennapod	Deezer	Acast	Podimo	Gaana	MixerBox	Castro	RSSRadio	iCatcher!	Podkicker	Breaker	Luminary	Podcast Guru	Bullhorn	Exoplayer	Innovative	Instacast	Laughable	NPR One	Otto Radio	Podcasts (Windows)	Podcoin	Podcruncher	Radio Public	Stitcher	The Podcast App	Ximalaya	Your Application Name
 Oct 2017	1			3	6	5	11	2	8				7	15		10			14						17	13	16	12							21		19	20	9		18		4			
 Nov 2017	1			3	5	6	11	2	9				7	14		10			15						18	13	17	12					19	16			20	22	8		21		4			
