@@ -9,6 +9,7 @@
     <link rel="mask-icon" href="/livewire-logo.svg?v1" color="#0088FF">
     <link rel="apple-touch-icon" type="image/png" href="/livewire-180.png?v1">
     <link rel="manifest" href="/manifest.json?v1">
+    <link rel="canonical" href="{{.Permalink}}">
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}

@@ -26,7 +26,7 @@
     <canvas id="{{.Get 0}}"></canvas>
 </div>
 <script>
-function computeColor(i) {
+function computeColor(i,shift) {
     // https://google.github.io/palette.js/
     const colors = `
 152,78,163
@@ -49,10 +49,16 @@ function computeColor(i) {
 252,205,229
 188,128,189
 255,237,111`.trim().split('\n')
-    return 'rgb(' + colors[i % colors.length] + ')';
+    return 'rgb(' + colors[(i + (shift || 0)) % colors.length] + ')';
 }
 function render() {
     const canvas = document.getElementById('{{.Get 0}}');
+    const options = Object.fromEntries('{{.Get 2}}'.split(',').map(v => v.split(':')));
+    const colorShift = parseInt(options.colorShift || '0');
+    let type = options.type || 'percentages';
+    if (typeof options.height === 'string') {
+        canvas.parentNode.style.height = options.height;
+    }
     const colors = [];
     const tsv = `{{.Inner}}`;
     const labels = [];
@@ -60,7 +66,6 @@ function render() {
     let headers = [];
     const dataByApp = new Map();
     let maxValue = 0;
-    let percentages = true;
     for (const line of tsv.split('\n').filter(v => v.length > 1)) {
         const tokens = line.split('\t').map(v => v.trim());
         if (headers.length === 0) {
@@ -74,8 +79,8 @@ function render() {
                 } else {
                     if (!dataByApp.has(header)) {
                         const data = [];
-                        if (datasets.length < 20) {
-                            const color = computeColor(i-1);
+                        if (type === 'rankings' || (datasets.length < (20 - colorShift))) {
+                            const color = computeColor(i - 1, colorShift);
                             datasets.push({
                                 label: header,
                                 backgroundColor: color,
@@ -85,11 +90,16 @@ function render() {
                         }
                         dataByApp.set(header, data);
                     }
-                    let value = parseFloat(token === '' ? 0 : token);
-                    percentages = percentages && value <= 100;
-                    if (percentages) value = value / 100;
-                    maxValue = Math.max(maxValue, value);
-                    dataByApp.get(header).push(value);
+                    const data = dataByApp.get(header);
+                    if (token === '') {
+                        data.push(undefined);
+                    } else {
+                        let value = parseFloat(token);
+                        if (type === 'percentages' && value > 100) type = 'amounts';
+                        if (type === 'percentages') value = value / 100;
+                        maxValue = Math.max(maxValue, value);
+                        data.push(value);
+                    }
                 }
             }
         }
@@ -117,7 +127,7 @@ function render() {
 
     const data = { labels, datasets };
 
-    const max = percentages ? Math.ceil(maxValue * 10) / 10 : maxValue;
+    const max = type === 'percentages' ? (maxValue <= 0.05 ? 0.05 : maxValue <= 0.07 ? 0.07 : Math.ceil(maxValue * 10) / 10) : maxValue;
 
     function computeLegendPosition() {
         return window.matchMedia('(min-width: 770px)').matches ? 'right' : 'bottom';
@@ -127,6 +137,7 @@ function render() {
         type: 'line',
         data: data,
         options: {
+            spanGaps: true,
             maintainAspectRatio: false,
             animation: false,
             pointHitRadius: 20,
@@ -136,17 +147,18 @@ function render() {
             scales: {
                 y: {
                     ticks: {
-                        callback: v => percentages ? v.toLocaleString('en-US', { style:'percent' }) : v.toLocaleString('en-US', { })
+                        callback: v => type === 'percentages' ? v.toLocaleString('en-US', { style: 'percent', minimumFractionDigits: max <= 0.05 ? 1 : 0 }) : v.toLocaleString('en-US', { })
                     },
-                    min: 0,
+                    min: type === 'rankings' ? 1 : 0,
                     max,
+                    reverse: type === 'rankings',
                 }
             },
             plugins: {
                 legend: {
                     display: true,
                     position: computeLegendPosition(),
-                    maxWidth: 200,
+                    maxWidth: 190,
                     onClick: legendOnClick,
                     onHover: legendOnHover,
                     onLeave: legendOnLeave,
@@ -155,7 +167,7 @@ function render() {
                     borderColor: 'rgba(255, 255, 255, 0.25)',
                     borderWidth: 1,
                     callbacks: {
-                        label: v => v.dataset.label + ': ' + (percentages ? v.parsed.y.toLocaleString('en-US', { style:'percent', minimumFractionDigits: 2 }) :  v.parsed.y.toLocaleString('en-US', { }))
+                        label: v => v.dataset.label + ': ' + (type === 'percentages' ? v.parsed.y.toLocaleString('en-US', { style:'percent', minimumFractionDigits: 2 }) :  v.parsed.y.toLocaleString('en-US', { }))
                     }
                 },
                 title: {

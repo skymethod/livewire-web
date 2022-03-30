@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2021-03-30T16:01:41-05:00
-lastmod: 2022-03-04T9:49:00-06:00
+lastmod: 2022-03-29T19:17:00-05:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New graph: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
