@@ -4,8 +4,8 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2022-03-29T19:17:00-05:00
-lastmod: 2022-03-29T19:17:00-05:00
+date: 2022-03-30T11:55:00-05:00
+lastmod: 2022-03-30T11:55:00-05:00
 draft: false
 ---
 
@@ -13,7 +13,7 @@ draft: false
 
 We've listened to every episode since the switch over to their current stats system (Oct 2017) and collected the numbers in order to present them in visual form.
 
-First, a breakdown of mobile aggregator apps:
+First, a breakdown of download share by mobile aggregator app:
 
 ---
 
@@ -81,7 +81,7 @@ Jan 2022
 
 ---
 
-Zooming in on mobile aggregator apps with smaller market share:
+Zooming in on mobile aggregator app download share for the smaller apps:
 
 ---
 
@@ -145,7 +145,7 @@ Jan 2022
 
 ---
 
-Now, since Libsyn provides a ranking order for apps every month, let's visualize the ranking positions themselves over time:
+Now, since Libsyn provides a download share ranking order for apps every month, let's visualize the ranking positions themselves over time:
 
 ---
 
@@ -207,7 +207,7 @@ Jan 2022
 
 ---
 
-Libsyn provides a breakdown every month of download share by device type:
+Libsyn also provides raw numbers every month breaking down download share by device type and country:
 
 ---
 
@@ -270,7 +270,7 @@ Jan 2022
 ---
 
 {{< graph countries "Countries">}}
-Month	🇺🇸 United States	uk	canada	aus	german	japan	swed	mex	spain	brazil	nether	india	norway	iran	denmark	france	sk	taiwan	russia	ireland	austria	belgium	china	columbia	nz	s. africa	thailand
+Month	🇺🇸 United States	🇬🇧 United Kingdom	🇨🇦 Canada	🇦🇺 Australia	🇩🇪 Germany	🇯🇵 Japan	🇸🇪 Sweden	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇳🇱 Netherlands	🇮🇳 India	🇳🇴 Norway	🇮🇷 Iran	🇩🇰 Denmark	🇫🇷 France	🇰🇷 South Korea	🇹🇼 Taiwan	🇷🇺 Russian Federation	🇮🇪 Ireland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇨🇴 Colombia	🇳🇿 New Zealand	🇿🇦 South Africa	🇹🇭 Thailand
 Dec 2017	62.5	5.4	5.2	3.8	2.3	1.4	4.2	0.006	0.009	0.01	0.007	0.003	0.004		0.002	0.012	0.011		0.001	1			0.008		0.005		
 Jan 2018	62.1	5.8	5.4	3.8	2.4	1.2	4.2	0.005	0.009	0.011	0.008	0.003	0.007		0.002	1.1	0.01		0.001	1.1			0.004		0.006		
 Feb 2018	62.7	5.7	5.3	3.9	2.3	1.2	4	0.005	0.01	0.011	0.008	0.002	0.006		0.004	1	0.009		0.001	1.1			0.003		0.007		
@@ -328,7 +328,7 @@ Jan 2022	62.3	5.1	5	3.5	2.7	1.7	1.5	0.9	0.012	0.011	0.01	0.009	0.008	0.007	0.006
 ---
 
 {{< graph nonuscountries "Countries (non-US)" "colorShift:1">}}
-Month	uk	canada	aus	german	japan	swed	mex	spain	brazil	nether	india	norway	iran	denmark	france	sk	taiwan	russia	ireland	austria	belgium	china	columbia	nz	s. africa	thailand
+Month	🇬🇧 United Kingdom	🇨🇦 Canada	🇦🇺 Australia	🇩🇪 Germany	🇯🇵 Japan	🇸🇪 Sweden	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇳🇱 Netherlands	🇮🇳 India	🇳🇴 Norway	🇮🇷 Iran	🇩🇰 Denmark	🇫🇷 France	🇰🇷 South Korea	🇹🇼 Taiwan	🇷🇺 Russian Federation	🇮🇪 Ireland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇨🇴 Colombia	🇳🇿 New Zealand	🇿🇦 South Africa	🇹🇭 Thailand
 Dec 2017	5.4	5.2	3.8	2.3	1.4	4.2	0.006	0.009	0.01	0.007	0.003	0.004		0.002	0.012	0.011		0.001	1			0.008		0.005		
 Jan 2018	5.8	5.4	3.8	2.4	1.2	4.2	0.005	0.009	0.011	0.008	0.003	0.007		0.002	1.1	0.01		0.001	1.1			0.004		0.006		
 Feb 2018	5.7	5.3	3.9	2.3	1.2	4	0.005	0.01	0.011	0.008	0.002	0.006		0.004	1	0.009		0.001	1.1			0.003		0.007		
@@ -380,6 +380,197 @@ Nov 2021	5.1	5.2	3.6	2.7	1.1	1.6	0.012	1.1	0.01	0.011	0.008		0.006	0.004	0.007	0
 Dec 2021	4.7	5	3.4	2.7	1.1	1.4	0.011	1	0.009	0.01	0.008	 	0.007	0.004	0.006	0.002	0.001	0.005	  					0.003		
 Jan 2022	5.1	5	3.5	2.7	1.7	1.5	0.9	0.012	0.011	0.01	0.009	0.008	0.007	0.006	0.005	0.004	0.003	0.002	0.001							
 {{< /graph >}}
+
+*Libsyn does not usually provide exact values for countries below 1% share, only their ranking position. Our values for these reflect conservative estimates maintaining the stated order, but likely less than the actual share.*
+
+---
+
+{{< graph countryranks "Countries (Rank Position)" "type:rankings,height:700px">}}
+Month	🇺🇸 United States	🇬🇧 United Kingdom	🇨🇦 Canada	🇦🇺 Australia	🇩🇪 Germany	🇯🇵 Japan	🇸🇪 Sweden	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇳🇱 Netherlands	🇮🇳 India	🇳🇴 Norway	🇮🇷 Iran	🇩🇰 Denmark	🇫🇷 France	🇰🇷 South Korea	🇹🇼 Taiwan	🇷🇺 Russian Federation	🇮🇪 Ireland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇨🇴 Colombia	🇳🇿 New Zealand	🇿🇦 South Africa	🇹🇭 Thailand
+Dec 2017	1	2	3	5	6	7	4	15	12	11	14	18	17		19	9	10		20	8			13		16		
+Jan 2018	1	2	3	5	6	7	4	16	12	10	13	18	14		19	8	11		20	9			17		15		
+Feb 2018	1	2	3	5	6	7	4	16	11	10	13	19	15		17	9	12		20	8			18		14		
+Mar 2018	1	2	3	5	6	7	4	17	11	10	13	20	15		19	8	12		18	9			16		14		
+Apr 2018	1	2	3	5	6	7	4	17	11	9	13	19	14		18	8	12		20	10			16		15		
+May 2018	1	2	3	5	6	7	4	18	11	9	13	19	14		17	8	12		20	10			16		15		
+Jun 2018	1	2	3	5	6	7	4	18	11	10	12	19	14		16	8	13		20	9			17		15		
+Jul 2018	1	2	3	4	6	7	5	19	12	10	11	18	15		17	8	14		20	9			13		16		
+Aug 2018	1	3	2	4	6	7	5	17	12	10	13	19	11		15	8	14		20	9			18		16		
+Sep 2018	1	2	3	4	6	7	5	17	11	9	12	18	14		15	8	13		20	10			19		16		
+Oct 2018	1	3	2	4	6	7	5	17	11	9	12	19	14		15	8	13		20	10			18		16		
+Nov 2018	1	3	2	4	6	8	5	17	11	9	13	18	15		14	7	12		20	10			19		16		
+Dec 2018	1	3	2	4	6	7	5	16	12	10	13	14	18		17	8	11		20	9			19		15		
+Jan 2019	1	3	2	4	6	8	5	15	11	10	14	17	13		18	7	12		20	9			19		16		
+Feb 2019	1	3	2	4	6	7	5	12	11	9	15	17	14		18	8	13		20	10			19		16		
+Mar 2019	1	3	2	4	6	7	5	11	13	9	14	19	15		18	8	12		20	10			16		17		
+Apr 2019	1	3	2	4	6	9	5	12	11	8	14	19	15		17	7	13			10			18		16		
+May 2019	1	3	2	4	6	9	5	11	12	8	13	18	16		15	7	14		20	10			19		17		
+Jun 2019	1	3	2	4	6	9	5	11	12	8	14	18	16		15	7	13		20	10			19		17		
+Jul 2019	1	3	2	4	6	9	5	12	11	8	13	17	18		16	7	14		20	10			19		15		
+Aug 2019																											
+Sep 2019	1	3	2	4	6	8	5	11		9	12	17	16		14	7	13		19	10			20		15		18
+Oct 2019	1	3	2	4	6	9	5	12	10	8	13	18	16		15	7	14		19	11			21		17	20	
+Nov 2019																											
+Dec 2019	1	3	2	4	5	10	6	9	11	8	13	18	16		14	7	17		19	12	20				15		
+Jan 2020	1	2	3	4	6	10	5	8	11	9	13	17	15		14	7	18			12	19				16	20	
+Feb 2020	1	2	3	4	6	9	5	8	11	7	12	18	15		14	10	17		20	13				19	16		
+Mar 2020	1	2	3	4	6	10	5	8	12	7	11	18	14		15	9	17		20	13			19		16		
+Apr 2020	1	2	3	4	6	10	5	9	11	8	12	16	17		14	7	18		19	13				20	15		
+May 2020	1	2	3	4	5	10	6	9	11	8	13	15	18		14	7	17		19	12				20	16		
+Jun 2020	1	2	3	4	5	10	6	8	12	9	13	17	14		15	7	16		19	11				20	18		
+Jul 2020	1	2	3	4	5	10	6	7	12	9	13	14	17		18	8	15		19	11				20	16		
+Aug 2020	1	3	2	4	5	9	6	7	11	8	12	14	16		15	13	18		20	10				19	17		
+Sep 2020	1	2	3	4	5	9	6	7	12	8	11	10	17		16	14	19		20	13			15		18		
+Oct 2020	1	3	2	4	5	10	6	7	12	11	13	9	16	19	15	8	18		20	14					17		
+Nov 2020	1	2	3	4	5	10	6	8	12	9	14	11	17	20	15	7	18		19	13					16		
+Dec 2020	1	2	3	4	5	9	6	7	12	11	13	10	18	20	15	8	17		19	14					16		
+Jan 2021	1	2	3	4	5	9	6	8	12	11	13	10	18		15	7	17		20	14		19			16		
+Feb 2021	1	2	3	4	5	9	6	7	10	12	13	11	17		15	8	18		19	14				20	16		
+Mar 2021	1	2	3	4	5	8	6	7	9	10	11	12	17		15	13	20		18	14				19	16		
+Apr 2021	1	2	3	4	5	8	6	7	9	10	12	11	17	20	15	14	19		18	13					16		
+May 2021	1	2	3	4	5	8	6	7	9	11	12	10	18		15	14	19		17	13				20	16		
+Jun 2021	1	3	2	4	5	8	6	7	9	11	12	10	18	19	15	13	20		17	14					16		
+Jul 2021	1	2	3	4	5	9	6	7	8	11	12	10		17	15	13	19		18	14				20	16		
+Aug 2021	1	3	2	4	5	8	6	7	10	9	13	11	19	16	14	12	20		18	15					17		
+Sep 2021	1	3	2	4	5	8	6	7	9	10	11	13	19	14	16	12	20		18	15					17		
+Oct 2021	1	3	2	4	5	9	6	7	8	10	11	12	20	13	17	14	19		16	15					18		
+Nov 2021	1	3	2	4	5	8	6	9	7	11	10	13		15	17	14	20		16	12			19		18		
+Dec 2021	1	3	2	4	5	7	6	9	8	11	10	12		13	16	14	18	19	15						17		
+Jan 2022	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20							
+{{< /graph >}}
+
+---
+
+Next, Libsyn provides raw numbers every month about how many downloads an episode needs in the first 30 days to be in the top x% of Libsyn shows.
+
+They also give an Adjusted Mean number where they throw out the top 0.5% of downloads and any episode with 3 or less downloads.
+
+We'll present them here on the same graph:
+
+---
+
+{{< graph percentiles "Percentiles and Adjusted Mean">}}
+Month	Top 1% of podcasts	Top 2%	Top 5%	Top 10%	Adjusted Mean	Top 20%	Top 50% (Median)
+Sep 2017	49000	25000	10000	3900	1952.7	1300	162
+Oct 2017	37000	20000	9000	3500	1632.9	1200	151
+Nov 2017	39000	21000	9000	3500	1676.6	1200	150
+Dec 2017							
+Jan 2018	32000	18000	8000	3200	1453	1100	137
+Feb 2018	33000	18000	7500	3100	1432	1100	138
+Mar 2018	34000	19000	8000	3200	1479	1200	144
+Apr 2018	33000	19000	7800	3200	1456	1200	148
+May 2018	33000	19000	8000	3300	1481.5	1200	145
+Jun 2018	32000	19000	8100	3300	1480.4	1200	142
+Jul 2018	35000	20000	8300	3300	1532	1100	142
+Aug 2018	37000	21000	8600	3400	1605.7	1200	137
+Sep 2018	37000	22000	8400	3400	1622	1200	140
+Oct 2018	34000	20000	7800	3200	1456	1100	131
+Nov 2018	34000	20000	8000	3300	1491	1100	128
+Dec 2018	35000	20000	8300	3400	1531	1100	129
+Jan 2019	35000	20000	7800	3300	1491	1100	124
+Feb 2019	33000	19000	7600	3100	1396	1100	128
+Mar 2019	34000	19000	7800	3200	1458	1100	136
+Apr 2019	36000	20000	7700	3200	1477	1100	136
+May 2019	36000	21000	8300	3400	1543.9	1200	140
+Jun 2019	34000	19000	8000	3100	1459	1100	137
+Jul 2019	37000	20000	7900	3300	1559	1100	127
+Aug 2019	38000	21000	8300	3500	1595	1200	133
+Sep 2019	37000	20000	7900	3300	1536	1100	128
+Oct 2019	37000	20000	7900	3200	1506	1100	126
+Nov 2019	35000	19000	7700	3300	1473	1100	130
+Dec 2019	37000	21000	8500	3500	1592	1200	144
+Jan 2020	36000	20000	7900	3400	1512	1200	137
+Feb 2020	32000	18000	7200	3200	1398	1100	130
+Mar 2020	32000	18000	7100	3000	1364	1000	125
+Apr 2020	30000	17000	6600	2900	1298	1000	123
+May 2020	29000	17000	6700	2800	1271	1000	120
+Jun 2020	28000	17000	6700	2900	1282	1000	124
+Jul 2020	30000	18000	6800	2900	1310	1000	121
+Aug 2020	31000	18000	6900	2900	1313	1000	125
+Sep 2020	33000	19000	6900	2900	1358	1000	133
+Oct 2020	32000	18000	6700	2900	1308	1000	128
+Nov 2020	30000	17000	6600	2900	1273	1000	125
+Dec 2020	30000	18000	7000	2900	1314	1000	132
+Jan 2021	29000	17000	6700	2900	1273	1000	125
+Feb 2021	29000	17000	6500	2800	1244	1000	124
+Mar 2021	30000	17000	6600	2800	1241	1000	121
+Apr 2021	30000	17000	6800	2800	1266	1000	126
+May 2021	31000	17000	6800	2900	1282	1000	127
+Jun 2021	32000	18000	7100	3000	1341	1000	128
+Jul 2021	35000	20000	7900	3300	1501	1100	131
+Aug 2021	37000	21000	8100	3400	1555	1100	136
+Sep 2021	38000	21000	8500	3600	1601	1200	148
+Oct 2021	36000	21000	8300	3500	1574	1200	150
+Nov 2021	36000	21000	8200	3500	1544	1200	155
+Dec 2021	38000	23000	8900	3900	1681	1300	164
+Jan 2022	36000	20000	7600	3300	1457	1200	144
+{{< /graph >}}
+
+*We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
+
+---
+
+And finally, the percentage of episodes that receive 5000 downloads or more.  This is the threshold download number some advertisers look for when determining campaigns.
+
+---
+
+{{< graph fivek "Percentage of episodes with at least 5k downloads/mo">}}
+Month	Pct of episodes with 5k
+Sep 2017	8.4
+Oct 2017	7.7
+Nov 2017	7.8
+Dec 2017	
+Jan 2018	7.1
+Feb 2018	6.9
+Mar 2018	7
+Apr 2018	7
+May 2018	7.2
+Jun 2018	7.2
+Jul 2018	7.3
+Aug 2018	7.4
+Sep 2018	7.4
+Oct 2018	7
+Nov 2018	7.2
+Dec 2018	7.4
+Jan 2019	7.1
+Feb 2019	6.9
+Mar 2019	7
+Apr 2019	7
+May 2019	7.2
+Jun 2019	6.8
+Jul 2019	7.1
+Aug 2019	7.3
+Sep 2019	7
+Oct 2019	7
+Nov 2019	7
+Dec 2019	7.5
+Jan 2020	7.3
+Feb 2020	6.8
+Mar 2020	6.6
+Apr 2020	6.3
+May 2020	6.3
+Jun 2020	6.4
+Jul 2020	6.4
+Aug 2020	6.5
+Sep 2020	6.5
+Oct 2020	6.4
+Nov 2020	6.2
+Dec 2020	6.5
+Jan 2021	6.4
+Feb 2021	6.2
+Mar 2021	6.2
+Apr 2021	6.4
+May 2021	6.3
+Jun 2021	6.5
+Jul 2021	7.1
+Aug 2021	7.3
+Sep 2021	7.7
+Oct 2021	7.6
+Nov 2021	7.5
+Dec 2021	8.1
+Jan 2022	7.3
+{{< /graph >}}
+
 
 ---
 
