@@ -234,7 +234,7 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
-*Updated 2022-04-02, with data for the month of March 2022. Removed dynamic/aggregate search feeds that don't represent shows, which signifcantly lowered the episode share ranking for Internet Archive, SermonAudio, and PromoDJ.*
+*Updated 2022-04-02, with data for the month of March 2022 and a new graph. Removed dynamic/aggregate search feeds that don't represent shows, which signifcantly lowered the episode share ranking for Internet Archive, SermonAudio, and PromoDJ.*
 
 *Updated 2022-03-01, with data for the month of February 2022.*
 
