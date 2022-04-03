@@ -250,5 +250,7 @@ Feb 2022	7	32	40	19	2
 
 Data provided by [Buzzsprout](https://www.buzzsprout.com/global_stats), visualized by [John Spurlock](https://twitter.com/johnspurlock)
 
+{{% funding %}}
+
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/buzzsprout-stats-visualized.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*

@@ -579,5 +579,7 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
+{{% funding %}}
+
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/libsyn-stats-visualized.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*

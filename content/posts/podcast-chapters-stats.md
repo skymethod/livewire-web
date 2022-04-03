@@ -49,5 +49,7 @@ Analysis by [John Spurlock](https://twitter.com/johnspurlock)
 Thanks to the [Podcast Index](https://podcastindex.org/) for crawling every podcast, and giving us a signal of when 
 to check for new episodes.
 
+{{% funding %}}
+
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-chapters-stats.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*

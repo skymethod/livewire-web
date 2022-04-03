@@ -264,5 +264,7 @@ Previous versions:
  - [Podcast Host Rankings by Episode Share (Oct 2021)](/archive/podcast-hosts-by-episode-share-october-2021/)
  - [Podcast Host Rankings by Episode Share (Sept 2021)](/archive/podcast-hosts-by-episode-share-september-2021/)
 
+{{% funding %}}
+
 ---
 *[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-hosts-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
