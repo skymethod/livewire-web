@@ -5,7 +5,7 @@ slug: "podcast-trackers-by-episode-share"
 images:
 - trackers-2022-03.png
 date: 2022-04-03T17:34:00-05:00
-lastmod: 2022-04-03T17:34:00-05:00
+lastmod: 2022-04-05T11:51:00-05:00
 draft: false
 rssrevision: 2022-03
 ---
@@ -158,7 +158,7 @@ Of these, 9.04% had one other tracker, 2.07% had 2 other trackers, 0.44% had 3 o
 For episodes that used Podcorn, here are the top underlying podcast hosts:
 
 1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "60.45%" >}}
-2. {{< a "https://rss.com/" "RSS Podcasting" >}} {{< span "weak" "13.27%" >}}
+2. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "13.27%" >}}
 3. {{< a "https://www.libsyn.com/" "Libsyn" >}} {{< span "weak" "5.83%" >}}
 4. {{< a "https://www.podomatic.com/" "Podomatic" >}} {{< span "weak" "4.29%" >}}
 5. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "3.98%" >}}
@@ -373,6 +373,8 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host and analytics service identification and metadata for this ranking.
 
 ---
+*Updated 2022-04-05, RSS Podcasting is now known as RSS.com.*
+
 *Updated 2022-04-03, with data for the month of March 2022 and a new graph.*
 
 *Updated 2022-03-03, with data for the month of February 2022, added AdBarker.*

@@ -5,7 +5,7 @@ slug: "podcast-cdns-by-episode-share"
 images:
 - cdns-2022-03.png
 date: 2022-04-04T12:53:00-05:00
-lastmod: 2022-04-04T12:53:00-05:00
+lastmod: 2022-04-05T11:51:00-05:00
 draft: false
 rssrevision: 2022-03
 ---
@@ -66,7 +66,7 @@ For episodes that used Amazon Cloudfront, here are the top underlying podcast ho
 3. {{< a "https://www.libsyn.com/" "Libsyn" >}} {{< span "weak" "100%" >}}
 4. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "100%" >}}
 5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "100%" >}}
-6. {{< a "https://rss.com/" "RSS Podcasting" >}} {{< span "weak" "100%" >}}
+6. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "100%" >}}
 7. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "99%" >}}
 8. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "62%" >}}
 9. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "100%" >}}
@@ -255,6 +255,8 @@ We've incorporated these patterns along with some of our own to come up with the
 And thanks to folks working at various networks to help us identify each one as accurately as possible.
 
 ---
+*Updated 2022-04-05, RSS Podcasting is now known as RSS.com.*
+
 *Updated 2022-04-04, with data for the month of March 2022 and a new graph.*
 
 *Updated 2022-03-03, with data for the month of February 2022.*

@@ -5,7 +5,7 @@ slug: "podcast-hosts-by-episode-share"
 images:
 - ranking-2022-03.png
 date: 2022-04-02T12:10:00-05:00
-lastmod: 2022-04-02T12:10:00-05:00
+lastmod: 2022-04-05T11:51:00-05:00
 draft: false
 rssrevision: 2022-03
 ---
@@ -36,7 +36,7 @@ First, a quick chart of the top podcast hosting companies over time, based on sh
 ---
 
 {{< graph hostshares "Top Podcast Hosting Companies by New Episode Share" "height:500px">}}
-Month	Anchor	Buzzsprout	Spreaker	Libsyn	Omny Studio	Soundcloud	Podbean	iVoox	Megaphone	Simplecast	RSS Podcasting	Triton Digital	Captivate	Blubrry	Acast	Transistor	Audioboom
+Month	Anchor	Buzzsprout	Spreaker	Libsyn	Omny Studio	Soundcloud	Podbean	iVoox	Megaphone	Simplecast	RSS.com	Triton Digital	Captivate	Blubrry	Acast	Transistor	Audioboom
 Sep 2021	24	8	7	5	4	5	5	3	2	1	1	2	2	2	1	1	1
 Oct 2021	23.1	8.0	7.3	4.9	4.1	4.7	4.5	2.8	2.1	1.4	1.1	1.5	2.1	1.8	1.2	1.1	1.4
 Nov 2021	22.4	8.4	7.0	4.9	4.2	4.6	4.5	2.9	2.2	1.5	1.1	1.4	2.4	1.7	1.3	1.1	1.5
@@ -66,7 +66,7 @@ Comparative growth or decrease to last month's share is included for relative mo
 8. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "2.9%" >}}
 9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.5%" >}}
 10. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "1.7%" >}}
-11. {{< a "https://rss.com/" "RSS Podcasting" >}} {{< span "weak" "1.6%" >}}
+11. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "1.6%" >}}
 12. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.4%" >}}
 13. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.4% (↗︎ 2.7%)" >}}
 14. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "1.3%" >}}
@@ -234,6 +234,8 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
+*Updated 2022-04-05, RSS Podcasting is now known as RSS.com.*
+
 *Updated 2022-04-02, with data for the month of March 2022 and a new graph. Removed dynamic/aggregate search feeds that don't represent shows, which signifcantly lowered the episode share ranking for Internet Archive, SermonAudio, and PromoDJ.*
 
 *Updated 2022-03-01, with data for the month of February 2022.*
