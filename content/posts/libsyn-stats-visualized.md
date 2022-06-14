@@ -5,9 +5,9 @@ slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
 date: 2022-06-02T17:43:00-05:00
-lastmod: 2022-06-02T17:43:00-05:00
+lastmod: 2022-06-14T16:45:00-05:00
 draft: false
-rssrevision: 2022-219
+rssrevision: 2022-220
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -589,6 +589,7 @@ Dec 2021	38000	23000	8900	3900	1681	1300	164
 Jan 2022	36000	20000	7600	3300	1457	1200	144
 Feb 2002	38000	22000	8500	3600	1632	1300	160
 Mar 2022	38000	22000	8600	3700	1646	1300	163
+Apr 2022	35000	21000	8200	3600	1561	1300	150
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -656,6 +657,7 @@ Dec 2021	8.1
 Jan 2022	7.3
 Feb 2002	7.9
 Mar 2022	7.9
+Apr 2022	7.7
 {{< /graph >}}
 
 
@@ -666,6 +668,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2022-06-14, with latest median and mean data as of [Episode 220](https://thefeed.libsyn.com/220-setting-you-up-for-podcasting-success).*
+
 *Updated 2022-06-02, with latest country and user agent data as of [Episode 219](https://thefeed.libsyn.com/219-podcast-audience-metrics-and-improving-podcast-search), and added iOS / Android ratio chart.*
 
 *Updated 2022-05-16, with latest median and mean data as of [Episode 218](https://thefeed.libsyn.com/218-apple-podcasts-delegated-delivery-and-losing-the-ipod).*
