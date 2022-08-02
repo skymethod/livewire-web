@@ -3,11 +3,11 @@ title: "Buzzsprout Statistics, visualized"
 description: "Visualizing the podcast data provided monthly by Buzzsprout, the podcast hosting company"
 slug: "buzzsprout-stats-visualized"
 images:
-- buzzsprout-stats-visualized-2022-05.png
-date: 2022-07-02T09:31:00-05:00
-lastmod: 2022-07-02T09:31:00-05:00
+- buzzsprout-stats-visualized-2022-07.png
+date: 2022-08-02T12:10:00-05:00
+lastmod: 2022-08-02T12:10:00-05:00
 draft: false
-rssrevision: 2022-06
+rssrevision: 2022-07
 ---
 
 [Buzzsprout](https://www.buzzsprout.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides [detailed data every month](https://www.buzzsprout.com/global_stats) about the most common apps it sees when serving podcasts for its customers, and various other breakdowns.
@@ -60,6 +60,7 @@ Mar 2022	37.4	26.8	19.4	15.0	1.1	1.6	2.9	2.0	1.2	0.5	0.6	0.7		1.5	2.4	0.2	0.1	0.
 Apr 2022	38.7	26.4	18.5	14.9	1.2	1.5	2.8	1.7	1.1	0.5	0.6	0.7		1.4	2.5	0.2	0.1	0.1			0.3					0.2	0.1		0.3	0.1			1.0		0.7		0.4	0.2			0.4	0.2		0.1	0.1			0.7		0.1		0.1	0.1	0.2			0.1		0.1		0.1	
 May 2022	40.7	25.3	17.9	14.8	1.2	1.4	2.8	1.6	1.1	0.5	0.6	0.7		1.3	2.5	0.2	0.1	0.1			0.3					0.1	0.1		0.3	0.1			0.9		0.6		0.4	0.1			0.4	0.2			0.1			0.7		0.1			0.1	0.2			0.1		0.2			0.1
 Jun 2022	39.4	26.4	17.9	14.7	1.5	1.4	2.7	1.5	1.1	0.5	0.6	0.7		1.4	2.5	0.1	0.1	0.1			0.3					0.1	0.1		0.2	0.1			0.9		0.6		0.5	0.1			0.4	0.2			0.1			0.7		0.1			0.1	0.2		0.1	0.1		0.3			0.1
+Jul 2022	37.6	28.2	18.1	14.6	1.3	1.4	2.7	1.6	1.0	0.5	0.6	0.7		1.3	2.5	0.2	0.1	0.1			0.3					0.1	0.1		0.1	0.1			0.9		0.6		0.5	0.1			0.4	0.2		0.1	0.1			0.8		0.1		0.1	0.1	0.2		0.1	0.1		0.3	0.1		0.1
 {{< /graph >}}
 
 *Ex Apple/Spotify: all apps excluding Apple/Spotify-owned apps*
@@ -92,6 +93,7 @@ Mar 2022	52.5	16.0	6.8	5.0	4.5	2.9	2.1	2.2	0.8	1.2	1.3	0.8		1.0	1.4	0.7			0.8
 Apr 2022	52.7	16.2	6.5	5.1	4.4	2.7	2.3	2.2	0.9	1.1	1.1	1.0		0.9	1.5	0.7			0.7	
 May 2022	50.0	15.8	6.4	4.8	4.2	2.7	2.4	2.2	0.9	1.2	1.1	1.0		0.8	1.5	0.7		4.3		
 Jun 2022	49.8	15.9	6.2	4.9	4.1	2.8	2.2	2.2	0.8	1.2	1.3	1.1		0.8	1.6	0.8		4.3		
+Jul 2022	49.7	15.6	6.0	4.8	4.5	3.0	2.4	2.5		1.1	1.2	1.2		0.8	1.7	0.8		3.4	1.3	
 {{< /graph >}}
 
 ---
@@ -119,6 +121,7 @@ Mar 2022	4.5	2.9	2.1	2.2	0.8	1.2	1.3	0.8		1.0	1.4	0.7		0.6			0.8		0.6		0.7
 Apr 2022	4.4	2.7	2.3	2.2	0.9	1.1	1.1	1.0		0.9	1.5	0.7				0.6	0.7		0.6		0.7
 May 2022	4.2	2.7	2.4	2.2	0.9	1.2	1.1	1.0		0.8	1.5	0.7			0.6		0.7	4.3			0.7
 Jun 2022	4.1	2.8	2.2	2.2	0.8	1.2	1.3	1.1		0.8	1.6	0.8			0.6		0.7	4.3			0.6
+Jul 2022	4.5	3.0	2.4	2.5	0.8	1.1	1.2	1.2		0.8	1.7	0.8					1.3	3.4	0.6		0.7
 {{< /graph >}}
 
 ---
@@ -146,6 +149,7 @@ Mar 2022	67.5	19.0	4.7	1.8	3.8	1.3	0.2	0.4	0.4	0.8	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0
 Apr 2022	68.4	18.4	4.4	1.6	4.0	1.2	0.3	0.4	0.4	0.8	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 May 2022	69.2	17.8	4.2	1.5	4.3	1.2	0.2	0.3	0.3	0.8	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 Jun 2022	68.7	17.9	4.5	1.5	4.4	1.2	0.2	0.3	0.3	0.8	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Jul 2022	68.2	18.4	4.4	1.5	4.3	1.3	0.2	0.3	0.4	0.8	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 {{< /graph >}}
 
 ---
@@ -173,6 +177,7 @@ Mar 2022	88.2	6.8	3.8	0.8	0.4	0.0	0.0
 Apr 2022	88.4	6.3	4.0	0.8	0.4	0.0	0.0
 May 2022	88.6	6.0	4.3	0.8	0.4	0.0	0.0
 Jun 2022	88.2	6.3	4.4	0.8	0.4	0.0	
+Jul 2022	88.3	6.2	4.3	0.9	0.4	0.0	0.0
 {{< /graph >}}
 
 ---
@@ -200,6 +205,7 @@ Mar 2022	109413092	105883637
 Apr 2022	104154717	104154717
 May 2022	110999895	107419253
 Jun 2022	109329019	109329019
+Jul 2022	107629486	104157567
 {{< /graph >}}
 
 *Monthly Downloads (n): normalized for a 30-day month*
@@ -229,6 +235,7 @@ Mar 2022	181705	175843	114260	110574
 Apr 2022	164229	164229	114689	114689
 May 2022	170530	165029	114626	110928
 Jun 2022	159402	159402	114485	114485
+Jul 2022	159624	154474	113682	110014
 {{< /graph >}}
 
 *New Episodes (n), Active Podcasts (n): normalized for a 30-day month*
@@ -304,6 +311,7 @@ Mar 2022	7	36	39	17	1
 Apr 2022	6	35	40	18	1
 May 2022	6	34	40	18	1
 Jun 2022	6	34	40	18	1
+Jul 2022	6	34	40	19	1
 {{< /graph >}}
 
 ---
@@ -311,6 +319,8 @@ Jun 2022	6	34	40	18	1
 Data provided by [Buzzsprout](https://www.buzzsprout.com/global_stats), visualized by [John Spurlock](https://twitter.com/johnspurlock)
 
 ---
+*Updated 2022-08-02, with data for the month of July 2022.*
+
 *Updated 2022-07-02, with data for the month of June 2022.*
 
 *Updated 2022-06-02, with data for the month of May 2022.*
