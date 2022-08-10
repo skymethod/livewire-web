@@ -5,9 +5,9 @@ slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
 date: 2022-07-26T17:09:00-05:00
-lastmod: 2022-07-26T17:09:00-05:00
+lastmod: 2022-08-09T21:31:00-05:00
 draft: false
-rssrevision: 2022-223
+rssrevision: 2022-224
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -354,7 +354,7 @@ Jun 2022	6.4
 ---
 
 {{< graph countries "Countries">}}
-Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇯🇵 Japan	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇮🇳 India	🇳🇱 Netherlands	🇫🇷 France	🇩🇰 Denmark	🇳🇿 New Zealand	🇳🇴 Norway	🇮🇪 Ireland	🇨🇴 Colombia	🇷🇺 Russian Federation	switzerland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇮🇷 Iran	🇵🇷 Puerto Rico	🇿🇦 South Africa	🇰🇷 South Korea	🇹🇼 Taiwan	🇹🇭 Thailand
+Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇯🇵 Japan	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇮🇳 India	🇳🇱 Netherlands	🇫🇷 France	🇩🇰 Denmark	🇳🇿 New Zealand	🇳🇴 Norway	🇮🇪 Ireland	🇨🇴 Colombia	🇷🇺 Russian Federation	🇨🇭 Switzerland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇮🇷 Iran	🇵🇷 Puerto Rico	🇿🇦 South Africa	🇰🇷 South Korea	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	62.5	5.2	5.4	3.8	2.3	4.2	1.4	0.006	0.009	0.01	0.003	0.007	0.012	0.002	0.005	0.004	1		0.001				0.008				0.011		
 Jan 2018	62.1	5.4	5.8	3.8	2.4	4.2	1.2	0.005	0.009	0.011	0.003	0.008	1.1	0.002	0.006	0.007	1.1		0.001				0.004				0.01		
 Feb 2018	62.7	5.3	5.7	3.9	2.3	4	1.2	0.005	0.01	0.011	0.002	0.008	1	0.004	0.007	0.006	1.1		0.001				0.003				0.009		
@@ -417,7 +417,7 @@ Jun 2022	64.2	5.3	4.8	3.5	2.9	1.6	1	0.013	0.012	0.011	0.01	0.009	0.008	0.007	0.0
 ---
 
 {{< graph nonuscountries "Countries (non-US)" "colorShift:1">}}
-Month	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇯🇵 Japan	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇮🇳 India	🇳🇱 Netherlands	🇫🇷 France	🇩🇰 Denmark	🇳🇿 New Zealand	🇳🇴 Norway	🇮🇪 Ireland	🇨🇴 Colombia	🇷🇺 Russian Federation	switzerland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇮🇷 Iran	🇵🇷 Puerto Rico	🇿🇦 South Africa	🇰🇷 South Korea	🇹🇼 Taiwan	🇹🇭 Thailand
+Month	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇯🇵 Japan	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇮🇳 India	🇳🇱 Netherlands	🇫🇷 France	🇩🇰 Denmark	🇳🇿 New Zealand	🇳🇴 Norway	🇮🇪 Ireland	🇨🇴 Colombia	🇷🇺 Russian Federation	🇨🇭 Switzerland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇮🇷 Iran	🇵🇷 Puerto Rico	🇿🇦 South Africa	🇰🇷 South Korea	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	5.2	5.4	3.8	2.3	4.2	1.4	0.006	0.009	0.01	0.003	0.007	0.012	0.002	0.005	0.004	1		0.001				0.008				0.011		
 Jan 2018	5.4	5.8	3.8	2.4	4.2	1.2	0.005	0.009	0.011	0.003	0.008	1.1	0.002	0.006	0.007	1.1		0.001				0.004				0.01		
 Feb 2018	5.3	5.7	3.9	2.3	4	1.2	0.005	0.01	0.011	0.002	0.008	1	0.004	0.007	0.006	1.1		0.001				0.003				0.009		
@@ -480,7 +480,7 @@ Jun 2022	5.3	4.8	3.5	2.9	1.6	1	0.013	0.012	0.011	0.01	0.009	0.008	0.007	0.006	0.
 ---
 
 {{< graph countryranks "Countries (Rank Position)" "type:rankings,height:700px">}}
-Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇯🇵 Japan	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇮🇳 India	🇳🇱 Netherlands	🇫🇷 France	🇩🇰 Denmark	🇳🇿 New Zealand	🇳🇴 Norway	🇮🇪 Ireland	🇨🇴 Colombia	🇷🇺 Russian Federation	switzerland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇮🇷 Iran	🇵🇷 Puerto Rico	🇿🇦 South Africa	🇰🇷 South Korea	🇹🇼 Taiwan	🇹🇭 Thailand
+Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇯🇵 Japan	🇲🇽 Mexico	🇪🇸 Spain	🇧🇷 Brazil	🇮🇳 India	🇳🇱 Netherlands	🇫🇷 France	🇩🇰 Denmark	🇳🇿 New Zealand	🇳🇴 Norway	🇮🇪 Ireland	🇨🇴 Colombia	🇷🇺 Russian Federation	🇨🇭 Switzerland	🇦🇹 Austria	🇧🇪 Belgium	🇨🇳 China	🇮🇷 Iran	🇵🇷 Puerto Rico	🇿🇦 South Africa	🇰🇷 South Korea	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	1	3	2	5	6	4	7	15	12	11	18	14	9	19	16	17	8		20				13				10		
 Jan 2018	1	3	2	5	6	4	7	16	12	10	18	13	8	19	15	14	9		20				17				11		
 Feb 2018	1	3	2	5	6	4	7	16	11	10	19	13	9	17	14	15	8		20				18				12		
@@ -607,6 +607,7 @@ Feb 2002	38000	22000	8500	3600	1632	1300	160
 Mar 2022	38000	22000	8600	3700	1646	1300	163
 Apr 2022	35000	21000	8200	3600	1561	1300	150
 May 2022	35000	21000	8200	3600	1578	1300	159
+Jun 2022	35000	20000	8100	3600	1553	1200	161
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -676,6 +677,7 @@ Feb 2002	7.9
 Mar 2022	7.9
 Apr 2022	7.7
 May 2022	7.7
+Jun 2022	7.7
 {{< /graph >}}
 
 
@@ -686,7 +688,9 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
-*Updated 2022-07-26, with latest median and mean data as of [Episode 223](https://thefeed.libsyn.com/223-iab-stats-faqs-and-resurrecting-your-podcast).*
+*Updated 2022-08-09, with latest median and mean data as of [Episode 224](https://thefeed.libsyn.com/224-podcast-subscriber-metrics-and-when-youll-make-money-from-your-podcast).*
+
+*Updated 2022-07-26, with latest country and user agent data as of [Episode 223](https://thefeed.libsyn.com/223-iab-stats-faqs-and-resurrecting-your-podcast).*
 
 *Updated 2022-07-13, with latest median and mean data as of [Episode 222](https://thefeed.libsyn.com/222-its-only-for-the-famous-people).*
 
