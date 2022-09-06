@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2022-08-28T09:49:00-05:00
-lastmod: 2022-08-28T09:49:00-05:00
+date: 2022-09-06T13:12:00-05:00
+lastmod: 2022-09-06T13:12:00-05:00
 draft: false
-rssrevision: 2022-225
+rssrevision: 2022-226
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -616,6 +616,7 @@ Mar 2022	38000	22000	8600	3700	1646	1300	163
 Apr 2022	35000	21000	8200	3600	1561	1300	150
 May 2022	35000	21000	8200	3600	1578	1300	159
 Jun 2022	35000	20000	8100	3600	1553	1200	161
+Jul 2022	36000	21000	8500	3800	1613	1300	165
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -686,6 +687,7 @@ Mar 2022	7.9
 Apr 2022	7.7
 May 2022	7.7
 Jun 2022	7.7
+Jul 2022	8
 {{< /graph >}}
 
 
@@ -696,6 +698,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2022-09-06, with latest median and mean data as of [Episode 226](https://thefeed.libsyn.com/226-libsyn-auto-ads-apple-podcasts-charts-and-youtube-podcasts).*
+
 *Updated 2022-08-28, with latest country and user agent data as of [Episode 225](https://thefeed.libsyn.com/225-julep-canada-and-the-latino-podcast-listener-report).*
 
 *Updated 2022-08-09, with latest median and mean data as of [Episode 224](https://thefeed.libsyn.com/224-podcast-subscriber-metrics-and-when-youll-make-money-from-your-podcast).*
