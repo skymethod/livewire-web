@@ -76,7 +76,7 @@ function render() {
             for (let i = 0; i < tokens.length; i++) {
                 const token = tokens[i];
                 const header = headers[i];
-                if (header === 'Month') {
+                if (header === 'Month' || header === 'Date') {
                     labels.push(token);
                 } else {
                     if (!dataByApp.has(header)) {
