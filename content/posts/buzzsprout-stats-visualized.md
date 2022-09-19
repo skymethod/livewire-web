@@ -14,6 +14,7 @@ rssrevision: 2022-08
 
 We thought it might be fun to graph this data in order to visualize trends over time.
 
+{{% subscribe %}}
 ---
 
 {{< graph apps "Podcast Apps">}}

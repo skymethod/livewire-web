@@ -14,6 +14,9 @@ rssrevision: 2022-226
 
 We've listened to every episode since the switch over to their current stats system (Oct 2017) and collected the numbers in order to present them in visual form.
 
+{{% subscribe %}}
+---
+
 First, a breakdown of download share by mobile aggregator app:
 
 ---

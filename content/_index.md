@@ -20,6 +20,9 @@ New data: [Top Podcast Tracking Services by Episode Share (August 2022)](/podcas
 
 New data: [Top Podcast Hosting Companies by Episode Share (August 2022)](/podcast-hosts-by-episode-share)
 
+{{% subscribe %}}
+---
+
 Now available: [Statistics about Podcast Chapters](/podcast-chapters-stats)
 
 Now available: [Instant WebSub support for Podpingers](/instant-websub-for-podpingers)

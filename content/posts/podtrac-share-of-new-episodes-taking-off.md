@@ -19,6 +19,9 @@ We saw this earlier in the month, and thought was interesting enough to report r
 
 A change this broad would seem to indicate a deep integration with one of the larger podcast hosting companies.
 
+{{% subscribe %}}
+---
+
 And breaking it down by hosting company, there is a clear culprit:
 
 [Spreaker](https://www.spreaker.com/) (owned by [iHeartMedia](https://www.iheartmedia.com/)), one of the top three producers of new podcast episodes every month.

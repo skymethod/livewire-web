@@ -19,6 +19,7 @@ a way to tell Google (and other apps) as soon as your episode becomes available.
 The [Podcast Index project](https://podcastindex.org/) has introduced another mechanism for sending and receiving podcast feed notification updates called [Podping](https://podping.cloud/), and it's worked 
 with a few existing podcast hosting companies to automatically support it for every podcast they host, with no changes required from the podcaster.
 
+{{% subscribe %}}
 ---
 
 Ideally, your podcast _should support both WebSub and Podping_, ensuring large apps/aggregators that look at either mechanism receive your updates as soon as they're published.

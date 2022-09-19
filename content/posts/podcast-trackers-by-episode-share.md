@@ -25,6 +25,7 @@ Podtrac, one of the most popular services, released some
 
 But how representative of the entire podcast world is this data?  How many podcasters use services like these?
 
+{{% subscribe %}}
 ---
 
 We already did the work of analyzing _every single new podcast episode published_ (about 1.6 million in August 2022), 

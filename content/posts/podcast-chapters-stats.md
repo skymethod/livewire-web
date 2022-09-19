@@ -22,6 +22,7 @@ Apple recently published [Using chapters on Apple Podcasts](https://podcasters.a
 
 Since we already analyze _every single new podcast episode published_ to produce our podcast [host](/podcast-hosts-by-episode-share), [tracker](/podcast-trackers-by-episode-share), and [CDN](/podcast-cdns-by-episode-share) rankings, we are in a good position to see how often podcast chapters are used in the wild, and which mechanisms are most prevalent.
 
+{{% subscribe %}}
 ---
 
 ### Podcast Chapters frequency, by mechanism

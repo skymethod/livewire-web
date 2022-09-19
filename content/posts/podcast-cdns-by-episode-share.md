@@ -23,6 +23,7 @@ This last entity in the chain is what we are interested in for this analysis.  B
 providers, hence most of them use a third-party content delivery network (CDN) to minimize this cost, and also to provide lower-latency
 global distribution.
 
+{{% subscribe %}}
 ---
 
 We started with our universe of _every single new podcast episode published_ (about 1.6 million in August 2022), and mapped the

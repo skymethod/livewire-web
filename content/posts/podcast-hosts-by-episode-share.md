@@ -33,6 +33,7 @@ In general, the intent is to identify the podcast host the podcaster would say t
 
 We were _not_ able to identify a known host for 5.78% of the new episodes found in August.
 
+{{% subscribe %}}
 ---
 
 There are many market share numbers floating around out there for the various podcast hosting companies, 
