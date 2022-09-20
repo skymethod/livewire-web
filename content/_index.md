@@ -1,16 +1,16 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2022-09-18T18:16:00-05:00
-lastmod: 2022-09-18T18:16:00-05:00
+lastmod: 2022-09-20T12:57:00-05:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
 
-Breaking: [Podtrac's share of new podcast episodes taking off](/podtrac-share-of-new-episodes-taking-off)
-
 New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
+
+Breaking: [Podtrac's share of new podcast episodes taking off](/podtrac-share-of-new-episodes-taking-off)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
