@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2022-09-18T18:16:00-05:00
-lastmod: 2022-10-02T11:12:00-05:00
+lastmod: 2022-10-02T11:48:00-05:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New data: [Statistics about Podcast Chapters (September 2022)](/podcast-chapters-stats)
 
 New data: [Top Podcast Hosting Companies by Episode Share (September 2022)](/podcast-hosts-by-episode-share)
 
@@ -22,8 +24,6 @@ New data: [Top Podcast Tracking Services by Episode Share (August 2022)](/podcas
 
 {{% subscribe %}}
 ---
-
-Now available: [Statistics about Podcast Chapters](/podcast-chapters-stats)
 
 Now available: [Instant WebSub support for Podpingers](/instant-websub-for-podpingers)
 
