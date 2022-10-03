@@ -1,12 +1,16 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2022-09-18T18:16:00-05:00
-lastmod: 2022-10-02T12:57:00-05:00
+lastmod: 2022-10-03T11:01:00-05:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New data: [Top Podcast CDNs by Episode Share (September 2022)](/podcast-cdns-by-episode-share)
+
+New data: [Top Podcast Tracking Services by Episode Share (September 2022)](/podcast-trackers-by-episode-share)
 
 New data: [Statistics about Podcast Chapters (September 2022)](/podcast-chapters-stats)
 
@@ -17,10 +21,6 @@ New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 Breaking: [Podtrac's share of new podcast episodes taking off](/podtrac-share-of-new-episodes-taking-off)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
-
-New data: [Top Podcast CDNs by Episode Share (August 2022)](/podcast-cdns-by-episode-share)
-
-New data: [Top Podcast Tracking Services by Episode Share (August 2022)](/podcast-trackers-by-episode-share)
 
 {{% subscribe %}}
 ---
