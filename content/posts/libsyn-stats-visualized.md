@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2022-09-20T12:57:00-05:00
-lastmod: 2022-09-20T12:57:00-05:00
+date: 2022-10-04T11:47:00-05:00
+lastmod: 2022-10-04T11:47:00-05:00
 draft: false
-rssrevision: 2022-227
+rssrevision: 2022-228
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -628,6 +628,7 @@ Apr 2022	35000	21000	8200	3600	1561	1300	150
 May 2022	35000	21000	8200	3600	1578	1300	159
 Jun 2022	35000	20000	8100	3600	1553	1200	161
 Jul 2022	36000	21000	8500	3800	1613	1300	165
+Aug 2022	33000	20000	8000	3500	1520	1300	158
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -699,6 +700,7 @@ Apr 2022	7.7
 May 2022	7.7
 Jun 2022	7.7
 Jul 2022	8
+Aug 2022	7.6
 {{< /graph >}}
 
 
@@ -709,7 +711,9 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
-*Updated 2022-09-20, with latest median and mean data as of [Episode 227](https://thefeed.libsyn.com/227-spanish-support-and-libsyn-connect).*
+*Updated 2022-10-04, with latest median and mean data as of [Episode 228](https://thefeed.libsyn.com/228-all-the-buying-of-listeners).*
+
+*Updated 2022-09-20, with latest country and user agent data as of [Episode 227](https://thefeed.libsyn.com/227-spanish-support-and-libsyn-connect).*
 
 *Updated 2022-09-06, with latest median and mean data as of [Episode 226](https://thefeed.libsyn.com/226-libsyn-auto-ads-apple-podcasts-charts-and-youtube-podcasts).*
 
