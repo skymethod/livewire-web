@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2022-11-15T09:41:00-06:00
-lastmod: 2022-11-15T09:41:00-06:00
+date: 2022-11-30T11:16:00-06:00
+lastmod: 2022-11-30T11:16:00-06:00
 draft: false
-rssrevision: 2022-231
+rssrevision: 2022-232
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -646,6 +646,7 @@ Jun 2022	35000	20000	8100	3600	1553	1200	161
 Jul 2022	36000	21000	8500	3800	1613	1300	165
 Aug 2022	33000	20000	8000	3500	1520	1300	158
 Sep 2022	34000	20000	8100	3500	1525	1200	146
+Oct 2022	34000	20000	8100	3500	1527	1200	145
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -719,6 +720,7 @@ Jun 2022	7.7
 Jul 2022	8
 Aug 2022	7.6
 Sep 2022	7.6
+Oct 2022	7.6
 {{< /graph >}}
 
 
@@ -729,6 +731,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2022-11-30, with latest median and mean data as of Episode 232 (live recording).*
+
 *Updated 2022-11-15, with latest country and user agent data as of [Episode 231](https://thefeed.libsyn.com/231-studio-connect-and-the-great-twitter-migration).*
 
 *Updated 2022-11-01, with latest median and mean data as of [Episode 230](https://thefeed.libsyn.com/230-18-years-of-libsyn-apple-podcasts-updates-relaunching-your-podcast-tips).*
