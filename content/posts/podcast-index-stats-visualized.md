@@ -15,11 +15,11 @@ The [Podcast Index](https://podcastindex.org), an open index of all podcasts, pr
 ---
 Here is a live look at the Podcast Index:
 
-{{< iframe src="http://stats.livewire.io/pc20-counts-summary" height="600" >}}
+{{< iframe src="https://stats.livewire.io/pc20-counts-summary.html" height="600" >}}
 
 ---
 
-We capture daily snapshots of these numbers, and make a [tab-delimited data file](https://stats.livewire.io/pc20-counts-daily) available.
+We capture daily snapshots of these numbers, and make a [tab-delimited data file](https://stats.livewire.io/pc20-counts-daily.tsv) available.
 
 Below are live charts to keep an eye on changes to these stats on a daily basis:
 
@@ -27,28 +27,28 @@ Below are live charts to keep an eye on changes to these stats on a daily basis:
 
 {{< graph feeds-with-new-episodes "Feeds with new episodes in the last N days">}}
 Date	Last 3 days	Last 7 days	Last 10 days	Last 14 days	Last 30 days	Last 60 days	Last 90 days
-https://stats.livewire.io/pc20-counts-daily?columns=feedsWithNewEpisodes
+https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWithNewEpisodes
 {{< /graph >}}
 
 ---
 
 {{< graph feeds-with "Feeds with transcripts or value blocks">}}
 Date	Value blocks	Transcripts
-https://stats.livewire.io/pc20-counts-daily?columns=feedsWith
+https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWith
 {{< /graph >}}
 
 ---
 
 {{< graph feed-count-change "Feed count change" "type:bar,min:-20000,max:20000">}}
 Date	Feed count change
-https://stats.livewire.io/pc20-counts-daily?columns=feedCountChange
+https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedCountChange
 {{< /graph >}}
 
 ---
 
 {{< graph new-episodes "New episodes in the last N days">}}
 Date	Last 3 days	Last 7 days	Last 10 days	Last 14 days	Last 30 days	Last 60 days	Last 90 days
-https://stats.livewire.io/pc20-counts-daily?columns=newEpisodes
+https://stats.livewire.io/pc20-counts-daily.tsv?columns=newEpisodes
 {{< /graph >}}
 
 ---
