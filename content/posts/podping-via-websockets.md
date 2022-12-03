@@ -15,7 +15,7 @@ Simply point your client code to `wss://api.livewire.io/ws/podping`, it's as sim
 
 Live view of the latest Podpings:
 
-{{< iframe "https://api.livewire.io/ws/podping.html" >}}
+{{< iframe src="https://api.livewire.io/ws/podping.html" >}}
 
 ---
 

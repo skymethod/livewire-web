@@ -51,7 +51,7 @@ function computeColor(i,shift) {
 255,237,111`.trim().split('\n')
     return 'rgb(' + colors[(i + (shift || 0)) % colors.length] + ')';
 }
-function render() {
+async function render() {
     const canvas = document.getElementById('{{.Get 0}}');
     const options = Object.fromEntries('{{.Get 2}}'.split(',').map(v => v.split(':')));
     const colorShift = parseInt(options.colorShift || '0');
@@ -63,12 +63,21 @@ function render() {
     }
     const colors = [];
     const tsv = `{{.Inner}}`;
+    let lines = tsv.split('\n').filter(v => v.length > 1);
+    if (lines.length === 2 && /^https?:\/\//.test(lines[1])) {
+        const res = await fetch(lines[1]);
+        const tsv = await res.text();
+        const newLines = tsv.split('\n').filter(v => v.length > 1);
+        lines.splice(1);
+        lines.push(...newLines.slice(1));
+    }
     const labels = [];
     const datasets = [];
     let headers = [];
     const dataByApp = new Map();
     let maxValue = 0;
-    for (const line of tsv.split('\n').filter(v => v.length > 1)) {
+    let minValue = 0;
+    for (const line of lines) {
         const tokens = line.split('\t').map(v => v.trim());
         if (headers.length === 0) {
             headers = tokens;
@@ -100,6 +109,7 @@ function render() {
                         if (type === 'percentages' && value > 100) type = 'amounts';
                         if (type === 'percentages') value = value / 100;
                         maxValue = Math.max(maxValue, value);
+                        minValue = Math.min(minValue, value);
                         data.push(value);
                     }
                 }
@@ -129,14 +139,15 @@ function render() {
 
     const data = { labels, datasets };
 
-    const max = type === 'percentages' ? (maxValue <= 0.05 ? 0.05 : maxValue <= 0.07 ? 0.07 : Math.ceil(maxValue * 10) / 10) : maxValue;
+    const max = typeof options.max === 'string' ? parseInt(options.max) : type === 'percentages' ? (maxValue <= 0.05 ? 0.05 : maxValue <= 0.07 ? 0.07 : Math.ceil(maxValue * 10) / 10) : maxValue;
+    const min = typeof options.min === 'string' ? parseInt(options.min) : type === 'rankings' ? 1 : 0;
 
     function computeLegendPosition() {
         return legendPosition ? legendPosition : window.matchMedia('(min-width: 770px)').matches ? 'right' : 'bottom';
     }
 
     const config = {
-        type: 'line',
+        type: options.type === 'bar' ? 'bar' : 'line',
         data: data,
         options: {
             spanGaps: true,
@@ -151,7 +162,7 @@ function render() {
                     ticks: {
                         callback: v => type === 'percentages' ? v.toLocaleString('en-US', { style: 'percent', minimumFractionDigits: max <= 0.05 ? 1 : 0 }) : v.toLocaleString('en-US', { })
                     },
-                    min: type === 'rankings' ? 1 : 0,
+                    min,
                     max,
                     reverse: type === 'rankings',
                 }
