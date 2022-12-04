@@ -32,8 +32,8 @@ https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWithNewEpisodes
 
 ---
 
-{{< graph feeds-with "Feeds with transcripts or value blocks">}}
-Date	Value blocks	Transcripts
+{{< graph feeds-with "Feeds with transcripts, value blocks, or funding tags">}}
+Date	Value blocks	Transcripts	Funding
 https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWith
 {{< /graph >}}
 
