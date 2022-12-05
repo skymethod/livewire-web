@@ -118,7 +118,7 @@ For episodes that used Podtrac, here are the top underlying podcast hosts:
 
 At least one Spotify tracker was found on 6.28% of new episodes in November, growing 5.58% from last month.
 
-Of these, 40.79% also included Podtrac, 8.34% also included Adswizz, 4.60% also included Podcorn, 1.90% also included Podscribe, 1.54% also included ArtsAI, 0.98% also included Firstory, 0.65% also included Gumball, 0.55% also included OP3, 0.50% also included Claritas, 0.46% also included Blubrry, 0.24% also included Magellan AI, 0.07% also included AdBarker, 0.06% also included Veritonic, 0.05% also included Podder, 0.04% also included Backtracks, 0.04% also included Zippycast, 0.04% also included Feedpress, 0.03% also included Zencastr, and 0.02% also included Podkite.
+Of these, 40.79% also included Podtrac, 8.34% also included Adswizz, 4.60% also included Podcorn, 2.22% also included Podscribe, 1.54% also included ArtsAI, 0.98% also included Firstory, 0.65% also included Gumball, 0.55% also included OP3, 0.50% also included Claritas, 0.46% also included Blubrry, 0.24% also included Magellan AI, 0.07% also included AdBarker, 0.06% also included Veritonic, 0.05% also included Podder, 0.04% also included Backtracks, 0.04% also included Zippycast, 0.04% also included Feedpress, 0.03% also included Zencastr, and 0.02% also included Podkite.
 
 For episodes that used at least one Spotify tracker, here are the top underlying podcast hosts:
 
@@ -138,9 +138,9 @@ For episodes that used at least one Spotify tracker, here are the top underlying
 
 Chartable was found on 5.62% of new episodes in November, growing 2.60% from last month.
 
-Of these, 33.87% had one other tracker, 17.93% had 2 other trackers, 3.17% had 3 other trackers, 0.81% had 4 other trackers, and 0.35% had 5 other trackers.
+Of these, 33.81% had one other tracker, 17.94% had 2 other trackers, 3.22% had 3 other trackers, 0.79% had 4 other trackers, and 0.38% had 5 other trackers.
 
-43.06% also included Podtrac, 24.40% also included Podsights, 5.74% also included Adswizz, 4.27% also included Podcorn, 2.04% also included Podscribe, 1.59% also included ArtsAI, 1.10% also included Firstory, 0.55% also included Claritas, 0.43% also included Blubrry, 0.28% also included Gumball, 0.26% also included Magellan AI, 0.20% also included OP3, 0.08% also included AdBarker, 0.07% also included Veritonic, 0.05% also included Podder, 0.04% also included Backtracks, 0.04% also included Feedpress, 0.02% also included Podkite, 0.01% also included Zencastr, and 0.01% also included Zippycast.
+43.06% also included Podtrac, 24.40% also included Podsights, 5.74% also included Adswizz, 4.27% also included Podcorn, 2.18% also included Podscribe, 1.59% also included ArtsAI, 1.10% also included Firstory, 0.55% also included Claritas, 0.43% also included Blubrry, 0.28% also included Gumball, 0.26% also included Magellan AI, 0.20% also included OP3, 0.08% also included AdBarker, 0.07% also included Veritonic, 0.05% also included Podder, 0.04% also included Backtracks, 0.04% also included Feedpress, 0.02% also included Podkite, 0.01% also included Zencastr, and 0.01% also included Zippycast.
 
 For episodes that used Chartable, here are the top underlying podcast hosts:
 
@@ -182,9 +182,9 @@ For episodes that used Podcorn, here are the top underlying podcast hosts:
 
 Adswizz was found on 2.37% of new episodes in November, growing 0.83% from last month.
 
-Of these, 29.66% had one other tracker, 4.24% had 3 other trackers, 3.41% had 2 other trackers, 0.65% had 4 other trackers, and 0.07% had 5 other trackers.
+Of these, 29.66% had one other tracker, 4.24% had 3 other trackers, 3.41% had 2 other trackers, 0.58% had 4 other trackers, and 0.13% had 5 other trackers.
 
-20.92% also included Podtrac, 15.09% also included Podsights, 13.63% also included Chartable, 1.29% also included Blubrry, 0.41% also included ArtsAI, 0.30% also included Podscribe, 0.30% also included Claritas, 0.12% also included Podcorn, 0.03% also included Gumball, 0.02% also included Podder, and 0.01% also included Veritonic.
+20.92% also included Podtrac, 15.09% also included Podsights, 13.63% also included Chartable, 1.29% also included Blubrry, 0.41% also included ArtsAI, 0.37% also included Podscribe, 0.30% also included Claritas, 0.12% also included Podcorn, 0.03% also included Gumball, 0.02% also included Podder, and 0.01% also included Veritonic.
 
 For episodes that used Adswizz, here are the top underlying podcast hosts:
 
@@ -204,9 +204,9 @@ For episodes that used Adswizz, here are the top underlying podcast hosts:
 
 Podsights was found on 2.03% of new episodes in November, growing 12.09% from last month.
 
-Of these, 45.51% had 2 other trackers, 27.46% had one other tracker, 8.62% had 3 other trackers, 2.97% had 4 other trackers, and 0.99% had 5 other trackers.
+Of these, 45.75% had 2 other trackers, 27.46% had one other tracker, 8.76% had 3 other trackers, 2.90% had 4 other trackers, and 1.07% had 5 other trackers.
 
-67.43% also included Chartable, 58.79% also included Podtrac, 17.57% also included Adswizz, 4.59% also included Podscribe, 3.80% also included ArtsAI, 3.44% also included Podcorn, 1.83% also included Gumball, 1.32% also included OP3, 1.31% also included Claritas, 0.35% also included Blubrry, 0.33% also included Magellan AI, 0.12% also included Zippycast, 0.11% also included Zencastr, 0.06% also included Veritonic, 0.06% also included Backtracks, 0.03% also included Podkite, 0.02% also included Podder, and 0.01% also included AdBarker.
+67.43% also included Chartable, 58.79% also included Podtrac, 17.57% also included Adswizz, 5.56% also included Podscribe, 3.80% also included ArtsAI, 3.44% also included Podcorn, 1.83% also included Gumball, 1.32% also included OP3, 1.31% also included Claritas, 0.35% also included Blubrry, 0.33% also included Magellan AI, 0.12% also included Zippycast, 0.11% also included Zencastr, 0.06% also included Veritonic, 0.06% also included Backtracks, 0.03% also included Podkite, 0.02% also included Podder, and 0.01% also included AdBarker.
 
 For episodes that used Podsights, here are the top underlying podcast hosts:
 
@@ -286,23 +286,23 @@ For episodes that used Feedpress, here are the top underlying podcast hosts:
 
 ### 9. [Podscribe](https://podscribe.com/blog/impression-verification-mb45x)
 
-Podscribe was found on 0.13% of new episodes in November, growing 81.71% from last month.
+Podscribe was found on 0.15% of new episodes in November, growing 101.57% from last month.
 
-Of these, 32.48% had 3 other trackers, 25.91% had 4 other trackers, 11.45% had 5 other trackers, 10.83% had one other tracker, and 8.37% had 2 other trackers.
+Of these, 30.01% had 3 other trackers, 22.55% had 4 other trackers, 14.48% had one other tracker, 12.46% had 2 other trackers, and 10.99% had 5 other trackers.
 
-85.68% also included Chartable, 70.16% also included Podtrac, 69.71% also included Podsights, 33.24% also included ArtsAI, 15.79% also included Claritas, 5.32% also included Adswizz, 2.42% also included Veritonic, 1.66% also included Podcorn, 0.98% also included Blubrry, and 0.94% also included OP3.
+79.54% also included Chartable, 73.29% also included Podsights, 60.99% also included Podtrac, 35.13% also included ArtsAI, 14.75% also included Claritas, 5.67% also included Adswizz, 2.10% also included Veritonic, 1.44% also included Podcorn, 0.85% also included Blubrry, and 0.82% also included OP3.
 
 For episodes that used Podscribe, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "47.02%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "43.13%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.22%" >}}
-4. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}} {{< span "weak" "2.95%" >}}
-5. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.15%" >}}
-6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "0.89%" >}}
-7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.27%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.22%" >}}
-9. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "0.09%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "40.99%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "37.42%" >}}
+3. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "12.77%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.84%" >}}
+5. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}} {{< span "weak" "2.56%" >}}
+6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.86%" >}}
+7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.23%" >}}
+8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.19%" >}}
+9. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "0.08%" >}}
 10. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.04%" >}}
 ---
 
@@ -310,9 +310,9 @@ For episodes that used Podscribe, here are the top underlying podcast hosts:
 
 ArtsAI was found on 0.10% of new episodes in November, growing 0.48% from last month.
 
-Of these, 33.81% had 4 other trackers, 20.42% had 3 other trackers, 19.70% had 2 other trackers, 15.14% had 5 other trackers, and 7.93% had one other tracker.
+Of these, 32.31% had 4 other trackers, 23.06% had 3 other trackers, 21.98% had 2 other trackers, 16.76% had 5 other trackers, and 3.06% had one other tracker.
 
-89.55% also included Chartable, 77.54% also included Podsights, 73.45% also included Podtrac, 44.62% also included Podscribe, 23.72% also included Claritas, 9.85% also included Adswizz, and 0.78% also included Veritonic.
+89.55% also included Chartable, 77.54% also included Podsights, 73.45% also included Podtrac, 54.35% also included Podscribe, 23.72% also included Claritas, 9.85% also included Adswizz, and 0.78% also included Veritonic.
 
 For episodes that used ArtsAI, here are the top underlying podcast hosts:
 
@@ -384,9 +384,9 @@ For episodes that used OP3, here are the top underlying podcast hosts:
 
 Claritas was found on 0.03% of new episodes in November, growing 54.60% from last month.
 
-Of these, 44.65% had 5 other trackers, 30.44% had 3 other trackers, 19.19% had 4 other trackers, 1.11% had 2 other trackers, and 0.55% had one other tracker.
+Of these, 49.63% had 5 other trackers, 30.44% had 3 other trackers, 14.21% had 4 other trackers, 1.11% had 2 other trackers, and 0.55% had one other tracker.
 
-95.02% also included Chartable, 82.29% also included Podsights, 72.88% also included ArtsAI, 65.13% also included Podscribe, 56.83% also included Podtrac, and 21.96% also included Adswizz.
+95.02% also included Chartable, 82.29% also included Podsights, 72.88% also included ArtsAI, 70.11% also included Podscribe, 56.83% also included Podtrac, and 21.96% also included Adswizz.
 
 For episodes that used Claritas, here are the top underlying podcast hosts:
 
