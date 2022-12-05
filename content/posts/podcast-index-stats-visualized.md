@@ -15,7 +15,7 @@ The [Podcast Index](https://podcastindex.org), an open index of all podcasts, pr
 ---
 Here is a live look at the Podcast Index:
 
-{{< iframe src="https://stats.livewire.io/pc20-counts-summary.html" height="600" >}}
+{{< iframe src="https://stats.livewire.io/pc20-counts-summary.html" height="720" >}}
 
 ---
 
@@ -32,8 +32,8 @@ https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWithNewEpisodes
 
 ---
 
-{{< graph feeds-with "Feeds with transcripts, value blocks, or funding tags">}}
-Date	Value blocks	Transcripts	Funding
+{{< graph feeds-with "Feeds with transcripts, value blocks, chapters, etc">}}
+Date	Value blocks	Transcripts	Funding	Chapters	Medium=Music	Medium=Video
 https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWith
 {{< /graph >}}
 
