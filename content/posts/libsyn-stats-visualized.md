@@ -731,7 +731,7 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
-*Updated 2022-11-30, with latest median and mean data as of Episode 232 (live recording).*
+*Updated 2022-11-30, with latest median and mean data as of [Episode 232](https://thefeed.libsyn.com/232-podcast-artwork-breakdown-and-podcaster-tips-for-leaving-twitter).*
 
 *Updated 2022-11-15, with latest country and user agent data as of [Episode 231](https://thefeed.libsyn.com/231-studio-connect-and-the-great-twitter-migration).*
 
