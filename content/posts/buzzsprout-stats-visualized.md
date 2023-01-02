@@ -1,6 +1,7 @@
 ---
 title: "Buzzsprout Statistics, visualized"
 description: "Visualizing the podcast data provided monthly by Buzzsprout, the podcast hosting company"
+summary: "Buzzsprout, one of the largest podcast hosting companies by episode volume, provides detailed data every month about the most common apps it sees when serving podcasts for its customers, and various other breakdowns. We thought it might be fun to graph this data in order to visualize trends over time."
 slug: "buzzsprout-stats-visualized"
 images:
 - buzzsprout-stats-visualized-2022-07.png
