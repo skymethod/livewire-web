@@ -52,7 +52,7 @@ _"Even though I told you the media is somewhere else, ask me again if you want t
 The prefix is out of the loop at this point in the sequence.  The podcast app creates a separate followup connection to the destination url and fetches the episode media file (or another redirect from another prefix) from there.
 * If the listener's connection dies at this point, the prefix won't know
 * If the destination is slow to load, and the listener cancels the request at this point, the prefix won't know
-* If the destination url is invalid, or the destination hosting company or cdn are temporarily down, the prefix won't know
+* If the destination url is invalid, or the destination hosting company or [CDN](/podcast-cdns-by-episode-share/) are temporarily down, the prefix won't know
 * Only the final destination server will know exactly how many bytes were sent back to the app
 
 Since these are rare cases overall (most requests succeed), in general this results in reported download numbers from prefixes being slightly _higher_ than reported numbers from hosting companies.
