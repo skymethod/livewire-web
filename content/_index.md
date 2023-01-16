@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
-date: 2022-09-18T18:16:00-05:00
-lastmod: 2023-01-10T09:40:00-06:00
+date: 2023-01-15T18:32:00-06:00
+lastmod: 2023-01-15T18:32:00-06:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+Deep dive: [A Tale of Two Bytes: Prefix vs Host-based analytics](/a-tale-of-two-bytes-prefix-vs-host-based-analytics)
 
 New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
