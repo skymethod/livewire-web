@@ -4,11 +4,11 @@ description: "Visualizing the podcast data provided monthly by Buzzsprout, the p
 summary: "Buzzsprout, one of the largest podcast hosting companies by episode volume, provides detailed data every month about the most common apps it sees when serving podcasts for its customers, and various other breakdowns. We thought it might be fun to graph this data in order to visualize trends over time."
 slug: "buzzsprout-stats-visualized"
 images:
-- buzzsprout-stats-visualized-2022-07.png
-date: 2023-02-02T14:20:00-06:00
-lastmod: 2023-02-02T14:20:00-06:00
+- buzzsprout-stats-visualized-2023-02.png
+date: 2023-03-01T19:19:00-06:00
+lastmod: 2023-03-01T19:19:00-06:00
 draft: false
-rssrevision: 2023-01
+rssrevision: 2023-02
 ---
 
 [Buzzsprout](https://www.buzzsprout.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides [detailed data every month](https://www.buzzsprout.com/global_stats) about the most common apps it sees when serving podcasts for its customers, and various other breakdowns.
@@ -69,6 +69,7 @@ Oct 2022	39.7	26.4	17.8	14.0	1.9	1.6	2.9	1.5	1.0	0.5	0.6	0.7		1.2	2.6	0.1	0.1	0.
 Nov 2022	38.2	26.6	18.4	14.6	2.0	1.5	3.3	1.5	1.0	0.5	0.6	0.7		1.3	2.7	0.1	0.1	0.1			0.3					0.1	0.1		0.1				0.8		0.6		0.4	0.2			0.4	0.1			0.1			0.7		0.1			0.1	0.2	0.1				0.3			0.2	0.3		
 Dec 2022	38.6	26.7	18.3	14.2	2.0	1.4	3.5	1.4	1.0	0.5	0.6	0.7		1.3	2.6	0.1	0.1	0.1			0.3					0.1	0.1		0.1				0.8		0.6		0.5	0.1			0.4	0.1		0.1				0.7		0.1			0.1	0.3					0.3			0.2	0.2		0.1
 Jan 2023	40.1	27.3	17.1	13.6	1.7	1.4	3.4	1.2	0.9	0.4	0.5	0.7		1.1	2.4	0.1	0.1	0.1			0.3					0.1	0.1		0.1	0.1			0.8		0.5		0.4	0.2			0.4	0.1						0.7		0.1			0.1	0.4					0.2			0.1	0.2		0.1
+Feb 2023	38.7	28.0	17.6	13.5	1.9	1.5	3.7	1.3	0.9	0.4	0.5	0.7		0.8	2.5	0.1	0.1	0.1			0.3					0.1	0.1		0.1	0.1			0.9		0.5		0.4	0.2			0.4	0.1		0.1				0.8		0.1			0.1	0.4					0.2			0.1	0.2		0.1
 {{< /graph >}}
 
 *Ex Apple/Spotify: all apps excluding Apple/Spotify-owned apps*
@@ -108,6 +109,7 @@ Oct 2022	50.6	16.1	6.2	4.4	4.1	2.8	2.4	2.3	0.9	1.1	1.1	1.1			1.2	0.8		3.5	1.4
 Nov 2022	49.5	16.9	6.2	4.5	4.1	2.3	2.4	2.4	0.9	1.1	1.3	1.2			1.5			3.6	1.3		0.8
 Dec 2022	50.1	17.1	5.8	4.3	4.1	2.1	2.3	2.4	0.9	1.1	1.4	1.1			1.7			3.7	1.1		0.8
 Jan 2023	51.5	16.8	6.2	4.5	4.1	2.0	2.2	2.4	0.9	1.0	1.3	1.0			1.2	0.8		3.1	1.0		
+Feb 2023	49.9	16.9	6.2	4.5	4.4	2.1	2.4	2.4	0.9	1.1	1.3	1.0			1.6	0.8		3.3	1.2		
 {{< /graph >}}
 
 ---
@@ -142,6 +144,7 @@ Oct 2022	4.1	2.8	2.4	2.3	0.9	1.1	1.1	1.1		0.7	1.2	0.8			0.7		1.4	3.5			0.7
 Nov 2022	4.1	2.3	2.4	2.4	0.9	1.1	1.3	1.2			1.5	0.8			0.7		1.3	3.6			0.7		0.8
 Dec 2022	4.1	2.1	2.3	2.4	0.9	1.1	1.4	1.1			1.7	0.8			0.7		1.1	3.7			0.8		0.8
 Jan 2023	4.1	2.0	2.2	2.4	0.9	1.0	1.3	1.0			1.2	0.8			0.7		1.0	3.1			0.7		0.7
+Feb 2023	4.4	2.1	2.4	2.4	0.9	1.1	1.3	1.0			1.6	0.8			0.7		1.2	3.3		0.6	0.7		
 {{< /graph >}}
 
 ---
@@ -176,6 +179,7 @@ Oct 2022	68.0	17.7	4.9	1.5	5.0	1.2	0.2	0.3	0.3	0.8	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0
 Nov 2022	68.0	18.2	5.2	1.6	3.9	1.2	0.2	0.3	0.4	0.7	0.1	0.1	0.1	0.0	0.0	0.0	0.0	0.0		0.0
 Dec 2022	68.6	18.1	4.6	1.6	3.9	1.2	0.2	0.3	0.4	0.8	0.1	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 Jan 2023	70.5	17.5	4.1	1.4	3.5	1.2	0.2	0.3	0.4	0.7	0.0	0.1	0.1	0.0	0.0	0.0	0.0		0.0	0.0
+Feb 2023	69.8	17.7	4.5	1.4	3.6	1.2	0.3	0.2	0.4	0.7	0.0	0.1	0.1	0.0	0.0	0.0	0.0		0.0	0.0
 {{< /graph >}}
 
 ---
@@ -210,6 +214,7 @@ Oct 2022	87.2	6.6	5.0	0.8	0.4	0.0	0.0
 Nov 2022	87.8	7.1	3.9	0.8	0.4	0.0	0.0
 Dec 2022	88.3	6.5	3.9	0.9	0.4	0.0	0.0
 Jan 2023	89.5	5.8	3.5	0.8	0.4	0.0	0.0
+Feb 2023	88.9	6.2	3.6	0.8	0.4	0.0	0.0
 {{< /graph >}}
 
 ---
@@ -244,6 +249,7 @@ Oct 2022	124574768	120556227
 Nov 2022	121614702	121614702
 Dec 2022	114436037	110744551
 Jan 2023	137098263	132675738
+Feb 2023	126132909	135142402
 {{< /graph >}}
 
 *Monthly Downloads (n): normalized for a 30-day month*
@@ -280,6 +286,7 @@ Oct 2022	178937	173164	117830	114029
 Nov 2022	176099	176099	119186	119186
 Dec 2022	154035	149066	118924	115087
 Jan 2023	188695	182608	121086	117180
+Feb 2023	177856	190560	122973	131756
 {{< /graph >}}
 
 *New Episodes (n), Active Podcasts (n): normalized for a 30-day month*
@@ -316,6 +323,7 @@ Oct 2022	4835	978	403	105	30
 Nov 2022	4642	979	401	105	30
 Dec 2022	4588	975	405	105	30
 Jan 2023	4761	1016	420	108	29
+Feb 2023	4985	1047	433	110	31
 {{< /graph >}}
 
 ---
@@ -350,6 +358,7 @@ Oct 2022	14	14	32	22	17
 Nov 2022	15	15	32	21	16
 Dec 2022	16	15	31	20	17
 Jan 2023	15	15	32	21	16
+Feb 2023	15	15	32	21	16
 {{< /graph >}}
 
 ---
@@ -384,6 +393,7 @@ Oct 2022	7	36	38	17	1
 Nov 2022	7	36	39	17	1
 Dec 2022	7	35	39	17	1
 Jan 2023	7	31	40	20	2
+Feb 2023	7	33	40	19	2
 {{< /graph >}}
 
 ---
@@ -391,6 +401,8 @@ Jan 2023	7	31	40	20	2
 Data provided by [Buzzsprout](https://www.buzzsprout.com/global_stats), visualized by [John Spurlock](https://twitter.com/johnspurlock)
 
 ---
+*Updated 2023-03-01, with data for the month of February 2023.*
+
 *Updated 2023-02-02, with data for the month of January 2023.*
 
 *Updated 2023-01-01, with data for the month of December 2022.*
