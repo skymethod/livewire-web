@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2023-02-21T09:43:00-06:00
-lastmod: 2023-02-21T09:43:00-06:00
+date: 2023-03-13T12:48:00-05:00
+lastmod: 2023-03-13T12:48:00-05:00
 draft: false
-rssrevision: 2022-237
+rssrevision: 2022-238
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -675,6 +675,7 @@ Sep 2022	34000	20000	8100	3500	1525	1200	146
 Oct 2022	34000	20000	8100	3500	1527	1200	145
 Nov 2022	34000	20000	8300	3500	1532	1200	152
 Dec 2022	35000	21000	8300	3600	1561	1200	156
+Jan 2023	32000	20000	8100	3500	1511	1200	154
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -751,6 +752,7 @@ Sep 2022	7.6
 Oct 2022	7.6
 Nov 2022	7.6
 Dec 2022	7.7
+Jan 2023	7.4
 {{< /graph >}}
 
 
@@ -761,6 +763,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2023-03-13, with latest median and mean data as of [Episode 238](https://thefeed.libsyn.com/238-podcasts-in-youtube-music-and-measuring-distinct-listeners).*
+
 *Updated 2023-02-21, with latest country and user agent data as of [Episode 237](https://thefeed.libsyn.com/237-podcasting-is-just-fine).*
 
 *Updated 2023-02-07, with latest median and mean data as of [Episode 236](https://thefeed.libsyn.com/236-all-the-feedback-on-feedback).*
