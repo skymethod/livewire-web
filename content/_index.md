@@ -8,7 +8,7 @@ lastmod: 2023-05-04T18:26:00-05:00
 
 ---
 
-New data: [Top Podcast Trackng Services by Episode Share (April 2023)](/podcast-trackers-by-episode-share)
+New data: [Top Podcast Tracking Services by Episode Share (April 2023)](/podcast-trackers-by-episode-share)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
