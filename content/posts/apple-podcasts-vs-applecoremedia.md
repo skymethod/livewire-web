@@ -50,16 +50,16 @@ This shows the apps with the highest share of OP3 downloads (those above one per
 
 AppleCoreMedia is broken out as a separate item, as it can be sent from any iOS app that uses [AVFoundation](https://developer.apple.com/av-foundation/) for audio streaming (which is most of them except Spotify).
 
-You can see the share for AppleCoreMedia start to fall in the May and June periods, after 16.4 was released - from 11.87% of all downloads in the first 15 day of March down to 5.34% of all downloads in the first 15 days of June.
+You can see the share for AppleCoreMedia start to fall in the May and June periods, after 16.4 was released - from 11.87% of all downloads in the first 15 days of March down to 5.34% of all downloads in the first 15 days of June.
 
-Similarly, Apple Podcasts' share rose from 26.32% in March to 30.34% in June.
+Similarly, Apple Podcasts’ share rose from 26.32% in March to 30.34% in June.
 
 _Note: Apple Watch speculative downloads remained relatively constant, which is good news: this means Apple is not mixing these these up with the main app and should continue to be excluded from any podcast download reporting stats. Any user-initiated download or play on the Apple Watch is tagged with the normal Apple Podcasts agent and included in that number._
 
 ---
 Let's keep going!
 
-One of the cool things about OP3 is that it can track these streaming downloads vs normal downloads on Apple platforms, so we can limit our focus to just these streaming requests and see if we see a similar transfer from AppleCoreMedia to Apple Podcasts.
+One of the cool things about OP3 is that it can track these streaming downloads vs normal downloads on Apple platforms, so we can limit our focus to streaming requests and see if we find a similar migration from AppleCoreMedia to Apple Podcasts.
 
 {{< graph streaming-downloads "OP3 Apple streaming download share, first 15 days of each month" "limit:10,height:600px">}}
 Date	Apple Podcasts	AppleCoreMedia	Podverse	Safari	Pocket Casts	Fountain	Overcast	Stitcher	iHeartRadio	Audible	Chrome	CastBox	Downcast	TuneIn	Amazon Music	Facebook	Google Podcasts	Snipd	Podimo	Firefox
