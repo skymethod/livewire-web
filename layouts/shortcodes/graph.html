@@ -147,7 +147,7 @@ async function render() {
     }
 
     const config = {
-        type: options.type === 'bar' ? 'bar' : 'line',
+        type: ['bar', 'stacked-bar'].includes(options.type) ? 'bar' : 'line',
         data: data,
         options: {
             spanGaps: true,
@@ -160,11 +160,15 @@ async function render() {
             scales: {
                 y: {
                     ticks: {
-                        callback: v => type === 'percentages' ? v.toLocaleString('en-US', { style: 'percent', minimumFractionDigits: max <= 0.05 ? 1 : 0 }) : v.toLocaleString('en-US', { })
+                        callback: v => type === 'stacked-bar' ? '' : type === 'percentages' ? v.toLocaleString('en-US', { style: 'percent', minimumFractionDigits: max <= 0.05 ? 1 : 0 }) : v.toLocaleString('en-US', { })
                     },
-                    min,
-                    max,
-                    reverse: type === 'rankings',
+                    min: type === 'stacked-bar' ? undefined : min,
+                    max: type === 'stacked-bar' ? 100 : max,
+                    reverse: type === 'rankings' || type === 'stacked-bar',
+                    stacked: type === 'stacked-bar',
+                },
+                x: {
+                    stacked: type === 'stacked-bar',
                 }
             },
             plugins: {
