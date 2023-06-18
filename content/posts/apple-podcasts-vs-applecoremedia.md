@@ -15,7 +15,7 @@ Apple made a change under the hood, did it make a difference?
 
 ---
 
-[As of iOS 16.4](https://podcasters.apple.com/4844-ios-164-whats-new-for-apple-podcasts), released on April 27th, 2023, the Apple Podcasts app now sends a User-Agent that looks like:
+[As of iOS 16.4](https://podcasters.apple.com/4844-ios-164-whats-new-for-apple-podcasts), released on March 27th, 2023, the Apple Podcasts app now sends a User-Agent that looks like:
 ```
 Podcasts/4022.610.1 CFNetwork/1408.0.4 Darwin/22.5.0
 ```
