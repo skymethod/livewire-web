@@ -1,16 +1,16 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2023-01-15T18:32:00-06:00
-lastmod: 2023-06-18T15:57:00-05:00
+lastmod: 2023-06-27T12:30:00-05:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
 
-Deep dive: [Apple Podcasts vs AppleCoreMedia downloads, post 16.4](/apple-podcasts-vs-applecoremedia)
-
 New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
+
+Deep dive: [Apple Podcasts vs AppleCoreMedia downloads, post 16.4](/apple-podcasts-vs-applecoremedia)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
