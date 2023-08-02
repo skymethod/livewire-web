@@ -353,4 +353,4 @@ Previous versions:
 {{% funding %}}
 
 ---
-*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-cdns-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-cdns-by-episode-share-2023-05.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
