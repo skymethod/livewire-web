@@ -23,6 +23,7 @@
     { "url": "https://audioboom.com/channels/4277258.rss", "status": 200, "level": 1, "frequency": "288" },
     { "url": "https://audioboom.com/channels/3270305.rss", "status": 200, "level": 1, "frequency": "288" },
     { "url": "https://audioboom.com/channels/5023446.rss", "status": 200, "level": 1, "frequency": "288" },
-    { "url": "https://feeds.spooler.fm/feeds/refresh-from-insider.rss", "status": 200, "level": 1, "frequency": "288" }
+    { "url": "https://feeds.spooler.fm/feeds/refresh-from-insider.rss", "status": 200, "level": 1, "frequency": "288" },
+    { "url": "https://hpm-rss.streamguys1.com/hpm/hpm-newscasts.xml", "status": 200, "level": 1, "frequency": "288" }
   ]
 }
