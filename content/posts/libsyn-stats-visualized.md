@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2023-07-25T14:48:00-05:00
-lastmod: 2023-07-25T14:48:00-05:00
+date: 2023-08-08T12:12:00-05:00
+lastmod: 2023-08-08T12:12:00-05:00
 draft: false
-rssrevision: 2022-248
+rssrevision: 2022-249
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -722,6 +722,7 @@ Feb 2023	30000	18000	7700	3300	1425	1200	157
 Mar 2023	30000	18000	7500	3200	1409	1200	153
 Apr 2023	30000	18000	7200	3100	1387	1200	150
 May 2023	30000	17000	7200	3000	1377	1200	152
+Jun 2023	28000	17000	7300	3200	1308	1100	136
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -803,6 +804,7 @@ Feb 2023	7.1
 Mar 2023	7
 Apr 2023	6.8
 May 2023	6.8
+Jun 2023	7
 {{< /graph >}}
 
 
@@ -813,6 +815,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2023-08-28, with latest median and mean data as of [Episode 249](https://thefeed.libsyn.com/249-how-is-the-sagaftra-strike-affecting-podcasters).*
+
 *Updated 2023-07-25, with latest country and user agent data as of [Episode 248](https://thefeed.libsyn.com/248-podcast-trailers-and-profanity-in-podcast-titles).*
 
 *Updated 2023-07-11, with latest median and mean data as of [Episode 247](https://thefeed.libsyn.com/247-the-indiepod-manifesto-goodbye-stitcher-and-hello-threads).*
