@@ -43,6 +43,10 @@ least by sheer amount of new output.
 
 First, a quick chart of the top podcast hosting companies over time, based on share of new episodes every month.
 
+_A special note for September: we improved the accuracy of our Spotify for Podcasters (formerly Anchor) observation system this month. Higher share of new episodes observed on S4P this month leads to lower share overall for everyone else._
+
+_It's likely that S4P's numbers were underrepresented the last few months here, so keep that in mind when interpreting this data. We're constantly aiming to improve our systems and sources to maximize objectivity._
+
 ---
 
 {{< graph hostshares "Top Podcast Hosting Companies by New Episode Share" "height:500px">}}
@@ -71,7 +75,7 @@ May 2023	24.2	9.3	6.0	4.6	4.2	4.6	3.9	3.2	2.2	2.0	1.0	2.0	1.8	1.5	1.4
 Jun 2023	21.8	8.7	6.3	5.2	4.5	4.5	4.0	3.3	2.0	2.0	1.4	2.1	1.6	1.4	1.3			
 Jul 2023	20.1	8.9	6.4	5.6	4.7	4.4	3.9	3.5	2.1	1.9	1.9	1.8	1.5	1.4	1.3			
 Aug 2023	20.5	9.1	6.2	6.0	5.1	4.5	4.2	3.5	2.1	1.9	1.6	1.4	1.6	1.4	1.5			
-Sep 2023	26.2	8.1	5.7	5.2	4.7	4.0	3.8	3.2	1.9	1.8	1.7	1.7	1.6	1.4	1.3					
+Sep 2023	26.2	8.1	5.7	5.2	4.7	4.0	3.8	3.2	1.9	1.8	1.7	1.7	1.6	1.4	1.3			
 {{< /graph >}}
 
 ---
