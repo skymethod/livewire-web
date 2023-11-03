@@ -35,7 +35,7 @@ We used the actual media file url (past any tracking redirects) to identify the 
 instead of the feed url domain, which can often undercount hosts that offer custom domains.
 
 Let's now take a look at the tracking services themselves.  Of the new episodes that were published in June, how many
-of them included one or more of these tracking services?  Some episodes had as many as *eight* of these redirecting trackers!
+of them included one or more of these tracking services?  Some episodes had as many as *ten* of these redirecting trackers!
 
 *Note we can only observe "client-side" trackers. There are other podcast analytics services 
 such as {{< a "https://www.tritondigital.com/solutions/audience-measurement" "Triton Digital" >}} that receive private request logs 
