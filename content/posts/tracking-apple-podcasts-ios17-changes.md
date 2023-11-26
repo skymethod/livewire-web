@@ -485,6 +485,7 @@ Data collected and visualized by [John Spurlock](https://twitter.com/johnspurloc
 
 ---
 *Updated 2023-11-26, clarified change pcts for Apple-heavy shows (straight share substraction vs pct of pct).*
+
 *Updated 2023-11-26, with additional focus on 28 Apple-heavy shows, and a few new days of data.*
 
 {{% funding %}}
