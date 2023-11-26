@@ -472,7 +472,9 @@ Date	Apple Podcasts	AppleCoreMedia	Spotify	NRC	Other
 
 Even after isolating to shows likely to have the most dramatic effect, we don't see much of a change yet.
 
-The share of Apple Podcasts downloads for these 28 Apple-heavy shows is down 1.52% from August, but 4.30% from September.
+The share of Apple Podcasts downloads for these 28 Apple-heavy shows went:
+ - from 67.745% in August to 66.414% in November MTD (-1.331%)
+ - from 69.71% in September to 66.414% in November MTD (-3.296%)
 
 Once again, it's very difficult to keep everything else constant when trying to identify the effect from the iOS 17 change alone.  A slow change in listener app preference for these shows would also look like this.
 
@@ -482,6 +484,7 @@ We'll keep an eye on it, and update these numbers periodically.
 Data collected and visualized by [John Spurlock](https://twitter.com/johnspurlock)
 
 ---
+*Updated 2023-11-26, clarified change pcts for Apple-heavy shows (straight share substraction vs pct of pct).*
 *Updated 2023-11-26, with additional focus on 28 Apple-heavy shows, and a few new days of data.*
 
 {{% funding %}}
