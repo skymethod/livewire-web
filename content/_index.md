@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2023-01-15T18:32:00-06:00
-lastmod: 2023-12-11T10:47:00-06:00
+lastmod: 2023-12-20T15:53:00-06:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
 Deep dive: [Impact of Apple Podcasts auto-downloading changes in iOS 17](/tracking-apple-podcasts-ios17-changes)
 
@@ -17,8 +19,6 @@ New data: [Top Podcast Tracking Services by Episode Share (Nov 2023)](/podcast-t
 New data: [Top Podcast Hosting Companies by Episode Share (Nov 2023)](/podcast-hosts-by-episode-share)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
-
-New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
 Deep dive: [Apple Podcasts vs AppleCoreMedia downloads, post 16.4](/apple-podcasts-vs-applecoremedia)
 
