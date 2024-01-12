@@ -7,13 +7,13 @@ lastmod: 2024-01-12T10:55:00-06:00
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+New data: [Impact of Apple Podcasts auto-downloading changes in iOS 17](/tracking-apple-podcasts-ios17-changes)
+
 New data: [Top Podcast CDNs by Episode Share (Dec 2023)](/podcast-cdns-by-episode-share)
 
 New data: [Top Podcast Tracking Services by Episode Share (Dec 2023)](/podcast-trackers-by-episode-share)
 
 New data: [Top Podcast Hosting Companies by Episode Share (Dec 2023)](/podcast-hosts-by-episode-share)
-
-New data: [Impact of Apple Podcasts auto-downloading changes in iOS 17](/tracking-apple-podcasts-ios17-changes)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
