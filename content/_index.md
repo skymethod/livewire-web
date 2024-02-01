@@ -1,18 +1,18 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2023-01-15T18:32:00-06:00
-lastmod: 2024-02-01T11:06:00-06:00
+lastmod: 2024-02-01T17:18:00-06:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
 
+New data: [Impact of Apple Podcasts auto-downloading changes in iOS 17](/tracking-apple-podcasts-ios17-changes)
+
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
 New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
-
-New data: [Impact of Apple Podcasts auto-downloading changes in iOS 17](/tracking-apple-podcasts-ios17-changes)
 
 New data: [Top Podcast CDNs by Episode Share (Dec 2023)](/podcast-cdns-by-episode-share)
 
