@@ -86,8 +86,8 @@ Feb 2024	36.2	34.0	21.9	6.0	1.8	1.8	5.5	1.7	1.1	0.6		0.9		0.8	2.8	0.2	0.1	0.1			
 
 *Ex Apple/Spotify: all apps excluding Apple/Spotify-owned apps*
 
-*Note the large reclassification in November 2020 of share moving from Apple Podcasts to (uncategorized).
-It's likely [Buzzsprout started excluding AppleCoreMedia](https://podnews.net/article/spotify-apple-podcasts-market-leader) in November 2020, which means they are now likely underreporting the true Apple Podcasts number by quite a bit.*
+*Note the large reclassification in November 2020 of share moving from Apple Podcasts to (uncategorized) and reversal starting March 2023.
+[Buzzsprout started excluding AppleCoreMedia](https://podnews.net/article/spotify-apple-podcasts-market-leader) in November 2020, which means they were underreporting the true Apple Podcasts number during that period.  Apple [fixed their app in March 2023](/apple-podcasts-vs-applecoremedia), making this discrepancy largely obsolete as listeners updated their devices over time.*
 
 ---
 
