@@ -42,9 +42,9 @@ Looking at only new episodes is one fairly objective way to compare each platfor
 least by sheer amount of new output.
 
 ---
+
 ### A special note for March 2024 {#spreaker}
 _We now have a better signal of when Spreaker releases new episodes, so our crawlers are finding more, starting early-March. It's likely that we were undercounting Spreaker prior to this._
-
 
 ### A special note for September/October 2023 {#s4p}
 _We now have a better signal of when Spotify for Podcasters (formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September._
