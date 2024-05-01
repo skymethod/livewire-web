@@ -7,7 +7,7 @@ lastmod: 2024-05-01T12:58:00-05:00
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
-New data: [Top Podcast Hosting Companies by Episode Share (Mar 2024)](/podcast-hosts-by-episode-share)
+New data: [Top Podcast Hosting Companies by Episode Share (Apr 2024)](/podcast-hosts-by-episode-share)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
