@@ -3,11 +3,11 @@ title: "Statistics about Podcast Chapters"
 description: "Popularity of various podcast chapter technologies, based on number of new episodes published"
 slug: "podcast-chapters-stats"
 images:
-- podcast-chapters-stats-2022-09a.png
-date: 2022-10-02T11:48:00-05:00
-lastmod: 2022-10-02T12:57:00-05:00
+- podcast-chapters-stats-2024-04.png
+date: 2024-05-19T10:13:00-05:00
+lastmod: 2024-05-19T10:13:00-05:00
 draft: false
-rssrevision: 2022-09a
+rssrevision: 2024-04
 ---
 Some podcast publishers choose to provide additional chapter information when they publish their podcast episodes,
 breaking down a single episode into multiple segments - each of which may have a title, link, image, etc.
@@ -36,15 +36,36 @@ _as a percentage of all new episodes published in the given month_
 | February 2022  | 1.22% | 0.85% | 0.19%     | 0.05%   | 0.02% |
 | ...            | ...   | ...   | ...       | ...     | ...   |
 | September 2022 | 1.50% | 1.29% | 0.44%     | 0.06%   | 0.02% |
+| ...            | ...   | ...   | ...       | ...     | ...   |
+| April 2024     | 2.20% | 1.93% | 1.26%     | 0.39%   | 0.02% |
 
 ---
 
-About *1 in every 66* new podcast episodes provide chapter information.
+Of the 1.8 million new episodes in April 2024, about *1 in every 45* provide chapter information.
 
-In the last month, ID3 tags are the most popular mechanism.
-- about 3x as prevalent as the Podcast Namespace chapters
-- about 22x as prevalent as Podlove chapters
-- and about 62x as prevalent as AAC/M4A chapters
+ID3 tag-based chapters are the most popular mechanism:
+- about 1.5x as prevalent as Podcast Namespace chapters
+- about 4.9x as prevalent as Podlove chapters
+- and about 96x as prevalent as AAC/M4A chapters
+
+---
+
+### Description-based chapters
+
+Some apps also parse chapter-looking markup (timestamps and titles) out of episode descriptions.
+If this less-structured format is included, it raises the percentage of new episodes with chapter information:
+
+| Month          | Any Chapters | Spotify Chapters [^1] |
+|----------------|-------|-------|
+| April 2024     | 3.73% | 1.70% |
+
+[^1]: Using the [format](https://support.spotify.com/us/podcasters/article/enabling-podcast-chapters/) found to produce chapter UI blocks in Spotify
+
+---
+
+This would make description-based chapters the second-most popular mechanism, just behind ID3 chapters - and mostly non-overlapping with other mechanisms.
+
+With these included, about *1 in every 27* new podcast episodes provide chapter information of some kind.
 
 ---
 
@@ -54,6 +75,8 @@ Thanks to the [Podcast Index](https://podcastindex.org/) for crawling every podc
 to check for new episodes.
 
 ---
+*Updated 2024-05-19, with data for the month of April 2024.*
+
 *Updated 2022-10-02, with data for the month of September 2022.*
 
 {{% funding %}}
