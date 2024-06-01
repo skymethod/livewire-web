@@ -139,7 +139,7 @@ async function render() {
 
     const data = { labels, datasets };
 
-    const max = typeof options.max === 'string' ? parseInt(options.max) : type === 'percentages' ? (maxValue <= 0.05 ? 0.05 : maxValue <= 0.07 ? 0.07 : Math.ceil(maxValue * 10) / 10) : maxValue;
+    const max = typeof options.max === 'string' ? parseInt(options.max) : type === 'percentages' ? (maxValue <= 0.03 ? 0.03 : maxValue <= 0.05 ? 0.05 : maxValue <= 0.07 ? 0.07 : Math.ceil(maxValue * 10) / 10) : maxValue;
     const min = typeof options.min === 'string' ? parseInt(options.min) : type === 'rankings' ? 1 : 0;
 
     function computeLegendPosition() {
