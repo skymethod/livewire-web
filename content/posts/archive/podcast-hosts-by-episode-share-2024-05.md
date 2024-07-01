@@ -1,19 +1,22 @@
 ---
-title: "Top Podcast Hosting Companies by Episode Share (June 2024)"
+title: "Top Podcast Hosting Companies by Episode Share (May 2024)"
 description: "Ranked list of podcast hosts, based on number of new episodes published"
-slug: "podcast-hosts-by-episode-share"
+slug: "archive/podcast-hosts-by-episode-share-may-2024"
 images:
-- ranking-2024-06.png
-date: 2024-07-01T15:24:00-05:00
-lastmod: 2024-07-01T15:24:00-05:00
+- ranking-2024-05.png
+date: 2024-06-01T11:01:00-05:00
+lastmod: 2024-06-01T11:01:00-05:00
 draft: false
-rssrevision: 2024-06
+rssrevision: 2024-05
+tags:
+- archive
 ---
+*This is an archived version, the current version is [here](/podcast-hosts-by-episode-share/).*
 
 One of the ways to measure the health of the current podcast ecosystem is to measure
 the number of _new episodes published_ in a given period.
 
-We independently verify _every single new podcast episode published_ (about 1.8 million in June 2024, down 5.9% from last month on a normalized basis)
+We independently verify _every single new podcast episode published_ (about 1.9 million in May 2024, up 1.1% from last month on a normalized basis)
 and identify which podcast hosting company it belongs to.
 
 ---
@@ -31,7 +34,7 @@ In cases where a retail podcast host uses another podcast host to serve the audi
 first host. In cases where a podcast migrates from one host to new host, we credit the new host.
 In general, the intent is to identify the podcast host the podcaster would say they are dealing with.
 
-We were _not_ able to identify a known host for 4.73% of the new episodes found in June.
+We were _not_ able to identify a known host for 4.54% of the new episodes found in May.
 
 {{% subscribe %}}
 ---
@@ -93,7 +96,6 @@ Feb 2024	31.2	4.7	8.8	4.2	4.1	3.9	3.7	2.8	2.2	1.8	2.2	1.7	1.7	1.5
 Mar 2024	28.9	6.9	8.3	4.2	3.9	3.9	3.6	3.0	2.3	1.9	2.1	2.1	1.6	1.4	1.0			
 Apr 2024	27.6	8.8	8.5	4.0	3.9	3.9	3.6	2.8	2.3	2.1	2.2	2.4	1.6	1.5				
 May 2024	27.5	9.7	7.8	4.3	4.0	3.9	3.5	2.8	2.3	2.1	1.9	1.7	1.6	1.4				
-Jun 2024	26.1	9.3	7.8	4.4	4.1	4.0	3.5	2.8	2.3	2.1	1.9	1.7	1.7	1.4	1.1			
 {{< /graph >}}
 
 ---
@@ -139,256 +141,260 @@ Feb 2024	4.2	4.1	3.9	3.7	2.8	2.2	1.8	2.2	1.7	1.7	1.5
 Mar 2024	4.2	3.9	3.9	3.6	3.0	2.3	1.9	2.1	2.1	1.6	1.4	1.0			
 Apr 2024	4.0	3.9	3.9	3.6	2.8	2.3	2.1	2.2	2.4	1.6	1.5				
 May 2024	4.3	4.0	3.9	3.5	2.8	2.3	2.1	1.9	1.7	1.6	1.4				
-Jun 2024	4.4	4.1	4.0	3.5	2.8	2.3	2.1	1.9	1.7	1.7	1.4	1.1			
 {{< /graph >}}
 
 ---
 
 And finally, a ranking of podcast hosters ordered by new episodes published during 
-the month of June 2024.
+the month of May 2024.
 
 A rounded percentage of episode share is also included if at least 1%.
 
 ---
-1. {{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}} {{< span "weak" "26.1%" >}}
-2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "9.3%" >}}
+1. {{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}} {{< span "weak" "27.5%" >}}
+2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "9.7%" >}}
 3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "7.8%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "4.4%" >}}
-5. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.1%" >}}
-6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "4.0%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "4.3%" >}}
+5. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.0%" >}}
+6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "3.9%" >}}
 7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.5%" >}}
 8. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "2.8%" >}}
 9. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "2.3%" >}}
 10. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.1%" >}}
 11. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "1.9%" >}}
 12. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "1.7%" >}}
-13. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.7%" >}}
+13. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.6%" >}}
 14. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.4%" >}}
-15. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.1%" >}}
-16. {{< a "https://www.audiomeans.fr/" "Audiomeans" >}}
-17. {{< a "https://www.podigee.com/" "Podigee" >}}
-18. {{< a "https://redcircle.com/" "RedCircle" >}}
-19. {{< a "https://www.akamai.com/" "Akamai CDN" >}}
-20. {{< a "https://audioboom.com/" "Audioboom" >}}
-21. {{< a "https://www.ximalaya.com/" "Ximalaya" >}}
-22. {{< a "https://www.blubrry.com/" "Blubrry" >}}
-23. {{< a "https://www.ausha.co/" "Ausha" >}}
-24. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}}
+15. {{< a "https://www.tritondigital.com/" "Triton Digital" >}}
+16. {{< a "https://www.podigee.com/" "Podigee" >}}
+17. {{< a "https://redcircle.com/" "RedCircle" >}}
+18. {{< a "https://www.audiomeans.fr/" "Audiomeans" >}}
+19. {{< a "https://audioboom.com/" "Audioboom" >}}
+20. {{< a "https://www.blubrry.com/" "Blubrry" >}}
+21. {{< a "https://www.ausha.co/" "Ausha" >}}
+22. {{< a "https://www.ximalaya.com/" "Ximalaya" >}}
+23. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}}
+24. {{< a "https://www.akamai.com/" "Akamai CDN" >}}
 25. {{< a "https://www.soundon.fm/" "SoundOn" >}}
 26. {{< a "https://firstory.me/" "Firstory" >}}
-27. {{< a "https://www.squarespace.com/" "Squarespace" >}}
-28. {{< a "https://www.subsplash.com/" "Subsplash" >}}
-29. {{< a "https://castos.com/" "Castos" >}}
+27. {{< a "https://castos.com/" "Castos" >}}
+28. {{< a "https://www.squarespace.com/" "Squarespace" >}}
+29. {{< a "https://www.subsplash.com/" "Subsplash" >}}
 30. {{< a "http://www.art19.com/" "ART19" >}}
 31. {{< a "https://www.streamguys.com/" "StreamGuys" >}}
-32. {{< a "https://audiostart.jp/" "Audiostart" >}}
+32. {{< a "https://futurimedia.com/" "Futuri Media" >}}
 33. {{< a "https://www.sermonaudio.com/" "SermonAudio" >}}
-34. {{< a "https://futurimedia.com/" "Futuri Media" >}}
-35. {{< a "https://www.podomatic.com/" "Podomatic" >}}
-36. {{< a "https://mave.digital/" "mave" >}}
-37. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}}
-38. {{< a "https://stand.fm/" "stand.fm" >}}
-39. {{< a "https://www.podcaster.de/" "podcaster.de" >}}
-40. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}}
-41. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}}
-42. {{< a "https://soundstack.com/" "SoundStack" >}}
-43. {{< a "https://iono.fm/" "iono.fm" >}}
-44. {{< a "https://www.deutschlandradio.de/" "Deutschlandradio" >}}
-45. {{< a "https://enacast.com/" "Enacast" >}}
-46. {{< a "http://www.rtve.es/" "RTVE" >}}
-47. {{< a "https://kajabi.com/" "Kajabi" >}}
+34. {{< a "https://www.podomatic.com/" "Podomatic" >}}
+35. {{< a "https://mave.digital/" "mave" >}}
+36. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}}
+37. {{< a "https://audiostart.jp/" "Audiostart" >}}
+38. {{< a "https://www.podcaster.de/" "podcaster.de" >}}
+39. {{< a "https://stand.fm/" "stand.fm" >}}
+40. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}}
+41. {{< a "https://soundstack.com/" "SoundStack" >}}
+42. {{< a "https://iono.fm/" "iono.fm" >}}
+43. {{< a "https://kajabi.com/" "Kajabi" >}}
+44. {{< a "http://www.rtve.es/" "RTVE" >}}
+45. {{< a "https://www.deutschlandradio.de/" "Deutschlandradio" >}}
+46. {{< a "https://www.npr.org/" "NPR" >}}
+47. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}}
 48. {{< a "https://www.wideorbit.com/" "WideOrbit" >}}
-49. {{< a "https://www.rfi.fr/" "Radio France Internationale" >}}
-50. {{< a "https://www.npr.org/" "NPR" >}}
-51. {{< a "https://www.xiaoyuzhoufm.com/" "Small Universe" >}}
+49. {{< a "https://enacast.com/" "Enacast" >}}
+50. {{< a "https://www.rfi.fr/" "Radio France Internationale" >}}
+51. {{< a "https://archive.org/" "Internet Archive" >}}
 52. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}}
-53. {{< a "https://archive.org/" "Internet Archive" >}}
-54. {{< a "https://castbox.fm/" "Castbox" >}}
+53. {{< a "https://castbox.fm/" "Castbox" >}}
+54. {{< a "https://www.xiaoyuzhoufm.com/" "Small Universe" >}}
 55. {{< a "https://www.bbc.co.uk/" "BBC" >}}
-56. {{< a "https://octopus.saooti.com/" "Octopus" >}}
-57. {{< a "https://sermon.net/" "Sermon.net" >}}
-58. {{< a "https://letscast.fm/" "LetsCast.fm" >}}
-59. {{< a "https://www.sharp-stream.com/" "Sharpstream" >}}
-60. {{< a "https://www.blogtalkradio.com/" "Blog Talk Radio" >}}
-61. {{< a "https://sverigesradio.se/" "Sveriges Radio" >}}
-62. {{< a "https://www.podserve.fm/" "PodServe.fm" >}}
-63. {{< a "https://www.oneplace.com/" "OnePlace.com" >}}
-64. {{< a "https://hubhopper.com/" "Hubhopper" >}}
-65. {{< a "https://kabbalahmedia.info/" "Kabbalah Media" >}}
-66. {{< a "https://www.pinecast.com/" "Pinecast" >}}
-67. {{< a "https://wasabi.com/" "Wasabi Cloud Storage" >}}
-68. {{< a "https://radiotalk.jp/" "Radiotalk" >}}
+56. {{< a "https://www.sharp-stream.com/" "Sharpstream" >}}
+57. {{< a "https://letscast.fm/" "LetsCast.fm" >}}
+58. {{< a "https://www.pinecast.com/" "Pinecast" >}}
+59. {{< a "https://octopus.saooti.com/" "Octopus" >}}
+60. {{< a "https://www.podserve.fm/" "PodServe.fm" >}}
+61. {{< a "https://sermon.net/" "Sermon.net" >}}
+62. {{< a "https://www.oneplace.com/" "OnePlace.com" >}}
+63. {{< a "https://sverigesradio.se/" "Sveriges Radio" >}}
+64. {{< a "https://www.voanews.com/" "Voice of America English News" >}}
+65. {{< a "https://www.blogtalkradio.com/" "Blog Talk Radio" >}}
+66. {{< a "https://www.podcast.co/" "Podcast.co" >}}
+67. {{< a "https://awr.org/" "Adventist World Radio" >}}
+68. {{< a "https://wasabi.com/" "Wasabi Cloud Storage" >}}
 69. {{< a "https://hearthis.at/" "hearthis.at" >}}
-70. {{< a "https://awr.org/" "Adventist World Radio" >}}
-71. {{< a "https://www.podcast.co/" "Podcast.co" >}}
-72. {{< a "https://podcastle.ai/" "Podcastle" >}}
-73. {{< a "https://www.ondacero.es/" "Onda Cero" >}}
-74. {{< a "https://www.livebox.cz/" "LIVEBOX" >}}
-75. {{< a "https://www.zencastr.com/" "Zencastr" >}}
-76. {{< a "https://www.sbs.co.kr/" "Seoul Broadcasting System" >}}
+70. {{< a "https://radiotalk.jp/" "Radiotalk" >}}
+71. {{< a "https://podcastle.ai/" "Podcastle" >}}
+72. {{< a "https://kabbalahmedia.info/" "Kabbalah Media" >}}
+73. {{< a "https://pod.space/" "Podspace" >}}
+74. {{< a "https://www.zencastr.com/" "Zencastr" >}}
+75. {{< a "https://www.rte.ie/" "RTÉ Radio" >}}
+76. {{< a "https://hubhopper.com/" "Hubhopper" >}}
 77. {{< a "https://fireside.fm/" "Fireside" >}}
-78. {{< a "https://pod.space/" "Podspace" >}}
-79. {{< a "https://www3.nhk.or.jp/news/" "NHK" >}}
-80. {{< a "https://www.rte.ie/" "RTÉ Radio" >}}
-81. {{< a "https://www.rtp.pt/" "RTP" >}}
-82. {{< a "https://feedpress.com/" "Feedpress" >}}
-83. {{< a "https://www.vaticannews.va/en.html" "Vatican News" >}}
-84. {{< a "https://www.rackspace.com/" "Rackspace Storage" >}}
-85. {{< a "https://www.rthk.hk/" "RTHK" >}}
-86. {{< a "https://www.podcastics.com/en/" "Podcastics" >}}
-87. {{< a "https://www.rti.org.tw/" "Radio Taiwan International" >}}
+78. {{< a "https://www.ondacero.es/" "Onda Cero" >}}
+79. {{< a "https://www.livebox.cz/" "LIVEBOX" >}}
+80. {{< a "https://www.rtp.pt/" "RTP" >}}
+81. {{< a "https://www3.nhk.or.jp/news/" "NHK" >}}
+82. {{< a "https://www.sbs.co.kr/" "Seoul Broadcasting System" >}}
+83. {{< a "https://www.rackspace.com/" "Rackspace Storage" >}}
+84. {{< a "https://feedpress.com/" "Feedpress" >}}
+85. {{< a "https://www.vaticannews.va/en.html" "Vatican News" >}}
+86. {{< a "https://www.rti.org.tw/" "Radio Taiwan International" >}}
+87. {{< a "https://www.rthk.hk/" "RTHK" >}}
 88. {{< a "https://springcast.fm/" "Springcast" >}}
-89. {{< a "https://jewishpodcasts.fm/" "Jewish Podcasts" >}}
-90. {{< a "https://www.controradio.it/" "Controradio" >}}
-91. {{< a "http://www.npo.nl/" "Nederlandse Publieke Omroep" >}}
-92. {{< a "https://www.julephosting.de/" "Julep Hosting" >}}
-93. {{< a "https://www.err.ee/" "Eesti Rahvusringhääling" >}}
-94. {{< a "https://podcloud.fr/" "podCloud" >}}
-95. {{< a "https://pub.rncmedia.ca/" "RNC Media" >}}
-96. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}}
-97. {{< a "https://der.orf.at/" "Österreichischer Rundfunk" >}}
-98. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}}
-99. {{< a "https://www.prx.org/" "PRX" >}}
-100. {{< a "http://thecloudnetwork.com/" "the Cloud Network" >}}
-101. {{< a "https://civicmedia.us/" "Civic Media" >}}
-102. {{< a "https://www.srf.ch/" "SRF" >}}
-103. {{< a "https://www.congregateonline.com/" "Congregate" >}}
-104. {{< a "https://www.eitb.eus/" "EITB" >}}
+89. {{< a "https://www.podcastics.com/en/" "Podcastics" >}}
+90. {{< a "https://jewishpodcasts.fm/" "Jewish Podcasts" >}}
+91. {{< a "https://www.err.ee/" "Eesti Rahvusringhääling" >}}
+92. {{< a "https://pub.rncmedia.ca/" "RNC Media" >}}
+93. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}}
+94. {{< a "http://www.npo.nl/" "Nederlandse Publieke Omroep" >}}
+95. {{< a "https://www.julephosting.de/" "Julep Hosting" >}}
+96. {{< a "https://civicmedia.us/" "Civic Media" >}}
+97. {{< a "https://www.controradio.it/" "Controradio" >}}
+98. {{< a "https://www.prx.org/" "PRX" >}}
+99. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}}
+100. {{< a "https://podcloud.fr/" "podCloud" >}}
+101. {{< a "https://www.eitb.eus/" "EITB" >}}
+102. {{< a "https://www.canalsur.es/" "CanalSur" >}}
+103. {{< a "http://thecloudnetwork.com/" "the Cloud Network" >}}
+104. {{< a "https://der.orf.at/" "Österreichischer Rundfunk" >}}
 105. {{< a "https://www.elsitiocristiano.com/" "LightSource" >}}
-106. {{< a "https://www.canalsur.es/" "CanalSur" >}}
-107. {{< a "https://www.imbc.com/" "MBC TV" >}}
-108. {{< a "https://blog.seesaa.jp/" "Seesaa" >}}
-109. {{< a "https://www.ccma.cat/catradio/podcast/" "CCMA" >}}
-110. {{< a "https://www.cbsnews.com/" "CBS Radio News" >}}
-111. {{< a "https://sonicbowl.cloud/" "Sonicbowl" >}}
-112. {{< a "https://www.cope.es/" "COPE" >}}
-113. {{< a "https://bcast.fm/" "bCast" >}}
-114. {{< a "https://www.wdr.de/" "Westdeutscher Rundfunk" >}}
-115. {{< a "https://www.br.de/index.html" "Bayerischer Rundfunk" >}}
-116. {{< a "https://www.kbs.co.kr/" "Korean Broadcasting System" >}}
-117. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}}
-118. {{< a "https://www.lsm.lv/" "LSM.lv" >}}
-119. {{< a "http://www.lizhi.fm/" "lizhi.fm" >}}
-120. {{< a "https://www.ilsole24ore.com/" "Il Sole 24 Ore" >}}
-121. {{< a "https://podetize.com/" "Podetize" >}}
-122. {{< a "https://swap.fm/" "swap.fm" >}}
-123. {{< a "https://listenbox.app/" "ListenBox" >}}
-124. (all other known hosts)
-125. {{< a "https://podster.fm/" "Podster.fm" >}}
-126. {{< a "https://www.radiopopolare.it/" "Radio Popolare" >}}
+106. {{< a "https://www.ccma.cat/catradio/podcast/" "CCMA" >}}
+107. {{< a "https://www.srf.ch/" "SRF" >}}
+108. {{< a "https://bcast.fm/" "bCast" >}}
+109. {{< a "https://www.imbc.com/" "MBC TV" >}}
+110. {{< a "https://blog.seesaa.jp/" "Seesaa" >}}
+111. {{< a "https://www.dr.dk/" "DR" >}}
+112. {{< a "https://www.churchplantmedia.com/" "Church Plant Media" >}}
+113. {{< a "https://www.cbsnews.com/" "CBS Radio News" >}}
+114. {{< a "https://www.cope.es/" "COPE" >}}
+115. {{< a "https://www.lsm.lv/" "LSM.lv" >}}
+116. {{< a "https://www.wdr.de/" "Westdeutscher Rundfunk" >}}
+117. {{< a "https://sonicbowl.cloud/" "Sonicbowl" >}}
+118. {{< a "https://www.congregateonline.com/" "Congregate" >}}
+119. {{< a "https://podetize.com/" "Podetize" >}}
+120. {{< a "https://podster.fm/" "Podster.fm" >}}
+121. {{< a "https://www.br.de/index.html" "Bayerischer Rundfunk" >}}
+122. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}}
+123. {{< a "https://www.kbs.co.kr/" "Korean Broadcasting System" >}}
+124. {{< a "https://sermons.faithlife.com/" "Faithlife Sermons" >}}
+125. {{< a "http://www.lizhi.fm/" "lizhi.fm" >}}
+126. {{< a "https://www.ilsole24ore.com/" "Il Sole 24 Ore" >}}
 127. {{< a "https://www.rtvslo.si/" "Radiotelevizija Slovenija" >}}
-128. {{< a "https://www.zencast.fm/" "Zencast" >}}
-129. {{< a "https://cloud.google.com/" "Google Cloud" >}}
-130. {{< a "https://www.radiofrance.fr/" "Radio France" >}}
-131. {{< a "https://www.rts.ch/" "Radio Télévision Suisse" >}}
-132. {{< a "https://www.audion.fm/" "Audion" >}}
-133. {{< a "https://www.mc-doualiya.com/" "Monte Carlo Doualiya" >}}
-134. {{< a "https://alitu.com/" "Alitu" >}}
-135. {{< a "http://www.podcasts.com/" "podcasts.com" >}}
+128. {{< a "https://listenbox.app/" "ListenBox" >}}
+129. {{< a "http://www.podcasts.com/" "podcasts.com" >}}
+130. {{< a "https://www.chga.fm/" "CHGA" >}}
+131. {{< a "https://muslimcentral.com/" "Muslim Central" >}}
+132. {{< a "https://cloud.google.com/" "Google Cloud" >}}
+133. {{< a "https://www.audion.fm/" "Audion" >}}
+134. {{< a "https://www.zencast.fm/" "Zencast" >}}
+135. {{< a "https://alitu.com/" "Alitu" >}}
 136. {{< a "https://www.securenetsystems.net/" "Securenet Systems" >}}
-137. {{< a "https://muslimcentral.com/" "Muslim Central" >}}
-138. {{< a "https://azure.microsoft.com/en-us/services/storage/blobs/" "Microsoft Azure Blob Storage" >}}
-139. {{< a "https://www.mediastre.am/" "mediastream" >}}
-140. {{< a "https://sermons.faithlife.com/" "Faithlife Sermons" >}}
-141. {{< a "https://www.chga.fm/" "CHGA" >}}
-142. {{< a "https://www.fluidstream.net/" "Fluidstream" >}}
-143. {{< a "https://www.nucleus.church/" "Nucleus" >}}
-144. {{< a "https://www.wnyc.org/" "WNYC" >}}
-145. {{< a "https://www.backblaze.com/b2/cloud-storage.html" "Backblaze B2 Cloud Storage" >}}
-146. {{< a "https://www.talkshoe.com/" "Talkshoe" >}}
+137. {{< a "https://www.radiopopolare.it/" "Radio Popolare" >}}
+138. {{< a "https://www.rts.ch/" "Radio Télévision Suisse" >}}
+139. {{< a "https://www.radiofrance.fr/" "Radio France" >}}
+140. {{< a "https://www.mediastre.am/" "mediastream" >}}
+141. {{< a "https://www.mc-doualiya.com/" "Monte Carlo Doualiya" >}}
+142. {{< a "https://azure.microsoft.com/en-us/services/storage/blobs/" "Microsoft Azure Blob Storage" >}}
+143. {{< a "https://wordpress.com/" "WordPress" >}}
+144. (all other known hosts)
+145. {{< a "https://www.yutorah.org/" "YUTorah Online" >}}
+146. {{< a "https://www.helloaudio.fm/" "Hello Audio" >}}
 147. {{< a "https://www.lightcast.com/" "Lightcast" >}}
-148. {{< a "https://dailyaudiobible.com/" "Daily Audio Bible" >}}
-149. {{< a "https://www.yutorah.org/" "YUTorah Online" >}}
-150. {{< a "https://www.helloaudio.fm/" "Hello Audio" >}}
-151. {{< a "https://www.rmf.fm/" "RMF FM" >}}
-152. {{< a "https://www.flumotion.com/" "Flumotion" >}}
-153. {{< a "https://cba.media/" "cba.media" >}}
-154. {{< a "https://www.boxcast.com/" "BoxCast" >}}
-155. {{< a "https://redbasset.tech/" "Red Basset" >}}
-156. {{< a "https://www.deejay.it/" "Dee Jay" >}}
-157. {{< a "https://wistia.com/" "Wistia" >}}
-158. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}}
-159. {{< a "https://podcastai.com/" "PodcastAI" >}}
-160. {{< a "https://listen.style/" "LISTEN" >}}
-161. {{< a "https://www.nrk.no/" "NRK (Norwegian Broadcasting Corporation)" >}}
-162. {{< a "https://www.rfa.org/" "Radio Free Asia" >}}
-163. {{< a "https://baladoquebec.ca/" "BaladoQuebec" >}}
-164. {{< a "https://www.dropbox.com/" "Dropbox" >}}
-165. {{< a "https://www.barstoolsports.com/" "Barstool Sports" >}}
-166. {{< a "https://www.radionz.co.nz/" "Radio New Zealand" >}}
-167. {{< a "https://cfim.ca/" "CFIM" >}}
-168. {{< a "https://95bfm.com/" "95bFM" >}}
-169. {{< a "https://kerkdienstgemist.nl/" "Kerkdienst Gemist" >}}
-170. {{< a "https://www.qingting.fm/" "Dragonfly FM" >}}
-171. {{< a "https://shortcast.club/" "Shortcast Club" >}}
-172. {{< a "https://www.voiceamerica.com/" "VoiceAmerica" >}}
-173. {{< a "https://www.houstonpublicmedia.org/" "Houston Public Media" >}}
-174. {{< a "https://zenomedia.com/" "Zeno Media" >}}
-175. {{< a "https://www.freie-radios.net/" "Bundesverband Freier Radios" >}}
-176. {{< a "https://wavpub.com/" "WavPub" >}}
-177. {{< a "https://www.livewriters.com/" "LiveWriters" >}}
-178. {{< a "https://podeo.co/" "Podeo" >}}
-179. {{< a "https://studeo.fm/" "Studeo" >}}
-180. {{< a "https://koelab.co.jp/" "Koelab" >}}
-181. {{< a "https://wordpress.com/" "WordPress" >}}
-182. {{< a "https://podhome.fm/" "Podhome" >}}
-183. {{< a "https://echo.msk.ru/" "msk.ru" >}}
-184. {{< a "https://www.dr.dk/" "DR" >}}
-185. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}}
-186. {{< a "https://www.christianworldmedia.com/" "ChristianWorldMedia.com" >}}
-187. {{< a "https://fusebox.fm/" "Fusebox" >}}
+148. {{< a "https://www.nucleus.church/" "Nucleus" >}}
+149. {{< a "https://www.deejay.it/" "Dee Jay" >}}
+150. {{< a "https://95bfm.com/" "95bFM" >}}
+151. {{< a "https://dailyaudiobible.com/" "Daily Audio Bible" >}}
+152. {{< a "https://www.wnyc.org/" "WNYC" >}}
+153. {{< a "https://www.talkshoe.com/" "Talkshoe" >}}
+154. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}}
+155. {{< a "https://cba.media/" "cba.media" >}}
+156. {{< a "https://wistia.com/" "Wistia" >}}
+157. {{< a "https://baladoquebec.ca/" "BaladoQuebec" >}}
+158. {{< a "https://listen.style/" "LISTEN" >}}
+159. {{< a "https://www.rmf.fm/" "RMF FM" >}}
+160. {{< a "https://www.boxcast.com/" "BoxCast" >}}
+161. {{< a "https://www.flumotion.com/" "Flumotion" >}}
+162. {{< a "https://redbasset.tech/" "Red Basset" >}}
+163. {{< a "https://www.backblaze.com/b2/cloud-storage.html" "Backblaze B2 Cloud Storage" >}}
+164. {{< a "https://www.barstoolsports.com/" "Barstool Sports" >}}
+165. {{< a "https://swap.fm/" "swap.fm" >}}
+166. {{< a "https://www.voiceamerica.com/" "VoiceAmerica" >}}
+167. {{< a "https://www.nrk.no/" "NRK (Norwegian Broadcasting Corporation)" >}}
+168. {{< a "https://www.radionz.co.nz/" "Radio New Zealand" >}}
+169. {{< a "https://www.dropbox.com/" "Dropbox" >}}
+170. {{< a "https://vodio.fr/" "Vodio" >}}
+171. {{< a "https://www.rfa.org/" "Radio Free Asia" >}}
+172. {{< a "https://cfim.ca/" "CFIM" >}}
+173. {{< a "https://www.fluidstream.net/" "Fluidstream" >}}
+174. {{< a "https://www.houstonpublicmedia.org/" "Houston Public Media" >}}
+175. {{< a "https://podeo.co/" "Podeo" >}}
+176. {{< a "https://www.qingting.fm/" "Dragonfly FM" >}}
+177. {{< a "https://zenomedia.com/" "Zeno Media" >}}
+178. {{< a "https://www.livewriters.com/" "LiveWriters" >}}
+179. {{< a "https://www.freie-radios.net/" "Bundesverband Freier Radios" >}}
+180. {{< a "https://kerkdienstgemist.nl/" "Kerkdienst Gemist" >}}
+181. {{< a "https://fusebox.fm/" "Fusebox" >}}
+182. {{< a "https://shortcast.club/" "Shortcast Club" >}}
+183. {{< a "https://podcast45minutos.com.br/" "KFKA" >}}
+184. {{< a "https://news.un.org/" "United Nations" >}}
+185. {{< a "https://studeo.fm/" "Studeo" >}}
+186. {{< a "https://wavpub.com/" "WavPub" >}}
+187. {{< a "https://www.christianworldmedia.com/" "ChristianWorldMedia.com" >}}
 188. {{< a "https://www.twentythree.com/" "TwentyThree" >}}
-189. {{< a "https://rctgn.cat/" "Ràdio Ciutat de Tarragona" >}}
-190. {{< a "https://funkhaus-rosenheim.de/" "Funkhaus Rosenheim" >}}
-191. {{< a "https://podle.io/" "Podle" >}}
+189. {{< a "https://www.radiomaria.org/" "Radio Maria" >}}
+190. {{< a "https://rctgn.cat/" "Ràdio Ciutat de Tarragona" >}}
+191. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}}
 192. {{< a "https://djpod.com/" "Djpod" >}}
-193. {{< a "https://news.un.org/" "United Nations" >}}
-194. {{< a "https://www.canstream.co.uk/" "Canstream Internet Radio" >}}
-195. {{< a "https://www.radiomaria.org/" "Radio Maria" >}}
-196. {{< a "https://www.radionikkei.jp/" "Radio Nikkei" >}}
-197. {{< a "https://vivrefm.com/" "Vivre FM" >}}
-198. {{< a "https://thisisdistorted.com/" "This Is Distorted" >}}
-199. {{< a "https://vodio.fr/" "Vodio" >}}
-200. {{< a "https://www.linode.com/products/object-storage/" "Linode Object Storage" >}}
-201. {{< a "https://www.adorilabs.com/" "Adori Labs" >}}
-202. {{< a "https://podcast45minutos.com.br/" "KFKA" >}}
-203. {{< a "https://radiolaser.fr/" "Radio Laser" >}}
-204. {{< a "https://www.rcf.fr/" "RCF" >}}
-205. {{< a "https://www.cartv.es/aragonradio" "Aragon Radio CARTV" >}}
-206. {{< a "https://dropwave.io/" "Dropwave" >}}
-207. {{< a "https://doctorpodcasting.com/" "DoctorPodcasting" >}}
-208. {{< a "https://fans.fm/notes" "Fans.fm" >}}
-209. {{< a "https://play.ht/" "Play.ht" >}}
-210. {{< a "https://www.justcast.com/" "JustCast" >}}
-211. {{< a "https://sepia.sk/" "Sepia Systems" >}}
-212. {{< a "https://www.lightsource.com/" "LightSource" >}}
-213. {{< a "https://mysoundwise.com/" "Soundwise" >}}
+193. {{< a "https://www.whooshkaa.com/" "Whooshkaa" >}}
+194. {{< a "https://thisisdistorted.com/" "This Is Distorted" >}}
+195. {{< a "https://www.radionikkei.jp/" "Radio Nikkei" >}}
+196. {{< a "https://echo.msk.ru/" "msk.ru" >}}
+197. {{< a "https://www.canstream.co.uk/" "Canstream Internet Radio" >}}
+198. {{< a "https://www.adorilabs.com/" "Adori Labs" >}}
+199. {{< a "https://www.linode.com/products/object-storage/" "Linode Object Storage" >}}
+200. {{< a "https://podle.io/" "Podle" >}}
+201. {{< a "https://www.cartv.es/aragonradio" "Aragon Radio CARTV" >}}
+202. {{< a "https://podhome.fm/" "Podhome" >}}
+203. {{< a "https://dropwave.io/" "Dropwave" >}}
+204. {{< a "https://funkhaus-rosenheim.de/" "Funkhaus Rosenheim" >}}
+205. {{< a "https://progzilla.com/" "Progzilla Radio" >}}
+206. {{< a "https://www.justcast.com/" "JustCast" >}}
+207. {{< a "https://www.rcf.fr/" "RCF" >}}
+208. {{< a "https://doctorpodcasting.com/" "DoctorPodcasting" >}}
+209. {{< a "https://fans.fm/notes" "Fans.fm" >}}
+210. {{< a "https://play.ht/" "Play.ht" >}}
+211. {{< a "https://podcastai.com/" "PodcastAI" >}}
+212. {{< a "https://terraspaces.org/" "TerraSpaces" >}}
+213. {{< a "https://syndicast.co.uk/" "Syndicast" >}}
 214. {{< a "https://www.casted.us/" "Casted" >}}
-215. {{< a "https://syndicast.co.uk/" "Syndicast" >}}
+215. {{< a "https://www.jwplayer.com/" "JW Player" >}}
 216. {{< a "https://www.stationista.com/" "stationista" >}}
-217. {{< a "https://issuesetc.org/" "Issues, Etc." >}}
-218. {{< a "https://www.whooshkaa.com/" "Whooshkaa" >}}
-219. {{< a "https://www.podcastyoursermons.com/" "Podcast Your Sermons" >}}
-220. {{< a "https://typlog.com/" "Typlog" >}}
-221. {{< a "https://tryca.st/" "Cast" >}}
-222. {{< a "https://www.jwplayer.com/" "JW Player" >}}
-223. {{< a "https://podseed.org/" "podseed" >}}
-224. {{< a "https://rssblue.com/" "RSS Blue" >}}
-225. {{< a "https://www.washingtonpost.com/" "The Washington Post" >}}
-226. {{< a "https://joy.org.au/" "JOY Media" >}}
-227. {{< a "https://www.radio-activ.com/" "Radio Activ" >}}
-228. {{< a "https://afripods.africa/" "Afripods" >}}
-229. {{< a "https://type3.audio/" "Type III Audio" >}}
-230. {{< a "https://www.radiodelapaix.ci/" "Radio de la Paix" >}}
-231. {{< a "https://www.attitudefm.com/" "Attitude" >}}
-232. {{< a "https://progzilla.com/" "Progzilla Radio" >}}
-233. {{< a "https://www.voxnest.com/" "Voxnest" >}}
-234. {{< a "https://www.discerninghearts.com/" "Discerning Hearts" >}}
-235. {{< a "https://twit.tv/" "TWiT" >}}
-236. {{< a "https://www.infowars.com/" "Infowars" >}}
-237. {{< a "https://www.audioverse.org/" "AudioVerse" >}}
-238. {{< a "https://cuonda.com/" "Cuonda" >}}
-239. {{< a "https://www.urban-radio.com/" "Graffiti Urban Radio" >}}
+217. {{< a "https://www.lightsource.com/" "LightSource" >}}
+218. {{< a "https://joy.org.au/" "JOY Media" >}}
+219. {{< a "https://www.radio-activ.com/" "Radio Activ" >}}
+220. {{< a "https://issuesetc.org/" "Issues, Etc." >}}
+221. {{< a "https://type3.audio/" "Type III Audio" >}}
+222. {{< a "https://typlog.com/" "Typlog" >}}
+223. {{< a "https://www.podcastyoursermons.com/" "Podcast Your Sermons" >}}
+224. {{< a "https://mysoundwise.com/" "Soundwise" >}}
+225. {{< a "https://www.uplink-digital.de/" "UPLINK Digital" >}}
+226. {{< a "https://afripods.africa/" "Afripods" >}}
+227. {{< a "https://cuonda.com/" "Cuonda" >}}
+228. {{< a "https://tryca.st/" "Cast" >}}
+229. {{< a "https://www.washingtonpost.com/" "The Washington Post" >}}
+230. {{< a "https://podkast.no/" "podkast.no" >}}
+231. {{< a "https://promodj.com/" "PromoDJ" >}}
+232. {{< a "https://podseed.org/" "podseed" >}}
+233. {{< a "https://www.urban-radio.com/" "Graffiti Urban Radio" >}}
+234. {{< a "https://rssblue.com/" "RSS Blue" >}}
+235. {{< a "https://www.infowars.com/" "Infowars" >}}
+236. {{< a "https://twit.tv/" "TWiT" >}}
+237. {{< a "https://www.martinoticias.com/" "Radio Martí" >}}
+238. {{< a "https://www.attitudefm.com/" "Attitude" >}}
+239. {{< a "https://www.voxnest.com/" "Voxnest" >}}
+240. {{< a "https://kboo.fm/" "KBOO" >}}
+241. {{< a "https://www.audioverse.org/" "AudioVerse" >}}
+242. {{< a "https://zeenews.india.com/" "Zee News" >}}
+243. {{< a "https://www.cachefly.com/" "CacheFly CDN" >}}
+244. {{< a "https://www.discerninghearts.com/" "Discerning Hearts" >}}
 ---
 
 Analysis by [John Spurlock](https://twitter.com/johnspurlock)
@@ -400,8 +406,6 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
-*Updated 2024-07-01, with data for the month of June 2024. Still ex Radio France.*
-
 *Updated 2024-06-01, with data for the month of May 2024. Still ex Radio France.*
 
 *Updated 2024-05-01, with data for the month of April 2024. Still ex Radio France.*
@@ -479,7 +483,6 @@ as part of a single request chain, we credit the redirecting host, not the targe
 
 ---
 Previous versions:
- - [Podcast Host Rankings by Episode Share (May 2024)](/archive/podcast-hosts-by-episode-share-may-2024/)
  - [Podcast Host Rankings by Episode Share (April 2024)](/archive/podcast-hosts-by-episode-share-april-2024/)
  - [Podcast Host Rankings by Episode Share (March 2024)](/archive/podcast-hosts-by-episode-share-march-2024/)
  - [Podcast Host Rankings by Episode Share (February 2024)](/archive/podcast-hosts-by-episode-share-february-2024/)
@@ -517,4 +520,4 @@ Previous versions:
 [Purchase a subscription](https://buy.stripe.com/cN2aHe3Ub3jr64g003) to access month-to-date ranking data produced daily.
 
 ---
-*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-hosts-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-hosts-by-episode-share-2024-05.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
