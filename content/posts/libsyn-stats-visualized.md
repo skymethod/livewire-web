@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2024-06-18T10:55:00-05:00
-lastmod: 2024-06-18T10:55:00-05:00
+date: 2024-07-16T17:55:00-05:00
+lastmod: 2024-07-16T17:55:00-05:00
 draft: false
-rssrevision: 270
+rssrevision: 272
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -813,6 +813,7 @@ Aug 2023	28000	17000	7500	3200	1379	1200	145
 Sep 2023	28000	17000	7300	3100	1346	1100	139
 Mar 2024	21000	12000	5000	2200	970	900	105
 Apr 2024	20000	12000	5000	2200	954	800	108
+May 2024	20000	12000	4800	2200	934	800	103
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -900,6 +901,7 @@ Aug 2023	7.1
 Sep 2023	6.9
 Mar 2024	5
 Apr 2024	4.9
+May 2024	4.7
 {{< /graph >}}
 
 
@@ -910,6 +912,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2024-07-16, with latest median and mean data as of [Episode 272](https://thefeed.libsyn.com/272-restarting-your-podcast-updating-your-podcast-and-youtube-podcasts-strategies).*
+
 *Updated 2024-06-18, with latest country and user agent data as of [Episode 270](https://thefeed.libsyn.com/270-wwdc-highlights-through-podcasting-lens-apple-intelligence-and-podcast-economics).*
 
 *Updated 2024-06-04, with latest median and mean data as of [Episode 269](https://thefeed.libsyn.com/269-can-you-be-on-youtube-music-and-not-youtube-and-thoughts-on-section-230).*
