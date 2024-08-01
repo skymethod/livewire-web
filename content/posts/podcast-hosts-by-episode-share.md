@@ -479,6 +479,7 @@ as part of a single request chain, we credit the redirecting host, not the targe
 
 ---
 Previous versions:
+ - [Podcast Host Rankings by Episode Share (June 2024)](/archive/podcast-hosts-by-episode-share-june-2024/)
  - [Podcast Host Rankings by Episode Share (May 2024)](/archive/podcast-hosts-by-episode-share-may-2024/)
  - [Podcast Host Rankings by Episode Share (April 2024)](/archive/podcast-hosts-by-episode-share-april-2024/)
  - [Podcast Host Rankings by Episode Share (March 2024)](/archive/podcast-hosts-by-episode-share-march-2024/)
