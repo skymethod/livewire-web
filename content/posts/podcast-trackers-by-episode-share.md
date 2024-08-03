@@ -40,20 +40,21 @@ of them included one or more of these tracking services?  Some episodes had as m
 *Note we can only observe "client-side" trackers. There are other podcast analytics services 
 such as {{< a "https://www.tritondigital.com/solutions/audience-measurement" "Triton Digital" >}} that receive private request logs 
 directly from partner hosts. Like first-party podcast host analytics, the reach of these services is not measurable in a public
-way, and thus not included in this analysis.*
+way, and thus not included in this analysis. Some services like [Podtrac](https://analytics.podtrac.com/) provide both client-side and log-based measurement,
+only their client-side prefix-based measurement is available for public observation here.*
 
----
+<br><br>
 
-### A special note for March/April 2024 {#spreaker}
-_We now have a better signal of when Spreaker releases new episodes, so our crawlers are finding more, starting early-March. This more accurate view seems to have helped Podtrac and Adswizz the most in this month's share rankings._
+{{< details "_March 2024: Spreaker data_" >}}
+_Starting early March, we gained a better signal of when Spreaker releases new episodes, so our crawlers are finding more. This more accurate view seems to have helped Podtrac and Adswizz the most._
+{{< /details >}}
 
-### A special note for September/October 2023 {#s4p}
-_We now have a better signal of when Spotify for Podcasters (formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September._
+<br><br>
 
-_October was the first full month where this new signal was incorporated for the entire month, so should be a good baseline going forward.  It's likely that we were undercounting S4P prior to this,
-in general our goal is to observe and validate every change to every podcast._
-
-_Higher share of new episodes on S4P (which typically do not have prefixes) leads to lower share overall for all prefixes over these two months, but should be stable going forward now that we have a more accurate baseline._
+{{< details "_September 2023: Spotify for Podcasters data_" >}}
+_Starting mid-September, we gained a better signal of when Spotify for Podcasters (formerly Anchor) podcasts release new episodes, so our crawlers are finding more.
+Higher share of new episodes on S4P (which typically do not have prefixes) will have led to lower share overall._
+{{< /details >}}
 
 ---
 
