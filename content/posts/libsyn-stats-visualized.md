@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2022-02.png
-date: 2024-09-24T12:10:00-05:00
-lastmod: 2024-09-24T12:10:00-05:00
+date: 2024-10-08T11:27:00-05:00
+lastmod: 2024-10-08T11:27:00-05:00
 draft: false
-rssrevision: 277
+rssrevision: 278
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -840,6 +840,7 @@ Apr 2024	20000	12000	5000	2200	954	800	108
 May 2024	20000	12000	4800	2200	934	800	103
 Jun 2024	25000	14000	5500	2500	1099	900	127
 Jul 2024	26000	14000	5700	2600	1141	1000	128
+Aug 2024	26000	14000	5800	2700	1151	1000	128
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -930,6 +931,7 @@ Apr 2024	4.9
 May 2024	4.7
 Jun 2024	5.5
 Jul 2024	5.7
+Aug 2024	5.8
 {{< /graph >}}
 
 
@@ -940,6 +942,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+*Updated 2024-10-08, with latest median and mean data as of [Episode 278](https://thefeed.libsyn.com/278-exploring-chartables-shutdown-plus-backups-and-content-banking-for-podcasters).*
+
 *Updated 2024-09-24, with latest country and user agent data as of [Episode 277](https://thefeed.libsyn.com/277-iphone-16-ios-18-apple-intelligence-for-podcasting-and-podcast-app-updates).*
 
 *Updated 2024-09-10, with latest median and mean data as of [Episode 276](https://thefeed.libsyn.com/276-not-those-podcast-challenges-and-the-kelsey-brothers-100-million-podcast-deal).*
