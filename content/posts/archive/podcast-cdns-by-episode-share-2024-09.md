@@ -1,16 +1,19 @@
 ---
-title: "Top Podcast CDNs by Episode Share (October 2024)"
+title: "Top Podcast CDNs by Episode Share (September 2024)"
 description: "Ranked list of podcast CDNs (content delivery networks), based on number of new episodes published"
-slug: "podcast-cdns-by-episode-share"
+slug: "archive/podcast-cdns-by-episode-share-september-2024"
 images:
-- cdns-2024-10.png
-date: 2024-11-06T17:44:00-06:00
-lastmod: 2024-11-06T17:44:00-06:00
+- cdns-2024-09.png
+date: 2024-10-01T16:32:00-05:00
+lastmod: 2024-10-01T16:32:00-05:00
 draft: false
-rssrevision: 2024-10
+rssrevision: 2024-09
+tags:
+- archive
 ---
+*This is an archived version, the current version is [here](/podcast-cdns-by-episode-share/).*
 
-In our third and final installment observing the current state of the podcast world, as measured by number of new episodes produced in October 2024, 
+In our third and final installment observing the current state of the podcast world, as measured by number of new episodes produced in September 2024, 
 we wanted to take a look at which underlying CDNs serve which episodes, and which podcast hosting companies use which network.
 
 *See our earlier analyses of [podcast hosts by episode share](/podcast-hosts-by-episode-share) and [podcast trackers by episode share](/podcast-trackers-by-episode-share)*
@@ -26,9 +29,9 @@ global distribution.
 {{% subscribe %}}
 ---
 
-We started with our universe of _every single new podcast episode published_ (about 2.0 million in October 2024), and mapped the
+We started with our universe of _every single new podcast episode published_ (about 1.7 million in September 2024), and mapped the
 underlying host of the last entity in the request chain to a known CDN or network provider.  We were able to identify the underlying
-network for 99.84% of the universe.
+network for 99.88% of the universe.
 
 ---
 
@@ -75,7 +78,6 @@ Jun 2024	55.86	13.91	7.27	4.59	2.68	1.95	1.64	1.69	0.75		0.82
 Jul 2024	56.11	14.20	7.48	4.57	2.53	1.99	1.56	1.70	0.76	0.70				
 Aug 2024	55.93	14.14	8.02	4.52	2.44	1.95	1.45	1.46	0.81	0.66				
 Sep 2024	56.64	14.57	7.02	4.53	2.46	1.96	1.60	1.18	0.73	0.67				
-Oct 2024	56.74	13.59	7.37	4.65	3.01	1.98	1.58	0.95	0.79	0.59				
 {{< /graph >}}
 
 ---
@@ -125,19 +127,18 @@ Jun 2024	7.27	4.59	2.68	1.95	1.64	1.69	0.75		0.82
 Jul 2024	7.48	4.57	2.53	1.99	1.56	1.70	0.76	0.70				
 Aug 2024	8.02	4.52	2.44	1.95	1.45	1.46	0.81	0.66				
 Sep 2024	7.02	4.53	2.46	1.96	1.60	1.18	0.73	0.67				
-Oct 2024	7.37	4.65	3.01	1.98	1.58	0.95	0.79	0.59				
 {{< /graph >}}
 
 ---
 
 And finally, the top 50 podcast content delivery networks ordered by share percentage of new episodes published during 
-the month of October 2024.
+the month of September 2024.
 
 If significant, we also list the top podcast hosting companies using each CDN, and the percentage of their own episodes allocated to the network.
 
 ---
 
-### 1. [Amazon Cloudfront · 56.74%](https://aws.amazon.com/cloudfront/)
+### 1. [Amazon Cloudfront · 56.64%](https://aws.amazon.com/cloudfront/)
 
 Amazon CloudFront is a content delivery network (CDN) operated by Amazon Web Services with over 275 edge locations on six continents.
 
@@ -146,16 +147,16 @@ For episodes that used Amazon Cloudfront, here are the top underlying podcast ho
 1. {{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}} {{< span "weak" "100%" >}}
 2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "100%" >}}
 3. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "100%" >}}
-4. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "99%" >}}
+4. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "100%" >}}
 5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "100%" >}}
-6. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "100%" >}}
-7. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "100%" >}}
+6. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "99%" >}}
+7. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "100%" >}}
 8. {{< a "https://www.audiomeans.fr/" "Audiomeans" >}} {{< span "weak" "100%" >}}
-9. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "100%" >}}
-10. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "100%" >}}
+9. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "100%" >}}
+10. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "100%" >}}
 ---
 
-### 2. [Cloudflare · 13.59%](https://www.cloudflare.com/cdn/)
+### 2. [Cloudflare · 14.57%](https://www.cloudflare.com/cdn/)
 
 Cloudflare is an American web infrastructure and website security company that provides content delivery network (in over 250 cites in over 100 countries) and DDoS mitigation services. Cloudflare's services sit between a website's visitor and the customer's hosting provider, acting as a reverse proxy for websites.
 
@@ -170,10 +171,10 @@ For episodes that used Cloudflare, here are the top underlying podcast hosts, an
 7. {{< a "https://stand.fm/" "stand.fm" >}} {{< span "weak" "100%" >}}
 8. {{< a "https://kajabi.com/" "Kajabi" >}} {{< span "weak" "100%" >}}
 9. {{< a "https://www.podserve.fm/" "PodServe.fm" >}} {{< span "weak" "100%" >}}
-10. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "99%" >}}
+10. {{< a "https://www.sermonaudio.com/" "SermonAudio" >}} {{< span "weak" "32%" >}}
 ---
 
-### 3. [Akamai · 7.37%](https://www.akamai.com/)
+### 3. [Akamai · 7.02%](https://www.akamai.com/)
 
 Akamai is a global content delivery network (CDN), cybersecurity, and cloud service company, providing web and Internet security services. Akamai's Intelligent Edge Platform is one of the world's largest distributed computing platforms.
 
@@ -187,81 +188,84 @@ For episodes that used Akamai, here are the top underlying podcast hosts, and pe
 6. {{< a "https://www3.nhk.or.jp/news/" "NHK" >}} {{< span "weak" "100%" >}}
 7. {{< a "https://www.wdr.de/" "Westdeutscher Rundfunk" >}} {{< span "weak" "100%" >}}
 8. {{< a "https://www.br.de/index.html" "Bayerischer Rundfunk" >}} {{< span "weak" "100%" >}}
-9. {{< a "https://www.srf.ch/" "SRF" >}} {{< span "weak" "73%" >}}
+9. {{< a "https://www.srf.ch/" "SRF" >}} {{< span "weak" "75%" >}}
 10. {{< a "https://www.mc-doualiya.com/" "Monte Carlo Doualiya" >}} {{< span "weak" "100%" >}}
 ---
 
-### 4. [OVH · 4.65%](https://www.ovh.com/world/)
+### 4. [OVH · 4.53%](https://www.ovh.com/world/)
 
 OVH is a French cloud computing company which offers VPS, dedicated servers and other web services. As of 2016 OVH owned the world's largest data center in surface area.
 
 For episodes that used OVH, here are the top underlying podcast hosts, and percentage of their own episodes allocated to this network:
 
-1. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "97%" >}}
-2. {{< a "https://enacast.com/" "Enacast" >}} {{< span "weak" "100%" >}}
-3. {{< a "https://octopus.saooti.com/" "Octopus" >}} {{< span "weak" "100%" >}}
+1. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "95%" >}}
+2. {{< a "https://octopus.saooti.com/" "Octopus" >}} {{< span "weak" "100%" >}}
+3. {{< a "https://enacast.com/" "Enacast" >}} {{< span "weak" "100%" >}}
 4. {{< a "https://www.chga.fm/" "CHGA" >}} {{< span "weak" "100%" >}}
 5. {{< a "https://www.flumotion.com/" "Flumotion" >}} {{< span "weak" "100%" >}}
 6. {{< a "https://cfim.ca/" "CFIM" >}} {{< span "weak" "100%" >}}
-7. {{< a "https://zenomedia.com/" "Zeno Media" >}} {{< span "weak" "100%" >}}
+7. {{< a "https://zenomedia.com/" "Zeno Media" >}} {{< span "weak" "88%" >}}
 8. {{< a "https://djpod.com/" "Djpod" >}} {{< span "weak" "100%" >}}
-9. {{< a "https://podcloud.fr/" "podCloud" >}} {{< span "weak" "20%" >}}
-10. {{< a "https://vivrefm.com/" "Vivre FM" >}} {{< span "weak" "100%" >}}
+9. {{< a "https://rctgn.cat/" "Ràdio Ciutat de Tarragona" >}} {{< span "weak" "100%" >}}
+10. {{< a "https://podcloud.fr/" "podCloud" >}} {{< span "weak" "13%" >}}
 ---
 
-### 5. [Triton Digital · 3.01%](https://www.tritondigital.com/)
+### 5. [Triton Digital · 2.46%](https://www.tritondigital.com/)
 
 Triton Digital, formerly Triton Media Group, is a digital audio technology and advertising company based in Los Angeles.
 
 ---
 
-### 6. [Hetzner · 1.98%](https://www.hetzner.com/)
+### 6. [Hetzner · 1.96%](https://www.hetzner.com/)
 
 Hetzner Online GmbH is an Internet hosting company and data center operator based in Gunzenhausen, Germany.
 
 For episodes that used Hetzner, here are the top underlying podcast hosts, and percentage of their own episodes allocated to this network:
 
 1. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "100%" >}}
-2. {{< a "https://iono.fm/" "iono.fm" >}} {{< span "weak" "100%" >}}
-3. {{< a "https://www.podcaster.de/" "podcaster.de" >}} {{< span "weak" "100%" >}}
+2. {{< a "https://www.podcaster.de/" "podcaster.de" >}} {{< span "weak" "100%" >}}
+3. {{< a "https://iono.fm/" "iono.fm" >}} {{< span "weak" "100%" >}}
 4. {{< a "https://letscast.fm/" "LetsCast.fm" >}} {{< span "weak" "100%" >}}
-5. {{< a "https://kabbalahmedia.info/" "Kabbalah Media" >}} {{< span "weak" "100%" >}}
-6. {{< a "https://hearthis.at/" "hearthis.at" >}} {{< span "weak" "100%" >}}
-7. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}} {{< span "weak" "60%" >}}
-8. {{< a "https://www.julephosting.de/" "Julep Hosting" >}} {{< span "weak" "50%" >}}
+5. {{< a "https://hearthis.at/" "hearthis.at" >}} {{< span "weak" "100%" >}}
+6. {{< a "https://kabbalahmedia.info/" "Kabbalah Media" >}} {{< span "weak" "100%" >}}
+7. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}} {{< span "weak" "55%" >}}
+8. {{< a "https://www.julephosting.de/" "Julep Hosting" >}} {{< span "weak" "53%" >}}
 9. {{< a "https://kerkdienstgemist.nl/" "Kerkdienst Gemist" >}} {{< span "weak" "100%" >}}
 10. {{< a "https://www.freie-radios.net/" "Bundesverband Freier Radios" >}} {{< span "weak" "100%" >}}
 ---
 
-### 7. [Fastly · 1.58%](https://www.fastly.com/products/cdn)
+### 7. [Fastly · 1.60%](https://www.fastly.com/products/cdn)
 
 Fastly's CDN service follows the reverse proxy model, routing all website traffic through their own servers instead of providing a 'cdn.mydomain.com' address to store site-specific files. It then fetches content from the point of presence nearest to the location of the requesting user, out of nearly 60 worldwide.
 
 For episodes that used Fastly, here are the top underlying podcast hosts, and percentage of their own episodes allocated to this network:
 
-1. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "100%" >}}
-2. {{< a "https://www.squarespace.com/" "Squarespace" >}} {{< span "weak" "100%" >}}
+1. {{< a "https://www.squarespace.com/" "Squarespace" >}} {{< span "weak" "100%" >}}
+2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "100%" >}}
 3. {{< a "http://www.rtve.es/" "RTVE" >}} {{< span "weak" "100%" >}}
-4. {{< a "https://pod.space/" "Podspace" >}} {{< span "weak" "100%" >}}
-5. {{< a "https://www.podcast.co/" "Podcast.co" >}} {{< span "weak" "100%" >}}
-6. {{< a "https://www.rtp.pt/" "RTP" >}} {{< span "weak" "100%" >}}
-7. {{< a "https://www.ondacero.es/" "Onda Cero" >}} {{< span "weak" "100%" >}}
+4. {{< a "https://www.podcast.co/" "Podcast.co" >}} {{< span "weak" "100%" >}}
+5. {{< a "https://pod.space/" "Podspace" >}} {{< span "weak" "100%" >}}
+6. {{< a "https://www.ondacero.es/" "Onda Cero" >}} {{< span "weak" "100%" >}}
+7. {{< a "https://www.rtp.pt/" "RTP" >}} {{< span "weak" "100%" >}}
 8. {{< a "https://www.eitb.eus/" "EITB" >}} {{< span "weak" "100%" >}}
-9. {{< a "https://www.audion.fm/" "Audion" >}} {{< span "weak" "98%" >}}
-10. {{< a "https://sermons.faithlife.com/" "Faithlife Sermons" >}} {{< span "weak" "100%" >}}
+9. {{< a "https://www.ccma.cat/catradio/podcast/" "CCMA" >}} {{< span "weak" "100%" >}}
+10. {{< a "https://www.audion.fm/" "Audion" >}} {{< span "weak" "99%" >}}
 ---
 
-### 8. [Hivelocity · 0.95%](https://www.hivelocity.net/)
+### 8. [Hivelocity · 1.18%](https://www.hivelocity.net/)
 
 Hivelocity provides Dedicated Servers, Colocation and Cloud Hosting services to customers from over 130 countries since 2002. Hivelocity operates 31 data centers on 4 continents.
 
 For episodes that used Hivelocity, here are the top underlying podcast hosts, and percentage of their own episodes allocated to this network:
 
-1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "20%" >}}
-2. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "9%" >}}
+1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "22%" >}}
+2. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "13%" >}}
+3. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "19%" >}}
+4. {{< a "https://www.securenetsystems.net/" "Securenet Systems" >}} {{< span "weak" "35%" >}}
+5. {{< a "https://1310kfka.com/" "Podcast 45" >}} {{< span "weak" "100%" >}}
 ---
 
-### 9. [SoundStack · 0.79%](https://soundstack.com/)
+### 9. [SoundStack · 0.73%](https://soundstack.com/)
 
 SoundStack simplifies audio through the development of platform-agnostic technology for creators and advertisers.
 
@@ -270,67 +274,68 @@ For episodes that used SoundStack, here are the top underlying podcast hosts, an
 1. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "98%" >}}
 ---
 
-### 10. [Amazon S3 · 0.59%](https://aws.amazon.com/s3/)
+### 10. [Amazon S3 · 0.67%](https://aws.amazon.com/s3/)
 
 Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
 
 For episodes that used Amazon S3, here are the top underlying podcast hosts, and percentage of their own episodes allocated to this network:
 
-1. {{< a "http://thecloudnetwork.com/" "the Cloud Network" >}} {{< span "weak" "94%" >}}
-2. {{< a "https://feedpress.com/" "Feedpress" >}} {{< span "weak" "25%" >}}
+1. {{< a "http://thecloudnetwork.com/" "the Cloud Network" >}} {{< span "weak" "95%" >}}
+2. {{< a "https://www.nucleus.church/" "Nucleus" >}} {{< span "weak" "100%" >}}
+3. {{< a "https://feedpress.com/" "Feedpress" >}} {{< span "weak" "27%" >}}
 ---
 
 ### 11-50.
 
-11. {{< a "https://www.cdn77.com/" "CDN77 · 0.55%" >}}
-12. {{< a "https://cloud.google.com/" "Google Cloud · 0.53%" >}}
-13. {{< a "https://www.zenlayer.com/" "Zenlayer · 0.48%" >}}
-14. {{< a "https://cloud.mts.ru/en/" "MTS Cloud · 0.31%" >}}
-15. {{< a "https://intergrid.com.au/" "Intergrid · 0.30%" >}}
-16. {{< a "https://he.net/" "Hurricane Electric · 0.27%" >}}
-17. {{< a "https://www.deft.com/" "Deft · 0.25%" >}}
-18. {{< a "https://www.spie-ics.com/nos-solutions/cloud/" "SPIE ICS · 0.20%" >}}
-19. {{< a "https://www.edgecast.com/" "Edgecast · 0.20%" >}}
-20. {{< a "https://www.cachefly.com/" "CacheFly · 0.19%" >}}
+11. {{< a "https://cloud.google.com/" "Google Cloud · 0.53%" >}}
+12. {{< a "https://www.zenlayer.com/" "Zenlayer · 0.51%" >}}
+13. {{< a "https://www.cdn77.com/" "CDN77 · 0.50%" >}}
+14. {{< a "https://cloud.mts.ru/en/" "MTS Cloud · 0.32%" >}}
+15. {{< a "https://intergrid.com.au/" "Intergrid · 0.29%" >}}
+16. {{< a "https://www.deft.com/" "Deft · 0.23%" >}}
+17. {{< a "https://www.alibabacloud.com/product/networking" "Alibaba Cloud CDN · 0.22%" >}}
+18. {{< a "https://he.net/" "Hurricane Electric · 0.20%" >}}
+19. {{< a "https://www.spie-ics.com/nos-solutions/cloud/" "SPIE ICS · 0.20%" >}}
+20. {{< a "https://aws.amazon.com/ec2/" "Amazon EC2 · 0.19%" >}}
 
 <br>
 
-21. {{< a "https://www.alibabacloud.com/product/networking" "Alibaba Cloud CDN · 0.19%" >}}
-22. {{< a "https://edgeuno.com/" "Edgeuno · 0.18%" >}}
-23. {{< a "https://aws.amazon.com/ec2/" "Amazon EC2 · 0.18%" >}}
-24. {{< a "https://en.wikipedia.org/wiki/Endurance_International_Group" "Unified Layer · 0.18%" >}}
-25. {{< a "https://www.serverroom.net/" "Server Room · 0.17%" >}}
-26. {{< a "https://www.dreamhost.com/" "DreamHost · 0.15%" >}}
-27. {{< a "https://cloud.ionos.com/" "IONOS Cloud · 0.15%" >}}
-28. {{< a "https://1gservers.com/" "1G Servers · 0.15%" >}}
-29. {{< a "https://www.2connect.cz/" "2 connect · 0.14%" >}}
-30. {{< a "https://www.constant.com/" "Constant · 0.14%" >}}
+21. {{< a "https://www.cachefly.com/" "CacheFly · 0.18%" >}}
+22. {{< a "https://www.edgecast.com/" "Edgecast · 0.18%" >}}
+23. {{< a "https://en.wikipedia.org/wiki/Endurance_International_Group" "Unified Layer · 0.18%" >}}
+24. {{< a "https://www.cogentco.com/en/" "Cogent · 0.16%" >}}
+25. {{< a "https://www.serverroom.net/" "Server Room · 0.16%" >}}
+26. {{< a "https://archive.org/" "Internet Archive · 0.15%" >}}
+27. {{< a "https://edgeuno.com/" "Edgeuno · 0.15%" >}}
+28. {{< a "https://cloud.ionos.com/" "IONOS Cloud · 0.14%" >}}
+29. {{< a "https://www.dreamhost.com/" "DreamHost · 0.14%" >}}
+30. {{< a "https://1gservers.com/" "1G Servers · 0.14%" >}}
 
 <br>
 
-31. {{< a "https://www.sharp-stream.com/" "Sharpstream · 0.12%" >}}
-32. {{< a "https://www.swan.sk/" "SWAN · 0.11%" >}}
-33. {{< a "https://wasabi.com/" "Wasabi · 0.11%" >}}
-34. {{< a "https://www.aruba.it/" "Aruba.it · 0.10%" >}}
-35. {{< a "https://www.hostinger.com/" "Hostinger · 0.09%" >}}
-36. {{< a "https://www.fdcservers.net/" "FDC Servers · 0.09%" >}}
-37. {{< a "https://www.godaddy.com/" "GoDaddy · 0.09%" >}}
-38. {{< a "https://automattic.com/" "Automattic · 0.09%" >}}
-39. {{< a "https://www.digitalocean.com/" "DigitalOcean · 0.08%" >}}
-40. {{< a "https://microsoft.com/" "Microsoft · 0.08%" >}}
+31. {{< a "https://www.constant.com/" "Constant · 0.13%" >}}
+32. {{< a "https://www.2connect.cz/" "2 connect · 0.13%" >}}
+33. {{< a "https://www.sharp-stream.com/" "Sharpstream · 0.12%" >}}
+34. {{< a "https://wasabi.com/" "Wasabi · 0.11%" >}}
+35. {{< a "https://www.swan.sk/" "SWAN · 0.10%" >}}
+36. {{< a "https://www.godaddy.com/" "GoDaddy · 0.10%" >}}
+37. {{< a "https://automattic.com/" "Automattic · 0.10%" >}}
+38. {{< a "https://www.gtt.net/us-en" "GTT Communications · 0.10%" >}}
+39. {{< a "http://www.uplus.co.kr/home/Index.hpi" "LG DACOM · 0.09%" >}}
+40. {{< a "https://www.digitalocean.com/" "DigitalOcean · 0.09%" >}}
 
 <br>
 
-41. {{< a "http://www.uplus.co.kr/home/Index.hpi" "LG DACOM · 0.08%" >}}
-42. {{< a "https://netrack.ru/" "NETRACK Russia · 0.08%" >}}
+41. {{< a "https://microsoft.com/" "Microsoft · 0.07%" >}}
+42. {{< a "https://www.aruba.it/" "Aruba.it · 0.07%" >}}
 43. {{< a "https://www.leaseweb.com/" "Leaseweb · 0.07%" >}}
-44. {{< a "https://www.err.ee/" "Eesti Rahvusringhääling · 0.06%" >}}
-45. {{< a "https://www.linode.com/" "Linode · 0.06%" >}}
-46. {{< a "https://www.cogentco.com/en/" "Cogent · 0.05%" >}}
-47. {{< a "https://www.infomaniak.com/en" "Infomaniak · 0.05%" >}}
-48. {{< a "https://www.hosteurope.de/en/" "Host Europe · 0.05%" >}}
-49. {{< a "https://www.scaleway.com/en/" "Scaleway · 0.05%" >}}
-50. {{< a "https://apa.at/about/apa-tech/" "APA Tech · 0.05%" >}}
+44. {{< a "https://netrack.ru/" "NETRACK Russia · 0.07%" >}}
+45. {{< a "https://www.fdcservers.net/" "FDC Servers · 0.06%" >}}
+46. {{< a "https://www.err.ee/" "Eesti Rahvusringhääling · 0.06%" >}}
+47. {{< a "https://www.linode.com/" "Linode · 0.06%" >}}
+48. {{< a "https://www.tatacommunications.com/" "Tata Communications · 0.05%" >}}
+49. {{< a "https://www.quantil.com/" "QUANTIL · 0.05%" >}}
+50. {{< a "https://www.hosteurope.de/en/" "Host Europe · 0.05%" >}}
 
 ---
 Analysis by [John Spurlock](https://twitter.com/johnspurlock)
@@ -344,8 +349,6 @@ We've incorporated these patterns along with some of our own to come up with the
 And thanks to folks working at various networks to help us identify each one as accurately as possible.
 
 ---
-*Updated 2024-11-06, with data for the month of October 2024.*
-
 *Updated 2024-10-01, with data for the month of September 2024.*
 
 *Updated 2024-09-01, with data for the month of August 2024.*
@@ -424,7 +427,6 @@ And thanks to folks working at various networks to help us identify each one as 
 
 ---
 Previous versions:
- - [Podcast Host Rankings by Episode Share (September 2024)](/archive/podcast-cdns-by-episode-share-september-2024/)
  - [Podcast Host Rankings by Episode Share (August 2024)](/archive/podcast-cdns-by-episode-share-august-2024/)
  - [Podcast Host Rankings by Episode Share (July 2024)](/archive/podcast-cdns-by-episode-share-july-2024/)
  - [Podcast Host Rankings by Episode Share (June 2024)](/archive/podcast-cdns-by-episode-share-june-2024/)
@@ -465,4 +467,4 @@ Previous versions:
 {{% funding %}}
 
 ---
-*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/podcast-cdns-by-episode-share.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-cdns-by-episode-share-2024-09.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
