@@ -160,29 +160,6 @@ Nov 2024	3.21	2.31	1.52	1.27	0.63	0.44	0.43	0.41	0.29	0.21	0.19	0.17	0.14	0.12	0
 
 ### Overall
 
-At least one tracker was found on 20.23% of new episodes in October, shrinking 4.10% from last month.
-
-For episodes that used at least one tracker, here are the top underlying podcast hosts:
-
-1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "35.56%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "12.44%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "8.60%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "8.37%" >}}
-5. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "2.95%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.88%" >}}
-7. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "2.04%" >}}
-8. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.85%" >}}
-9. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "1.61%" >}}
-10. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "1.36%" >}}
----
-### Individual Service Rankings
-
-And now, the full list of individual podcast analytics services ordered by new episodes published during the month of October 2024.
-
----
-
-### Overall
-
 At least one tracker was found on 19.45% of new episodes in November, shrinking 3.89% from last month.
 
 For episodes that used at least one tracker, here are the top underlying podcast hosts:
