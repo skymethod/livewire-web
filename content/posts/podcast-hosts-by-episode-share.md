@@ -46,10 +46,10 @@ least by sheer amount of new output.
 ### A special note for March/April 2024 {#spreaker}
 _We now have a better signal of when Spreaker releases new episodes, so our crawlers are finding more, starting early-March. It's likely that we were undercounting Spreaker prior to this._
 
-### A special note for September/October 2023 {#s4p}
-_We now have a better signal of when Spotify for Podcasters (formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September._
+### A special note for September/October 2023 {#s4c}
+_We now have a better signal of when Spotify for Creators (formerly Spotify for Podcasters, formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September._
 
-_October was the first full month where this new signal was incorporated for the entire month, so should be a more accurate baseline going forward.  It's likely that we were undercounting S4P prior to this,
+_October was the first full month where this new signal was incorporated for the entire month, so should be a more accurate baseline going forward.  It's likely that we were undercounting S4C prior to this,
 in general our goal is to observe and validate every change to every podcast._
 
 ---
@@ -59,7 +59,7 @@ First, a quick chart of the top podcast hosting companies over time, based on sh
 ---
 
 {{< graph hostshares "Top Podcast Hosting Companies by New Episode Share" "height:500px">}}
-Month	Spotify for Podcasters	Spreaker	Buzzsprout	Megaphone	Podbean	Omny Studio	Libsyn	Acast	Simplecast	RSS.com	Soundcloud	Transistor	iVoox	Captivate	Triton Digital	Audiomeans	RedCircle	Blubrry	Audioboom
+Month	Spotify for Creators	Spreaker	Buzzsprout	Megaphone	Podbean	Omny Studio	Libsyn	Acast	Simplecast	RSS.com	Soundcloud	Transistor	iVoox	Captivate	Triton Digital	Audiomeans	RedCircle	Blubrry	Audioboom
 Sep 2021	24	7	8	2	5	4	5	1	1	1	5	1	3	2	2			2	1
 Oct 2021	23.1	7.3	8.0	2.1	4.5	4.1	4.9	1.2	1.4	1.1	4.7	1.1	2.8	2.1	1.5			1.8	1.4
 Nov 2021	22.4	7.0	8.4	2.2	4.5	4.2	4.9	1.3	1.5	1.1	4.6	1.1	2.9	2.4	1.4			1.7	1.5
@@ -103,7 +103,7 @@ Nov 2024	23.7	12.7	6.7	4.3	4.0	3.6	3.3	2.6	2.3	2.2	2.1	1.9	1.6	1.5	1.1
 
 ---
 
-{{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}}, {{< a "https://www.spreaker.com/" "Spreaker" >}}, and {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} are the clear top three producers of new podcast episodes.
+{{< a "https://creators.spotify.com/" "Spotify for Creators" >}}, {{< a "https://www.spreaker.com/" "Spreaker" >}}, and {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} are the clear top three producers of new podcast episodes.
 
 Now let's graph the same data again, excluding them to see the others more clearly.
 
@@ -160,7 +160,7 @@ the month of November 2024.
 A rounded percentage of episode share is also included if at least 1%.
 
 ---
-1. {{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}} {{< span "weak" "23.7%" >}}
+1. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "23.7%" >}}
 2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "12.7%" >}}
 3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "6.7%" >}}
 4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.3%" >}}
@@ -437,7 +437,7 @@ We've incorporated these patterns along with some of our own to come up with the
 
 *Updated 2023-11-02, with data for the month of October 2023. Still ex Radio France. October was the first full month where the new S4P signal was incorporated for the entire month, so should be a more accurate baseline going forward. It’s likely that we were undercounting S4P prior to this, in general our goal is to observe and validate every change to every podcast.*
 
-*Updated 2023-10-01, with data for the month of September 2023. Still ex Radio France. We now have a better signal of when Spotify for Podcasters (formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September.*
+*Updated 2023-10-01, with data for the month of September 2023. Still ex Radio France. We now have a better signal of when Spotify for Creators (formerly Spotify for Podcasters, formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September.*
 
 *Updated 2023-09-01, with data for the month of August 2023. Still ex Radio France.*
 

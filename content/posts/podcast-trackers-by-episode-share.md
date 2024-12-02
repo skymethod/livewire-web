@@ -51,8 +51,8 @@ _Starting early March, we gained a better signal of when Spreaker releases new e
 
 <br><br>
 
-{{< details "_September 2023: Spotify for Podcasters data_" >}}
-_Starting mid-September, we gained a better signal of when Spotify for Podcasters (formerly Anchor) podcasts release new episodes, so our crawlers are finding more.
+{{< details "_September 2023: Spotify for Creators data_" >}}
+_Starting mid-September, we gained a better signal of when Spotify for Creators (formerly Spotify for Podcasters, formerly Anchor) podcasts release new episodes, so our crawlers are finding more.
 Higher share of new episodes on S4P (which typically do not have prefixes) will have led to lower share overall._
 {{< /details >}}
 
@@ -587,7 +587,7 @@ For episodes that used Feedpress, here are the top underlying podcast hosts:
 2. {{< a "https://www.npr.org/" "NPR" >}} {{< span "weak" "6.48%" >}}
 3. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.72%" >}}
 4. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "2.72%" >}}
-5. {{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}} {{< span "weak" "2.67%" >}}
+5. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "2.67%" >}}
 6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.83%" >}}
 7. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.38%" >}}
 8. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "1.34%" >}}
@@ -685,7 +685,7 @@ For episodes that used United Podcasters, here are the top underlying podcast ho
 5. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "5.14%" >}}
 6. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "4.57%" >}}
 7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.86%" >}}
-8. {{< a "https://podcasters.spotify.com/" "Spotify for Podcasters" >}} {{< span "weak" "2.86%" >}}
+8. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "2.86%" >}}
 9. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "1.14%" >}}
 10. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "0.57%" >}}
 ---
@@ -800,9 +800,9 @@ We've incorporated these patterns along with some of our own to come up with the
 
 *Updated 2023-12-03, with data for the month of November 2023.*
 
-*Updated 2023-11-02, with data for the month of October 2023. Improved accuracy in observing Spotify for Podcasters podcasts: more S4P new episodes leads to lower share of prefixed episodes overall.*
+*Updated 2023-11-02, with data for the month of October 2023. Improved accuracy in observing Spotify for Creators podcasts: more S4C new episodes leads to lower share of prefixed episodes overall.*
 
-*Updated 2023-10-01, with data for the month of September 2023. Improved accuracy in observing Spotify for Podcasters podcasts: more S4P new episodes leads to lower share of prefixed episodes overall.*
+*Updated 2023-10-01, with data for the month of September 2023. Improved accuracy in observing Spotify for Creators podcasts: more S4C new episodes leads to lower share of prefixed episodes overall.*
 
 *Updated 2023-09-01, with data for the month of August 2023.*
 
