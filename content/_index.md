@@ -8,6 +8,8 @@ lastmod: 2024-12-01T18:24:00-06:00
 
 ---
 
+New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
+
 New data: [Top Podcast CDNs by Episode Share (Nov 2024)](/podcast-cdns-by-episode-share)
 
 New data: [Top Podcast Tracking Services by Episode Share (Nov 2024)](/podcast-trackers-by-episode-share)
@@ -15,8 +17,6 @@ New data: [Top Podcast Tracking Services by Episode Share (Nov 2024)](/podcast-t
 New data: [Top Podcast Hosting Companies by Episode Share (Nov 2024)](/podcast-hosts-by-episode-share)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
-
-New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
 New data: [Statistics about Podcast Chapters (Apr 2024)](/podcast-chapters-stats)
 
