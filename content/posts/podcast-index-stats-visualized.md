@@ -6,6 +6,7 @@ images:
 - podcast-index-stats.png
 date: 2022-12-03T15:42:00-06:00
 lastmod: 2022-12-03T15:42:00-06:00
+updatefrequency: daily
 draft: false
 ---
 

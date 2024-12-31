@@ -4,8 +4,8 @@ description: "Ranked list of podcast CDNs (content delivery networks), based on 
 slug: "archive/podcast-cdns-by-episode-share-january-2024"
 images:
 - cdns-2024-01.png
-date: 2024-02-02T15:41:00-06:0
-lastmod: 2024-02-02T15:41:00-06:0
+date: 2024-02-02T15:41:00-06:00
+lastmod: 2024-02-02T15:41:00-06:00
 draft: false
 rssrevision: 2024-01
 tags:
