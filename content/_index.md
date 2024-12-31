@@ -26,7 +26,7 @@ Deep dive: [Apple Podcasts vs AppleCoreMedia downloads, post 16.4](/apple-podcas
 
 Deep dive: [A Tale of Two Bytes: Prefix vs Host-based analytics](/a-tale-of-two-bytes-prefix-vs-host-based-analytics)
 
-New graphs: [Podcast Index Statistics, visualized](/podcast-index-stats-visualized)
+New graphs: [Podcast Index Statistics, visualized (updated daily)](/podcast-index-stats-visualized)
 
 Breaking: [Podtrac's share of new podcast episodes taking off](/podtrac-share-of-new-episodes-taking-off)
 
