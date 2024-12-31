@@ -3,7 +3,7 @@
     <header id="post-header">
         <h1>{{ .Title }}</h1>
 		{{- if .Param "updatefrequency" -}}
-			<!-- if there is an updatefrequency in the front matter, this writes a semantically correct pubdate but shows a message that it's updated on a daily basis -->
+			<!-- if there is an updatefrequency in the front matter, this writes a semantically correct pubdate but shows a message that it's updated on a (whatever) basis -->
 			<time pubdate {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>This page is updated {{ .Param "updatefrequency" }}</time>
 		{{- else if isset .Params "date" -}}
 			<!-- else, we will show the actual date this page was last updated -->
