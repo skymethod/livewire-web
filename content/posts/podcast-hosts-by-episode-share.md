@@ -4,8 +4,8 @@ description: "Ranked list of podcast hosts, based on number of new episodes publ
 slug: "podcast-hosts-by-episode-share"
 images:
 - ranking-2025-01.png
-date: 2025-02-03T10:10:00-05:00
-lastmod: 2025-02-03T10:10:00-05:00
+date: 2025-02-03T11:18:00-05:00
+lastmod: 2025-02-03T11:18:00-05:00
 draft: false
 rssrevision: 2025-01
 ---
@@ -31,7 +31,7 @@ In cases where a retail podcast host uses another podcast host to serve the audi
 first host. In cases where a podcast migrates from one host to new host, we credit the new host.
 In general, the intent is to identify the podcast host the podcaster would say they are dealing with.
 
-We were _not_ able to identify a known host for 3.94% of the new episodes found in December.
+We were _not_ able to identify a known host for 3.94% of the new episodes found in January.
 
 {{% subscribe %}}
 ---
@@ -41,16 +41,26 @@ but it's often difficult to compare apples to apples - especially when consideri
 Looking at only new episodes is one fairly objective way to compare each platform, at
 least by sheer amount of new output.
 
----
+<br><br>
 
-### A special note for March/April 2024 {#spreaker}
+{{< details "_January 2025: Buzzsprout data_" >}}
+_Previous reports for November and December were missing a portion of new Buzzsprout episodes, due to our crawler being blocked by a firewall.  This should be fixed going forward, and the Buzzsprout numbers for November and December have been updated in the current chart and archive pages._
+{{< /details >}}
+
+<br><br>
+
+{{< details "_March/April 2024: Spreaker data_" >}}
 _We now have a better signal of when Spreaker releases new episodes, so our crawlers are finding more, starting early-March. It's likely that we were undercounting Spreaker prior to this._
+{{< /details >}}
 
-### A special note for September/October 2023 {#s4c}
+<br><br>
+
+{{< details "_September/October 2023: Spotify for Creators data_" >}}
 _We now have a better signal of when Spotify for Creators (formerly Spotify for Podcasters, formerly Anchor) podcasts release new episodes, so our crawlers are finding more, starting mid-September._
 
 _October was the first full month where this new signal was incorporated for the entire month, so should be a more accurate baseline going forward.  It's likely that we were undercounting S4C prior to this,
 in general our goal is to observe and validate every change to every podcast._
+{{< /details >}}
 
 ---
 
@@ -98,8 +108,8 @@ Jul 2024	25.1	9.9	8.1	4.0	4.2	3.6	2.1	2.0	2.4	4.5	1.7	1.5	2.8	1.4	1.0
 Aug 2024	24.1	11.6	8.1	4.2	4.8	3.6	2.1	2.1	2.3	4.3	1.7	1.5	2.7	1.1					
 Sep 2024	24.6	10.7	8.5	4.1	4.2	3.5	2.4	2.2	2.4	3.6	1.8	1.5	2.7	1.4		1.4			
 Oct 2024	23.6	12.1	7.9	4.0	4.3	3.4	2.4	2.2	2.5	3.7	1.7	1.5	2.2	1.6	1.0	1.0			
-Nov 2024	23.7	12.7	6.7	4.0	4.3	3.3	2.3	2.2	2.6	3.6	1.9	1.5	2.1	1.6	1.1				
-Dec 2024	24.4	13.5	6.5	4.0	4.2	3.4	2.4	2.3	2.5	3.2	1.8	1.5	2.0	1.5	1.0				
+Nov 2024	23.8	12.7	7.6	4.0	4.2	3.3	2.3	2.2	2.5	3.5	1.9	1.4	2.1	1.6	1.1				
+Dec 2024	24.1	13.3	7.9	4.0	4.1	3.3	2.3	2.2	2.5	3.2	1.8	1.5	2.0	1.4	1.0				
 Jan 2025	27.0	14.3	9.4	3.9	3.7	3.3	2.8	2.7	2.2	2.2	2.2	1.7	1.7	1.0					
 {{< /graph >}}
 
@@ -151,8 +161,8 @@ Jul 2024	4.0	4.2	3.6	2.1	2.0	2.4	4.5	1.7	1.5	2.8	1.4	1.0
 Aug 2024	4.2	4.8	3.6	2.1	2.1	2.3	4.3	1.7	1.5	2.7	1.1					
 Sep 2024	4.1	4.2	3.5	2.4	2.2	2.4	3.6	1.8	1.5	2.7	1.4		1.4			
 Oct 2024	4.0	4.3	3.4	2.4	2.2	2.5	3.7	1.7	1.5	2.2	1.6	1.0	1.0			
-Nov 2024	4.0	4.3	3.3	2.3	2.2	2.6	3.6	1.9	1.5	2.1	1.6	1.1				
-Dec 2024	4.0	4.2	3.4	2.4	2.3	2.5	3.2	1.8	1.5	2.0	1.5	1.0				
+Nov 2024	4.0	4.2	3.3	2.3	2.2	2.5	3.5	1.9	1.4	2.1	1.6	1.1				
+Dec 2024	4.0	4.1	3.3	2.3	2.2	2.5	3.2	1.8	1.5	2.0	1.4	1.0				
 Jan 2025	3.9	3.7	3.3	2.8	2.7	2.2	2.2	2.2	1.7	1.7	1.0					
 {{< /graph >}}
 
@@ -399,7 +409,7 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
-*Updated 2025-02-03, with data for the month of January 2025. Still ex Radio France.*
+*Updated 2025-02-03, with data for the month of January 2025. Still ex Radio France. Corrected Buzzsprout numbers for November and December, which were missing a portion of new Buzzsprout episodes, due to our crawler being blocked by a firewall.  This should be fixed going forward, in general our goal is to observe and validate every change to every podcast.*
 
 *Updated 2025-01-02, with data for the month of December 2024. Still ex Radio France.*
 

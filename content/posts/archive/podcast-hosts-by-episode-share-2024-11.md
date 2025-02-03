@@ -163,20 +163,20 @@ the month of November 2024.
 A rounded percentage of episode share is also included if at least 1%.
 
 ---
-1. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "23.7%" >}}
+1. {{< a "https://podcasters.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "23.8%" >}}
 2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "12.7%" >}}
-3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "6.7%" >}}
-4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.3%" >}}
+3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "7.6%" >}}
+4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.2%" >}}
 5. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "4.0%" >}}
-6. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.6%" >}}
+6. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.5%" >}}
 7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.3%" >}}
-8. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "2.6%" >}}
+8. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "2.5%" >}}
 9. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.3%" >}}
 10. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "2.2%" >}}
 11. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "2.1%" >}}
 12. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "1.9%" >}}
 13. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.6%" >}}
-14. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.5%" >}}
+14. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.4%" >}}
 15. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.1%" >}}
 16. {{< a "https://www.podigee.com/" "Podigee" >}}
 17. {{< a "https://www.wideorbit.com/" "WideOrbit" >}}

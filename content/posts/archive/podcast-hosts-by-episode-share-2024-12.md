@@ -165,20 +165,20 @@ the month of December 2024.
 A rounded percentage of episode share is also included if at least 1%.
 
 ---
-1. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "24.4%" >}}
-2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "13.5%" >}}
-3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "6.5%" >}}
-4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.2%" >}}
+1. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "24.1%" >}}
+2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "13.3%" >}}
+3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "7.9%" >}}
+4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.1%" >}}
 5. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "4.0%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.4%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.3%" >}}
 7. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.2%" >}}
 8. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "2.5%" >}}
-9. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.4%" >}}
-10. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "2.3%" >}}
+9. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.3%" >}}
+10. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "2.2%" >}}
 11. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "2.0%" >}}
 12. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "1.8%" >}}
 13. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.5%" >}}
-14. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.5%" >}}
+14. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.4%" >}}
 15. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "1.0%" >}}
 16. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.0%" >}}
 17. {{< a "https://www.wideorbit.com/" "WideOrbit" >}}
