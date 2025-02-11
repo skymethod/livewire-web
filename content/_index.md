@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2023-01-15T18:32:00-06:00
-lastmod: 025-02-03T18:07:00-05:00
+lastmod: 2025-02-11T17:04:00-05:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
 New data: [Top Podcast CDNs by Episode Share (Jan 2025)](/podcast-cdns-by-episode-share)
 
@@ -15,8 +17,6 @@ New data: [Top Podcast Tracking Services by Episode Share (Jan 2025)](/podcast-t
 New data: [Top Podcast Hosting Companies by Episode Share (Jan 2025)](/podcast-hosts-by-episode-share)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
-
-New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
 New data: [Statistics about Podcast Chapters (Apr 2024)](/podcast-chapters-stats)
 
