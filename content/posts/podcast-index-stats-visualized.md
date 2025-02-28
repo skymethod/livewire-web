@@ -34,7 +34,7 @@ https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWithNewEpisodes
 ---
 
 {{< graph feeds-with "Feeds with transcripts, value blocks, chapters, etc">}}
-Date	Value blocks	Transcripts	Funding	Chapters	Medium=Music	Medium=Video
+Date	Value blocks	Transcripts	Funding	Chapters	Medium=Music	Medium=Video	Social Interact
 https://stats.livewire.io/pc20-counts-daily.tsv?columns=feedsWith
 {{< /graph >}}
 
