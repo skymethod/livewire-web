@@ -16,7 +16,7 @@ The [Podcast Index](https://podcastindex.org), an open index of all podcasts, pr
 ---
 Here is a live look at the Podcast Index:
 
-{{< iframe src="https://stats.livewire.io/pc20-counts-summary.html" height="720" >}}
+{{< iframe src="https://stats.livewire.io/pc20-counts-summary.html" height="780" >}}
 
 ---
 
