@@ -1,7 +1,7 @@
 ---
 title: "Top Podcast Hosting Companies by Episode Share (January 2025)"
 description: "Ranked list of podcast hosts, based on number of new episodes published"
-slug: "podcast-hosts-by-episode-share"
+slug: "archive/podcast-hosts-by-episode-share-january-2025"
 images:
 - ranking-2025-01.png
 date: 2025-02-03T11:18:00-05:00
