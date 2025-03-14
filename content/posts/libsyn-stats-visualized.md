@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2024-10.png
-date: 2025-02-25T11:11:00-05:00
-lastmod: 2025-02-25T11:11:00-05:00
+date: 2025-03-14T06:26:00-04:00
+lastmod: 2025-03-14T06:26:00-04:00
 draft: false
-rssrevision: 287
+rssrevision: 288
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -885,6 +885,7 @@ Sep 2024	26000	14000	5800	2600	1132	1000	125
 Oct 2024	27000	15000	5700	2700	1132	1000	128
 Nov 2024	28000	15000	5800	2700	1168	1000	122
 Dec 2024	29000	15000	5800	2700	1190	1000	129
+Jan 2025	27000	15000	5800	2600	1143	1000	127
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -980,6 +981,7 @@ Sep 2024	5.7
 Oct 2024	5.7
 Nov 2024	5.7
 Dec 2024	5.8
+Jan 2025	5.7
 {{< /graph >}}
 
 
@@ -990,6 +992,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+
+*Updated 2025-03-14, with latest median and mean data as of [Episode 288](https://thefeed.libsyn.com/288-goodbye-skype-hello-digg-and-youtubes-bold-2025-podcast-plans).*
 
 *Updated 2025-02-25, with latest country and user agent data as of [Episode 287](https://thefeed.libsyn.com/287-claiming-your-podcast-on-apple-podcasts-and-video-podcast-realities).*
 
