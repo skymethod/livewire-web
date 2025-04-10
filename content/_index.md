@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2023-01-15T18:32:00-06:00
-lastmod: 2025-04-05T18:51:00-04:00
+lastmod: 2025-04-10T17:58:00-04:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+Proposal: [Standard Podcast Consumption (SPC)](/spc)
 
 New data: [Top Podcast CDNs by Episode Share (Mar 2025)](/podcast-cdns-by-episode-share)
 
