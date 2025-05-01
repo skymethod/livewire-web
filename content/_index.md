@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2025-04-10T17:58:00-04:00
-lastmod: 2025-05-01T17:21:00-04:00
+lastmod: 2025-05-01T19:32:00-04:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New graphs: [Transistor Statistics, visualized](/transistor-stats-visualized)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
 
