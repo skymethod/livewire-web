@@ -38,7 +38,19 @@ Apr 2025	2.566	2.457		2.443	2.351	1.85	1.56	1.352	1.155	0.735	0.718	0.641	0.532	
 
 ---
 
-Transistor currently only publishes monthly data about top apps.  We'd love to see more data in future, such as top countries, top devices and monthly downloads!
+Now, since Transistor provides a download share ranking order for apps every month, let's visualize the ranking positions themselves over time:
+
+---
+
+{{< graph appranks "Podcast Apps (Rank Position)" "type:rankings,height:1800px,legendPosition:bottom">}}
+Month	Apple Podcasts	Spotify	Ex Apple/Spotify²	Embed Player	Desktop Browser	Mobile Browser	CastBox	Overcast	Pocket Casts	Storybutton	PodcastAddict	Amazon Music	Other	Alexa	iTunes	Podbean	AntennaPod	YouTube Music	NPR One	Audible	Transistor Site	Player FM	iVoox	iHeartRadio	Chromecast	Private Web Player	PodcastRepublic	FMRadio	Samsung	Downcast	Podcast Guru	Snipd	Pandora	JioSaavn	Podimo	Radio thmanyah	Google Podcasts	Deezer	audiobookshelf	The Podcast App	SiriusXM	Global Player	Facebook	TuneIn	Anghami	Castro	gPodder	Fountain	iCatcher	myTuner	BeyondPod	RSSRadio	Windows Media Player	VictorReader	Sonos	DoggCatcher	VLC	Earmark	radio.de	Roya Waves	MusicBee	Xiaoyuzhou	Rhythmbox	PodCruncher	PodMe	Apple iMessage	Garmin Watch	Roku	Castamatic	MediaMonkey	Podverse	Zune	Podplay	Mimir	Neuecast	Twitter	FocusPodcast	CloudPlayer	NetCast	NRC Audio	Queue	Bose	RadioPlayer	Metacast	Podurama	Squeezebox	Podeo	KKBOX	Podcini	Luminary	Procast	Cooler	PeaCast	BashPodder	Anytime Podcast Player	Reeder	Gaana	Winamp	Outcast	Podkicker	Sony Bravia	TikTok	Himalaya	Podcast Player	Clementine	Outlook	Amazon Fire TV	MoonFM	ServeStream	'sodes	Stitcher	Playapod	Instacast	RadioPublic	Samsung Free	Podbbang	Nvidia Shield	Kodi	WynkMusic	Goodpods	AllYouCanBooks	Hubhopper	Xbox	Repod	Playstation 5
+Mar 2025	1	2		7	3	4	5	6	8	9	10	11	12	14	13	15	16	17	34	18	19	20	24	22	23	21	25	27	26	29	32	33	30	42	31	28	36	35	43	37	39	40	38	41	46	44	45	47	48	49	50	51	52	55	53	56	54	57	59	71	60	67	61	62	58	64	66	65	68	63	72	90	70	75	69	78	84	73	85	74	82	79	88	83	80	104	76	81	86	87	89	91	93	97	96	94	95	99	101	98	105	107	106	108	77	103	102	100	114	110	112	92	109	111	117		113	116				119	115	118	120
+Apr 2025	1	2		3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52	53	54	55	56	57	58	59	60	61	62	63	64	65	66	67	68	69	70	71	72	73	74	75	76	77	78	79	80	81	82	83	84	85	86	87	88	89	90	91	92	93	94	95	96	97	98	99	100	101	102	103	104	105	106	107	108	109	110	111	112	113	114	115	116	117	118	119	120	121			
+{{< /graph >}}
+
+---
+
+And that's about it, Transistor currently only publishes monthly data about top apps.  We'd love to see more data in future, such as top countries, top devices and monthly downloads!
 
 ---
 
