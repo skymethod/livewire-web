@@ -26,11 +26,10 @@
     <canvas id="{{.Get 0}}"></canvas>
 </div>
 <script>
-function computeColor(i,shift) {
+function computeColor(i, shift, greenIndex) {
     // https://google.github.io/palette.js/
     const colors = `
 152,78,163
-102,166,30
 55,126,184
 255,0,41
 0,210,213
@@ -48,13 +47,15 @@ function computeColor(i,shift) {
 253,180,98
 252,205,229
 188,128,189
-255,237,111`.trim().split('\n')
+255,237,111`.trim().split('\n');
+    colors.splice(greenIndex ?? 1, 0, '102,166,30');
     return 'rgb(' + colors[(i + (shift || 0)) % colors.length] + ')';
 }
 async function render() {
     const canvas = document.getElementById('{{.Get 0}}');
     const options = Object.fromEntries('{{.Get 2}}'.split(',').map(v => v.split(':')));
     const colorShift = parseInt(options.colorShift || '0');
+    const greenIndex = parseInt(options.greenIndex || '1');
     const legendPosition = options.legendPosition;
     const limit = typeof options.limit === 'string' ? parseInt(options.limit) : 20;
     let type = options.type || 'percentages';
@@ -91,7 +92,7 @@ async function render() {
                     if (!dataByApp.has(header)) {
                         const data = [];
                         if (type === 'rankings' || (datasets.length < (limit - colorShift))) {
-                            const color = computeColor(i - 1, colorShift);
+                            const color = computeColor(i - 1, colorShift, greenIndex);
                             datasets.push({
                                 label: header,
                                 backgroundColor: color,
