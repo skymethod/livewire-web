@@ -912,6 +912,7 @@ Dec 2024	29000	15000	5800	2700	1190	1000	129
 Jan 2025	27000	15000	5800	2600	1143	1000	127
 Feb 2025	27000	15000	5600	2600	1120	900	125
 Mar 2025	27000	14000	5500	2600	1111	900	124
+Apr 2025	27000	15000	5500	2600	1144	900	116
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -1010,6 +1011,7 @@ Dec 2024	5.8
 Jan 2025	5.7
 Feb 2025	5.5
 Mar 2025	5.5
+Apr 2025	5.5
 {{< /graph >}}
 
 
