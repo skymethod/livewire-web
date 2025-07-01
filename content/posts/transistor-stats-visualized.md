@@ -4,7 +4,7 @@ description: "Visualizing the podcast data provided monthly by Transistor, the p
 summary: "Transistor, the podcast hosting company, provides detailed data every month about the most common apps it sees when serving podcasts for its customers. We thought it might be fun to graph this data in order to visualize trends over time."
 slug: "transistor-stats-visualized"
 images:
-- transistor-stats-visualized-2025-04.png
+- transistor-stats-visualized-2025-06.png
 date: 2025-07-01T10:40:00-04:00
 lastmod: 2025-07-01T10:40:00-04:00
 draft: false
