@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2025-03.png
-date: 2025-07-91T12:11:00-04:00
-lastmod: 2025-07-91T12:11:00-04:00
+date: 2025-07-15T14:41:00-04:00
+lastmod: 2025-07-15T14:41:00-04:00
 draft: false
-rssrevision: 293
+rssrevision: 297
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -921,6 +921,7 @@ Jan 2025	27000	15000	5800	2600	1143	1000	127
 Feb 2025	27000	15000	5600	2600	1120	900	125
 Mar 2025	27000	14000	5500	2600	1111	900	124
 Apr 2025	27000	15000	5500	2600	1144	900	116
+May 2025	31000	16000	5700	2700	1191	900	121
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -1020,6 +1021,7 @@ Jan 2025	5.7
 Feb 2025	5.5
 Mar 2025	5.5
 Apr 2025	5.5
+May 2025	5.6
 {{< /graph >}}
 
 
@@ -1030,6 +1032,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+
+*Updated 2025-07-15, with latest median and mean data as of [Episode 297](https://thefeed.libsyn.com/297-metrics-that-matter-pro-multi-user-management-and-podcast-shut-down-best-practices).*
 
 *Updated 2025-07-01, with latest ountry and user agent data as of [Episode 296](https://thefeed.libsyn.com/296-libsyn-multi-user-new-podcast-audience-data-and-lufs).*
 
