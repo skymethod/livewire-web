@@ -742,7 +742,7 @@ Jul 2025	5.8	5.4	3.5	2.5	1.8	1.2	1	1	0.011	0.01	0.009	0.008	0.007	0.006	0.005	0.
 
 ---
 
-{{< graph countryranks "Countries (Rank Position)" "type:rankings,height:700px">}}
+{{< graph countryranks "Countries (Rank Position)" "type:rankings,height:750px">}}
 Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	🇭🇰 Hong Kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	🇵🇭 Philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	🇸🇬 Singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	1	3	2	5	6	4	12		18	14	7	9	19	15	13		8		11					17	16		20			10			
 Jan 2018	1	3	2	5	6	4	12		18	13	7	8	19	16	17		9		10					14	15		20			11			
