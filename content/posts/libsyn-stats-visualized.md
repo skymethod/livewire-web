@@ -543,7 +543,7 @@ Jul 2025	3.33
 ---
 
 {{< graph countries "Countries">}}
-Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	hong kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
+Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	🇭🇰 Hong Kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	🇵🇭 Philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	🇸🇬 Singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	62.5	5.2	5.4	3.8	2.3	4.2	0.009		0.003	0.007	1.4	0.012	0.002	0.006	0.008		1		0.01					0.004	0.005		0.001			0.011			
 Jan 2018	62.1	5.4	5.8	3.8	2.4	4.2	0.009		0.003	0.008	1.2	1.1	0.002	0.005	0.004		1.1		0.011					0.007	0.006		0.001			0.01			
 Feb 2018	62.7	5.3	5.7	3.9	2.3	4	0.01		0.002	0.008	1.2	1	0.004	0.005	0.003		1.1		0.011					0.006	0.007		0.001			0.009			
@@ -643,7 +643,7 @@ Jul 2025	61	5.8	5.4	3.5	2.5	1.8	1.2	1	1	0.011	0.01	0.009	0.008	0.007	0.006	0.005
 ---
 
 {{< graph nonuscountries "Countries (non-US)" "colorShift:1">}}
-Month	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	hong kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
+Month	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	🇭🇰 Hong Kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	🇵🇭 Philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	🇸🇬 Singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	5.2	5.4	3.8	2.3	4.2	0.009		0.003	0.007	1.4	0.012	0.002	0.006	0.008		1		0.01					0.004	0.005		0.001			0.011			
 Jan 2018	5.4	5.8	3.8	2.4	4.2	0.009		0.003	0.008	1.2	1.1	0.002	0.005	0.004		1.1		0.011					0.007	0.006		0.001			0.01			
 Feb 2018	5.3	5.7	3.9	2.3	4	0.01		0.002	0.008	1.2	1	0.004	0.005	0.003		1.1		0.011					0.006	0.007		0.001			0.009			
@@ -743,7 +743,7 @@ Jul 2025	5.8	5.4	3.5	2.5	1.8	1.2	1	1	0.011	0.01	0.009	0.008	0.007	0.006	0.005	0.
 ---
 
 {{< graph countryranks "Countries (Rank Position)" "type:rankings,height:700px">}}
-Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	hong kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
+Month	🇺🇸 United States	🇨🇦 Canada	🇬🇧 United Kingdom	🇦🇺 Australia	🇩🇪 Germany	🇸🇪 Sweden	🇪🇸 Spain	🇭🇰 Hong Kong	🇮🇳 India	🇳🇱 Netherlands	🇯🇵 Japan	🇫🇷 France	🇩🇰 Denmark	🇲🇽 Mexico	🇨🇳 China	🇵🇭 Philippines	🇮🇪 Ireland	🇵🇱 Poland	🇧🇷 Brazil	🇨🇴 Colombia	🇦🇹 Austria	🇧🇪 Belgium	🇮🇷 Iran	🇳🇴 Norway	🇳🇿 New Zealand	🇵🇷 Puerto Rico	🇷🇺 Russian Federation	🇿🇦 South Africa	🇸🇬 Singapore	🇰🇷 South Korea	🇨🇭 Switzerland	🇹🇼 Taiwan	🇹🇭 Thailand
 Dec 2017	1	3	2	5	6	4	12		18	14	7	9	19	15	13		8		11					17	16		20			10			
 Jan 2018	1	3	2	5	6	4	12		18	13	7	8	19	16	17		9		10					14	15		20			11			
 Feb 2018	1	3	2	5	6	4	11		19	13	7	9	17	16	18		8		10					15	14		20			12			
