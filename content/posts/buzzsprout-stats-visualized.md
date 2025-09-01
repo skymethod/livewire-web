@@ -4,11 +4,11 @@ description: "Visualizing the podcast data provided monthly by Buzzsprout, the p
 summary: "Buzzsprout, one of the largest podcast hosting companies by episode volume, provides detailed data every month about the most common apps it sees when serving podcasts for its customers, and various other breakdowns. We thought it might be fun to graph this data in order to visualize trends over time."
 slug: "buzzsprout-stats-visualized"
 images:
-- buzzsprout-stats-visualized-2025-02.png
-date: 2025-08-01T11:23:00-04:00
-lastmod: 2025-08-01T11:23:00-04:00
+- buzzsprout-stats-visualized-2025-08.png
+date: 2025-09-01T10:00-04:00
+lastmod: 2025-09-01T10:00-04:00
 draft: false
-rssrevision: 2025-07
+rssrevision: 2025-08
 ---
 
 [Buzzsprout](https://www.buzzsprout.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides [detailed data every month](https://www.buzzsprout.com/global_stats) about the most common apps it sees when serving podcasts for its customers, and various other breakdowns.
@@ -99,6 +99,7 @@ Apr 2025	37.7	31.4	22.9	6.8	1.2	3.2	8.7		1.2	0.5		1.0		0.7	0.1	0.2	0.1	0.1			0.3
 May 2025	35.8	34.1	21.5	7.3	1.3	3.3	7.0		1.2	0.6		1.0		0.7	0.1	0.2	0.1	0.1			0.4					0.1	0.3		0.1				0.3		0.6		0.2				0.5	0.1						0.8		0.1		0.1	0.1	0.6					0.2			0.3						0.2	2.0			0.1	0.1		
 Jun 2025	35.1	34.2	22.1	7.3	1.3	3.1	7.3		1.2	0.5		1.1		0.8	0.1	0.2	0.1	0.1			0.4					0.1	0.3		0.1				0.7		0.5		0.2				0.5	0.1						0.8		0.1		0.1	0.1	0.6					0.2			0.4						0.2	1.9			0.1	0.1		0.1
 Jul 2025	36.0	32.3	23.0	7.2	1.5	3.2	6.8		1.3	0.6		1.2		1.0	0.1	0.2	0.1	0.1			0.4					0.1	0.3		0.1				0.2		0.6		0.2				0.5	0.1						0.8		0.1		0.1	0.1	0.6					0.2			0.3						0.2	2.1			0.1	0.1	1.1	0.1
+Aug 2025	37.1	32.3	21.6	7.4	1.6	3.1	6.7		1.2	0.5		1.1		0.9	0.1	0.2	0.1	0.1			0.4					0.1	0.3		0.1				0.4		0.6		0.2				0.5	0.1						0.9		0.1		0.1	0.1	0.6					0.2			0.3						0.2	2.0			0.1	0.1	0.1	0.1
 {{< /graph >}}
 
 *Ex Apple/Spotify: all apps excluding Apple/Spotify-owned apps*
@@ -168,6 +169,7 @@ Apr 2025	44.6	19.5	5.8	4.6	3.9	1.8	2.8	5.3		2.1	1.0	0.9			2.5	0.9		2.1	1.2						
 May 2025	43.7	19.3	6.0	4.5	4.4	1.8	4.4	3.2		2.2		0.9			3.1	1.0		2.1	1.5	0.9		1.0						
 Jun 2025	45.5	19.1	6.1	4.7	4.4	1.8	3.4	3.1		2.1	0.8	0.8			2.4	1.0		2.2	1.7			0.9						
 Jul 2025	45.9	19.3	6.0	5.0	4.5	1.7	2.9	3.3		2.2	1.1				1.3	1.1		1.9	1.5	0.9								1.4
+Aug 2025	46.2	19.9	5.9	4.6	4.7	1.7	2.8	3.2		2.1	1.2	0.9			1.2	1.2		2.1	1.3			1.0						
 {{< /graph >}}
 
 ---
@@ -232,6 +234,7 @@ Apr 2025	3.9	1.8	2.8	5.3	0.8	2.1	1.0	0.9			2.5	0.9			0.9		1.2	2.1								0.8		1.
 May 2025	4.4	1.8	4.4	3.2	0.8	2.2	0.8	0.9			3.1	1.0			1.0		1.5	2.1			0.9						0.8	
 Jun 2025	4.4	1.8	3.4	3.1	0.8	2.1	0.8	0.8			2.4	1.0			0.9		1.7	2.2			0.8		0.7					
 Jul 2025	4.5	1.7	2.9	3.3	0.8	2.2	1.1	0.8			1.3	1.1			0.9		1.5	1.9			0.9					1.4		
+Aug 2025	4.7	1.7	2.8	3.2	0.8	2.1	1.2	0.9			1.2	1.2			1.0		1.3	2.1			0.8							0.8
 {{< /graph >}}
 
 ---
@@ -296,6 +299,7 @@ Apr 2025	62.9	22.8	5.7	3.9	2.5	0.8	0.4	0.2	0.3	0.5	0.0	0.1	0.0	0.0	0.0	0.0	0.0		
 May 2025	62.4	23.6	5.8	3.5	2.4	0.8	0.4	0.1	0.4	0.5	0.0	0.1	0.0	0.0	0.0	0.0	0.0		0.0	0.0
 Jun 2025	61.2	23.6	6.3	4.1	2.7	0.8	0.3	0.1	0.4	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	
 Jul 2025	62.9	23.6	5.8	2.7	2.8	0.8	0.4	0.1	0.4	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+Aug 2025	64.0	23.3	5.2	1.8	2.8	0.9	0.9	0.1	0.4	0.5	0.0	0.0	0.0	0.0	0.0		0.0		0.0	0.0
 {{< /graph >}}
 
 ---
@@ -360,6 +364,7 @@ Apr 2025	86.7	10.0	2.5	0.5	0.3	0.0	0.0
 May 2025	87.0	9.7	2.4	0.6	0.4	0.0	0.0
 Jun 2025	85.7	10.7	2.7	0.5	0.4	0.0	
 Jul 2025	87.4	8.9	2.8	0.5	0.4	0.0	0.0
+Aug 2025	88.3	7.9	2.8	0.6	0.4	0.0	0.0
 {{< /graph >}}
 
 ---
@@ -424,6 +429,7 @@ Apr 2025	102572162	102572162
 May 2025	96985204	93856649
 Jun 2025	92661520	92661520
 Jul 2025	92924863	89927286
+Aug 2025	91153405	88212972
 {{< /graph >}}
 
 *Monthly Downloads (n): normalized for a 30-day month*
@@ -490,6 +496,7 @@ Apr 2025	169904	169904	120382	120382
 May 2025	171557	166022	120595	116704
 Jun 2025	157252	157252	120482	120482
 Jul 2025	158495	153382	120344	116461
+Aug 2025	156578	151527	120021	116149
 {{< /graph >}}
 
 *New Episodes (n), Active Podcasts (n): normalized for a 30-day month*
@@ -556,6 +563,7 @@ Apr 2025	4489	1078	460	113	30
 May 2025	4342	1054	453	111	28
 Jun 2025	4269	1048	454	109	27
 Jul 2025	4177	1036	451	108	27
+Aug 2025	4140	1022	448	109	27
 {{< /graph >}}
 
 ---
@@ -620,6 +628,7 @@ Apr 2025	20	15	30	20	14
 May 2025	22	15	29	19	14
 Jun 2025	18	15	31	20	14
 Jul 2025	19	16	30	20	14
+Aug 2025	19	16	30	20	14
 {{< /graph >}}
 
 ---
@@ -684,6 +693,7 @@ Apr 2025	7	35	38	19	1
 May 2025	7	34	38	19	2
 Jun 2025	7	35	38	19	2
 Jul 2025	7	34	38	19	2
+Aug 2025	7	34	38	20	2
 {{< /graph >}}
 
 ---
@@ -691,6 +701,8 @@ Jul 2025	7	34	38	19	2
 Data provided by [Buzzsprout](https://www.buzzsprout.com/global_stats), visualized by [John Spurlock](https://twitter.com/johnspurlock)
 
 ---
+
+*Updated 2025-09-01, with data for the month of August 2025.*
 
 *Updated 2025-08-01, with data for the month of July 2025.*
 
