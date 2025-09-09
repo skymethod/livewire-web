@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2025-03.png
-date: 2025-08-27T10:32:00-04:00
-lastmod: 2025-08-27T10:32:00-04:00
+date: 2025-09-09T12:39:00-04:00
+lastmod: 2025-09-09T12:39:00-04:00
 draft: false
-rssrevision: 300
+rssrevision: 301
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -939,6 +939,7 @@ Mar 2025	27000	14000	5500	2600	1111	900	124
 Apr 2025	27000	15000	5500	2600	1144	900	116
 May 2025	31000	16000	5700	2700	1191	900	121
 Jun 2025	30000	16000	5700	2800	1202	900	122
+Jul 2025	32000	16000	5900	2800	1221	900	126
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -1040,6 +1041,7 @@ Mar 2025	5.5
 Apr 2025	5.5
 May 2025	5.6
 Jun 2025	5.6
+Jul 2025	5.7
 {{< /graph >}}
 
 
@@ -1050,6 +1052,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+
+*Updated 2025-09-09, with latest median and mean data as of [Episode 301](https://thefeed.libsyn.com/301-2025-podcasting-landscape-claiming-your-show-in-apple-podcasts-and-reverse-churn).*
 
 *Updated 2025-08-27, with latest median, mean, country and user agent data as of [Episode 300](https://thefeed.libsyn.com/300-taylor-swifts-podcast-impact-100m-libsyn-payouts-and-the-new-podcast-movement).*
 
