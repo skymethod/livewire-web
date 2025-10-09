@@ -4,10 +4,10 @@ description: "Visualizing the podcast data provided monthly by Libsyn, the podca
 slug: "libsyn-stats-visualized"
 images:
 - libsyn-stats-visualized-2025-03.png
-date: 2025-09-23T13:08:00-04:00
-lastmod: 2025-09-23T13:08:00-04:00
+date: 2025-10-09T11:52:00-04:00
+lastmod: 2025-10-09T11:52:00-04:00
 draft: false
-rssrevision: 302
+rssrevision: 303
 ---
 
 [Libsyn](https://libsyn.com/), one of the largest podcast hosting companies [by episode volume](https://livewire.io/podcast-hosts-by-episode-share/), provides raw data every month (in their podcast [The Feed](https://thefeed.libsyn.com/)) about the most common apps it sees when serving podcasts for its customers.
@@ -948,6 +948,7 @@ Apr 2025	27000	15000	5500	2600	1144	900	116
 May 2025	31000	16000	5700	2700	1191	900	121
 Jun 2025	30000	16000	5700	2800	1202	900	122
 Jul 2025	32000	16000	5900	2800	1221	900	126
+Aug 2025	29000	16000	5800	2700	1170	1000	124
 {{< /graph >}}
 
 *We're missing median and mean data for Dec 2017.  If anyone can point us to Libsyn median and mean data for this month, [give us a heads up](https://github.com/skymethod/livewire-web/discussions).*
@@ -1050,6 +1051,7 @@ Apr 2025	5.5
 May 2025	5.6
 Jun 2025	5.6
 Jul 2025	5.7
+Aug 2025	5.7
 {{< /graph >}}
 
 
@@ -1060,6 +1062,8 @@ Data provided by [Libsyn](https://thefeed.libsyn.com/), collected and visualized
 Special thanks goes out to [Nathan Gathright](https://twitter.com/NathanG), who gave us the idea of relistening to all of these episodes in the first place.
 
 ---
+
+*Updated 2025-10-09, with latest median and mean data as of [Episode 303](https://thefeed.libsyn.com/303-landing-celebrities-apple-podcasts-promotions-and-avoiding-ai-podcast-pitfalls).*
 
 *Updated 2025-09-23, with latest country and user agent data as of [Episode 302](https://thefeed.libsyn.com/302-podcasting-ohana-todd-cochranes-influence-apple-podcasts-updates-and-youtubes-latest-for-podcasters).*
 
