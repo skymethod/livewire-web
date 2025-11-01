@@ -131,7 +131,6 @@ Now let's graph the same data again, excluding them to see the others more clear
 ---
 
 {{< graph hostshares2 "Top Podcast Hosting Companies by New Episode Share (excluding top 3)" "height:500px,colorShift:3">}}
-Month	Podbean	Megaphone	Simplecast	RSS.com	Libsyn	Transistor	Captivate	Acast	Omny Studio	Soundcloud	iVoox	RedCircle	Triton Digital	Audiomeans	Blubrry	Audioboom
 Month	Podbean	Simplecast	Megaphone	RSS.com	Transistor	Libsyn	Captivate	Acast	Omny Studio	Soundcloud	iVoox	RedCircle	Triton Digital	Audiomeans	Blubrry	Audioboom
 Sep 2021	5	1	2	1	1	5	2	1	4	5	3		2		2	1
 Oct 2021	4.5	1.4	2.1	1.1	1.1	4.9	2.1	1.2	4.1	4.7	2.8		1.5		1.8	1.4
