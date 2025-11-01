@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2025-04-10T17:58:00-04:00
-lastmod: 2025-10-22T09:50:00-04:00
+lastmod: 2025-11-01T10:06:00-04:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New graphs: [Transistor Statistics, visualized](/transistor-stats-visualized)
 
 New graphs: [Libsyn Statistics, visualized](/libsyn-stats-visualized)
 
@@ -17,8 +19,6 @@ New data: [Top Podcast Tracking Services by Episode Share (Sep 2025)](/podcast-t
 New data: [Top Podcast Hosting Companies by Episode Share (Sep 2025)](/podcast-hosts-by-episode-share)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
-
-New graphs: [Transistor Statistics, visualized](/transistor-stats-visualized)
 
 Proposal: [Standard Podcast Consumption (SPC)](/spc)
 
