@@ -859,6 +859,7 @@ We've incorporated these patterns along with some of our own to come up with the
 
 ---
 Previous versions:
+ - [Podcast Tracker Rankings by Episode Share (September 2025)](/archive/podcast-trackers-by-episode-share-september-2025/)
  - [Podcast Tracker Rankings by Episode Share (August 2025)](/archive/podcast-trackers-by-episode-share-august-2025/)
  - [Podcast Tracker Rankings by Episode Share (July 2025)](/archive/podcast-trackers-by-episode-share-july-2025/)
  - [Podcast Tracker Rankings by Episode Share (June 2025)](/archive/podcast-trackers-by-episode-share-june-2025/)
