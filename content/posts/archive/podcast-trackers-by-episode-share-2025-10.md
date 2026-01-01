@@ -915,4 +915,4 @@ Previous versions:
 {{% funding %}}
 
 ---
-*[Modify](htthttps://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-trackers-by-episode-share-2025-10.mdd) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
+*[Modify](https://github.com/skymethod/livewire-web/blob/master/content/posts/archive/podcast-trackers-by-episode-share-2025-10.md) this page, [Discuss](https://github.com/skymethod/livewire-web/discussions) this page*
