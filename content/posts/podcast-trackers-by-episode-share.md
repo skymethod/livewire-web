@@ -1,13 +1,13 @@
 ---
-title: "Top Podcast Tracking Services by Episode Share (December 2025)"
+title: "Top Podcast Tracking Services by Episode Share (January 2026)"
 description: "Ranked list of podcast trackers (third-party analytics services), based on number of new episodes published"
 slug: "podcast-trackers-by-episode-share"
 images:
-- trackers-2025-12.png
-date: 2026-01-01T18:33:00-04:00
-lastmod: 2026-01-01T18:33:00-04:00
+- trackers-2026-01.png
+date: 2026-02-02T11:35:00-05:00
+lastmod: 2026-02-02T11:35:00-05:00
 draft: false
-rssrevision: 2025-12
+rssrevision: 2026-01
 ---
 
 Now that we have a good idea of [which podcast hosts are producing new podcast episodes](/podcast-hosts-by-episode-share),
@@ -28,13 +28,13 @@ But how representative of the entire podcast world is this data?  How many podca
 {{% subscribe %}}
 ---
 
-We already did the work of analyzing _every single new podcast episode published_ (about 1.9 million in December 2025), 
+We already did the work of analyzing _every single new podcast episode published_ (about 1.9 million in January 2026), 
 [identifying which podcast hosting company it belongs to](/podcast-hosts-by-episode-share).
 
 We used the actual media file url (past any tracking redirects) to identify the host
 instead of the feed url domain, which can often undercount hosts that offer custom domains.
 
-Let's now take a look at the tracking services themselves.  Of the new episodes that were published in December, how many
+Let's now take a look at the tracking services themselves.  Of the new episodes that were published in January, how many
 of them included one or more of these tracking services?  Some episodes had as many as *ten* of these redirecting trackers!
 
 *Note we can only observe "client-side" trackers. There are other podcast analytics services 
@@ -75,59 +75,60 @@ First, a quick chart of the top podcast tracking services over time, based on sh
 ---
 
 {{< graph trackershares "Top Podcast Tracking Services by New Episode Share" "height:500px">}}
-Month	Podtrac	Adswizz	Podscribe	Podsights	Blubrry	Podcorn	Spotify	Claritas	Podroll	Swap.fm	OP3	Chartable	ArtsAI	Podder	Gumshoe	Feedpress	SoundStack	Veritonic	United Podcasters	CoHost Prefix	Podkite	Médiamétrie	Audiotakes	RSS Insight	Zencastr	Voxalyze	Glystn	Zippycast	Gumball	Vpixl	FeedBurner
-Sep 2021	4.16	1.00		1.16	2.07	2.09						4.06				0.32						0.42									1.61
-Oct 2021	4.05	1.01		1.20	2.11	2.13						4.09				0.34						0.54									1.61
-Nov 2021	4.07	1.02		1.25	2.01	2.14						4.30				0.32						0.57									0.59
-Dec 2021	4.06	1.24		1.19	1.57	2.27						4.42				0.19						0.59									
-Jan 2022	4.11	1.41		1.21	1.56	2.31						4.45				0.16						0.63									
-Feb 2022	4.15	1.44		1.25	1.53	2.38						4.48				0.17						0.58									
-Mar 2022	4.37	1.51		1.34	1.56	2.40						4.72				0.17						0.53									
-Apr 2022	4.44	1.49		1.33	1.55	2.33						4.71				0.16						0.51									
-May 2022	4.49	1.58		1.41	1.48	2.26						4.87				0.17						0.56									
-Jun 2022	4.75	1.77		1.54	1.50	2.06						5.10				0.21						0.62						0.02			
-Jul 2022	4.70	1.89		1.50	1.50	2.16						5.10				0.25						0.54						0.02			
-Aug 2022	4.83	2.08		1.73	1.51	2.45						5.26	0.10			0.20						0.41						0.01			
-Sep 2022	7.53	2.26	0.02	1.74	1.49	2.45		0.01				5.40	0.09			0.21					0.01	0.52						0.02	0.02		
-Oct 2022	8.24	2.35	0.07	1.81	1.61	2.51		0.02			0.03	5.48	0.10			0.18					0.01	0.50			0.01			0.02	0.04		
-Nov 2022	8.11	2.37	0.15	2.03	1.62	2.43		0.03			0.04	5.62	0.10	0.01		0.18					0.01	0.50			0.01			0.02	0.05		
-Dec 2022	8.01	2.32	0.03	1.81	1.61	2.05		0.02			0.05	5.54	0.05	0.04		0.18					0.01	0.49			0.01		0.01	0.02	0.05		
-Jan 2023	7.85	2.35	0.20	1.88	1.61	2.15		0.06			0.07	5.56	0.10	0.11		0.18					0.01	0.54			0.01		0.01	0.02	0.06		
-Feb 2023	7.58	2.29	0.21	1.92	1.62	2.30		0.07			0.07	5.51	0.10	0.11		0.19					0.01	0.49			0.01		0.01	0.02	0.06	0.03	
-Mar 2023	7.79	2.25	0.21	2.03	1.53	2.22		0.07	0.04		0.08	5.53	0.11	0.11		0.18		0.04			0.01	0.45			0.01		0.01	0.02	0.06		
-Apr 2023	7.66	2.26	0.21	2.00	1.67	2.20		0.07	0.06		0.09	5.43	0.11	0.15	0.08	0.17		0.05			0.01	0.45			0.01		0.01	0.01			
-May 2023	7.58	2.27	0.24	2.04	1.67	2.28		0.08	0.09		0.09	5.59	0.11	0.15	0.07	0.19		0.05			0.01	0.45			0.01	0.01	0.01	0.01			
-Jun 2023	8.22	2.39	0.26	2.23	1.64	1.86		0.07	0.10		0.09	5.83	0.12	0.15	0.08	0.19		0.05			0.01	0.51			0.01	0.01	0.01	0.01			
-Jul 2023	8.60	2.38	0.27	2.52	1.53	1.17	0.01	0.07	0.14		0.08	5.95	0.11	0.14	0.06	0.18		0.06			0.01	0.55			0.01	0.01	0.01	0.01			
-Aug 2023	9.19	2.72	0.36	2.76	1.58	1.23	0.03	0.08	0.16		0.11	6.43	0.12	0.15	0.07	0.17		0.07			0.01	0.53	0.04		0.01	0.02	0.01				
-Sep 2023	8.46	2.49	0.37	2.47	1.39	1.10	0.05	0.10	0.13		0.10	5.77	0.12	0.15	0.07	0.16		0.06			0.01	0.58	0.05		0.01	0.02	0.01				
-Oct 2023	7.90	2.29	0.39	2.28	1.37	1.11	0.08	0.10	0.12		0.10	5.54	0.12	0.16	0.08	0.16		0.06			0.01	0.50	0.05		0.02	0.03	0.01				
-Nov 2023	7.65	2.25	0.47	2.33	1.45	1.14	0.11	0.11	0.12		0.13	5.59	0.12	0.16	0.10	0.17		0.06			0.01	0.33	0.06		0.01	0.03					
-Dec 2023	7.48	2.20	0.54	2.19	1.53	1.12	0.12	0.11	0.12		0.11	5.60	0.12	0.16	0.09	0.16		0.06			0.01	0.33	0.06		0.01	0.03					
-Jan 2024	7.64	2.37	0.65	2.21	1.55	1.17	0.15	0.12	0.11		0.13	5.61	0.14	0.16	0.10	0.17		0.06	0.01		0.01	0.25	0.08		0.01	0.01					
-Feb 2024	7.69	2.38	0.69	2.22	1.52	1.21	0.22	0.13	0.12		0.16	5.58	0.13	0.17	0.11	0.17		0.06	0.01		0.01	0.22	0.09		0.01						
-Mar 2024	9.01	2.53	0.69	2.19	1.54	1.14	0.25	0.14	0.12		0.14	5.46	0.12	0.16	0.10	0.16		0.06	0.01		0.01	0.22	0.09		0.01						
-Apr 2024	10.78	2.53	0.73	2.16	1.51	1.24	0.27	0.15	0.34		0.18	5.47	0.13	0.17	0.11	0.15		0.07	0.01	0.01	0.01	0.19	0.07		0.01						
-May 2024	11.59	2.75	0.83	2.24	1.50	1.20	0.30	0.15	0.36		0.18	5.63	0.14	0.16	0.11	0.15		0.07	0.01	0.01	0.01	0.09	0.06		0.01						
-Jun 2024	11.54	2.88	0.91	2.34	1.52	0.71	0.32	0.16	0.37	0.03	0.20	6.06	0.16	0.15	0.11	0.15		0.07	0.01	0.01	0.01	0.10	0.07		0.01						
-Jul 2024	12.34	2.83	1.01	2.45	1.65	0.71	0.34	0.18	0.43	0.06	0.20	6.80	0.17	0.15	0.12	0.15		0.07	0.01	0.01	0.01	0.09	0.09		0.01						
-Aug 2024	14.22	2.96	1.11	2.48	1.70	0.81	0.35	0.18	0.45	0.12	0.19	6.72	0.18	0.35	0.12	0.14		0.08	0.01	0.01	0.01	0.08	0.11		0.01						
-Sep 2024	12.95	3.13	1.18	2.26	1.44	0.72	0.35	0.18	0.44	0.12	0.24	5.99	0.18	0.42	0.13	0.15		0.08	0.01	0.01	0.01	0.07	0.13		0.01						
-Oct 2024	12.24	3.23	1.23	2.35	1.53	0.66	0.40	0.19	0.43	0.17	0.27	5.49	0.18	0.39	0.12	0.14		0.09	0.01	0.01	0.01	0.09	0.14		0.01						
-Nov 2024	11.86	3.21	1.27	2.31	1.52	0.63	0.44	0.21	0.43	0.19	0.29	4.66	0.17	0.41	0.12	0.11		0.08	0.01	0.01	0.01	0.10	0.14		0.01						
-Dec 2024	12.56	3.06	1.29	2.13	1.40	0.62	0.45	0.21	0.43	0.24	0.29	2.29	0.18	0.54	0.12	0.09		0.08	0.01	0.01	0.01	0.09	0.15		0.01						
-Jan 2025	12.62	2.92	1.31	1.73	1.36	0.66	0.41	0.21	0.46	0.27	0.34	1.54	0.19	0.54	0.13	0.12		0.08	0.01	0.01	0.01	0.04	0.16		0.01						
-Feb 2025	12.47	2.74	1.25	1.70	1.45	0.66	0.36	0.22	0.46	0.28	0.33	1.43	0.18	0.48	0.12	0.14		0.08	0.01	0.01	0.01	0.01	0.16		0.01						
-Mar 2025	12.18	2.87	1.28	1.51	1.25	0.67	0.33	0.21	0.47	0.27	0.33	1.18	0.18	0.36	0.13	0.14		0.07	0.01	0.01	0.01	0.01	0.25	0.04	0.01						
-Apr 2025	12.35	2.97	1.53	1.64	1.26	0.68	0.44	0.23	0.48	0.30	0.34	1.28	0.19	0.33	0.12	0.13		0.08	0.01	0.01	0.01	0.02	0.41	0.03	0.01						
-May 2025	12.48	2.97	1.61	1.74	1.40	0.64	0.46	0.24	0.46	0.33	0.39	1.31	0.20	0.22	0.12	0.13		0.07	0.02	0.01	0.01	0.02	0.40	0.05							
-Jun 2025	12.99	2.73	1.65	1.70	1.34	0.65	0.47	0.26	0.46	0.35	0.39	1.30	0.21	0.20	0.12	0.13		0.07	0.02	0.01	0.01	0.02	0.40	0.04							
-Jul 2025	13.83	2.87	1.76	1.71	1.16	0.66	0.50	0.72	0.48	0.39	0.33	1.30	0.23	0.20	0.12	0.13		0.07	0.02	0.01	0.01	0.01									
-Aug 2025	14.30	3.24	1.95	1.83	1.35	0.67	0.54	0.79	0.49	0.37	0.35	1.32	0.20	0.21	0.14	0.14		0.08	0.02	0.02	0.01	0.01									
-Sep 2025	14.56	3.37	1.98	1.46	1.17	0.64	0.53	0.58	0.55	0.33	0.37	1.16	0.21	0.20	0.13	0.14		0.08	0.02	0.02	0.01	0.01									
-Oct 2025	15.39	3.28	2.02	1.39	1.16	0.65	0.50	0.52	0.57	0.35	0.39	1.00	0.21	0.18	0.13	0.14		0.08	0.01	0.02	0.01										
-Nov 2025	13.01	3.29	1.96	1.59	1.09	0.59	0.50	0.47	0.48	0.36	0.34	0.79	0.19	0.19	0.11	0.11		0.07	0.02	0.01	0.01										
-Dec 2025	11.63	3.32	2.10	1.90	1.06	0.57	0.53	0.49	0.43	0.37	0.32	0.31	0.20	0.20	0.10	0.10	0.09	0.07	0.02	0.01	0.01										
+Month	Podtrac	Adswizz	Podscribe	Podsights	Blubrry	Podcorn	Spotify	Claritas	Podroll	Swap.fm	OP3	ArtsAI	Podder	Chartable	SoundStack	Gumshoe	Feedpress	Veritonic	United Podcasters	CoHost Prefix	Podkite	Médiamétrie	Audiotakes	RSS Insight	Zencastr	Voxalyze	Glystn	Zippycast	Gumball	Vpixl	FeedBurner
+Sep 2021	4.16	1.00		1.16	2.07	2.09								4.06			0.32					0.42									1.61
+Oct 2021	4.05	1.01		1.20	2.11	2.13								4.09			0.34					0.54									1.61
+Nov 2021	4.07	1.02		1.25	2.01	2.14								4.30			0.32					0.57									0.59
+Dec 2021	4.06	1.24		1.19	1.57	2.27								4.42			0.19					0.59									
+Jan 2022	4.11	1.41		1.21	1.56	2.31								4.45			0.16					0.63									
+Feb 2022	4.15	1.44		1.25	1.53	2.38								4.48			0.17					0.58									
+Mar 2022	4.37	1.51		1.34	1.56	2.40								4.72			0.17					0.53									
+Apr 2022	4.44	1.49		1.33	1.55	2.33								4.71			0.16					0.51									
+May 2022	4.49	1.58		1.41	1.48	2.26								4.87			0.17					0.56									
+Jun 2022	4.75	1.77		1.54	1.50	2.06								5.10			0.21					0.62						0.02			
+Jul 2022	4.70	1.89		1.50	1.50	2.16								5.10			0.25					0.54						0.02			
+Aug 2022	4.83	2.08		1.73	1.51	2.45						0.10		5.26			0.20					0.41						0.01			
+Sep 2022	7.53	2.26	0.02	1.74	1.49	2.45		0.01				0.09		5.40			0.21				0.01	0.52						0.02	0.02		
+Oct 2022	8.24	2.35	0.07	1.81	1.61	2.51		0.02			0.03	0.10		5.48			0.18				0.01	0.50			0.01			0.02	0.04		
+Nov 2022	8.11	2.37	0.15	2.03	1.62	2.43		0.03			0.04	0.10	0.01	5.62			0.18				0.01	0.50			0.01			0.02	0.05		
+Dec 2022	8.01	2.32	0.03	1.81	1.61	2.05		0.02			0.05	0.05	0.04	5.54			0.18				0.01	0.49			0.01		0.01	0.02	0.05		
+Jan 2023	7.85	2.35	0.20	1.88	1.61	2.15		0.06			0.07	0.10	0.11	5.56			0.18				0.01	0.54			0.01		0.01	0.02	0.06		
+Feb 2023	7.58	2.29	0.21	1.92	1.62	2.30		0.07			0.07	0.10	0.11	5.51			0.19				0.01	0.49			0.01		0.01	0.02	0.06	0.03	
+Mar 2023	7.79	2.25	0.21	2.03	1.53	2.22		0.07	0.04		0.08	0.11	0.11	5.53			0.18	0.04			0.01	0.45			0.01		0.01	0.02	0.06		
+Apr 2023	7.66	2.26	0.21	2.00	1.67	2.20		0.07	0.06		0.09	0.11	0.15	5.43		0.08	0.17	0.05			0.01	0.45			0.01		0.01	0.01			
+May 2023	7.58	2.27	0.24	2.04	1.67	2.28		0.08	0.09		0.09	0.11	0.15	5.59		0.07	0.19	0.05			0.01	0.45			0.01	0.01	0.01	0.01			
+Jun 2023	8.22	2.39	0.26	2.23	1.64	1.86		0.07	0.10		0.09	0.12	0.15	5.83		0.08	0.19	0.05			0.01	0.51			0.01	0.01	0.01	0.01			
+Jul 2023	8.60	2.38	0.27	2.52	1.53	1.17	0.01	0.07	0.14		0.08	0.11	0.14	5.95		0.06	0.18	0.06			0.01	0.55			0.01	0.01	0.01	0.01			
+Aug 2023	9.19	2.72	0.36	2.76	1.58	1.23	0.03	0.08	0.16		0.11	0.12	0.15	6.43		0.07	0.17	0.07			0.01	0.53	0.04		0.01	0.02	0.01				
+Sep 2023	8.46	2.49	0.37	2.47	1.39	1.10	0.05	0.10	0.13		0.10	0.12	0.15	5.77		0.07	0.16	0.06			0.01	0.58	0.05		0.01	0.02	0.01				
+Oct 2023	7.90	2.29	0.39	2.28	1.37	1.11	0.08	0.10	0.12		0.10	0.12	0.16	5.54		0.08	0.16	0.06			0.01	0.50	0.05		0.02	0.03	0.01				
+Nov 2023	7.65	2.25	0.47	2.33	1.45	1.14	0.11	0.11	0.12		0.13	0.12	0.16	5.59		0.10	0.17	0.06			0.01	0.33	0.06		0.01	0.03					
+Dec 2023	7.48	2.20	0.54	2.19	1.53	1.12	0.12	0.11	0.12		0.11	0.12	0.16	5.60		0.09	0.16	0.06			0.01	0.33	0.06		0.01	0.03					
+Jan 2024	7.64	2.37	0.65	2.21	1.55	1.17	0.15	0.12	0.11		0.13	0.14	0.16	5.61		0.10	0.17	0.06	0.01		0.01	0.25	0.08		0.01	0.01					
+Feb 2024	7.69	2.38	0.69	2.22	1.52	1.21	0.22	0.13	0.12		0.16	0.13	0.17	5.58		0.11	0.17	0.06	0.01		0.01	0.22	0.09		0.01						
+Mar 2024	9.01	2.53	0.69	2.19	1.54	1.14	0.25	0.14	0.12		0.14	0.12	0.16	5.46		0.10	0.16	0.06	0.01		0.01	0.22	0.09		0.01						
+Apr 2024	10.78	2.53	0.73	2.16	1.51	1.24	0.27	0.15	0.34		0.18	0.13	0.17	5.47		0.11	0.15	0.07	0.01	0.01	0.01	0.19	0.07		0.01						
+May 2024	11.59	2.75	0.83	2.24	1.50	1.20	0.30	0.15	0.36		0.18	0.14	0.16	5.63		0.11	0.15	0.07	0.01	0.01	0.01	0.09	0.06		0.01						
+Jun 2024	11.54	2.88	0.91	2.34	1.52	0.71	0.32	0.16	0.37	0.03	0.20	0.16	0.15	6.06		0.11	0.15	0.07	0.01	0.01	0.01	0.10	0.07		0.01						
+Jul 2024	12.34	2.83	1.01	2.45	1.65	0.71	0.34	0.18	0.43	0.06	0.20	0.17	0.15	6.80		0.12	0.15	0.07	0.01	0.01	0.01	0.09	0.09		0.01						
+Aug 2024	14.22	2.96	1.11	2.48	1.70	0.81	0.35	0.18	0.45	0.12	0.19	0.18	0.35	6.72		0.12	0.14	0.08	0.01	0.01	0.01	0.08	0.11		0.01						
+Sep 2024	12.95	3.13	1.18	2.26	1.44	0.72	0.35	0.18	0.44	0.12	0.24	0.18	0.42	5.99		0.13	0.15	0.08	0.01	0.01	0.01	0.07	0.13		0.01						
+Oct 2024	12.24	3.23	1.23	2.35	1.53	0.66	0.40	0.19	0.43	0.17	0.27	0.18	0.39	5.49		0.12	0.14	0.09	0.01	0.01	0.01	0.09	0.14		0.01						
+Nov 2024	11.86	3.21	1.27	2.31	1.52	0.63	0.44	0.21	0.43	0.19	0.29	0.17	0.41	4.66		0.12	0.11	0.08	0.01	0.01	0.01	0.10	0.14		0.01						
+Dec 2024	12.56	3.06	1.29	2.13	1.40	0.62	0.45	0.21	0.43	0.24	0.29	0.18	0.54	2.29		0.12	0.09	0.08	0.01	0.01	0.01	0.09	0.15		0.01						
+Jan 2025	12.62	2.92	1.31	1.73	1.36	0.66	0.41	0.21	0.46	0.27	0.34	0.19	0.54	1.54		0.13	0.12	0.08	0.01	0.01	0.01	0.04	0.16		0.01						
+Feb 2025	12.47	2.74	1.25	1.70	1.45	0.66	0.36	0.22	0.46	0.28	0.33	0.18	0.48	1.43		0.12	0.14	0.08	0.01	0.01	0.01	0.01	0.16		0.01						
+Mar 2025	12.18	2.87	1.28	1.51	1.25	0.67	0.33	0.21	0.47	0.27	0.33	0.18	0.36	1.18		0.13	0.14	0.07	0.01	0.01	0.01	0.01	0.25	0.04	0.01						
+Apr 2025	12.35	2.97	1.53	1.64	1.26	0.68	0.44	0.23	0.48	0.30	0.34	0.19	0.33	1.28		0.12	0.13	0.08	0.01	0.01	0.01	0.02	0.41	0.03	0.01						
+May 2025	12.48	2.97	1.61	1.74	1.40	0.64	0.46	0.24	0.46	0.33	0.39	0.20	0.22	1.31		0.12	0.13	0.07	0.02	0.01	0.01	0.02	0.40	0.05							
+Jun 2025	12.99	2.73	1.65	1.70	1.34	0.65	0.47	0.26	0.46	0.35	0.39	0.21	0.20	1.30		0.12	0.13	0.07	0.02	0.01	0.01	0.02	0.40	0.04							
+Jul 2025	13.83	2.87	1.76	1.71	1.16	0.66	0.50	0.72	0.48	0.39	0.33	0.23	0.20	1.30		0.12	0.13	0.07	0.02	0.01	0.01	0.01									
+Aug 2025	14.30	3.24	1.95	1.83	1.35	0.67	0.54	0.79	0.49	0.37	0.35	0.20	0.21	1.32		0.14	0.14	0.08	0.02	0.02	0.01	0.01									
+Sep 2025	14.56	3.37	1.98	1.46	1.17	0.64	0.53	0.58	0.55	0.33	0.37	0.21	0.20	1.16		0.13	0.14	0.08	0.02	0.02	0.01	0.01									
+Oct 2025	15.39	3.28	2.02	1.39	1.16	0.65	0.50	0.52	0.57	0.35	0.39	0.21	0.18	1.00		0.13	0.14	0.08	0.01	0.02	0.01										
+Nov 2025	13.01	3.29	1.96	1.59	1.09	0.59	0.50	0.47	0.48	0.36	0.34	0.19	0.19	0.79		0.11	0.11	0.07	0.02	0.01	0.01										
+Dec 2025	11.63	3.32	2.10	1.90	1.06	0.57	0.53	0.49	0.43	0.37	0.32	0.20	0.20	0.31	0.09	0.10	0.10	0.07	0.02	0.01	0.01										
+Jan 2026	11.50	3.35	2.14	1.83	1.03	0.57	0.53	0.50	0.42	0.38	0.30	0.21	0.19	0.16	0.15	0.11	0.10	0.05	0.02	0.01	0.01													
 {{< /graph >}}
 
 ---
@@ -139,627 +140,643 @@ Now let's graph the same data again, excluding them to see the others more clear
 ---
 
 {{< graph trackershares2 "Top Podcast Tracking Services by New Episode Share (excluding top 2)" "height:500px,colorShift:2">}}
-Month	Adswizz	Podscribe	Podsights	Blubrry	Podcorn	Spotify	Claritas	Podroll	Swap.fm	OP3	ArtsAI	Podder	Gumshoe	Feedpress	SoundStack	Veritonic	United Podcasters	CoHost Prefix	Podkite	Médiamétrie	Audiotakes	RSS Insight	Zencastr	Voxalyze	Glystn	Zippycast	Gumball	Vpixl	FeedBurner
-Sep 2021	1.00		1.16	2.07	2.09									0.32						0.42									1.61
-Oct 2021	1.01		1.20	2.11	2.13									0.34						0.54									1.61
-Nov 2021	1.02		1.25	2.01	2.14									0.32						0.57									0.59
-Dec 2021	1.24		1.19	1.57	2.27									0.19						0.59									
-Jan 2022	1.41		1.21	1.56	2.31									0.16						0.63									
-Feb 2022	1.44		1.25	1.53	2.38									0.17						0.58									
-Mar 2022	1.51		1.34	1.56	2.40									0.17						0.53									
-Apr 2022	1.49		1.33	1.55	2.33									0.16						0.51									
-May 2022	1.58		1.41	1.48	2.26									0.17						0.56									
-Jun 2022	1.77		1.54	1.50	2.06									0.21						0.62						0.02			
-Jul 2022	1.89		1.50	1.50	2.16									0.25						0.54						0.02			
-Aug 2022	2.08		1.73	1.51	2.45						0.10			0.20						0.41						0.01			
-Sep 2022	2.26	0.02	1.74	1.49	2.45		0.01				0.09			0.21					0.01	0.52						0.02	0.02		
-Oct 2022	2.35	0.07	1.81	1.61	2.51		0.02			0.03	0.10			0.18					0.01	0.50			0.01			0.02	0.04		
-Nov 2022	2.37	0.15	2.03	1.62	2.43		0.03			0.04	0.10	0.01		0.18					0.01	0.50			0.01			0.02	0.05		
-Dec 2022	2.32	0.03	1.81	1.61	2.05		0.02			0.05	0.05	0.04		0.18					0.01	0.49			0.01		0.01	0.02	0.05		
-Jan 2023	2.35	0.20	1.88	1.61	2.15		0.06			0.07	0.10	0.11		0.18					0.01	0.54			0.01		0.01	0.02	0.06		
-Feb 2023	2.29	0.21	1.92	1.62	2.30		0.07			0.07	0.10	0.11		0.19					0.01	0.49			0.01		0.01	0.02	0.06	0.03	
-Mar 2023	2.25	0.21	2.03	1.53	2.22		0.07	0.04		0.08	0.11	0.11		0.18		0.04			0.01	0.45			0.01		0.01	0.02	0.06		
-Apr 2023	2.26	0.21	2.00	1.67	2.20		0.07	0.06		0.09	0.11	0.15	0.08	0.17		0.05			0.01	0.45			0.01		0.01	0.01			
-May 2023	2.27	0.24	2.04	1.67	2.28		0.08	0.09		0.09	0.11	0.15	0.07	0.19		0.05			0.01	0.45			0.01	0.01	0.01	0.01			
-Jun 2023	2.39	0.26	2.23	1.64	1.86		0.07	0.10		0.09	0.12	0.15	0.08	0.19		0.05			0.01	0.51			0.01	0.01	0.01	0.01			
-Jul 2023	2.38	0.27	2.52	1.53	1.17	0.01	0.07	0.14		0.08	0.11	0.14	0.06	0.18		0.06			0.01	0.55			0.01	0.01	0.01	0.01			
-Aug 2023	2.72	0.36	2.76	1.58	1.23	0.03	0.08	0.16		0.11	0.12	0.15	0.07	0.17		0.07			0.01	0.53	0.04		0.01	0.02	0.01				
-Sep 2023	2.49	0.37	2.47	1.39	1.10	0.05	0.10	0.13		0.10	0.12	0.15	0.07	0.16		0.06			0.01	0.58	0.05		0.01	0.02	0.01				
-Oct 2023	2.29	0.39	2.28	1.37	1.11	0.08	0.10	0.12		0.10	0.12	0.16	0.08	0.16		0.06			0.01	0.50	0.05		0.02	0.03	0.01				
-Nov 2023	2.25	0.47	2.33	1.45	1.14	0.11	0.11	0.12		0.13	0.12	0.16	0.10	0.17		0.06			0.01	0.33	0.06		0.01	0.03					
-Dec 2023	2.20	0.54	2.19	1.53	1.12	0.12	0.11	0.12		0.11	0.12	0.16	0.09	0.16		0.06			0.01	0.33	0.06		0.01	0.03					
-Jan 2024	2.37	0.65	2.21	1.55	1.17	0.15	0.12	0.11		0.13	0.14	0.16	0.10	0.17		0.06	0.01		0.01	0.25	0.08		0.01	0.01					
-Feb 2024	2.38	0.69	2.22	1.52	1.21	0.22	0.13	0.12		0.16	0.13	0.17	0.11	0.17		0.06	0.01		0.01	0.22	0.09		0.01						
-Mar 2024	2.53	0.69	2.19	1.54	1.14	0.25	0.14	0.12		0.14	0.12	0.16	0.10	0.16		0.06	0.01		0.01	0.22	0.09		0.01						
-Apr 2024	2.53	0.73	2.16	1.51	1.24	0.27	0.15	0.34		0.18	0.13	0.17	0.11	0.15		0.07	0.01	0.01	0.01	0.19	0.07		0.01						
-May 2024	2.75	0.83	2.24	1.50	1.20	0.30	0.15	0.36		0.18	0.14	0.16	0.11	0.15		0.07	0.01	0.01	0.01	0.09	0.06		0.01						
-Jun 2024	2.88	0.91	2.34	1.52	0.71	0.32	0.16	0.37	0.03	0.20	0.16	0.15	0.11	0.15		0.07	0.01	0.01	0.01	0.10	0.07		0.01						
-Jul 2024	2.83	1.01	2.45	1.65	0.71	0.34	0.18	0.43	0.06	0.20	0.17	0.15	0.12	0.15		0.07	0.01	0.01	0.01	0.09	0.09		0.01						
-Aug 2024	2.96	1.11	2.48	1.70	0.81	0.35	0.18	0.45	0.12	0.19	0.18	0.35	0.12	0.14		0.08	0.01	0.01	0.01	0.08	0.11		0.01						
-Sep 2024	3.13	1.18	2.26	1.44	0.72	0.35	0.18	0.44	0.12	0.24	0.18	0.42	0.13	0.15		0.08	0.01	0.01	0.01	0.07	0.13		0.01						
-Oct 2024	3.23	1.23	2.35	1.53	0.66	0.40	0.19	0.43	0.17	0.27	0.18	0.39	0.12	0.14		0.09	0.01	0.01	0.01	0.09	0.14		0.01						
-Nov 2024	3.21	1.27	2.31	1.52	0.63	0.44	0.21	0.43	0.19	0.29	0.17	0.41	0.12	0.11		0.08	0.01	0.01	0.01	0.10	0.14		0.01						
-Dec 2024	3.06	1.29	2.13	1.40	0.62	0.45	0.21	0.43	0.24	0.29	0.18	0.54	0.12	0.09		0.08	0.01	0.01	0.01	0.09	0.15		0.01						
-Jan 2025	2.92	1.31	1.73	1.36	0.66	0.41	0.21	0.46	0.27	0.34	0.19	0.54	0.13	0.12		0.08	0.01	0.01	0.01	0.04	0.16		0.01						
-Feb 2025	2.74	1.25	1.70	1.45	0.66	0.36	0.22	0.46	0.28	0.33	0.18	0.48	0.12	0.14		0.08	0.01	0.01	0.01	0.01	0.16		0.01						
-Mar 2025	2.87	1.28	1.51	1.25	0.67	0.33	0.21	0.47	0.27	0.33	0.18	0.36	0.13	0.14		0.07	0.01	0.01	0.01	0.01	0.25	0.04	0.01						
-Apr 2025	2.97	1.53	1.64	1.26	0.68	0.44	0.23	0.48	0.30	0.34	0.19	0.33	0.12	0.13		0.08	0.01	0.01	0.01	0.02	0.41	0.03	0.01						
-May 2025	2.97	1.61	1.74	1.40	0.64	0.46	0.24	0.46	0.33	0.39	0.20	0.22	0.12	0.13		0.07	0.02	0.01	0.01	0.02	0.40	0.05							
-Jun 2025	2.73	1.65	1.70	1.34	0.65	0.47	0.26	0.46	0.35	0.39	0.21	0.20	0.12	0.13		0.07	0.02	0.01	0.01	0.02	0.40	0.04							
-Jul 2025	2.87	1.76	1.71	1.16	0.66	0.50	0.72	0.48	0.39	0.33	0.23	0.20	0.12	0.13		0.07	0.02	0.01	0.01	0.01									
-Aug 2025	3.24	1.95	1.83	1.35	0.67	0.54	0.79	0.49	0.37	0.35	0.20	0.21	0.14	0.14		0.08	0.02	0.02	0.01	0.01									
-Sep 2025	3.37	1.98	1.46	1.17	0.64	0.53	0.58	0.55	0.33	0.37	0.21	0.20	0.13	0.14		0.08	0.02	0.02	0.01	0.01									
-Oct 2025	3.28	2.02	1.39	1.16	0.65	0.50	0.52	0.57	0.35	0.39	0.21	0.18	0.13	0.14		0.08	0.01	0.02	0.01										
-Nov 2025	3.29	1.96	1.59	1.09	0.59	0.50	0.47	0.48	0.36	0.34	0.19	0.19	0.11	0.11		0.07	0.02	0.01	0.01										
-Dec 2025	3.32	2.10	1.90	1.06	0.57	0.53	0.49	0.43	0.37	0.32	0.20	0.20	0.10	0.10	0.09	0.07	0.02	0.01	0.01										
+Month	Adswizz	Podscribe	Podsights	Blubrry	Podcorn	Spotify	Claritas	Podroll	Swap.fm	OP3	ArtsAI	Podder	SoundStack	Gumshoe	Feedpress	Veritonic	United Podcasters	CoHost Prefix	Podkite	Médiamétrie	Audiotakes	RSS Insight	Zencastr	Voxalyze	Glystn	Zippycast	Gumball	Vpixl	FeedBurner
+Sep 2021	1.00		1.16	2.07	2.09										0.32					0.42									1.61
+Oct 2021	1.01		1.20	2.11	2.13										0.34					0.54									1.61
+Nov 2021	1.02		1.25	2.01	2.14										0.32					0.57									0.59
+Dec 2021	1.24		1.19	1.57	2.27										0.19					0.59									
+Jan 2022	1.41		1.21	1.56	2.31										0.16					0.63									
+Feb 2022	1.44		1.25	1.53	2.38										0.17					0.58									
+Mar 2022	1.51		1.34	1.56	2.40										0.17					0.53									
+Apr 2022	1.49		1.33	1.55	2.33										0.16					0.51									
+May 2022	1.58		1.41	1.48	2.26										0.17					0.56									
+Jun 2022	1.77		1.54	1.50	2.06										0.21					0.62						0.02			
+Jul 2022	1.89		1.50	1.50	2.16										0.25					0.54						0.02			
+Aug 2022	2.08		1.73	1.51	2.45						0.10				0.20					0.41						0.01			
+Sep 2022	2.26	0.02	1.74	1.49	2.45		0.01				0.09				0.21				0.01	0.52						0.02	0.02		
+Oct 2022	2.35	0.07	1.81	1.61	2.51		0.02			0.03	0.10				0.18				0.01	0.50			0.01			0.02	0.04		
+Nov 2022	2.37	0.15	2.03	1.62	2.43		0.03			0.04	0.10	0.01			0.18				0.01	0.50			0.01			0.02	0.05		
+Dec 2022	2.32	0.03	1.81	1.61	2.05		0.02			0.05	0.05	0.04			0.18				0.01	0.49			0.01		0.01	0.02	0.05		
+Jan 2023	2.35	0.20	1.88	1.61	2.15		0.06			0.07	0.10	0.11			0.18				0.01	0.54			0.01		0.01	0.02	0.06		
+Feb 2023	2.29	0.21	1.92	1.62	2.30		0.07			0.07	0.10	0.11			0.19				0.01	0.49			0.01		0.01	0.02	0.06	0.03	
+Mar 2023	2.25	0.21	2.03	1.53	2.22		0.07	0.04		0.08	0.11	0.11			0.18	0.04			0.01	0.45			0.01		0.01	0.02	0.06		
+Apr 2023	2.26	0.21	2.00	1.67	2.20		0.07	0.06		0.09	0.11	0.15		0.08	0.17	0.05			0.01	0.45			0.01		0.01	0.01			
+May 2023	2.27	0.24	2.04	1.67	2.28		0.08	0.09		0.09	0.11	0.15		0.07	0.19	0.05			0.01	0.45			0.01	0.01	0.01	0.01			
+Jun 2023	2.39	0.26	2.23	1.64	1.86		0.07	0.10		0.09	0.12	0.15		0.08	0.19	0.05			0.01	0.51			0.01	0.01	0.01	0.01			
+Jul 2023	2.38	0.27	2.52	1.53	1.17	0.01	0.07	0.14		0.08	0.11	0.14		0.06	0.18	0.06			0.01	0.55			0.01	0.01	0.01	0.01			
+Aug 2023	2.72	0.36	2.76	1.58	1.23	0.03	0.08	0.16		0.11	0.12	0.15		0.07	0.17	0.07			0.01	0.53	0.04		0.01	0.02	0.01				
+Sep 2023	2.49	0.37	2.47	1.39	1.10	0.05	0.10	0.13		0.10	0.12	0.15		0.07	0.16	0.06			0.01	0.58	0.05		0.01	0.02	0.01				
+Oct 2023	2.29	0.39	2.28	1.37	1.11	0.08	0.10	0.12		0.10	0.12	0.16		0.08	0.16	0.06			0.01	0.50	0.05		0.02	0.03	0.01				
+Nov 2023	2.25	0.47	2.33	1.45	1.14	0.11	0.11	0.12		0.13	0.12	0.16		0.10	0.17	0.06			0.01	0.33	0.06		0.01	0.03					
+Dec 2023	2.20	0.54	2.19	1.53	1.12	0.12	0.11	0.12		0.11	0.12	0.16		0.09	0.16	0.06			0.01	0.33	0.06		0.01	0.03					
+Jan 2024	2.37	0.65	2.21	1.55	1.17	0.15	0.12	0.11		0.13	0.14	0.16		0.10	0.17	0.06	0.01		0.01	0.25	0.08		0.01	0.01					
+Feb 2024	2.38	0.69	2.22	1.52	1.21	0.22	0.13	0.12		0.16	0.13	0.17		0.11	0.17	0.06	0.01		0.01	0.22	0.09		0.01						
+Mar 2024	2.53	0.69	2.19	1.54	1.14	0.25	0.14	0.12		0.14	0.12	0.16		0.10	0.16	0.06	0.01		0.01	0.22	0.09		0.01						
+Apr 2024	2.53	0.73	2.16	1.51	1.24	0.27	0.15	0.34		0.18	0.13	0.17		0.11	0.15	0.07	0.01	0.01	0.01	0.19	0.07		0.01						
+May 2024	2.75	0.83	2.24	1.50	1.20	0.30	0.15	0.36		0.18	0.14	0.16		0.11	0.15	0.07	0.01	0.01	0.01	0.09	0.06		0.01						
+Jun 2024	2.88	0.91	2.34	1.52	0.71	0.32	0.16	0.37	0.03	0.20	0.16	0.15		0.11	0.15	0.07	0.01	0.01	0.01	0.10	0.07		0.01						
+Jul 2024	2.83	1.01	2.45	1.65	0.71	0.34	0.18	0.43	0.06	0.20	0.17	0.15		0.12	0.15	0.07	0.01	0.01	0.01	0.09	0.09		0.01						
+Aug 2024	2.96	1.11	2.48	1.70	0.81	0.35	0.18	0.45	0.12	0.19	0.18	0.35		0.12	0.14	0.08	0.01	0.01	0.01	0.08	0.11		0.01						
+Sep 2024	3.13	1.18	2.26	1.44	0.72	0.35	0.18	0.44	0.12	0.24	0.18	0.42		0.13	0.15	0.08	0.01	0.01	0.01	0.07	0.13		0.01						
+Oct 2024	3.23	1.23	2.35	1.53	0.66	0.40	0.19	0.43	0.17	0.27	0.18	0.39		0.12	0.14	0.09	0.01	0.01	0.01	0.09	0.14		0.01						
+Nov 2024	3.21	1.27	2.31	1.52	0.63	0.44	0.21	0.43	0.19	0.29	0.17	0.41		0.12	0.11	0.08	0.01	0.01	0.01	0.10	0.14		0.01						
+Dec 2024	3.06	1.29	2.13	1.40	0.62	0.45	0.21	0.43	0.24	0.29	0.18	0.54		0.12	0.09	0.08	0.01	0.01	0.01	0.09	0.15		0.01						
+Jan 2025	2.92	1.31	1.73	1.36	0.66	0.41	0.21	0.46	0.27	0.34	0.19	0.54		0.13	0.12	0.08	0.01	0.01	0.01	0.04	0.16		0.01						
+Feb 2025	2.74	1.25	1.70	1.45	0.66	0.36	0.22	0.46	0.28	0.33	0.18	0.48		0.12	0.14	0.08	0.01	0.01	0.01	0.01	0.16		0.01						
+Mar 2025	2.87	1.28	1.51	1.25	0.67	0.33	0.21	0.47	0.27	0.33	0.18	0.36		0.13	0.14	0.07	0.01	0.01	0.01	0.01	0.25	0.04	0.01						
+Apr 2025	2.97	1.53	1.64	1.26	0.68	0.44	0.23	0.48	0.30	0.34	0.19	0.33		0.12	0.13	0.08	0.01	0.01	0.01	0.02	0.41	0.03	0.01						
+May 2025	2.97	1.61	1.74	1.40	0.64	0.46	0.24	0.46	0.33	0.39	0.20	0.22		0.12	0.13	0.07	0.02	0.01	0.01	0.02	0.40	0.05							
+Jun 2025	2.73	1.65	1.70	1.34	0.65	0.47	0.26	0.46	0.35	0.39	0.21	0.20		0.12	0.13	0.07	0.02	0.01	0.01	0.02	0.40	0.04							
+Jul 2025	2.87	1.76	1.71	1.16	0.66	0.50	0.72	0.48	0.39	0.33	0.23	0.20		0.12	0.13	0.07	0.02	0.01	0.01	0.01									
+Aug 2025	3.24	1.95	1.83	1.35	0.67	0.54	0.79	0.49	0.37	0.35	0.20	0.21		0.14	0.14	0.08	0.02	0.02	0.01	0.01									
+Sep 2025	3.37	1.98	1.46	1.17	0.64	0.53	0.58	0.55	0.33	0.37	0.21	0.20		0.13	0.14	0.08	0.02	0.02	0.01	0.01									
+Oct 2025	3.28	2.02	1.39	1.16	0.65	0.50	0.52	0.57	0.35	0.39	0.21	0.18		0.13	0.14	0.08	0.01	0.02	0.01										
+Nov 2025	3.29	1.96	1.59	1.09	0.59	0.50	0.47	0.48	0.36	0.34	0.19	0.19		0.11	0.11	0.07	0.02	0.01	0.01										
+Dec 2025	3.32	2.10	1.90	1.06	0.57	0.53	0.49	0.43	0.37	0.32	0.20	0.20	0.09	0.10	0.10	0.07	0.02	0.01	0.01										
+Jan 2026	3.35	2.14	1.83	1.03	0.57	0.53	0.50	0.42	0.38	0.30	0.21	0.19	0.15	0.11	0.10	0.05	0.02	0.01	0.01										
 {{< /graph >}}
 
 ---
 
 ### Overall
 
-At least one tracker was found on 17.77% of new episodes in December, shrinking 4.51% from last month.
+At least one tracker was found on 17.57% of new episodes in January, shrinking 0.79% from last month.
 
 For episodes that used at least one tracker, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "36.44%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "11.83%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "11.08%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.67%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.49%" >}}
-6. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "2.58%" >}}
-7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.76%" >}}
-8. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.72%" >}}
-9. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "1.71%" >}}
-10. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "1.38%" >}}
+1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "36.33%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "11.69%" >}}
+3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "11.27%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.81%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.48%" >}}
+6. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "2.53%" >}}
+7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.82%" >}}
+8. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.73%" >}}
+9. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "1.47%" >}}
+10. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}} {{< span "weak" "1.36%" >}}
 ---
 ### Individual Service Rankings
 
-And now, the full list of individual podcast analytics services ordered by new episodes published during the month of December 2025.
+And now, the full list of individual podcast analytics services ordered by new episodes published during the month of January 2026.
 
 ---
 
 ### 1. [Podtrac](https://analytics.podtrac.com/)
 
-Podtrac was found on 11.63% of new episodes in December, shrinking 8.17% from last month.
+Podtrac was found on 11.50% of new episodes in January, shrinking 0.58% from last month.
 
-Of these, 15.60% had one other tracker, 5.18% had 2 other trackers, 1.55% had 4 other trackers, 1.48% had 3 other trackers, 0.96% had 5 other trackers, 0.40% had 6 other trackers, 0.10% had 7 other trackers, <0.01% had 9 other trackers, and <0.01% had 8 other trackers.
+Of these, 15.71% had one other tracker, 5.08% had 2 other trackers, 1.46% had 4 other trackers, 1.34% had 3 other trackers, 0.82% had 5 other trackers, 0.55% had 6 other trackers, 0.17% had 7 other trackers, <0.01% had 9 other trackers, and <0.01% had 8 other trackers.
 
-10.41% also included Podsights, 7.34% also included Podscribe, 6.36% also included Adswizz, 3.17% also included Magellan AI, 3.01% also included Podroll, 2.57% also included Claritas, 2.47% also included Spotify, 1.59% also included Blubrry, 1.54% also included Swap.fm, 1.30% also included Podcorn, 1.11% also included ArtsAI, 1.05% also included OP3, 0.98% also included Chartable, 0.53% also included Gumshoe, 0.47% also included Podder, 0.46% also included Veritonic, 0.07% also included CoHost Prefix, 0.06% also included United Podcasters, 0.04% also included Feedpress, 0.01% also included Podkite, 0.01% also included AdBarker, and 0.01% also included Zencastr.
+10.43% also included Podsights, 7.33% also included Podscribe, 6.59% also included Adswizz, 3.15% also included Magellan AI, 3.02% also included Podroll, 2.63% also included Claritas, 2.56% also included Spotify, 1.68% also included Swap.fm, 1.49% also included Blubrry, 1.31% also included Podcorn, 1.14% also included ArtsAI, 1.05% also included OP3, 0.56% also included Gumshoe, 0.46% also included Podder, 0.40% also included Veritonic, 0.34% also included Chartable, 0.06% also included United Podcasters, 0.06% also included CoHost Prefix, 0.04% also included Feedpress, 0.01% also included Podkite, 0.01% also included AdBarker, 0.01% also included Zencastr, and <0.01% also included Podcards.
 
 For episodes that used Podtrac, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "55.60%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "10.10%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.90%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "4.98%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "4.65%" >}}
-6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.67%" >}}
-7. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}} {{< span "weak" "1.00%" >}}
-8. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.97%" >}}
-9. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.94%" >}}
-10. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "0.84%" >}}
+1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "55.42%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "10.10%" >}}
+3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "9.85%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.03%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "4.58%" >}}
+6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.76%" >}}
+7. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "1.04%" >}}
+8. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}} {{< span "weak" "1.01%" >}}
+9. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.99%" >}}
+10. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "0.95%" >}}
 ---
 
 ### 2. [Adswizz by Pandora](https://www.adswizz.com/audiomax/)
 
-Adswizz was found on 3.32% of new episodes in December, shrinking 0.12% from last month.
+Adswizz was found on 3.35% of new episodes in January, growing 0.66% from last month.
 
-Of these, 19.02% had 2 other trackers, 15.48% had one other tracker, 2.73% had 3 other trackers, 1.31% had 4 other trackers, 0.84% had 5 other trackers, and 0.46% had 6 other trackers.
+Of these, 18.97% had 2 other trackers, 17.41% had one other tracker, 2.44% had 3 other trackers, 1.27% had 4 other trackers, 1.00% had 6 other trackers, 0.41% had 5 other trackers, and 0.21% had 7 other trackers.
 
-22.29% also included Podtrac, 15.84% also included Podscribe, 13.00% also included Magellan AI, 9.77% also included Podroll, 2.71% also included Spotify, 2.49% also included Claritas, 2.29% also included Podsights, 1.32% also included Swap.fm, 1.08% also included SoundStack, 0.68% also included Blubrry, 0.59% also included OP3, 0.57% also included ArtsAI, 0.38% also included Chartable, 0.37% also included Podder, 0.25% also included Veritonic, 0.17% also included Podcorn, 0.06% also included United Podcasters, 0.04% also included Gumshoe, and 0.02% also included Feedpress.
+22.64% also included Podtrac, 16.63% also included Podscribe, 13.32% also included Magellan AI, 9.71% also included Podroll, 2.81% also included Spotify, 2.77% also included SoundStack, 2.75% also included Claritas, 2.10% also included Swap.fm, 1.68% also included Podsights, 0.83% also included Blubrry, 0.60% also included OP3, 0.45% also included ArtsAI, 0.35% also included Podder, 0.22% also included Veritonic, 0.15% also included Podcorn, 0.14% also included Chartable, 0.05% also included United Podcasters, 0.03% also included Gumshoe, 0.01% also included Feedpress, and <0.01% also included Podkite.
 
 For episodes that used Adswizz, here are the top underlying podcast hosts:
 
-1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "57.09%" >}}
-2. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "8.83%" >}}
-3. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "7.38%" >}}
-4. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}} {{< span "weak" "7.31%" >}}
-5. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "5.51%" >}}
-6. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "2.84%" >}}
-7. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "2.62%" >}}
-8. {{< a "https://www.streamguys.com/" "StreamGuys" >}} {{< span "weak" "2.51%" >}}
-9. {{< a "https://www.rmf.fm/" "RMF FM" >}} {{< span "weak" "0.91%" >}}
-10. {{< a "https://www.ilsole24ore.com/" "Il Sole 24 Ore" >}} {{< span "weak" "0.87%" >}}
+1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "57.05%" >}}
+2. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "7.70%" >}}
+3. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}} {{< span "weak" "7.15%" >}}
+4. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "6.36%" >}}
+5. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "5.68%" >}}
+6. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.20%" >}}
+7. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "2.83%" >}}
+8. {{< a "https://www.streamguys.com/" "StreamGuys" >}} {{< span "weak" "2.69%" >}}
+9. {{< a "https://www.ilsole24ore.com/" "Il Sole 24 Ore" >}} {{< span "weak" "0.88%" >}}
+10. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}} {{< span "weak" "0.78%" >}}
 ---
 
 ### Spotify ([Chartable, Podsights](https://newsroom.spotify.com/2022-02-16/spotify-acquires-podsights-and-chartable-to-advance-podcast-measurement-for-advertisers-and-insights-for-publishers/), and [Ad Analytics](https://ads.spotify.com/en-US/news-and-insights/introducing-spotify-ad-analytics/))
 
-At least one Spotify tracker was found on 2.53% of new episodes in December, growing 6.94% from last month.
+At least one Spotify tracker was found on 2.39% of new episodes in January, shrinking 5.37% from last month.
 
-Of these, 58.59% also included Podtrac, 31.24% also included Podscribe, 16.59% also included Magellan AI, 13.97% also included Claritas, 7.23% also included Swap.fm, 7.05% also included Adswizz, 5.89% also included ArtsAI, 2.69% also included Podcorn, 2.68% also included Gumshoe, 2.48% also included OP3, 2.32% also included Veritonic, 2.10% also included Podroll, 1.46% also included Podder, 0.32% also included CoHost Prefix, 0.26% also included Blubrry, 0.26% also included United Podcasters, 0.05% also included Firstory, 0.04% also included Feedpress, 0.04% also included Podkite, 0.01% also included AdBarker, and 0.01% also included Zencastr.
+Of these, 60.33% also included Podtrac, 32.37% also included Podscribe, 16.72% also included Magellan AI, 14.66% also included Claritas, 8.22% also included Swap.fm, 6.48% also included Adswizz, 6.36% also included ArtsAI, 2.89% also included Gumshoe, 2.86% also included Podcorn, 2.59% also included OP3, 2.14% also included Podroll, 2.08% also included Veritonic, 1.42% also included Podder, 0.31% also included CoHost Prefix, 0.25% also included United Podcasters, 0.22% also included Blubrry, 0.06% also included Firstory, 0.05% also included Feedpress, 0.03% also included Podkite, 0.02% also included Zencastr, 0.01% also included AdBarker, and <0.01% also included Podcards.
 
 For episodes that used at least one Spotify tracker, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "54.86%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "24.38%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "6.43%" >}}
-4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "3.12%" >}}
-5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.41%" >}}
-6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.50%" >}}
-7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.36%" >}}
-8. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.85%" >}}
-9. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.75%" >}}
-10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.64%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "54.92%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "24.34%" >}}
+3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "6.51%" >}}
+4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "3.27%" >}}
+5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.63%" >}}
+6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.47%" >}}
+7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.42%" >}}
+8. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.90%" >}}
+9. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.77%" >}}
+10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.62%" >}}
 ---
 
 ### 3. [Podscribe](https://podscribe.com/blog/impression-verification-mb45x)
 
-Podscribe was found on 2.10% of new episodes in December, growing 6.22% from last month.
+Podscribe was found on 2.14% of new episodes in January, growing 1.34% from last month.
 
-Of these, 25.05% had 2 other trackers, 22.73% had one other tracker, 13.34% had 3 other trackers, 10.89% had 4 other trackers, 6.39% had 5 other trackers, 2.57% had 6 other trackers, 0.56% had 7 other trackers, 0.02% had 9 other trackers, and 0.01% had 8 other trackers.
+Of these, 25.82% had 2 other trackers, 22.98% had one other tracker, 12.97% had 3 other trackers, 10.20% had 4 other trackers, 5.32% had 5 other trackers, 3.31% had 6 other trackers, 0.89% had 7 other trackers, 0.02% had 9 other trackers, and 0.01% had 8 other trackers.
 
-41.77% also included Magellan AI, 40.58% also included Podtrac, 26.10% also included Podsights, 24.97% also included Adswizz, 22.55% also included Claritas, 14.97% also included Spotify, 8.45% also included ArtsAI, 8.18% also included Swap.fm, 3.62% also included Podroll, 3.12% also included Podcorn, 2.97% also included Gumshoe, 2.85% also included OP3, 2.77% also included Veritonic, 2.42% also included Chartable, 1.73% also included Podder, 0.40% also included CoHost Prefix, 0.35% also included United Podcasters, 0.18% also included Blubrry, 0.01% also included Podkite, 0.01% also included Zencastr, and <0.01% also included AdBarker.
+42.25% also included Magellan AI, 39.45% also included Podtrac, 26.06% also included Adswizz, 25.21% also included Podsights, 23.15% also included Claritas, 14.91% also included Spotify, 8.90% also included Swap.fm, 8.77% also included ArtsAI, 3.54% also included Podroll, 3.17% also included Podcorn, 3.11% also included Gumshoe, 2.96% also included OP3, 2.33% also included Veritonic, 1.66% also included Podder, 0.84% also included Chartable, 0.37% also included CoHost Prefix, 0.33% also included United Podcasters, 0.17% also included Blubrry, 0.02% also included Zencastr, 0.01% also included Podkite, <0.01% also included AdBarker, and <0.01% also included Podcards.
 
 For episodes that used Podscribe, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "37.40%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "23.50%" >}}
-3. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "8.27%" >}}
-4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "7.16%" >}}
-5. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.03%" >}}
-6. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "5.10%" >}}
-7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.44%" >}}
-8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "2.30%" >}}
-9. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.12%" >}}
-10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.90%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "37.45%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "22.75%" >}}
+3. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "7.76%" >}}
+4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "6.73%" >}}
+5. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "5.90%" >}}
+6. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "4.99%" >}}
+7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.45%" >}}
+8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "2.28%" >}}
+9. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.22%" >}}
+10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.87%" >}}
 ---
 
 ### 4. [Podsights by Spotify](https://podsights.com/)
 
-Podsights was found on 1.90% of new episodes in December, growing 18.69% from last month.
+Podsights was found on 1.83% of new episodes in January, shrinking 3.80% from last month.
 
-Of these, 43.60% had one other tracker, 11.09% had 2 other trackers, 8.17% had 4 other trackers, 8.07% had 3 other trackers, 5.32% had 5 other trackers, 2.17% had 6 other trackers, 0.62% had 7 other trackers, 0.03% had 9 other trackers, and 0.01% had 8 other trackers.
+Of these, 45.53% had one other tracker, 10.67% had 2 other trackers, 7.85% had 4 other trackers, 7.33% had 3 other trackers, 5.10% had 5 other trackers, 2.16% had 6 other trackers, 0.66% had 7 other trackers, 0.02% had 9 other trackers, and 0.01% had 8 other trackers.
 
-63.64% also included Podtrac, 28.89% also included Podscribe, 16.45% also included Magellan AI, 12.00% also included Claritas, 9.06% also included Swap.fm, 6.19% also included Chartable, 5.06% also included ArtsAI, 4.92% also included Spotify, 4.00% also included Adswizz, 3.17% also included Podcorn, 3.17% also included Gumshoe, 2.90% also included Veritonic, 2.84% also included OP3, 2.09% also included Podroll, 1.61% also included Podder, 0.28% also included Blubrry, 0.27% also included CoHost Prefix, 0.27% also included United Podcasters, 0.06% also included Feedpress, 0.03% also included Podkite, and 0.01% also included Zencastr.
+65.40% also included Podtrac, 29.39% also included Podscribe, 15.61% also included Magellan AI, 11.93% also included Claritas, 8.57% also included Swap.fm, 5.38% also included ArtsAI, 5.16% also included Spotify, 3.43% also included Podcorn, 3.41% also included Gumshoe, 3.07% also included Adswizz, 2.90% also included OP3, 2.53% also included Veritonic, 2.31% also included Chartable, 2.09% also included Podroll, 1.53% also included Podder, 0.27% also included CoHost Prefix, 0.24% also included United Podcasters, 0.24% also included Blubrry, 0.06% also included Feedpress, 0.03% also included Zencastr, 0.02% also included Podkite, and <0.01% also included Podcards.
 
 For episodes that used Podsights, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "60.94%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "26.72%" >}}
-3. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.85%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "61.62%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "25.73%" >}}
+3. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "3.02%" >}}
 4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.50%" >}}
-5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.49%" >}}
-6. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.00%" >}}
+5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.46%" >}}
+6. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.03%" >}}
 7. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.00%" >}}
-8. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.91%" >}}
-9. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.83%" >}}
+8. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.96%" >}}
+9. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.92%" >}}
 10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.47%" >}}
 ---
 
 ### 5. [Magellan AI](https://www.magellan.ai/prefix)
 
-Magellan AI was found on 1.25% of new episodes in December, growing 1.16% from last month.
+Magellan AI was found on 1.27% of new episodes in January, growing 0.84% from last month.
 
-Of these, 28.06% had 2 other trackers, 16.63% had 3 other trackers, 12.91% had one other tracker, 12.60% had 4 other trackers, 8.56% had 5 other trackers, 2.83% had 6 other trackers, 0.90% had 7 other trackers, and 0.02% had 8 other trackers.
+Of these, 29.83% had 2 other trackers, 15.65% had 3 other trackers, 12.20% had one other tracker, 11.93% had 4 other trackers, 6.58% had 5 other trackers, 4.17% had 6 other trackers, 1.48% had 7 other trackers, and 0.02% had 8 other trackers.
 
-70.06% also included Podscribe, 34.39% also included Adswizz, 29.43% also included Podtrac, 27.52% also included Claritas, 24.93% also included Podsights, 12.21% also included Spotify, 10.82% also included Swap.fm, 9.59% also included ArtsAI, 5.24% also included Podroll, 4.07% also included Veritonic, 2.18% also included Chartable, 1.64% also included Podder, 1.28% also included OP3, 0.95% also included Gumshoe, 0.53% also included United Podcasters, 0.23% also included Podcorn, 0.22% also included CoHost Prefix, and 0.16% also included Blubrry.
+71.23% also included Podscribe, 35.19% also included Adswizz, 28.55% also included Podtrac, 28.44% also included Claritas, 22.57% also included Podsights, 13.02% also included Spotify, 12.62% also included Swap.fm, 9.22% also included ArtsAI, 5.27% also included Podroll, 3.40% also included Veritonic, 1.47% also included Podder, 1.17% also included OP3, 1.02% also included Gumshoe, 0.75% also included Chartable, 0.40% also included United Podcasters, 0.27% also included Podcorn, 0.23% also included CoHost Prefix, and 0.18% also included Blubrry.
 
 For episodes that used Magellan AI, here are the top underlying podcast hosts:
 
-1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "31.88%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "29.04%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "13.76%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.00%" >}}
-5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "4.91%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.91%" >}}
-7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.73%" >}}
-8. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "1.66%" >}}
-9. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}} {{< span "weak" "1.65%" >}}
-10. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.90%" >}}
+1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "32.55%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "27.77%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "13.45%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "8.64%" >}}
+5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "4.95%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.30%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.76%" >}}
+8. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}} {{< span "weak" "1.70%" >}}
+9. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "1.70%" >}}
+10. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.53%" >}}
 ---
 
 ### 6. [Blubrry](https://create.blubrry.com/resources/podcast-media-download-statistics/)
 
-Blubrry was found on 1.06% of new episodes in December, shrinking 3.70% from last month.
+Blubrry was found on 1.03% of new episodes in January, shrinking 2.43% from last month.
 
-Of these, 20.49% had one other tracker, 0.93% had 2 other trackers, 0.26% had 3 other trackers, 0.04% had 4 other trackers, and 0.02% had 5 other trackers.
+Of these, 20.30% had one other tracker, 0.89% had 2 other trackers, 0.28% had 3 other trackers, 0.04% had 4 other trackers, and 0.01% had 5 other trackers.
 
-17.48% also included Podtrac, 2.12% also included Adswizz, 1.39% also included Feedpress, 0.58% also included OP3, 0.50% also included Podsights, 0.36% also included Podscribe, 0.25% also included Podcorn, 0.19% also included Magellan AI, 0.16% also included Podder, 0.10% also included Swap.fm, 0.10% also included Spotify, 0.05% also included Podkite, 0.05% also included Chartable, 0.02% also included AdBarker, 0.01% also included Claritas, and 0.01% also included Veritonic.
+16.62% also included Podtrac, 2.68% also included Adswizz, 1.44% also included Feedpress, 0.54% also included OP3, 0.42% also included Podsights, 0.38% also included Podcorn, 0.35% also included Podscribe, 0.22% also included Magellan AI, 0.14% also included Podder, 0.10% also included Spotify, 0.10% also included Swap.fm, 0.05% also included Podkite, 0.03% also included ArtsAI, 0.03% also included AdBarker, 0.02% also included Claritas, and 0.01% also included Veritonic.
 
 For episodes that used Blubrry, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "43.30%" >}}
-2. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "8.46%" >}}
-3. {{< a "https://www.elsitiocristiano.com/" "LightSource" >}} {{< span "weak" "5.34%" >}}
-4. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}} {{< span "weak" "3.81%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.09%" >}}
-6. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "1.92%" >}}
-7. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "1.34%" >}}
+1. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "42.94%" >}}
+2. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "8.02%" >}}
+3. {{< a "https://www.elsitiocristiano.com/" "LightSource" >}} {{< span "weak" "5.23%" >}}
+4. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}} {{< span "weak" "4.04%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.67%" >}}
+6. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "1.96%" >}}
+7. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "1.33%" >}}
 8. {{< a "https://archive.org/" "Internet Archive" >}} {{< span "weak" "0.95%" >}}
-9. {{< a "https://www.discerninghearts.com/" "Discerning Hearts" >}} {{< span "weak" "0.83%" >}}
-10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.75%" >}}
+9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.79%" >}}
+10. {{< a "https://joy.org.au/" "JOY Media" >}} {{< span "weak" "0.76%" >}}
 ---
 
 ### 7. [Podcorn by Audacy/Entercom](https://podcorn.com/)
 
-Podcorn was found on 0.57% of new episodes in December, shrinking 3.57% from last month.
+Podcorn was found on 0.57% of new episodes in January, shrinking 1.06% from last month.
 
-Of these, 14.87% had one other tracker, 3.73% had 2 other trackers, 3.32% had 5 other trackers, 2.80% had 6 other trackers, 2.61% had 3 other trackers, 2.52% had 4 other trackers, 0.13% had 7 other trackers, 0.08% had 9 other trackers, and 0.04% had 8 other trackers.
+Of these, 14.94% had one other tracker, 4.04% had 5 other trackers, 3.25% had 2 other trackers, 2.76% had 6 other trackers, 2.73% had 4 other trackers, 2.24% had 3 other trackers, 0.14% had 7 other trackers, 0.07% had 9 other trackers, and 0.04% had 8 other trackers.
 
-26.39% also included Podtrac, 11.50% also included Podscribe, 10.56% also included Podsights, 9.27% also included OP3, 7.55% also included Gumshoe, 3.92% also included Spotify, 1.80% also included Podroll, 1.05% also included Podder, 1.00% also included Adswizz, 0.73% also included Chartable, 0.51% also included Magellan AI, 0.45% also included Blubrry, 0.23% also included United Podcasters, 0.20% also included Feedpress, 0.19% also included Swap.fm, 0.08% also included Podkite, 0.08% also included CoHost Prefix, 0.05% also included AdBarker, and 0.04% also included Zencastr.
+26.53% also included Podtrac, 11.96% also included Podscribe, 11.09% also included Podsights, 9.57% also included OP3, 8.14% also included Gumshoe, 3.90% also included Spotify, 1.80% also included Podroll, 1.16% also included Podder, 0.90% also included Adswizz, 0.70% also included Blubrry, 0.62% also included Magellan AI, 0.32% also included Swap.fm, 0.28% also included Chartable, 0.28% also included United Podcasters, 0.17% also included Feedpress, 0.10% also included Zencastr, 0.07% also included Podkite, 0.07% also included CoHost Prefix, and 0.06% also included AdBarker.
 
 For episodes that used Podcorn, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "20.85%" >}}
-2. {{< a "https://www.podomatic.com/" "Podomatic" >}} {{< span "weak" "13.55%" >}}
-3. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "11.08%" >}}
-4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "10.56%" >}}
-5. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "10.12%" >}}
-6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "8.31%" >}}
-7. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "6.56%" >}}
-8. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "5.76%" >}}
-9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.75%" >}}
-10. {{< a "https://www.ausha.co/" "Ausha" >}} {{< span "weak" "2.06%" >}}
+1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "19.78%" >}}
+2. {{< a "https://www.podomatic.com/" "Podomatic" >}} {{< span "weak" "14.84%" >}}
+3. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "10.37%" >}}
+4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "10.32%" >}}
+5. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "9.82%" >}}
+6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "8.66%" >}}
+7. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "6.86%" >}}
+8. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "5.67%" >}}
+9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.76%" >}}
+10. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "2.28%" >}}
 ---
 
 ### 8. [Spotify Ad Analytics](https://ads.spotify.com/en-US/news-and-insights/introducing-spotify-ad-analytics/)
 
-Spotify was found on 0.53% of new episodes in December, growing 4.73% from last month.
+Spotify was found on 0.53% of new episodes in January, growing 1.38% from last month.
 
-Of these, 24.80% had one other tracker, 14.96% had 2 other trackers, 14.05% had 4 other trackers, 10.66% had 5 other trackers, 9.10% had 3 other trackers, 7.61% had 6 other trackers, 1.96% had 7 other trackers, 0.09% had 9 other trackers, and 0.04% had 8 other trackers.
+Of these, 23.80% had one other tracker, 14.76% had 2 other trackers, 13.17% had 4 other trackers, 10.73% had 6 other trackers, 8.39% had 3 other trackers, 8.02% had 5 other trackers, 3.44% had 7 other trackers, 0.07% had 9 other trackers, and 0.04% had 8 other trackers.
 
-59.90% also included Podscribe, 54.55% also included Podtrac, 33.89% also included Claritas, 29.13% also included Magellan AI, 17.80% also included Podsights, 17.10% also included Adswizz, 15.12% also included ArtsAI, 5.05% also included OP3, 4.69% also included Gumshoe, 4.25% also included Podcorn, 2.56% also included Swap.fm, 2.49% also included Veritonic, 2.30% also included Podroll, 1.24% also included Chartable, 0.88% also included Podder, 0.62% also included CoHost Prefix, 0.19% also included Blubrry, 0.19% also included United Podcasters, 0.04% also included Podkite, and 0.04% also included AdBarker.
+59.63% also included Podscribe, 55.02% also included Podtrac, 35.14% also included Claritas, 30.90% also included Magellan AI, 17.70% also included Podsights, 17.63% also included Adswizz, 15.54% also included ArtsAI, 8.33% also included Swap.fm, 4.90% also included OP3, 4.64% also included Gumshoe, 4.13% also included Podcorn, 2.67% also included Veritonic, 2.46% also included Podroll, 0.80% also included Podder, 0.53% also included CoHost Prefix, 0.22% also included Chartable, 0.19% also included Blubrry, 0.17% also included United Podcasters, 0.05% also included AdBarker, and 0.04% also included Podkite.
 
 For episodes that used Spotify, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "36.99%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "20.42%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "16.26%" >}}
-4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "11.72%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "36.89%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "20.82%" >}}
+3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "16.82%" >}}
+4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "11.40%" >}}
 5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "4.89%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.86%" >}}
-7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.42%" >}}
-8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.99%" >}}
-9. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.79%" >}}
-10. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.54%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.55%" >}}
+7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.18%" >}}
+8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.15%" >}}
+9. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.75%" >}}
+10. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.51%" >}}
 ---
 
 ### 9. [Claritas](https://claritas.com/podcast-attribution-audience-identification/)
 
-Claritas was found on 0.49% of new episodes in December, growing 3.84% from last month.
+Claritas was found on 0.50% of new episodes in January, growing 3.23% from last month.
 
-Of these, 30.08% had 4 other trackers, 25.21% had 3 other trackers, 21.73% had 5 other trackers, 10.72% had 2 other trackers, 7.39% had 6 other trackers, 2.17% had 7 other trackers, and 2.16% had one other tracker.
+Of these, 28.20% had 4 other trackers, 25.50% had 3 other trackers, 16.51% had 5 other trackers, 13.66% had 2 other trackers, 10.52% had 6 other trackers, 3.60% had 7 other trackers, and 1.51% had one other tracker.
 
-97.34% also included Podscribe, 70.82% also included Magellan AI, 61.39% also included Podtrac, 46.80% also included Podsights, 36.56% also included Spotify, 27.56% also included ArtsAI, 16.94% also included Adswizz, 10.42% also included Veritonic, 6.82% also included Swap.fm, 4.08% also included Podroll, 3.12% also included Chartable, 1.78% also included OP3, 1.37% also included Gumshoe, 1.36% also included Podder, 0.82% also included CoHost Prefix, 0.58% also included United Podcasters, and 0.02% also included Blubrry.
+98.09% also included Podscribe, 71.50% also included Magellan AI, 59.99% also included Podtrac, 43.36% also included Podsights, 37.23% also included Spotify, 28.70% also included ArtsAI, 18.28% also included Adswizz, 12.45% also included Swap.fm, 8.57% also included Veritonic, 4.40% also included Podroll, 1.72% also included OP3, 1.32% also included Gumshoe, 1.15% also included Podder, 0.98% also included Chartable, 0.74% also included CoHost Prefix, 0.53% also included United Podcasters, and 0.03% also included Blubrry.
 
 For episodes that used Claritas, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "39.88%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "17.09%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "14.94%" >}}
-4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "8.46%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "7.83%" >}}
-6. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "7.53%" >}}
-7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.11%" >}}
-8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.33%" >}}
-9. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "0.23%" >}}
-10. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.22%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "37.87%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "18.44%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "14.74%" >}}
+4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "8.49%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "7.70%" >}}
+6. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.71%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.49%" >}}
+8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.84%" >}}
+9. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "0.26%" >}}
+10. {{< a "https://flightcast.com/" "Flightcast" >}} {{< span "weak" "0.15%" >}}
 ---
 
 ### 10. [Podroll](https://podroll.fm/)
 
-Podroll was found on 0.43% of new episodes in December, shrinking 11.36% from last month.
+Podroll was found on 0.42% of new episodes in January, shrinking 1.57% from last month.
 
-Of these, 70.78% had 2 other trackers, 9.74% had 3 other trackers, 8.22% had one other tracker, 4.28% had 4 other trackers, 3.16% had 6 other trackers, 1.09% had 5 other trackers, 0.27% had 7 other trackers, 0.11% had 9 other trackers, and 0.05% had 8 other trackers.
+Of these, 71.30% had 2 other trackers, 9.38% had 3 other trackers, 8.34% had one other tracker, 4.18% had 4 other trackers, 2.20% had 6 other trackers, 1.57% had 7 other trackers, 0.78% had 5 other trackers, 0.09% had 9 other trackers, and 0.05% had 8 other trackers.
 
-81.45% also included Podtrac, 75.41% also included Adswizz, 17.71% also included Podscribe, 15.28% also included Magellan AI, 9.26% also included Podsights, 6.92% also included Swap.fm, 4.62% also included Claritas, 2.81% also included Spotify, 2.39% also included Podcorn, 2.03% also included Chartable, 1.26% also included ArtsAI, 1.17% also included OP3, 1.06% also included Gumshoe, 1.04% also included United Podcasters, 0.47% also included Podder, 0.46% also included Veritonic, and 0.43% also included CoHost Prefix.
+81.77% also included Podtrac, 76.69% also included Adswizz, 17.83% also included Podscribe, 15.74% also included Magellan AI, 9.05% also included Podsights, 7.47% also included Swap.fm, 5.23% also included Claritas, 3.10% also included Spotify, 2.40% also included Podcorn, 1.51% also included ArtsAI, 0.95% also included Gumshoe, 0.86% also included United Podcasters, 0.78% also included OP3, 0.75% also included Chartable, 0.42% also included Veritonic, 0.32% also included CoHost Prefix, and 0.24% also included Podder.
 
 For episodes that used Podroll, here are the top underlying podcast hosts:
 
-1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "75.49%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "11.79%" >}}
-3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.83%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.32%" >}}
-5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.91%" >}}
-6. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.52%" >}}
-7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.83%" >}}
-8. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}} {{< span "weak" "0.44%" >}}
-9. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.32%" >}}
-10. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.18%" >}}
+1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "76.66%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "11.51%" >}}
+3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.44%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.36%" >}}
+5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.76%" >}}
+6. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.43%" >}}
+7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.49%" >}}
+8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.47%" >}}
+9. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}} {{< span "weak" "0.39%" >}}
+10. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.16%" >}}
 ---
 
 ### 11. [Swap.fm](https://swap.fm/)
 
-Swap.fm was found on 0.37% of new episodes in December, growing 3.82% from last month.
+Swap.fm was found on 0.38% of new episodes in January, growing 0.56% from last month.
 
-Of these, 30.40% had 2 other trackers, 22.55% had one other tracker, 18.17% had 3 other trackers, 10.93% had 4 other trackers, 4.98% had 5 other trackers, 2.30% had 6 other trackers, 0.17% had 7 other trackers, and 0.06% had 8 other trackers.
+Of these, 29.49% had 2 other trackers, 19.88% had one other tracker, 16.58% had 3 other trackers, 9.62% had 4 other trackers, 8.37% had 6 other trackers, 4.31% had 5 other trackers, 2.00% had 7 other trackers, and 0.06% had 8 other trackers.
 
-47.62% also included Podtrac, 45.93% also included Podsights, 45.93% also included Podscribe, 36.20% also included Magellan AI, 11.65% also included Adswizz, 8.87% also included Claritas, 7.93% also included Podroll, 6.52% also included ArtsAI, 3.59% also included Spotify, 2.39% also included Chartable, 1.46% also included United Podcasters, 1.19% also included Gumshoe, 1.02% also included OP3, 0.85% also included Veritonic, 0.28% also included Blubrry, 0.28% also included Podcorn, 0.21% also included Podder, and 0.03% also included Zencastr.
+51.06% also included Podtrac, 50.32% also included Podscribe, 42.34% also included Magellan AI, 41.60% also included Podsights, 18.62% also included Adswizz, 16.62% also included Claritas, 11.78% also included Spotify, 8.39% also included Podroll, 6.57% also included ArtsAI, 1.36% also included OP3, 1.20% also included United Podcasters, 1.16% also included Gumshoe, 0.75% also included Veritonic, 0.48% also included Podcorn, 0.48% also included Chartable, 0.27% also included Blubrry, 0.14% also included Podder, 0.13% also included Zencastr, and 0.01% also included Podcards.
 
 For episodes that used Swap.fm, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "64.71%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "10.69%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "10.42%" >}}
-4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "9.50%" >}}
-5. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "3.55%" >}}
-6. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "0.72%" >}}
-7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.14%" >}}
-8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.14%" >}}
-9. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.13%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "59.90%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "17.81%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.32%" >}}
+4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "8.57%" >}}
+5. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "3.44%" >}}
+6. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "0.56%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.17%" >}}
+8. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.13%" >}}
+9. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.11%" >}}
 ---
 
 ### 12. [OP3 (the Open Podcast Prefix Project)](https://op3.dev/)
 
-OP3 was found on 0.32% of new episodes in December, shrinking 8.67% from last month.
+OP3 was found on 0.30% of new episodes in January, shrinking 3.86% from last month.
 
-Of these, 23.06% had one other tracker, 6.53% had 5 other trackers, 5.66% had 6 other trackers, 5.41% had 4 other trackers, 5.39% had 2 other trackers, 4.50% had 3 other trackers, 0.15% had 9 other trackers, and 0.10% had 7 other trackers.
+Of these, 23.42% had one other tracker, 7.92% had 5 other trackers, 5.83% had 2 other trackers, 5.43% had 6 other trackers, 4.95% had 4 other trackers, 3.65% had 3 other trackers, 0.59% had 7 other trackers, and 0.12% had 9 other trackers.
 
-38.57% also included Podtrac, 18.98% also included Podscribe, 17.09% also included Podsights, 16.78% also included Podcorn, 15.00% also included Gumshoe, 8.41% also included Spotify, 6.21% also included Adswizz, 5.09% also included Magellan AI, 2.75% also included Claritas, 1.93% also included Blubrry, 1.60% also included Podroll, 1.23% also included Podder, 1.21% also included Swap.fm, 1.16% also included Chartable, 0.52% also included CoHost Prefix, 0.42% also included ArtsAI, 0.30% also included Podkite, 0.13% also included United Podcasters, 0.13% also included Veritonic, 0.08% also included Feedpress, and 0.05% also included Zencastr.
+39.78% also included Podtrac, 20.80% also included Podscribe, 17.82% also included Podcorn, 17.47% also included Podsights, 16.79% also included Gumshoe, 8.61% also included Spotify, 6.62% also included Adswizz, 4.88% also included Magellan AI, 2.85% also included Claritas, 1.82% also included Blubrry, 1.68% also included Swap.fm, 1.09% also included Podroll, 1.08% also included Podder, 0.43% also included CoHost Prefix, 0.42% also included Chartable, 0.36% also included ArtsAI, 0.30% also included Podkite, 0.21% also included United Podcasters, 0.09% also included Zencastr, 0.09% also included Veritonic, and 0.07% also included Feedpress.
 
 For episodes that used OP3, here are the top underlying podcast hosts:
 
-1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "25.84%" >}}
-2. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "9.03%" >}}
-3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "7.84%" >}}
-4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "5.73%" >}}
-5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.24%" >}}
-6. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "5.19%" >}}
-7. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "3.27%" >}}
+1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "25.70%" >}}
+2. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "8.16%" >}}
+3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "6.63%" >}}
+4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "5.96%" >}}
+5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.64%" >}}
+6. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "5.45%" >}}
+7. {{< a "https://www.houstonpublicmedia.org/" "Houston Public Media" >}} {{< span "weak" "3.21%" >}}
 8. {{< a "https://vodio.fr/" "Vodio" >}} {{< span "weak" "2.64%" >}}
-9. {{< a "https://www.houstonpublicmedia.org/" "Houston Public Media" >}} {{< span "weak" "2.59%" >}}
-10. {{< a "https://letscast.fm/" "LetsCast.fm" >}} {{< span "weak" "2.54%" >}}
+9. {{< a "https://radiolaser.fr/" "Radio Laser" >}} {{< span "weak" "2.54%" >}}
+10. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.33%" >}}
 ---
 
-### 13. [Chartable by Spotify](https://chartable.com/)
+### 13. [ArtsAI](https://artsai.com/)
 
-Chartable was found on 0.31% of new episodes in December, shrinking 60.82% from last month.
+ArtsAI was found on 0.21% of new episodes in January, growing 4.84% from last month.
 
-Of these, 26.30% had one other tracker, 19.64% had 2 other trackers, 5.93% had 3 other trackers, 4.57% had 4 other trackers, 3.17% had 5 other trackers, 1.21% had 6 other trackers, and 0.48% had 7 other trackers.
+Of these, 31.50% had 4 other trackers, 20.42% had 3 other trackers, 15.42% had 5 other trackers, 10.95% had 6 other trackers, 9.84% had 2 other trackers, 6.52% had one other tracker, and 5.01% had 7 other trackers.
 
-37.71% also included Podsights, 36.35% also included Podtrac, 16.30% also included Podscribe, 8.78% also included Magellan AI, 4.87% also included Claritas, 4.01% also included Adswizz, 3.72% also included Podder, 2.87% also included Swap.fm, 2.80% also included Podroll, 2.46% also included ArtsAI, 2.09% also included Spotify, 1.34% also included Podcorn, 1.17% also included OP3, 0.93% also included Gumshoe, 0.85% also included Veritonic, 0.46% also included CoHost Prefix, 0.41% also included Firstory, 0.36% also included Feedpress, 0.32% also included United Podcasters, 0.15% also included Blubrry, 0.07% also included Podkite, 0.03% also included AdBarker, and 0.02% also included Zencastr.
-
-For episodes that used Chartable, here are the top underlying podcast hosts:
-
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "70.41%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.46%" >}}
-3. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "4.62%" >}}
-4. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "1.51%" >}}
-5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.02%" >}}
-6. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "0.66%" >}}
-7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.65%" >}}
-8. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "0.53%" >}}
-9. {{< a "https://www.squarespace.com/" "Squarespace" >}} {{< span "weak" "0.42%" >}}
-10. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "0.41%" >}}
----
-
-### 14. [ArtsAI](https://artsai.com/)
-
-ArtsAI was found on 0.20% of new episodes in December, growing 7.61% from last month.
-
-Of these, 31.83% had 4 other trackers, 24.96% had 3 other trackers, 15.55% had 5 other trackers, 12.08% had 6 other trackers, 5.25% had one other tracker, 5.07% had 7 other trackers, and 4.97% had 2 other trackers.
-
-87.64% also included Podscribe, 66.23% also included Claritas, 63.43% also included Podtrac, 59.30% also included Magellan AI, 47.44% also included Podsights, 39.21% also included Spotify, 12.05% also included Swap.fm, 9.75% also included Veritonic, 9.30% also included Adswizz, 3.79% also included Chartable, 2.67% also included Podroll, 0.91% also included Podder, 0.65% also included OP3, 0.39% also included United Podcasters, 0.21% also included CoHost Prefix, and 0.13% also included Gumshoe.
+88.00% also included Podscribe, 67.93% also included Claritas, 61.39% also included Podtrac, 54.85% also included Magellan AI, 46.25% also included Podsights, 38.96% also included Spotify, 11.65% also included Swap.fm, 9.19% also included Veritonic, 7.11% also included Adswizz, 3.00% also included Podroll, 0.92% also included Podder, 0.79% also included Chartable, 0.52% also included OP3, 0.32% also included United Podcasters, 0.17% also included CoHost Prefix, 0.15% also included Blubrry, and 0.10% also included Gumshoe.
 
 For episodes that used ArtsAI, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "33.14%" >}}
-2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "23.42%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "23.16%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.30%" >}}
-5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "8.18%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.35%" >}}
-7. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.29%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.13%" >}}
-9. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "0.03%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "38.17%" >}}
+2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "22.38%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "21.91%" >}}
+4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "7.48%" >}}
+5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "7.21%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.60%" >}}
+7. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.10%" >}}
+8. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.05%" >}}
+9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.02%" >}}
+10. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "0.02%" >}}
 ---
 
-### 15. [Podder](https://www.podderapp.com/)
+### 14. [Podder](https://www.podderapp.com/)
 
-Podder was found on 0.20% of new episodes in December, growing 6.90% from last month.
+Podder was found on 0.19% of new episodes in January, shrinking 6.40% from last month.
 
-Of these, 13.28% had one other tracker, 9.54% had 2 other trackers, 7.20% had 3 other trackers, 5.92% had 4 other trackers, 2.78% had 5 other trackers, 0.42% had 7 other trackers, 0.24% had 9 other trackers, and 0.18% had 6 other trackers.
+Of these, 14.13% had one other tracker, 10.99% had 2 other trackers, 7.51% had 3 other trackers, 4.98% had 4 other trackers, 2.14% had 5 other trackers, 0.64% had 6 other trackers, 0.19% had 9 other trackers, and 0.17% had 7 other trackers.
 
-26.91% also included Podtrac, 17.95% also included Podscribe, 15.17% also included Podsights, 10.19% also included Magellan AI, 6.10% also included Adswizz, 5.74% also included Chartable, 3.27% also included Claritas, 2.96% also included Podcorn, 2.28% also included Spotify, 1.91% also included OP3, 1.60% also included Gumshoe, 1.00% also included Podroll, 0.92% also included ArtsAI, 0.81% also included Blubrry, 0.39% also included Swap.fm, 0.24% also included CoHost Prefix, 0.18% also included Podkite, and 0.08% also included United Podcasters.
+27.82% also included Podtrac, 18.64% also included Podscribe, 14.75% also included Podsights, 9.85% also included Magellan AI, 6.26% also included Adswizz, 3.76% also included Chartable, 3.45% also included Podcorn, 3.06% also included Claritas, 2.25% also included Spotify, 1.73% also included OP3, 1.50% also included Gumshoe, 1.03% also included ArtsAI, 0.78% also included Blubrry, 0.53% also included Podroll, 0.28% also included Swap.fm, 0.19% also included CoHost Prefix, and 0.17% also included Podkite.
 
 For episodes that used Podder, here are the top underlying podcast hosts:
 
-1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "56.93%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "15.22%" >}}
-3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.55%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.92%" >}}
-5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.80%" >}}
-6. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "2.62%" >}}
-7. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "2.38%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "2.31%" >}}
-9. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "1.76%" >}}
-10. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "0.65%" >}}
+1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "56.26%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "15.44%" >}}
+3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.54%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "6.54%" >}}
+5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.70%" >}}
+6. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "2.34%" >}}
+7. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "2.28%" >}}
+8. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "2.14%" >}}
+9. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "1.89%" >}}
+10. {{< a "https://flightcast.com/" "Flightcast" >}} {{< span "weak" "0.72%" >}}
 ---
 
-### 16. [Gumshoe](https://gumball.fm/help/podcasters/getting-started-with-gumball/360008116394#gumshoe-gumballs-campaign-tracking-solution)
+### 15. [Chartable by Spotify](https://chartable.com/)
 
-Gumshoe was found on 0.10% of new episodes in December, shrinking 9.58% from last month.
+Chartable was found on 0.16% of new episodes in January, shrinking 47.56% from last month.
 
-Of these, 22.50% had 5 other trackers, 16.28% had 6 other trackers, 14.98% had 4 other trackers, 12.80% had one other tracker, 9.64% had 2 other trackers, 7.62% had 3 other trackers, 0.52% had 7 other trackers, and 0.47% had 9 other trackers.
+Of these, 21.56% had one other tracker, 15.64% had 2 other trackers, 2.64% had 4 other trackers, 2.25% had 3 other trackers, 1.58% had 5 other trackers, 0.77% had 6 other trackers, and 0.45% had 7 other trackers.
 
-61.12% also included Podscribe, 59.77% also included Podtrac, 58.89% also included Podsights, 46.29% also included OP3, 42.15% also included Podcorn, 24.11% also included Spotify, 11.66% also included Magellan AI, 6.53% also included Claritas, 4.46% also included Podroll, 4.35% also included Swap.fm, 3.78% also included CoHost Prefix, 3.16% also included Podder, 2.85% also included Chartable, 1.71% also included Veritonic, 1.14% also included Adswizz, 0.62% also included United Podcasters, and 0.26% also included ArtsAI.
+25.78% also included Podsights, 23.53% also included Podtrac, 10.88% also included Podscribe, 5.76% also included Magellan AI, 4.35% also included Podder, 3.03% also included Claritas, 2.77% also included Adswizz, 1.93% also included Podroll, 1.09% also included Swap.fm, 1.03% also included ArtsAI, 0.97% also included Podcorn, 0.93% also included Firstory, 0.77% also included OP3, 0.74% also included Veritonic, 0.71% also included Spotify, 0.71% also included Feedpress, 0.45% also included United Podcasters, 0.23% also included CoHost Prefix, 0.10% also included Podkite, 0.06% also included Zencastr, and 0.03% also included AdBarker.
 
-For episodes that used Gumshoe, here are the top underlying podcast hosts:
+For episodes that used Chartable, here are the top underlying podcast hosts:
 
-1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "47.28%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "25.92%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "19.96%" >}}
-4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.28%" >}}
-5. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.45%" >}}
-6. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "1.24%" >}}
-7. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "0.98%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.36%" >}}
-9. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.26%" >}}
-10. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "0.21%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "60.80%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "12.33%" >}}
+3. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "8.63%" >}}
+4. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "2.41%" >}}
+5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "2.32%" >}}
+6. {{< a "https://podetize.com/" "Podetize" >}} {{< span "weak" "1.13%" >}}
+7. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "0.97%" >}}
+8. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "0.87%" >}}
+9. {{< a "https://www.squarespace.com/" "Squarespace" >}} {{< span "weak" "0.68%" >}}
+10. {{< a "https://www.podcast.co/" "Podcast.co" >}} {{< span "weak" "0.64%" >}}
 ---
 
-### 17. [Feedpress](https://feedpress.com/)
+### 16. [SoundStack](https://soundstack.com/)
 
-Feedpress was found on 0.10% of new episodes in December, shrinking 14.32% from last month.
+SoundStack was found on 0.15% of new episodes in January, growing 71.32% from last month.
 
-Of these, 21.18% had one other tracker, and 1.12% had 2 other trackers.
+Of these, 59.93% had one other tracker.
 
-14.78% also included Blubrry, 4.27% also included Podtrac, 1.17% also included Podcorn, 1.12% also included Podsights, 1.12% also included Chartable, 0.69% also included Adswizz, and 0.27% also included OP3.
-
-For episodes that used Feedpress, here are the top underlying podcast hosts:
-
-1. {{< a "https://feedpress.com/" "Feedpress" >}} {{< span "weak" "64.46%" >}}
-2. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "12.38%" >}}
-3. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "5.60%" >}}
-4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "1.92%" >}}
-5. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "1.87%" >}}
-6. {{< a "https://www.npr.org/" "NPR" >}} {{< span "weak" "1.81%" >}}
-7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.28%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "1.17%" >}}
-9. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.01%" >}}
-10. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "0.96%" >}}
----
-
-### 18. [SoundStack](https://soundstack.com/)
-
-SoundStack was found on 0.09% of new episodes in December.
-
-Of these, 39.81% had one other tracker.
-
-39.81% also included Adswizz.
+59.93% also included Adswizz.
 
 For episodes that used SoundStack, here are the top underlying podcast hosts:
 
 1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "100.00%" >}}
 ---
 
+### 17. [Gumshoe](https://gumball.fm/help/podcasters/getting-started-with-gumball/360008116394#gumshoe-gumballs-campaign-tracking-solution)
+
+Gumshoe was found on 0.11% of new episodes in January, growing 3.38% from last month.
+
+Of these, 25.07% had 5 other trackers, 15.90% had 6 other trackers, 14.31% had 4 other trackers, 12.81% had one other tracker, 10.07% had 2 other trackers, 5.68% had 3 other trackers, 0.35% had 9 other trackers, and 0.30% had 7 other trackers.
+
+62.76% also included Podscribe, 60.77% also included Podtrac, 58.97% also included Podsights, 48.21% also included OP3, 43.52% also included Podcorn, 23.38% also included Spotify, 12.26% also included Magellan AI, 6.28% also included Claritas, 4.14% also included Swap.fm, 3.79% also included Podroll, 3.09% also included CoHost Prefix, 2.69% also included Podder, 1.60% also included Veritonic, 0.85% also included Adswizz, 0.75% also included United Podcasters, and 0.20% also included ArtsAI.
+
+For episodes that used Gumshoe, here are the top underlying podcast hosts:
+
+1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "49.75%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "25.12%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "19.04%" >}}
+4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.29%" >}}
+5. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.20%" >}}
+6. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "0.95%" >}}
+7. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "0.90%" >}}
+8. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.25%" >}}
+9. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "0.20%" >}}
+10. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.20%" >}}
+---
+
+### 18. [Feedpress](https://feedpress.com/)
+
+Feedpress was found on 0.10% of new episodes in January, growing 1.69% from last month.
+
+Of these, 20.45% had one other tracker, and 1.15% had 2 other trackers.
+
+14.66% also included Blubrry, 4.38% also included Podtrac, 1.15% also included Podsights, 1.15% also included Chartable, 0.94% also included Podcorn, 0.26% also included Adswizz, and 0.21% also included OP3.
+
+For episodes that used Feedpress, here are the top underlying podcast hosts:
+
+1. {{< a "https://feedpress.com/" "Feedpress" >}} {{< span "weak" "63.07%" >}}
+2. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "12.36%" >}}
+3. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "5.79%" >}}
+4. {{< a "https://www.npr.org/" "NPR" >}} {{< span "weak" "3.50%" >}}
+5. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.14%" >}}
+6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "1.83%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.36%" >}}
+8. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.20%" >}}
+9. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.94%" >}}
+10. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "0.89%" >}}
+---
+
 ### 19. [Veritonic](https://www.veritonic.com/)
 
-Veritonic was found on 0.07% of new episodes in December, shrinking 2.68% from last month.
+Veritonic was found on 0.05% of new episodes in January, shrinking 17.42% from last month.
 
-Of these, 44.94% had 5 other trackers, 16.03% had 7 other trackers, 14.74% had 4 other trackers, 11.01% had 6 other trackers, 8.91% had 3 other trackers, and 0.73% had 2 other trackers.
+Of these, 39.57% had 5 other trackers, 20.76% had 7 other trackers, 16.08% had 4 other trackers, 13.06% had 6 other trackers, 8.48% had 3 other trackers, and 0.39% had 2 other trackers.
 
-88.99% also included Podscribe, 84.13% also included Podsights, 81.94% also included Podtrac, 78.06% also included Magellan AI, 77.57% also included Claritas, 30.20% also included ArtsAI, 20.00% also included Spotify, 12.63% also included Adswizz, 4.86% also included Swap.fm, 4.05% also included Chartable, 3.00% also included Podroll, 2.67% also included Gumshoe, 0.89% also included United Podcasters, 0.65% also included OP3, 0.32% also included CoHost Prefix, and 0.16% also included Blubrry.
+91.81% also included Podscribe, 85.48% also included Podsights, 83.92% also included Podtrac, 79.73% also included Claritas, 79.53% also included Magellan AI, 36.16% also included ArtsAI, 26.32% also included Spotify, 13.55% also included Adswizz, 5.26% also included Swap.fm, 3.31% also included Podroll, 3.12% also included Gumshoe, 2.24% also included Chartable, 0.68% also included United Podcasters, 0.49% also included OP3, 0.29% also included CoHost Prefix, and 0.19% also included Blubrry.
 
 For episodes that used Veritonic, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "79.27%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "12.23%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "5.18%" >}}
-4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.54%" >}}
-5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "0.97%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "76.22%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "13.35%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.63%" >}}
+4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.85%" >}}
+5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.07%" >}}
 6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.49%" >}}
-7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.32%" >}}
+7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.29%" >}}
+8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.10%" >}}
 ---
 
 ### 20. [Firstory](https://firstory.me/)
 
-Firstory was found on 0.05% of new episodes in December, growing 40.97% from last month.
+Firstory was found on 0.05% of new episodes in January, shrinking 10.29% from last month.
 
-Of these, 2.52% had one other tracker.
+Of these, 3.37% had one other tracker.
 
-2.52% also included Chartable.
+3.37% also included Chartable.
 
 For episodes that used Firstory, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "99.69%" >}}
-2. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.31%" >}}
+1. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "99.53%" >}}
+2. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.47%" >}}
 ---
 
 ### 21. [United Podcasters](https://up.audio/)
 
-United Podcasters was found on 0.02% of new episodes in December, growing 10.31% from last month.
+United Podcasters was found on 0.02% of new episodes in January, shrinking 8.45% from last month.
 
-Of these, 27.05% had 3 other trackers, 21.88% had one other tracker, 15.81% had 2 other trackers, 14.59% had 5 other trackers, 6.08% had 4 other trackers, 4.86% had 6 other trackers, and 1.22% had 8 other trackers.
+Of these, 26.07% had one other tracker, 23.76% had 3 other trackers, 15.51% had 5 other trackers, 11.88% had 2 other trackers, 5.94% had 4 other trackers, 5.61% had 6 other trackers, and 1.32% had 8 other trackers.
 
-42.55% also included Podscribe, 42.55% also included Podtrac, 38.30% also included Magellan AI, 31.31% also included Swap.fm, 29.18% also included Podsights, 25.53% also included Podroll, 16.11% also included Claritas, 10.94% also included Adswizz, 7.60% also included Podcorn, 5.78% also included Chartable, 5.78% also included Spotify, 4.56% also included ArtsAI, 3.65% also included Gumshoe, 3.34% also included Veritonic, 2.43% also included OP3, 0.91% also included Podder, and 0.30% also included Zencastr.
+46.53% also included Podtrac, 44.55% also included Podscribe, 31.68% also included Magellan AI, 28.38% also included Swap.fm, 28.05% also included Podsights, 22.77% also included Podroll, 16.83% also included Claritas, 10.89% also included Adswizz, 9.90% also included Podcorn, 5.61% also included Spotify, 4.95% also included Gumshoe, 4.62% also included Chartable, 4.29% also included ArtsAI, 3.96% also included OP3, 2.31% also included Veritonic, and 1.32% also included Zencastr.
 
 For episodes that used United Podcasters, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "43.16%" >}}
-2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "18.54%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.42%" >}}
-4. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "7.60%" >}}
-5. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "7.29%" >}}
-6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.34%" >}}
-7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "3.04%" >}}
-8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "2.13%" >}}
-9. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "2.13%" >}}
-10. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "2.13%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "41.25%" >}}
+2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "14.52%" >}}
+3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.57%" >}}
+4. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "7.92%" >}}
+5. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "7.92%" >}}
+6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "4.29%" >}}
+7. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "3.30%" >}}
+8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.30%" >}}
+9. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "2.97%" >}}
+10. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "1.98%" >}}
 ---
 
 ### 22. [CoHost Prefix](https://www.cohostpodcasting.com/cohost-prefix)
 
-CoHost Prefix was found on 0.01% of new episodes in December, shrinking 2.13% from last month.
+CoHost Prefix was found on 0.01% of new episodes in January, shrinking 0.59% from last month.
 
-Of these, 34.87% had 4 other trackers, 12.64% had 2 other trackers, 11.11% had 5 other trackers, 8.43% had one other tracker, 8.43% had 3 other trackers, 3.45% had 9 other trackers, 1.53% had 7 other trackers, and 0.77% had 6 other trackers.
+Of these, 25.29% had 4 other trackers, 15.71% had 3 other trackers, 10.73% had 5 other trackers, 8.81% had one other tracker, 8.05% had 2 other trackers, 2.68% had 9 other trackers, 1.53% had 6 other trackers, and 1.15% had 7 other trackers.
 
-60.15% also included Podscribe, 54.79% also included Podtrac, 37.55% also included Podsights, 28.74% also included Claritas, 27.97% also included Gumshoe, 23.75% also included Spotify, 20.31% also included Magellan AI, 13.41% also included Podroll, 11.88% also included OP3, 10.34% also included Chartable, 3.45% also included Podcorn, 3.45% also included Podder, 3.07% also included ArtsAI, and 1.53% also included Veritonic.
+57.47% also included Podscribe, 50.57% also included Podtrac, 36.02% also included Podsights, 27.20% also included Claritas, 23.75% also included Gumshoe, 21.07% also included Magellan AI, 20.69% also included Spotify, 9.96% also included Podroll, 9.58% also included OP3, 2.68% also included Podcorn, 2.68% also included Chartable, 2.68% also included Podder, 2.68% also included ArtsAI, and 1.15% also included Veritonic.
 
 For episodes that used CoHost Prefix, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "39.46%" >}}
-2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "20.31%" >}}
-3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "11.88%" >}}
-4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "6.51%" >}}
-5. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "5.75%" >}}
-6. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "4.98%" >}}
-7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "2.68%" >}}
-8. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "1.92%" >}}
-9. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.92%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "40.61%" >}}
+2. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "18.01%" >}}
+3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "11.49%" >}}
+4. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "9.58%" >}}
+5. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "6.13%" >}}
+6. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "4.60%" >}}
+7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "3.83%" >}}
+8. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.15%" >}}
+9. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "1.15%" >}}
 10. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "1.15%" >}}
 ---
 
 ### 23. [Podkite](https://docs.podkite.com/download-analytics/setup/)
 
-Podkite was found on 0.01% of new episodes in December, shrinking 28.16% from last month.
+Podkite was found on 0.01% of new episodes in January, growing 2.91% from last month.
 
-Of these, 32.39% had one other tracker, 3.52% had 2 other trackers, 3.52% had 4 other trackers, and 2.82% had 5 other trackers.
+Of these, 30.61% had one other tracker, 2.72% had 2 other trackers, 2.72% had 4 other trackers, 2.72% had 5 other trackers, and 1.36% had 3 other trackers.
 
-21.83% also included Podtrac, 12.68% also included OP3, 7.04% also included Podsights, 6.34% also included Blubrry, 6.34% also included Podcorn, 4.93% also included Podder, 2.82% also included Podscribe, 2.82% also included Chartable, and 2.82% also included Spotify.
+21.09% also included Podtrac, 11.56% also included OP3, 6.80% also included Blubrry, 5.44% also included Podcorn, 5.44% also included Podsights, 4.08% also included Podscribe, 4.08% also included Podder, 2.72% also included Spotify, 2.04% also included Chartable, and 1.36% also included Adswizz.
 
 For episodes that used Podkite, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "31.69%" >}}
-2. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "13.38%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "11.97%" >}}
-4. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "10.56%" >}}
-5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "9.15%" >}}
-6. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "6.34%" >}}
-7. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "6.34%" >}}
-8. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "5.63%" >}}
-9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "3.52%" >}}
-10. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "1.41%" >}}
+1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "32.65%" >}}
+2. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "17.69%" >}}
+3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "10.88%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "8.84%" >}}
+5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "8.16%" >}}
+6. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "6.80%" >}}
+7. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "6.12%" >}}
+8. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "3.40%" >}}
+9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.72%" >}}
+10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.36%" >}}
 ---
 
 ### 24. [AdBarker](https://adbarker.com/)
 
-AdBarker was found on <0.01% of new episodes in December, growing 4.31% from last month.
+AdBarker was found on <0.01% of new episodes in January, growing 9.19% from last month.
 
-Of these, 31.15% had one other tracker, 6.56% had 4 other trackers, and 1.64% had 3 other trackers.
+Of these, 29.85% had one other tracker, 7.46% had 4 other trackers, and 1.49% had 3 other trackers.
 
-36.07% also included Podtrac, 8.20% also included Podcorn, 6.56% also included Blubrry, 6.56% also included Spotify, 3.28% also included Chartable, and 1.64% also included Podscribe.
+37.31% also included Podtrac, 8.96% also included Podcorn, 7.46% also included Blubrry, 7.46% also included Spotify, 1.49% also included Podscribe, and 1.49% also included Chartable.
 
 For episodes that used AdBarker, here are the top underlying podcast hosts:
 
-1. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "55.74%" >}}
-2. {{< a "https://adbarker.com/" "AdBarker" >}} {{< span "weak" "16.39%" >}}
-3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "14.75%" >}}
-4. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "3.28%" >}}
-5. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "3.28%" >}}
-6. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "3.28%" >}}
-7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.28%" >}}
+1. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "49.25%" >}}
+2. {{< a "https://adbarker.com/" "AdBarker" >}} {{< span "weak" "20.90%" >}}
+3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "11.94%" >}}
+4. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "5.97%" >}}
+5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.97%" >}}
+6. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "4.48%" >}}
+7. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "1.49%" >}}
 ---
 
 ### 25. [Zencastr](https://zencastr.com/)
 
-Zencastr was found on <0.01% of new episodes in December, shrinking 11.39% from last month.
+Zencastr was found on <0.01% of new episodes in January, growing 9.87% from last month.
 
-Of these, 17.54% had one other tracker, 5.26% had 2 other trackers, 1.75% had 5 other trackers, and 1.75% had 6 other trackers.
+Of these, 15.87% had one other tracker, 7.94% had 2 other trackers, 7.94% had 5 other trackers, and 6.35% had 6 other trackers.
 
-21.05% also included Podtrac, 7.02% also included Podcorn, 5.26% also included OP3, 3.51% also included Podscribe, 3.51% also included Swap.fm, 3.51% also included Podsights, 1.75% also included United Podcasters, and 1.75% also included Chartable.
+31.75% also included Podtrac, 17.46% also included Podcorn, 14.29% also included Podscribe, 14.29% also included Swap.fm, 14.29% also included Podsights, 7.94% also included OP3, 6.35% also included United Podcasters, and 3.17% also included Chartable.
 
 For episodes that used Zencastr, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "26.32%" >}}
-2. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "22.81%" >}}
-3. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "14.04%" >}}
-4. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}} {{< span "weak" "8.77%" >}}
-5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "8.77%" >}}
-6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "7.02%" >}}
-7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "7.02%" >}}
-8. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "5.26%" >}}
+1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "26.98%" >}}
+2. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "20.63%" >}}
+3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "14.29%" >}}
+4. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "12.70%" >}}
+5. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}} {{< span "weak" "7.94%" >}}
+6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "7.94%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "4.76%" >}}
+8. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "4.76%" >}}
+---
+
+### 26. [Podcards](https://pod.cards/)
+
+Podcards was found on <0.01% of new episodes in January.
+
+Of these, 100.00% had 4 other trackers.
+
+100.00% also included Podscribe, 100.00% also included Swap.fm, 100.00% also included Podtrac, and 100.00% also included Podsights.
+
+For episodes that used Podcards, here are the top underlying podcast hosts:
+
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "100.00%" >}}
 
 ---
 
@@ -772,6 +789,8 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host and analytics service identification and metadata for this ranking.
 
 ---
+*Updated 2026-02-02, with data for the month of January 2026.*
+
 *Updated 2026-01-01, with data for the month of December 2025.*
 
 *Updated 2025-12-04, with data for the month of November 2025. See new note about excluding known TTS podcasts.*
@@ -890,6 +909,7 @@ We've incorporated these patterns along with some of our own to come up with the
 
 ---
 Previous versions:
+ - [Podcast Tracker Rankings by Episode Share (December 2025)](/archive/podcast-trackers-by-episode-share-december-2025/)
  - [Podcast Tracker Rankings by Episode Share (November 2025)](/archive/podcast-trackers-by-episode-share-november-2025/)
  - [Podcast Tracker Rankings by Episode Share (October 2025)](/archive/podcast-trackers-by-episode-share-october-2025/)
  - [Podcast Tracker Rankings by Episode Share (September 2025)](/archive/podcast-trackers-by-episode-share-september-2025/)
