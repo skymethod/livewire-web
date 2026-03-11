@@ -130,9 +130,26 @@ Example show: [Digital Credit Frontier](https://fountain.fm/show/QNrtJ381gXchvVz
 - Supports HLS video in Apple Podcasts: not yet
 - Supports HLS video in RSS feeds: yes ✔︎
 
-I've found a few shows hosted by Transistor using HLS in their podcast RSS feeds, and used the only one that seems to be actively publishing as the basis for the analysis below.
+I've found a few shows hosted by Transistor using HLS in their podcast RSS feeds, and chosen one hosted on a Transistor domain, and one externally, to be analyzed separately below.
 
-The show uses [Cloudflare Stream](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/) for HLS, [version 6](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and includes one common audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format.
+The show using a Transistor-hosted HLS uses [version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and includes one common audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, with a max declared peak bitrate of 132kbps.
+
+HLS subtitles were not available.
+
+Video resolutions:
+  - 1080p, AVC/H.264 High Profile (aka HD) / Level 4, average declared bitrate 3,772kbps (max declared peak 4,286kbps)
+  - 720p, AVC/H.264 High Profile (aka HD) / Level 3.1, average declared bitrate 2,145kbps (max declared peak 2,437kbps)
+  - 480p, AVC/H.264 High Profile (aka HD) / Level 3, average declared bitrate 971kbps (max declared peak 1,103kbps)
+
+HLS thumbnails, used for scrubbing and hovering in players, are provided in 480p.
+
+The audio is served from Cloudflare using a single .mp4 (fMP4) file, using byte ranges to delineate 6-second chunks. Same for video and thumbnails.
+
+No ad slots were found.
+
+Example show: [Justin's brain](https://podcasts.apple.com/us/podcast/justins-brain/id1655281489) ([RSS feed](https://feeds.transistor.fm/justin-jackson))
+
+The show using an externally-hosted HLS uses [Cloudflare Stream](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/) for HLS, [version 6](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and includes one common audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format
 
 HLS subtitles (English) were also provided.
 
