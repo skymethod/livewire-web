@@ -1,0 +1,10 @@
+<a class="contact" href="#">{{.Get 0}}</a>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    for (const e of document.getElementsByClassName('contact')) {
+        if (e.tagName === 'A' && !e.href.startsWith('mailto')) {
+            e.href = `mailto:${atob(['a', 'm9o', 'bkB', 'saXZ', 'ld2', 'lyZS', '5pb', 'w=', '='].join(''))}`;
+        }
+    }
+});
+</script>

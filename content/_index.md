@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2025-04-10T17:58:00-04:00
-lastmod: 2026-03-02T09:04:00-05:00
+lastmod: 2026-03-11T11:47:00-04:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+Deep dive: [HLS video in podcasts, who's doing what?](/hls-video-in-podcasts)
 
 New data: [Top Podcast CDNs by Episode Share (Feb 2026)](/podcast-cdns-by-episode-share)
 
