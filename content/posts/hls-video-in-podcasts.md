@@ -215,6 +215,34 @@ Example show: [The Steady State Sentinel](https://podcasts.apple.com/us/podcast/
 
 ---
 
+# Q & A
+
+<br><br>
+
+{{< details "_What about auto-downloads?_" "open" >}}
+Any video episodes published via HLS can be downloaded for offline use, just like audio episodes. They can also be auto-downloaded, depending on what the app wants to do.
+
+Apple Podcasts provides a global on/off setting to download video just like audio when auto-downloading, which defaults to off. This setting can also be overridden at an individual show level.
+Listeners can also force a download of any video episode at any time for offline use, the same as audio.
+
+{{< /details >}}
+
+<br><br>
+
+{{< details "_What exactly is downloaded, though?_" "open" >}}
+Ultimately, it is up to the app. Think of HLS as providing a menu of video/audio track selections for the episode, with the app having the final say on what to order.
+
+In general, iOS applications do _not_ include HLS interstitials (i.e. dynamic ads) by default when downloading HLS, but iOS provides a rich API for selecting which track qualities, and even which interstitials
+to include in the download. Different apps can make different decisions, and can decide to surface additional settings (or not) for the listener to have a say.
+
+We'll have to wait and see what Apple Podcasts chooses to do when auto-downloading and when force-downloading. At the moment, I notice that for a show that has known pre-roll interstitial ads, the interstitials are _not_ downloaded when force-downloading an episode and playing it back in airplane mode.
+
+{{< /details >}}
+
+<br><br>
+
+---
+
 Research by [John Spurlock](https://twitter.com/johnspurlock).
 
 {{< contact "Let me know" >}} if you know of any other podcast hosting companies supporting HLS video in podcasts, and I'll update the findings here.
