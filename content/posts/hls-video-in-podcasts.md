@@ -5,7 +5,7 @@ slug: "hls-video-in-podcasts"
 images:
 - hls-video-in-podcasts.png
 date: 2026-03-11T11:47:00-04:00
-lastmod: 2026-03-11T11:47:00-04:00
+lastmod: 2026-03-17T09:07:00-04:00
 draft: false
 ---
 
@@ -31,7 +31,7 @@ I'll be keeping an eye out for HLS video in Apple Podcasts and in RSS feeds. Let
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 9 shows (689 video episodes) hosted by Acast using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 9 shows (704 video episodes) hosted by Acast using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of ~140kbps (max declared peak of 157kbps).
 
@@ -59,7 +59,7 @@ Example show: [Mind If We Talk?](https://podcasts.apple.com/us/podcast/mind-if-w
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 5 shows (97 video episodes) hosted by ART19 using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 5 shows (101 video episodes) hosted by ART19 using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 8](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 129kbps).
 
@@ -97,6 +97,34 @@ I haven't found any shows hosted by Omny Studio using the new HLS video integrat
 - Supports HLS video in RSS feeds: not yet
 
 I haven't found any shows hosted by Simplecast using the new HLS video integration in Apple Podcasts, but they are listed as an official partner. {{< contact "Let me know" >}} if you find one!
+
+---
+
+# Podigee
+
+- Supports HLS video in Apple Podcasts: yes ✔︎
+- Supports HLS video in RSS feeds: not yet
+
+I've found at least one show (one video episode) hosted by Podigee using the new HLS video integration in Apple Podcasts, and used that episode as the basis for the analysis below.
+
+They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (German) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 128kbps).
+
+No HLS subtitles were provided.
+
+Video resolutions:
+  - 1080p, 25fps, AVC/H.264 High Profile (aka HD) / Level 4, average declared bitrate 4,913kbps (max declared peak 5,446kbps)
+  - 720p, 25fps, AVC/H.264 High Profile (aka HD) / Level 4, average declared bitrate 2,822kbps (max declared peak 3,172kbps)
+  - 480p, 25fps, AVC/H.264 High Profile (aka HD) / Level 4, average declared bitrate 1,492kbps (max declared peak 1,677kbps)
+  - 360p, 25fps, AVC/H.264 High Profile (aka HD) / Level 4, average declared bitrate 913kbps (max declared peak 1,018kbps)
+  - 240p, 25fps, AVC/H.264 High Profile (aka HD) / Level 4, average declared bitrate 525kbps (max declared peak 581kbps)
+
+HLS thumbnails, used for scrubbing and hovering in players, are provided in all resolutions.
+
+The audio is served from Amazon S3 (Ireland) using a single .mp4 (fMP4) file, using byte ranges to delineate 6-second chunks. Same for video and thumbails.
+
+No ad slots were found on any shows.
+
+Example show: [$HZ wir müssen reden](https://podcasts.apple.com/us/podcast/%24hz-wir-m%C3%BCssen-reden/id1818584366) ([RSS feed](https://shz-wir-muessen-reden.podigee.io/feed/mp3))
 
 ---
 
@@ -242,12 +270,15 @@ We'll have to wait and see what Apple Podcasts chooses to do when auto-downloadi
 <br><br>
 
 ---
+*Updated 2026-03-17, added Podigee.*
+
+---
 
 Research by [John Spurlock](https://twitter.com/johnspurlock).
 
 {{< contact "Let me know" >}} if you know of any other podcast hosting companies supporting HLS video in podcasts, and I'll update the findings here.
 
-{{% subscribe %}}
+{{% funding %}}
 
 
 ---
