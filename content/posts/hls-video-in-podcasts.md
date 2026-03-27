@@ -147,7 +147,7 @@ Example show: [$HZ wir müssen reden](https://podcasts.apple.com/us/podcast/%24h
 - Supports HLS video in RSS feeds: yes ✔︎
 
 I've found at least 2 shows hosted by Transistor using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
-At the moment, although Transistor supports HLS urls as `podcast:alternateEnclosure` in their RSS feeds, none of the HLS video episodes in Apple Podcasts are also available in the corresponding public feeds.
+Transistor supports HLS urls via `podcast:alternateEnclosure` in their RSS feeds, and in the case of these two shows, the same HLS video episodes in Apple Podcasts are also available in the corresponding public feeds.
 
 They use [version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of ~128kbps (max declared peak of ~128kbps).
 
