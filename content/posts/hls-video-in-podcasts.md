@@ -5,7 +5,7 @@ slug: "hls-video-in-podcasts"
 images:
 - hls-video-in-podcasts.png
 date: 2026-03-11T11:47:00-04:00
-lastmod: 2026-03-26T11:38:00-04:00
+lastmod: 2026-03-29T11:34:00-04:00
 draft: false
 ---
 
@@ -26,7 +26,7 @@ I'll be keeping an eye out for HLS video in Apple Podcasts and in RSS feeds. Let
 
 Since this analysis looks at the actual media files, it excludes hosting companies that have announced future support but have no actual HLS video episodes to show yet in either RSS or Apple Podcasts.
 
-So far I've found at least 70 shows with HLS video support (1047 HLS video episodes) in Apple Podcasts.
+So far I've found at least 78 shows with HLS video support (1070 HLS video episodes) in Apple Podcasts.
 
 {{< contact "Let me know" >}} if you find one not already on this list.
 
@@ -39,7 +39,7 @@ So far I've found at least 70 shows with HLS video support (1047 HLS video episo
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 47 shows (878 video episodes) hosted by Acast using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 52 shows (894 video episodes) hosted by Acast using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of ~140kbps (max declared peak of 157kbps).
 
@@ -67,7 +67,7 @@ Example show: [Mind If We Talk?](https://podcasts.apple.com/us/podcast/mind-if-w
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 10 shows (135 video episodes) hosted by ART19 using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 10 shows (136 video episodes) hosted by ART19 using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 129kbps).
 
@@ -95,7 +95,7 @@ Example show: [Baby, this is Keke Palmer](https://podcasts.apple.com/us/podcast/
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 3 shows (8 video episodes) hosted by Omny using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 5 shows (11 video episodes) hosted by Omny using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 8](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 128kbps).
 
@@ -175,7 +175,7 @@ Example show: [Primary Technology](https://podcasts.apple.com/us/podcast/primary
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 6 shows (18 video episodes) hosted by Audiomeans using the new HLS video integration in Apple Podcasts, and used the latest episode from one show as the basis for the analysis below.
+I've found at least 7 shows (21 video episodes) hosted by Audiomeans using the new HLS video integration in Apple Podcasts, and used the latest episode from one show as the basis for the analysis below.
 
 They use [version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common (French) audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at a max declared peak bitrate of 141kbps.
 
@@ -266,6 +266,31 @@ Example show: [The Steady State Sentinel](https://podcasts.apple.com/us/podcast/
 
 ---
 
+# LISTEN
+
+- Supports HLS video in Apple Podcasts: not yet
+- Supports HLS video in RSS feeds: yes ✔︎
+
+I've found at least one LISTEN (listen.style) show using HLS in the podcast RSS feed, and used the episodes as the basis for the analysis below.
+
+It uses HLS [version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and two of three episosdes use one common audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format.
+
+HLS subtitles were not found.
+
+Video resolutions:
+  - 1080p, AVC/H.264 Main Profile (aka SD) / Level 4, average declared bitrate ranging from 4,885kbps to 5,106kbps (max declared peak ranging from 5,642kbps to 5,897kbps)
+  - 720p, AVC/H.264 Main Profile (aka SD) / Level 3.1, average declared bitrate ranging 2,684kbps to 2,866kbps (max declared peak ranging from 3,074kbps to 3,238kbps)
+
+No HLS thumbnails for scrubbing and hovering in players.
+
+The audio is served using separate 10-second .m4s (fMP4) files, as are the video tracks.
+
+No ad slots were found.
+
+Example show: [jkondoの朝の散歩](https://podcasts.apple.com/us/podcast/jkondo%E3%81%AE%E6%9C%9D%E3%81%AE%E6%95%A3%E6%AD%A9/id1706956513) ([RSS feed](https://rss.listen.style/p/asanosanpo/rss))
+
+---
+
 # Q & A
 
 <br><br>
@@ -293,6 +318,8 @@ We'll have to wait and see what Apple Podcasts chooses to do when auto-downloadi
 <br><br>
 
 ---
+*Updated 2026-03-29, added LISTEN, updated Apple Podcasts show and episode counts.*
+
 *Updated 2026-03-27, updated Apple Podcasts show and episode counts, and a total at the top.*
 
 *Updated 2026-03-26, updated show and episode counts following Apple Podcasts official iOS 26.4 launch, added Omny and Audiomeans, removed Simplecast.*
