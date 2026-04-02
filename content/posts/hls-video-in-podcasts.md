@@ -26,7 +26,7 @@ I'll be keeping an eye out for HLS video in Apple Podcasts and in RSS feeds. Let
 
 Since this analysis looks at the actual media files, it excludes hosting companies that have announced future support but have no actual HLS video episodes to show yet in either RSS or Apple Podcasts.
 
-So far I've found at least 80 shows with HLS video support (1185 HLS video episodes) in Apple Podcasts.
+So far I've found at least 89 shows with HLS video support (1293 HLS video episodes) in Apple Podcasts.
 
 {{< contact "Let me know" >}} if you find one not already on this list.
 
@@ -39,7 +39,7 @@ So far I've found at least 80 shows with HLS video support (1185 HLS video episo
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 52 shows (980 video episodes) hosted by Acast using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 55 shows (1005 video episodes) hosted by Acast using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of ~140kbps (max declared peak of 157kbps).
 
@@ -67,7 +67,7 @@ Example show: [Mind If We Talk?](https://podcasts.apple.com/us/podcast/mind-if-w
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 10 shows (149 video episodes) hosted by ART19 using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 12 shows (217 video episodes) hosted by ART19 using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 129kbps).
 
@@ -95,7 +95,7 @@ Example show: [Baby, this is Keke Palmer](https://podcasts.apple.com/us/podcast/
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 6 shows (21 video episodes) hosted by Omny using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 9 shows (29 video episodes) hosted by Omny using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 
 They use [HLS version 8](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (English) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 128kbps).
 
@@ -120,7 +120,7 @@ Example show: [Las Culturistas with Matt Rogers and Bowen Yang](https://podcasts
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 2 shows (5 video episodes) hosted by Podigee using the new HLS video integration in Apple Podcasts, and used one episode as the basis for the analysis below.
+I've found at least 2 shows (6 video episodes) hosted by Podigee using the new HLS video integration in Apple Podcasts, and used one episode as the basis for the analysis below.
 
 They use [HLS version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track (German) using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of 128kbps (max declared peak of 128kbps).
 
@@ -148,7 +148,7 @@ Example show: [$HZ wir müssen reden](https://podcasts.apple.com/us/podcast/%24h
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: yes ✔︎
 
-I've found at least 2 shows (3 video episodes) hosted by Transistor using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
+I've found at least 3 shows (7 video episodes) hosted by Transistor using the new HLS video integration in Apple Podcasts, and used the latest episode from each show as the basis for the analysis below.
 Transistor supports HLS urls via `podcast:alternateEnclosure` in their RSS feeds, and in the case of these two shows, the same HLS video episodes in Apple Podcasts are also available in the corresponding public feeds.
 
 They use [version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at an average declared bitrate of ~128kbps (max declared peak of ~128kbps).
@@ -175,7 +175,7 @@ Example show: [Primary Technology](https://podcasts.apple.com/us/podcast/primary
 - Supports HLS video in Apple Podcasts: yes ✔︎
 - Supports HLS video in RSS feeds: not yet
 
-I've found at least 7 shows (26 video episodes) hosted by Audiomeans using the new HLS video integration in Apple Podcasts, and used the latest episode from one show as the basis for the analysis below.
+I've found at least 7 shows (28 video episodes) hosted by Audiomeans using the new HLS video integration in Apple Podcasts, and used the latest episode from one show as the basis for the analysis below.
 
 They use [version 7](https://alexzambelli.com/blog/2016/05/04/understanding-hls-versions-and-client-compatibility/) and include one common (French) audio track using the [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) format, at a max declared peak bitrate of 141kbps.
 
