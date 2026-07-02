@@ -11,7 +11,7 @@ draft: false
 rssrevision: 2026-06
 ---
 
-[Transistor](https://transistor.fm/), the podcast hosting company, just started publishing [detailed data every month](https://transistor.fm/global-stats/) about the most common apps it sees when serving podcasts for its customers.
+[Transistor](https://transistor.fm/), the podcast hosting company, publishes [detailed data every month](https://transistor.fm/global-stats/) about the most common apps it sees when serving podcasts for its customers.
 
 We thought it might be fun to graph this data in order to visualize trends over time.
 
