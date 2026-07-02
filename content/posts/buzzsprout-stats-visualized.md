@@ -117,6 +117,9 @@ Jun 2026	39.1	28.2	23.1	9.0	0.5	3.1	7.8		1.8	0.5		1.3		1.2	0.1	0.2	0.1	0.1			0.2
 *Note the large reclassification in November 2020 of share moving from Apple Podcasts to (uncategorized) and reversal starting March 2023.
 [Buzzsprout started excluding AppleCoreMedia](https://podnews.net/article/spotify-apple-podcasts-market-leader) in November 2020, which means they were underreporting the true Apple Podcasts number during that period.  Apple [fixed their app in March 2023](/apple-podcasts-vs-applecoremedia), making this discrepancy largely obsolete as listeners updated their devices over time.*
 
+*The Spotify number here doesn't include any episodes that support Spotify video, as [these stats aren't reported back to Buzzsprout](https://www.buzzsprout.com/help/209-video-on-spotify).*
+
+
 ---
 
 {{< graph countries "Countries" "limit:19">}}
