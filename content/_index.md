@@ -1,12 +1,14 @@
 ---
 title: "livewire.io: Podcasting ▷ Forward"
 date: 2025-04-10T17:58:00-04:00
-lastmod: 2026-07-02T14:15:00-04:00
+lastmod: 2026-07-02T19:04:00-04:00
 ---
 
 {{< p index-subhead "Podcasting ▷ Forward" >}}
 
 ---
+
+New data: [Top Podcast CDNs by Episode Share (Jun 2026)](/podcast-cdns-by-episode-share)
 
 New data: [Top Podcast Tracking Services by Episode Share (Jun 2026)](/podcast-trackers-by-episode-share)
 
@@ -15,8 +17,6 @@ New data: [Top Podcast Hosting Companies by Episode Share (Jun 2026)](/podcast-h
 New graphs: [Transistor Statistics, visualized](/transistor-stats-visualized)
 
 New graphs: [Buzzsprout Statistics, visualized](/buzzsprout-stats-visualized)
-
-New data: [Top Podcast CDNs by Episode Share (May 2026)](/podcast-cdns-by-episode-share)
 
 Deep dive: [HLS video in podcasts, who's doing what?](/hls-video-in-podcasts)
 
