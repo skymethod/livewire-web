@@ -15,6 +15,8 @@ rssrevision: 2026-06
 
 We thought it might be fun to graph this data in order to visualize trends over time.
 
+**Note:** if a Buzzsprout-hosted podcast uploads a video episode to Spotify, this episode will always be played directly from Spotify's servers, and Buzzsprout will no longer report any downloads for that episode. A decrease in apparent figures for Spotify may just mean that more episodes are using video on that platform.
+
 {{% subscribe %}}
 ---
 
