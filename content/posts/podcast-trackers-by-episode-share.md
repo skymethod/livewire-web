@@ -1,13 +1,13 @@
 ---
-title: "Top Podcast Tracking Services by Episode Share (June 2026)"
+title: "Top Podcast Tracking Services by Episode Share (July 2026)"
 description: "Ranked list of podcast trackers (third-party analytics services), based on number of new episodes published"
 slug: "podcast-trackers-by-episode-share"
 images:
-- trackers-2026-06.png
-date: 2026-07-02T14:15:00-04:00
-lastmod: 2026-07-02T14:15:00-04:00
+- trackers-2026-07.png
+date: 2026-08-01T13:50:00-04:00
+lastmod: 2026-08-01T13:50:00-04:00
 draft: false
-rssrevision: 2026-06
+rssrevision: 2026-07
 ---
 
 Now that we have a good idea of [which podcast hosts are producing new podcast episodes](/podcast-hosts-by-episode-share),
@@ -28,13 +28,13 @@ But how representative of the entire podcast world is this data?  How many podca
 {{% subscribe %}}
 ---
 
-We already did the work of analyzing _every single new podcast episode published_ (about 1.8 million in June 2026), 
+We already did the work of analyzing _every single new podcast episode published_ (about 1.9 million in July 2026), 
 [identifying which podcast hosting company it belongs to](/podcast-hosts-by-episode-share).
 
 We used the actual media file url (past any tracking redirects) to identify the host
 instead of the feed url domain, which can often undercount hosts that offer custom domains.
 
-Let's now take a look at the tracking services themselves.  Of the new episodes that were published in June, how many
+Let's now take a look at the tracking services themselves.  Of the new episodes that were published in July, how many
 of them included one or more of these tracking services?  Some episodes had as many as *eleven* of these redirecting trackers!
 
 *Note we can only observe "client-side" trackers. There are other podcast analytics services 
@@ -134,6 +134,7 @@ Mar 2026	11.69	3.54	2.16	1.85	1.05	0.52	0.54	0.54	0.39	0.42	0.37	0.21	0.22	0.21	
 Apr 2026	12.41	3.62	2.29	1.84	1.01	0.57	0.57	0.57	0.54	0.48	0.36	0.20	0.22	0.20	0.15	0.12	0.06	0.01	0.01	0.10	0.01										
 May 2026	11.76	3.55	2.31	1.85	0.99	0.62	0.61	0.56	0.53	0.44	0.35	0.23	0.22	0.21	0.14	0.12	0.07	0.02	0.01	0.04	0.01										
 Jun 2026	12.06	3.92	2.54	1.97	1.03	0.70	0.67	0.62	0.54	0.46	0.37	0.24	0.23	0.22	0.15	0.13	0.08	0.02	0.01												
+Jul 2026	13.48	3.50	2.43	1.89	0.93	0.68	0.65	0.56	0.47	0.41	0.35	0.23	0.22	0.22	0.13	0.12	0.08	0.02	0.01												
 {{< /graph >}}
 
 ---
@@ -204,324 +205,325 @@ Mar 2026	3.54	2.16	1.85	1.05	0.52	0.54	0.54	0.39	0.42	0.37	0.21	0.22	0.21	0.11	0
 Apr 2026	3.62	2.29	1.84	1.01	0.57	0.57	0.57	0.54	0.48	0.36	0.20	0.22	0.20	0.12	0.06	0.01	0.01	0.10	0.01										
 May 2026	3.55	2.31	1.85	0.99	0.62	0.61	0.56	0.53	0.44	0.35	0.23	0.22	0.21	0.12	0.07	0.02	0.01	0.04	0.01										
 Jun 2026	3.92	2.54	1.97	1.03	0.70	0.67	0.62	0.54	0.46	0.37	0.24	0.23	0.22	0.13	0.08	0.02	0.01												
+Jul 2026	3.50	2.43	1.89	0.93	0.68	0.65	0.56	0.47	0.41	0.35	0.23	0.22	0.22	0.12	0.08	0.02	0.01												
 {{< /graph >}}
 
 ---
 
 ### Overall
 
-At least one tracker was found on 18.88% of new episodes in June, growing 4.80% from last month.
+At least one tracker was found on 19.71% of new episodes in July, growing 4.59% from last month.
 
 For episodes that used at least one tracker, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "35.82%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "12.52%" >}}
-3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "10.40%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "10.22%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.61%" >}}
-6. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "2.42%" >}}
-7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.54%" >}}
-8. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.44%" >}}
-9. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.44%" >}}
-10. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "1.22%" >}}
+1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "43.09%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.93%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.42%" >}}
+4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "9.36%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.35%" >}}
+6. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "2.11%" >}}
+7. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "1.80%" >}}
+8. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.48%" >}}
+9. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.40%" >}}
+10. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.30%" >}}
 ---
 ### Individual Service Rankings
 
-And now, the full list of individual podcast analytics services ordered by new episodes published during the month of June 2026.
+And now, the full list of individual podcast analytics services ordered by new episodes published during the month of July 2026.
 
 ---
 
 ### 1. [Podtrac](https://analytics.podtrac.com/)
 
-Podtrac was found on 12.06% of new episodes in June, growing 2.97% from last month.
+Podtrac was found on 13.48% of new episodes in July, growing 11.98% from last month.
 
-Of these, 14.53% had one other tracker, 5.96% had 2 other trackers, 1.56% had 4 other trackers, 1.50% had 3 other trackers, 0.92% had 5 other trackers, 0.57% had 6 other trackers, 0.43% had 7 other trackers, <0.01% had 10 other trackers, and <0.01% had 8 other trackers.
+Of these, 12.15% had one other tracker, 4.94% had 2 other trackers, 1.33% had 4 other trackers, 1.26% had 3 other trackers, 0.80% had 5 other trackers, 0.48% had 6 other trackers, 0.38% had 7 other trackers, <0.01% had 10 other trackers, and <0.01% had 8 other trackers.
 
-10.72% also included Podsights, 8.13% also included Podscribe, 7.40% also included Adswizz, 3.63% also included Magellan AI, 3.23% also included Claritas, 3.13% also included Podroll, 2.76% also included Spotify, 1.60% also included Swap.fm, 1.47% also included Podcorn, 1.41% also included Blubrry, 1.32% also included OP3, 1.32% also included ArtsAI, 0.75% also included Gumshoe, 0.55% also included Veritonic, 0.44% also included Podder, 0.26% also included Chartable, 0.06% also included CoHost Prefix, 0.06% also included United Podcasters, 0.01% also included AdBarker, <0.01% also included Zencastr, and <0.01% also included Podkite.
+9.28% also included Podsights, 7.04% also included Podscribe, 5.93% also included Adswizz, 3.16% also included Magellan AI, 2.80% also included Claritas, 2.47% also included Podroll, 2.40% also included Spotify, 1.33% also included Swap.fm, 1.20% also included Podcorn, 1.13% also included ArtsAI, 1.13% also included OP3, 1.06% also included Blubrry, 0.62% also included Gumshoe, 0.48% also included Veritonic, 0.38% also included Podder, 0.21% also included Chartable, 0.06% also included United Podcasters, 0.05% also included CoHost Prefix, 0.01% also included AdBarker, 0.01% also included Zencastr, and <0.01% also included Podkite.
 
 For episodes that used Podtrac, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "55.84%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.97%" >}}
-3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "8.25%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "6.17%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "5.01%" >}}
-6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.41%" >}}
-7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "1.22%" >}}
-8. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}} {{< span "weak" "1.20%" >}}
-9. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.89%" >}}
-10. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "0.80%" >}}
+1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "62.91%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "8.55%" >}}
+3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "6.95%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.01%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "4.37%" >}}
+6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.15%" >}}
+7. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}} {{< span "weak" "0.98%" >}}
+8. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.98%" >}}
+9. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.80%" >}}
+10. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "0.74%" >}}
 ---
 
 ### 2. [Adswizz by Pandora](https://www.adswizz.com/audiomax/)
 
-Adswizz was found on 3.92% of new episodes in June, growing 10.27% from last month.
+Adswizz was found on 3.50% of new episodes in July, shrinking 10.89% from last month.
 
-Of these, 20.94% had 2 other trackers, 17.54% had one other tracker, 2.27% had 3 other trackers, 1.05% had 4 other trackers, 0.94% had 6 other trackers, 0.25% had 7 other trackers, and 0.13% had 5 other trackers.
+Of these, 21.86% had 2 other trackers, 17.44% had one other tracker, 2.34% had 3 other trackers, 1.18% had 4 other trackers, 0.97% had 6 other trackers, 0.25% had 7 other trackers, and 0.10% had 5 other trackers.
 
-22.78% also included Podtrac, 15.38% also included Podscribe, 11.67% also included Magellan AI, 9.04% also included Podroll, 5.78% also included SoundStack, 5.23% also included Spotify, 2.61% also included Claritas, 1.98% also included Swap.fm, 1.34% also included Podsights, 0.66% also included Blubrry, 0.47% also included OP3, 0.45% also included Podcorn, 0.37% also included ArtsAI, 0.24% also included Podder, 0.22% also included Veritonic, 0.13% also included Chartable, 0.06% also included Gumshoe, 0.06% also included United Podcasters, and <0.01% also included Podkite.
+22.81% also included Podtrac, 16.19% also included Podscribe, 12.70% also included Magellan AI, 8.84% also included Podroll, 6.04% also included SoundStack, 5.51% also included Spotify, 2.62% also included Claritas, 2.13% also included Swap.fm, 1.46% also included Podsights, 0.68% also included Blubrry, 0.51% also included OP3, 0.47% also included Podcorn, 0.36% also included ArtsAI, 0.25% also included Podder, 0.22% also included Veritonic, 0.10% also included Chartable, 0.05% also included United Podcasters, and 0.02% also included Gumshoe.
 
 For episodes that used Adswizz, here are the top underlying podcast hosts:
 
-1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "58.43%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.09%" >}}
-3. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "5.70%" >}}
-4. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}} {{< span "weak" "5.66%" >}}
-5. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "5.62%" >}}
-6. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "5.23%" >}}
-7. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "3.07%" >}}
-8. {{< a "https://www.streamguys.com/" "StreamGuys" >}} {{< span "weak" "2.33%" >}}
-9. {{< a "https://www.podcaster.de/" "podcaster.de" >}} {{< span "weak" "1.27%" >}}
-10. {{< a "https://www.sharp-stream.com/" "Sharpstream" >}} {{< span "weak" "1.23%" >}}
+1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "54.01%" >}}
+2. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "9.89%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.38%" >}}
+4. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "6.11%" >}}
+5. {{< a "https://futurimedia.com/" "Futuri Media" >}} {{< span "weak" "4.75%" >}}
+6. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}} {{< span "weak" "4.62%" >}}
+7. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "3.03%" >}}
+8. {{< a "https://www.streamguys.com/" "StreamGuys" >}} {{< span "weak" "2.57%" >}}
+9. {{< a "https://www.sharp-stream.com/" "Sharpstream" >}} {{< span "weak" "1.43%" >}}
+10. {{< a "https://www.podcaster.de/" "podcaster.de" >}} {{< span "weak" "1.32%" >}}
 ---
 
 ### Spotify ([Chartable, Podsights](https://newsroom.spotify.com/2022-02-16/spotify-acquires-podsights-and-chartable-to-advance-podcast-measurement-for-advertisers-and-insights-for-publishers/), and [Ad Analytics](https://ads.spotify.com/en-US/news-and-insights/introducing-spotify-ad-analytics/))
 
-At least one Spotify tracker was found on 2.63% of new episodes in June, growing 6.94% from last month.
+At least one Spotify tracker was found on 2.53% of new episodes in July, shrinking 4.22% from last month.
 
-Of these, 58.70% also included Podtrac, 37.72% also included Podscribe, 19.84% also included Magellan AI, 18.70% also included Claritas, 9.95% also included Adswizz, 7.47% also included Swap.fm, 5.80% also included ArtsAI, 3.68% also included OP3, 3.65% also included Gumshoe, 3.54% also included Podcorn, 2.77% also included Veritonic, 1.85% also included Podroll, 1.16% also included Podder, 0.25% also included CoHost Prefix, 0.22% also included United Podcasters, 0.14% also included Blubrry, 0.06% also included Firstory, 0.02% also included Zencastr, 0.01% also included Podkite, and 0.01% also included AdBarker.
+Of these, 59.05% also included Podtrac, 37.75% also included Podscribe, 19.95% also included Magellan AI, 19.01% also included Claritas, 9.77% also included Adswizz, 7.07% also included Swap.fm, 5.71% also included ArtsAI, 3.69% also included OP3, 3.59% also included Gumshoe, 3.42% also included Podcorn, 2.81% also included Veritonic, 1.74% also included Podroll, 1.05% also included Podder, 0.23% also included CoHost Prefix, 0.22% also included United Podcasters, 0.17% also included Blubrry, 0.06% also included Firstory, 0.03% also included Zencastr, 0.01% also included AdBarker, and <0.01% also included Podkite.
 
 For episodes that used at least one Spotify tracker, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "49.19%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "24.64%" >}}
-3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "10.29%" >}}
-4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "3.87%" >}}
-5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "2.88%" >}}
-6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.32%" >}}
-7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.15%" >}}
-8. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.14%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "48.82%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "24.96%" >}}
+3. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.91%" >}}
+4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "3.76%" >}}
+5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "2.99%" >}}
+6. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.47%" >}}
+7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.39%" >}}
+8. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.20%" >}}
 9. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "1.07%" >}}
-10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.78%" >}}
+10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.76%" >}}
 ---
 
 ### 3. [Podscribe](https://podscribe.com/blog/impression-verification-mb45x)
 
-Podscribe was found on 2.54% of new episodes in June, growing 9.69% from last month.
+Podscribe was found on 2.43% of new episodes in July, shrinking 4.26% from last month.
 
-Of these, 25.73% had 2 other trackers, 21.46% had one other tracker, 14.84% had 3 other trackers, 9.58% had 4 other trackers, 5.13% had 5 other trackers, 2.86% had 6 other trackers, 2.06% had 7 other trackers, 0.01% had 10 other trackers, and 0.01% had 8 other trackers.
+Of these, 25.97% had 2 other trackers, 20.96% had one other tracker, 14.93% had 3 other trackers, 9.55% had 4 other trackers, 5.08% had 5 other trackers, 2.76% had 6 other trackers, 2.12% had 7 other trackers, 0.02% had 10 other trackers, and 0.01% had 8 other trackers.
 
-43.88% also included Magellan AI, 38.67% also included Podtrac, 27.29% also included Claritas, 26.06% also included Podsights, 23.78% also included Adswizz, 17.13% also included Spotify, 8.60% also included ArtsAI, 7.71% also included Swap.fm, 3.88% also included Gumshoe, 3.69% also included Podcorn, 3.65% also included OP3, 3.17% also included Podroll, 2.99% also included Veritonic, 1.38% also included Podder, 0.62% also included Chartable, 0.26% also included United Podcasters, 0.26% also included CoHost Prefix, 0.13% also included Blubrry, 0.01% also included Zencastr, 0.01% also included AdBarker, and <0.01% also included Podkite.
+44.09% also included Magellan AI, 38.98% also included Podtrac, 27.66% also included Claritas, 26.28% also included Podsights, 23.30% also included Adswizz, 17.09% also included Spotify, 8.49% also included ArtsAI, 7.57% also included Swap.fm, 3.71% also included Gumshoe, 3.63% also included Podcorn, 3.62% also included OP3, 3.01% also included Veritonic, 2.99% also included Podroll, 1.32% also included Podder, 0.59% also included Chartable, 0.28% also included United Podcasters, 0.24% also included CoHost Prefix, 0.09% also included Blubrry, 0.02% also included Zencastr, and <0.01% also included AdBarker.
 
 For episodes that used Podscribe, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "38.05%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "21.24%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "7.48%" >}}
-4. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "6.88%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "6.19%" >}}
-6. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "5.90%" >}}
-7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "3.05%" >}}
-8. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.13%" >}}
-9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.71%" >}}
-10. {{< a "https://www.podcaster.de/" "podcaster.de" >}} {{< span "weak" "1.69%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "38.02%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "20.66%" >}}
+3. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "7.54%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "7.31%" >}}
+5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "6.29%" >}}
+6. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "5.73%" >}}
+7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "3.06%" >}}
+8. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.22%" >}}
+9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.69%" >}}
+10. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.61%" >}}
 ---
 
 ### 4. [Podsights by Spotify](https://podsights.com/)
 
-Podsights was found on 1.97% of new episodes in June, growing 6.46% from last month.
+Podsights was found on 1.89% of new episodes in July, shrinking 4.03% from last month.
 
-Of these, 46.83% had one other tracker, 9.88% had 2 other trackers, 7.98% had 3 other trackers, 6.94% had 4 other trackers, 5.67% had 5 other trackers, 2.16% had 7 other trackers, 1.82% had 6 other trackers, 0.02% had 10 other trackers, and 0.01% had 8 other trackers.
+Of these, 47.26% had one other tracker, 9.93% had 2 other trackers, 7.90% had 3 other trackers, 6.61% had 4 other trackers, 5.80% had 5 other trackers, 2.25% had 7 other trackers, 1.85% had 6 other trackers, 0.02% had 10 other trackers, and 0.01% had 8 other trackers.
 
-65.70% also included Podtrac, 33.59% also included Podscribe, 16.85% also included Magellan AI, 13.85% also included Claritas, 7.37% also included Swap.fm, 5.91% also included Spotify, 4.92% also included ArtsAI, 4.59% also included Gumshoe, 4.38% also included OP3, 4.37% also included Podcorn, 3.46% also included Veritonic, 2.67% also included Adswizz, 1.80% also included Chartable, 1.54% also included Podroll, 1.31% also included Podder, 0.31% also included CoHost Prefix, 0.23% also included United Podcasters, 0.14% also included Blubrry, and 0.02% also included Zencastr.
+66.10% also included Podtrac, 33.83% also included Podscribe, 16.97% also included Magellan AI, 14.17% also included Claritas, 7.03% also included Swap.fm, 6.06% also included Spotify, 4.80% also included ArtsAI, 4.49% also included Gumshoe, 4.34% also included OP3, 4.28% also included Podcorn, 3.57% also included Veritonic, 2.71% also included Adswizz, 1.76% also included Chartable, 1.40% also included Podroll, 1.15% also included Podder, 0.27% also included United Podcasters, 0.26% also included CoHost Prefix, 0.18% also included Blubrry, and 0.03% also included Zencastr.
 
 For episodes that used Podsights, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "58.42%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "27.32%" >}}
-3. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "4.38%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.44%" >}}
-5. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.52%" >}}
-6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.15%" >}}
-7. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.04%" >}}
-8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.79%" >}}
-9. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.74%" >}}
-10. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.65%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "57.97%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "27.73%" >}}
+3. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "4.30%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.18%" >}}
+5. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.97%" >}}
+6. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.18%" >}}
+7. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "0.96%" >}}
+8. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.84%" >}}
+9. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.83%" >}}
+10. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.69%" >}}
 ---
 
 ### 5. [Magellan AI](https://www.magellan.ai/prefix)
 
-Magellan AI was found on 1.43% of new episodes in June, growing 8.21% from last month.
+Magellan AI was found on 1.37% of new episodes in July, shrinking 4.14% from last month.
 
-Of these, 28.93% had 2 other trackers, 21.45% had 3 other trackers, 12.60% had 4 other trackers, 9.96% had one other tracker, 7.20% had 5 other trackers, 3.86% had 6 other trackers, 1.68% had 7 other trackers, and 0.02% had 8 other trackers.
+Of these, 29.53% had 2 other trackers, 21.84% had 3 other trackers, 12.58% had 4 other trackers, 9.39% had one other tracker, 7.26% had 5 other trackers, 3.74% had 6 other trackers, 1.60% had 7 other trackers, and 0.02% had 8 other trackers.
 
-78.04% also included Podscribe, 35.91% also included Claritas, 32.08% also included Adswizz, 30.71% also included Podtrac, 23.25% also included Podsights, 16.23% also included Spotify, 12.02% also included Swap.fm, 10.23% also included ArtsAI, 5.08% also included Podroll, 4.83% also included Veritonic, 1.36% also included Gumshoe, 1.10% also included OP3, 1.07% also included Podder, 0.79% also included Chartable, 0.38% also included United Podcasters, 0.31% also included Podcorn, 0.17% also included CoHost Prefix, and 0.05% also included Blubrry.
+78.32% also included Podscribe, 36.41% also included Claritas, 32.46% also included Adswizz, 31.08% also included Podtrac, 23.41% also included Podsights, 16.23% also included Spotify, 11.66% also included Swap.fm, 10.07% also included ArtsAI, 4.89% also included Podroll, 4.88% also included Veritonic, 1.14% also included Gumshoe, 1.12% also included Podder, 1.06% also included OP3, 0.73% also included Chartable, 0.40% also included United Podcasters, 0.35% also included Podcorn, 0.19% also included CoHost Prefix, and 0.05% also included Blubrry.
 
 For episodes that used Magellan AI, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "33.07%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "30.45%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "11.81%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "9.14%" >}}
-5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "4.44%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.78%" >}}
-7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.89%" >}}
-8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.69%" >}}
-9. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}} {{< span "weak" "1.35%" >}}
-10. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "1.02%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "32.76%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "30.49%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "11.86%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "8.91%" >}}
+5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "4.40%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.02%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.81%" >}}
+8. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.77%" >}}
+9. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}} {{< span "weak" "1.46%" >}}
+10. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "1.06%" >}}
 ---
 
 ### 6. [Blubrry](https://create.blubrry.com/resources/podcast-media-download-statistics/)
 
-Blubrry was found on 1.03% of new episodes in June, growing 4.94% from last month.
+Blubrry was found on 0.93% of new episodes in July, shrinking 10.49% from last month.
 
-Of these, 18.67% had one other tracker, 0.70% had 2 other trackers, 0.20% had 3 other trackers, 0.02% had 4 other trackers, and 0.01% had 5 other trackers.
+Of these, 17.37% had one other tracker, 0.74% had 2 other trackers, 0.23% had 3 other trackers, 0.02% had 4 other trackers, and 0.02% had 5 other trackers.
 
-16.47% also included Podtrac, 2.51% also included Adswizz, 0.54% also included OP3, 0.31% also included Podscribe, 0.28% also included Podcorn, 0.26% also included Podsights, 0.16% also included Podder, 0.09% also included Spotify, 0.07% also included Magellan AI, 0.05% also included Swap.fm, 0.02% also included AdBarker, 0.02% also included Claritas, and 0.01% also included Veritonic.
+15.32% also included Podtrac, 2.58% also included Adswizz, 0.47% also included OP3, 0.36% also included Podsights, 0.28% also included Podcorn, 0.24% also included Podscribe, 0.19% also included Podder, 0.11% also included Spotify, 0.07% also included Magellan AI, 0.06% also included Swap.fm, 0.02% also included AdBarker, 0.02% also included Claritas, and 0.02% also included Veritonic.
 
 For episodes that used Blubrry, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "44.09%" >}}
-2. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "8.34%" >}}
-3. {{< a "https://www.elsitiocristiano.com/" "LightSource" >}} {{< span "weak" "5.39%" >}}
-4. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}} {{< span "weak" "3.61%" >}}
-5. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.05%" >}}
-6. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "2.03%" >}}
-7. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "1.54%" >}}
-8. {{< a "https://archive.org/" "Internet Archive" >}} {{< span "weak" "1.05%" >}}
-9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.91%" >}}
-10. {{< a "https://joy.org.au/" "JOY Media" >}} {{< span "weak" "0.78%" >}}
+1. {{< a "https://www.blubrry.com/" "Blubrry" >}} {{< span "weak" "44.66%" >}}
+2. {{< a "https://www.oneplace.com/" "OnePlace.com" >}} {{< span "weak" "9.60%" >}}
+3. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}} {{< span "weak" "3.74%" >}}
+4. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.21%" >}}
+5. {{< a "https://www.elsitiocristiano.com/" "LightSource" >}} {{< span "weak" "2.56%" >}}
+6. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "1.98%" >}}
+7. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "1.40%" >}}
+8. {{< a "https://joy.org.au/" "JOY Media" >}} {{< span "weak" "0.93%" >}}
+9. {{< a "https://archive.org/" "Internet Archive" >}} {{< span "weak" "0.82%" >}}
+10. {{< a "https://feedpress.com/" "Feedpress" >}} {{< span "weak" "0.77%" >}}
 ---
 
 ### 7. [Claritas](https://claritas.com/podcast-attribution-audience-identification/)
 
-Claritas was found on 0.70% of new episodes in June, growing 13.57% from last month.
+Claritas was found on 0.68% of new episodes in July, shrinking 2.79% from last month.
 
-Of these, 29.80% had 3 other trackers, 25.09% had 4 other trackers, 14.26% had 5 other trackers, 13.61% had 2 other trackers, 7.98% had 6 other trackers, 7.37% had 7 other trackers, 1.35% had one other tracker, and 0.05% had 10 other trackers.
+Of these, 30.35% had 3 other trackers, 24.72% had 4 other trackers, 14.30% had 5 other trackers, 13.51% had 2 other trackers, 7.67% had 6 other trackers, 7.43% had 7 other trackers, 1.39% had one other tracker, and 0.06% had 10 other trackers.
 
-98.87% also included Podscribe, 73.15% also included Magellan AI, 55.61% also included Podtrac, 42.22% also included Spotify, 38.95% also included Podsights, 25.66% also included ArtsAI, 14.60% also included Adswizz, 10.09% also included Swap.fm, 9.61% also included Veritonic, 5.36% also included Gumshoe, 5.13% also included OP3, 4.11% also included Podcorn, 3.78% also included Podroll, 1.05% also included Podder, 0.75% also included Chartable, 0.37% also included United Podcasters, 0.26% also included CoHost Prefix, and 0.03% also included Blubrry.
+98.69% also included Podscribe, 73.16% also included Magellan AI, 55.28% also included Podtrac, 42.38% also included Spotify, 39.29% also included Podsights, 25.15% also included ArtsAI, 13.44% also included Adswizz, 10.00% also included Swap.fm, 9.64% also included Veritonic, 5.39% also included Gumshoe, 5.37% also included OP3, 4.43% also included Podcorn, 3.66% also included Podroll, 1.10% also included Podder, 0.64% also included Chartable, 0.46% also included United Podcasters, 0.30% also included CoHost Prefix, and 0.03% also included Blubrry.
 
 For episodes that used Claritas, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "43.57%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "14.56%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "10.99%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.69%" >}}
-5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "6.04%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "5.65%" >}}
-7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "4.15%" >}}
-8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.77%" >}}
-9. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "2.34%" >}}
-10. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "2.22%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "43.34%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "13.40%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "12.02%" >}}
+4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.41%" >}}
+5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "5.99%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "5.76%" >}}
+7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "4.51%" >}}
+8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.64%" >}}
+9. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "2.47%" >}}
+10. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "2.32%" >}}
 ---
 
 ### 8. [Spotify Ad Analytics](https://ads.spotify.com/en-US/news-and-insights/introducing-spotify-ad-analytics/)
 
-Spotify was found on 0.67% of new episodes in June, growing 10.34% from last month.
+Spotify was found on 0.65% of new episodes in July, shrinking 3.56% from last month.
 
-Of these, 29.64% had 2 other trackers, 18.02% had 3 other trackers, 9.99% had 4 other trackers, 8.86% had 6 other trackers, 7.65% had 7 other trackers, 5.17% had 5 other trackers, 4.90% had one other tracker, 0.05% had 10 other trackers, and 0.03% had 8 other trackers.
+Of these, 29.93% had 2 other trackers, 18.45% had 3 other trackers, 9.81% had 4 other trackers, 8.43% had 6 other trackers, 7.79% had 7 other trackers, 5.12% had 5 other trackers, 4.81% had one other tracker, 0.06% had 10 other trackers, and 0.04% had 8 other trackers.
 
-64.63% also included Podscribe, 49.59% also included Podtrac, 43.97% also included Claritas, 34.43% also included Magellan AI, 30.53% also included Adswizz, 17.30% also included Podsights, 12.36% also included ArtsAI, 8.81% also included OP3, 8.01% also included Swap.fm, 7.91% also included Gumshoe, 7.63% also included Podcorn, 2.74% also included Podroll, 2.59% also included Veritonic, 0.49% also included Podder, 0.17% also included United Podcasters, 0.14% also included Blubrry, 0.11% also included Chartable, 0.11% also included CoHost Prefix, and 0.03% also included AdBarker.
+64.00% also included Podscribe, 49.81% also included Podtrac, 44.48% also included Claritas, 34.23% also included Magellan AI, 29.68% also included Adswizz, 17.62% also included Podsights, 12.23% also included ArtsAI, 9.34% also included OP3, 8.15% also included Gumshoe, 7.72% also included Podcorn, 7.39% also included Swap.fm, 2.71% also included Podroll, 2.43% also included Veritonic, 0.50% also included Podder, 0.17% also included CoHost Prefix, 0.16% also included Blubrry, 0.13% also included United Podcasters, 0.08% also included Chartable, and 0.03% also included AdBarker.
 
 For episodes that used Spotify, here are the top underlying podcast hosts:
 
-1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "30.46%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "22.85%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "16.57%" >}}
-4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "9.71%" >}}
-5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "8.52%" >}}
-6. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "4.20%" >}}
-7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.56%" >}}
-8. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.30%" >}}
-9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.47%" >}}
-10. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.36%" >}}
+1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "29.55%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "23.11%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "16.39%" >}}
+4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "9.70%" >}}
+5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "9.06%" >}}
+6. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "4.15%" >}}
+7. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "2.50%" >}}
+8. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.45%" >}}
+9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "1.44%" >}}
+10. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.38%" >}}
 ---
 
 ### 9. [Podcorn by Audacy/Entercom](https://podcorn.com/)
 
-Podcorn was found on 0.62% of new episodes in June, growing 10.09% from last month.
+Podcorn was found on 0.56% of new episodes in July, shrinking 9.33% from last month.
 
-Of these, 16.02% had one other tracker, 4.63% had 7 other trackers, 3.74% had 2 other trackers, 3.39% had 5 other trackers, 2.61% had 6 other trackers, 2.01% had 3 other trackers, 1.94% had 4 other trackers, 0.06% had 10 other trackers, and 0.04% had 8 other trackers.
+Of these, 15.33% had one other tracker, 5.34% had 7 other trackers, 3.54% had 2 other trackers, 3.15% had 5 other trackers, 2.63% had 6 other trackers, 2.06% had 4 other trackers, 2.04% had 3 other trackers, 0.07% had 10 other trackers, and 0.05% had 8 other trackers.
 
-28.85% also included Podtrac, 15.17% also included Podscribe, 13.94% also included Podsights, 13.36% also included OP3, 12.13% also included Gumshoe, 8.32% also included Spotify, 4.66% also included Claritas, 2.88% also included Adswizz, 1.03% also included Podder, 0.74% also included Podroll, 0.73% also included Magellan AI, 0.47% also included Blubrry, 0.26% also included Chartable, 0.23% also included Swap.fm, 0.20% also included United Podcasters, 0.08% also included AdBarker, 0.06% also included Zencastr, and 0.06% also included CoHost Prefix.
+28.78% also included Podtrac, 15.80% also included Podscribe, 14.46% also included Podsights, 13.58% also included OP3, 12.61% also included Gumshoe, 8.96% also included Spotify, 5.40% also included Claritas, 2.92% also included Adswizz, 0.98% also included Podder, 0.85% also included Magellan AI, 0.83% also included Podroll, 0.46% also included Blubrry, 0.41% also included United Podcasters, 0.27% also included Swap.fm, 0.18% also included Chartable, 0.09% also included Zencastr, 0.08% also included AdBarker, and 0.07% also included CoHost Prefix.
 
 For episodes that used Podcorn, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "18.68%" >}}
-2. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "14.09%" >}}
-3. {{< a "https://www.podomatic.com/" "Podomatic" >}} {{< span "weak" "10.66%" >}}
-4. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "9.71%" >}}
-5. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "9.04%" >}}
-6. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "8.88%" >}}
-7. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "7.14%" >}}
-8. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "6.06%" >}}
-9. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.34%" >}}
-10. {{< a "https://www.ausha.co/" "Ausha" >}} {{< span "weak" "2.50%" >}}
+1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "19.39%" >}}
+2. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "14.20%" >}}
+3. {{< a "https://www.podomatic.com/" "Podomatic" >}} {{< span "weak" "10.77%" >}}
+4. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "9.90%" >}}
+5. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "8.37%" >}}
+6. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "8.24%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "7.53%" >}}
+8. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "6.48%" >}}
+9. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.37%" >}}
+10. {{< a "https://www.ausha.co/" "Ausha" >}} {{< span "weak" "2.06%" >}}
 ---
 
 ### 10. [OP3 (the Open Podcast Prefix Project)](https://op3.dev/)
 
-OP3 was found on 0.54% of new episodes in June, growing 3.42% from last month.
+OP3 was found on 0.47% of new episodes in July, shrinking 9.49% from last month.
 
-Of these, 14.56% had one other tracker, 5.51% had 7 other trackers, 4.32% had 5 other trackers, 3.10% had 2 other trackers, 3.07% had 6 other trackers, 3.03% had 4 other trackers, 2.82% had 3 other trackers, and 0.06% had 10 other trackers.
+Of these, 15.35% had one other tracker, 6.61% had 7 other trackers, 4.28% had 5 other trackers, 3.80% had 2 other trackers, 3.35% had 4 other trackers, 3.19% had 6 other trackers, 3.06% had 3 other trackers, and 0.08% had 10 other trackers.
 
-29.28% also included Podtrac, 17.03% also included Podscribe, 15.83% also included Podsights, 15.13% also included Podcorn, 14.59% also included Gumshoe, 10.88% also included Spotify, 6.60% also included Claritas, 3.35% also included Adswizz, 2.88% also included Magellan AI, 1.18% also included Swap.fm, 1.02% also included Blubrry, 0.90% also included Podder, 0.85% also included Podroll, 0.29% also included CoHost Prefix, 0.28% also included Chartable, 0.21% also included ArtsAI, 0.07% also included AdBarker, 0.07% also included Veritonic, 0.06% also included United Podcasters, and 0.01% also included Podkite.
+32.30% also included Podtrac, 18.74% also included Podscribe, 17.46% also included Podsights, 16.15% also included Podcorn, 15.83% also included Gumshoe, 12.90% also included Spotify, 7.79% also included Claritas, 3.83% also included Adswizz, 3.08% also included Magellan AI, 1.15% also included Swap.fm, 1.12% also included Podder, 0.94% also included Blubrry, 0.87% also included Podroll, 0.32% also included CoHost Prefix, 0.30% also included AdBarker, 0.19% also included ArtsAI, 0.14% also included Chartable, 0.07% also included Veritonic, and 0.01% also included United Podcasters.
 
 For episodes that used OP3, here are the top underlying podcast hosts:
 
-1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "21.48%" >}}
-2. {{< a "https://prestocast.com/" "PrestoCast" >}} {{< span "weak" "16.20%" >}}
-3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "4.51%" >}}
-4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "4.50%" >}}
-5. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "3.36%" >}}
-6. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "3.02%" >}}
-7. {{< a "https://vodio.fr/" "Vodio" >}} {{< span "weak" "2.82%" >}}
-8. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.60%" >}}
-9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.38%" >}}
-10. {{< a "https://radiolaser.fr/" "Radio Laser" >}} {{< span "weak" "1.47%" >}}
+1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "24.72%" >}}
+2. {{< a "https://prestocast.com/" "PrestoCast" >}} {{< span "weak" "13.42%" >}}
+3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "4.63%" >}}
+4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "4.03%" >}}
+5. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "3.55%" >}}
+6. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.86%" >}}
+7. {{< a "https://vodio.fr/" "Vodio" >}} {{< span "weak" "2.84%" >}}
+8. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "2.62%" >}}
+9. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "2.52%" >}}
+10. {{< a "https://archive.org/" "Internet Archive" >}} {{< span "weak" "2.40%" >}}
 ---
 
 ### 11. [Podroll](https://podroll.fm/)
 
-Podroll was found on 0.46% of new episodes in June, growing 5.14% from last month.
+Podroll was found on 0.41% of new episodes in July, shrinking 11.41% from last month.
 
-Of these, 72.48% had 2 other trackers, 9.88% had 3 other trackers, 7.05% had one other tracker, 4.09% had 4 other trackers, 1.96% had 7 other trackers, 1.19% had 6 other trackers, 1.08% had 5 other trackers, 0.07% had 10 other trackers, and 0.05% had 8 other trackers.
+Of these, 70.81% had 2 other trackers, 9.36% had 3 other trackers, 8.65% had one other tracker, 4.29% had 4 other trackers, 2.06% had 7 other trackers, 1.36% had 6 other trackers, 0.94% had 5 other trackers, 0.09% had 10 other trackers, and 0.07% had 8 other trackers.
 
-82.46% also included Podtrac, 77.31% also included Adswizz, 17.54% also included Podscribe, 15.79% also included Magellan AI, 9.10% also included Swap.fm, 6.59% also included Podsights, 5.77% also included Claritas, 4.01% also included Spotify, 1.31% also included ArtsAI, 1.00% also included OP3, 0.99% also included Podcorn, 0.93% also included United Podcasters, 0.83% also included Gumshoe, 0.67% also included Chartable, 0.61% also included Veritonic, 0.26% also included Podder, and 0.19% also included CoHost Prefix.
+81.60% also included Podtrac, 76.04% also included Adswizz, 17.89% also included Podscribe, 16.45% also included Magellan AI, 8.49% also included Swap.fm, 6.50% also included Podsights, 6.14% also included Claritas, 4.33% also included Spotify, 1.45% also included ArtsAI, 1.14% also included Podcorn, 1.00% also included OP3, 0.88% also included United Podcasters, 0.69% also included Chartable, 0.69% also included Gumshoe, 0.45% also included Veritonic, 0.28% also included Podder, and 0.22% also included CoHost Prefix.
 
 For episodes that used Podroll, here are the top underlying podcast hosts:
 
-1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "77.22%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "9.58%" >}}
-3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.95%" >}}
-4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.12%" >}}
-5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.98%" >}}
-6. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.88%" >}}
-7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.71%" >}}
-8. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}} {{< span "weak" "0.45%" >}}
-9. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.40%" >}}
-10. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.16%" >}}
+1. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "75.92%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "10.73%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "4.18%" >}}
+4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.60%" >}}
+5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.76%" >}}
+6. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.19%" >}}
+7. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.75%" >}}
+8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.49%" >}}
+9. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}} {{< span "weak" "0.40%" >}}
+10. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.29%" >}}
 ---
 
 ### 12. [Swap.fm](https://swap.fm/)
 
-Swap.fm was found on 0.37% of new episodes in June, growing 7.83% from last month.
+Swap.fm was found on 0.35% of new episodes in July, shrinking 5.79% from last month.
 
-Of these, 27.84% had 2 other trackers, 18.99% had one other tracker, 17.14% had 3 other trackers, 10.23% had 4 other trackers, 9.76% had 6 other trackers, 4.12% had 5 other trackers, 2.68% had 7 other trackers, and 0.06% had 8 other trackers.
+Of these, 27.34% had 2 other trackers, 19.46% had one other tracker, 17.34% had 3 other trackers, 10.79% had 4 other trackers, 9.08% had 6 other trackers, 3.49% had 5 other trackers, 2.62% had 7 other trackers, and 0.08% had 8 other trackers.
 
-52.36% also included Podscribe, 51.76% also included Podtrac, 45.90% also included Magellan AI, 38.80% also included Podsights, 20.77% also included Adswizz, 18.90% also included Claritas, 14.41% also included Spotify, 11.18% also included Podroll, 4.91% also included ArtsAI, 1.72% also included OP3, 1.41% also included United Podcasters, 1.11% also included Gumshoe, 0.78% also included Veritonic, 0.38% also included Podcorn, 0.38% also included Chartable, 0.21% also included CoHost Prefix, 0.17% also included Podder, 0.15% also included Blubrry, and 0.09% also included Zencastr.
+52.22% also included Podscribe, 50.62% also included Podtrac, 45.28% also included Magellan AI, 37.70% also included Podsights, 21.15% also included Adswizz, 19.34% also included Claritas, 13.62% also included Spotify, 9.80% also included Podroll, 4.75% also included ArtsAI, 1.54% also included OP3, 1.40% also included United Podcasters, 0.84% also included Gumshoe, 0.58% also included Veritonic, 0.43% also included Podcorn, 0.23% also included Chartable, 0.21% also included CoHost Prefix, 0.20% also included Podder, 0.15% also included Blubrry, and 0.14% also included Zencastr.
 
 For episodes that used Swap.fm, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "54.40%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "20.04%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "8.53%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.61%" >}}
-5. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "4.94%" >}}
-6. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "4.30%" >}}
-7. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "0.58%" >}}
-8. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.21%" >}}
-9. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "0.18%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "52.43%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "19.38%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "8.93%" >}}
+4. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "6.80%" >}}
+5. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "6.69%" >}}
+6. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "3.50%" >}}
+7. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}} {{< span "weak" "1.05%" >}}
+8. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "0.66%" >}}
+9. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.20%" >}}
 10. {{< a "https://www.wnyc.org/" "WNYC" >}} {{< span "weak" "0.15%" >}}
 ---
 
 ### 13. [SoundStack](https://soundstack.com/)
 
-SoundStack was found on 0.24% of new episodes in June, growing 5.36% from last month.
+SoundStack was found on 0.23% of new episodes in July, shrinking 5.81% from last month.
 
-Of these, 94.96% had one other tracker.
+Of these, 93.87% had one other tracker.
 
-94.96% also included Adswizz.
+93.87% also included Adswizz.
 
 For episodes that used SoundStack, here are the top underlying podcast hosts:
 
@@ -530,226 +532,223 @@ For episodes that used SoundStack, here are the top underlying podcast hosts:
 
 ### 14. [ArtsAI](https://artsai.com/)
 
-ArtsAI was found on 0.23% of new episodes in June, growing 3.81% from last month.
+ArtsAI was found on 0.22% of new episodes in July, shrinking 5.31% from last month.
 
-Of these, 40.33% had 4 other trackers, 18.65% had 5 other trackers, 15.60% had 3 other trackers, 8.81% had 6 other trackers, 5.74% had 7 other trackers, 5.37% had one other tracker, and 5.20% had 2 other trackers.
+Of these, 39.85% had 4 other trackers, 18.28% had 5 other trackers, 16.11% had 3 other trackers, 9.37% had 6 other trackers, 5.50% had 7 other trackers, 5.28% had one other tracker, and 5.26% had 2 other trackers.
 
-93.77% also included Podscribe, 77.20% also included Claritas, 68.33% also included Podtrac, 62.74% also included Magellan AI, 41.60% also included Podsights, 35.72% also included Spotify, 11.35% also included Veritonic, 7.89% also included Swap.fm, 6.25% also included Adswizz, 2.59% also included Podroll, 0.78% also included Podder, 0.73% also included Chartable, 0.49% also included OP3, 0.39% also included United Podcasters, 0.20% also included Gumshoe, and 0.17% also included CoHost Prefix.
+93.60% also included Podscribe, 77.70% also included Claritas, 68.89% also included Podtrac, 62.51% also included Magellan AI, 41.14% also included Podsights, 36.00% also included Spotify, 11.25% also included Veritonic, 7.59% also included Swap.fm, 5.77% also included Adswizz, 2.68% also included Podroll, 0.83% also included Chartable, 0.75% also included Podder, 0.41% also included OP3, 0.27% also included United Podcasters, 0.19% also included CoHost Prefix, and 0.10% also included Gumshoe.
 
 For episodes that used ArtsAI, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "36.72%" >}}
-2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "23.56%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "20.90%" >}}
-4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "8.67%" >}}
-5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "6.23%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.00%" >}}
-7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.44%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.20%" >}}
-9. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.12%" >}}
-10. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.12%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "38.27%" >}}
+2. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "22.93%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "19.91%" >}}
+4. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "9.15%" >}}
+5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.74%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "3.04%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.39%" >}}
+8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.19%" >}}
+9. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "0.17%" >}}
+10. {{< a "https://flightcast.com/" "Flightcast" >}} {{< span "weak" "0.05%" >}}
 ---
 
 ### 15. [Podder](https://www.podderapp.com/)
 
-Podder was found on 0.22% of new episodes in June, growing 6.62% from last month.
+Podder was found on 0.22% of new episodes in July, shrinking 3.65% from last month.
 
-Of these, 13.83% had one other tracker, 7.82% had 2 other trackers, 6.12% had 3 other trackers, 3.76% had 4 other trackers, 1.88% had 5 other trackers, 0.61% had 6 other trackers, 0.15% had 10 other trackers, and 0.10% had 7 other trackers.
+Of these, 14.45% had one other tracker, 6.86% had 2 other trackers, 6.46% had 3 other trackers, 3.41% had 4 other trackers, 1.77% had 5 other trackers, 0.55% had 6 other trackers, 0.17% had 10 other trackers, and 0.12% had 7 other trackers.
 
-23.78% also included Podtrac, 15.68% also included Podscribe, 11.49% also included Podsights, 6.80% also included Magellan AI, 4.26% also included Adswizz, 3.30% also included Claritas, 2.84% also included Podcorn, 2.21% also included Chartable, 2.18% also included OP3, 1.57% also included Gumshoe, 1.47% also included Spotify, 0.81% also included ArtsAI, 0.74% also included Blubrry, 0.53% also included Podroll, 0.28% also included Swap.fm, and 0.15% also included CoHost Prefix.
+23.74% also included Podtrac, 14.82% also included Podscribe, 10.09% also included Podsights, 7.09% also included Magellan AI, 4.13% also included Adswizz, 3.48% also included Claritas, 2.54% also included Podcorn, 2.44% also included OP3, 2.26% also included Chartable, 1.52% also included Spotify, 1.22% also included Gumshoe, 0.80% also included Blubrry, 0.77% also included ArtsAI, 0.52% also included Podroll, 0.32% also included Swap.fm, and 0.17% also included CoHost Prefix.
 
 For episodes that used Podder, here are the top underlying podcast hosts:
 
-1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "65.39%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "11.32%" >}}
-3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.60%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "4.64%" >}}
-5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.66%" >}}
-6. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "1.90%" >}}
-7. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.75%" >}}
-8. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.27%" >}}
-9. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "1.19%" >}}
-10. {{< a "https://flightcast.com/" "Flightcast" >}} {{< span "weak" "0.66%" >}}
+1. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "66.41%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "9.77%" >}}
+3. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.99%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "4.65%" >}}
+5. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.41%" >}}
+6. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "1.84%" >}}
+7. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "1.77%" >}}
+8. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.24%" >}}
+9. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}} {{< span "weak" "1.19%" >}}
+10. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "1.19%" >}}
 ---
 
 ### 16. [Chartable by Spotify](https://chartable.com/)
 
-Chartable was found on 0.15% of new episodes in June, growing 0.91% from last month.
+Chartable was found on 0.13% of new episodes in July, shrinking 8.30% from last month.
 
-Of these, 19.91% had one other tracker, 14.94% had 2 other trackers, 2.56% had 4 other trackers, 2.33% had 5 other trackers, 2.17% had 3 other trackers, 0.62% had 7 other trackers, and 0.35% had 6 other trackers.
+Of these, 19.74% had one other tracker, 14.58% had 2 other trackers, 2.44% had 4 other trackers, 2.12% had 3 other trackers, 2.04% had 5 other trackers, 0.64% had 7 other trackers, and 0.32% had 6 other trackers.
 
-24.14% also included Podsights, 21.34% also included Podtrac, 10.79% also included Podscribe, 7.68% also included Magellan AI, 3.61% also included Claritas, 3.45% also included Adswizz, 3.38% also included Podder, 2.10% also included Podroll, 1.40% also included Veritonic, 1.16% also included ArtsAI, 1.09% also included Firstory, 1.09% also included Podcorn, 1.05% also included OP3, 0.97% also included Swap.fm, 0.50% also included Spotify, 0.50% also included CoHost Prefix, 0.16% also included Podkite, 0.16% also included United Podcasters, and 0.08% also included Zencastr.
+24.73% also included Podsights, 21.05% also included Podtrac, 10.67% also included Podscribe, 7.39% also included Magellan AI, 3.64% also included Podder, 3.24% also included Claritas, 2.56% also included Adswizz, 2.08% also included Podroll, 1.36% also included ArtsAI, 1.12% also included Firstory, 0.92% also included Veritonic, 0.76% also included Podcorn, 0.60% also included Swap.fm, 0.48% also included OP3, 0.40% also included Spotify, 0.40% also included CoHost Prefix, 0.12% also included Zencastr, and 0.08% also included Podkite.
 
 For episodes that used Chartable, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "58.40%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "13.08%" >}}
-3. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "10.55%" >}}
-4. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "2.10%" >}}
-5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.79%" >}}
-6. {{< a "https://podetize.com/" "Podetize" >}} {{< span "weak" "1.24%" >}}
-7. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "1.24%" >}}
-8. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.05%" >}}
-9. {{< a "https://feedpress.com/" "Feedpress" >}} {{< span "weak" "0.93%" >}}
-10. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "0.85%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "57.57%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "13.30%" >}}
+3. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "10.43%" >}}
+4. {{< a "https://cloud.google.com/" "Google Cloud" >}} {{< span "weak" "2.20%" >}}
+5. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "2.08%" >}}
+6. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "1.32%" >}}
+7. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "1.24%" >}}
+8. {{< a "https://podetize.com/" "Podetize" >}} {{< span "weak" "1.12%" >}}
+9. {{< a "https://castos.com/" "Castos" >}} {{< span "weak" "0.84%" >}}
+10. {{< a "https://www.podcast.co/" "Podcast.co" >}} {{< span "weak" "0.80%" >}}
 ---
 
 ### 17. [Gumshoe](https://gumball.fm/help/podcasters/getting-started-with-gumball/360008116394#gumshoe-gumballs-campaign-tracking-solution)
 
-Gumshoe was found on 0.13% of new episodes in June, growing 6.84% from last month.
+Gumshoe was found on 0.12% of new episodes in July, shrinking 8.45% from last month.
 
-Of these, 21.54% had 7 other trackers, 19.94% had 5 other trackers, 13.54% had 4 other trackers, 13.37% had 6 other trackers, 8.69% had one other tracker, 8.26% had 2 other trackers, 5.32% had 3 other trackers, and 0.26% had 10 other trackers.
+Of these, 24.53% had 7 other trackers, 18.15% had 5 other trackers, 13.29% had 6 other trackers, 12.27% had 4 other trackers, 8.65% had one other tracker, 8.16% had 2 other trackers, 5.00% had 3 other trackers, and 0.31% had 10 other trackers.
 
-74.91% also included Podscribe, 68.73% also included Podsights, 68.60% also included Podtrac, 60.47% also included OP3, 56.96% also included Podcorn, 40.48% also included Spotify, 28.59% also included Claritas, 14.79% also included Magellan AI, 3.16% also included Swap.fm, 2.90% also included Podroll, 2.68% also included Podder, 2.51% also included CoHost Prefix, 1.82% also included Adswizz, 1.17% also included Veritonic, 0.48% also included United Podcasters, and 0.35% also included ArtsAI.
+75.02% also included Podscribe, 70.43% also included Podsights, 69.80% also included Podtrac, 61.82% also included OP3, 58.56% also included Podcorn, 43.93% also included Spotify, 30.51% also included Claritas, 12.93% also included Magellan AI, 2.45% also included Swap.fm, 2.36% also included CoHost Prefix, 2.32% also included Podroll, 2.19% also included Podder, 0.85% also included Veritonic, 0.62% also included Adswizz, 0.40% also included United Podcasters, and 0.18% also included ArtsAI.
 
 For episodes that used Gumshoe, here are the top underlying podcast hosts:
 
-1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "60.60%" >}}
-2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "19.25%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "14.14%" >}}
-4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.16%" >}}
-5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "1.77%" >}}
-6. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.04%" >}}
-7. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "0.52%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.17%" >}}
-9. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "0.13%" >}}
-10. {{< a "https://soundstack.com/" "SoundStack" >}} {{< span "weak" "0.13%" >}}
+1. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "62.40%" >}}
+2. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "19.45%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "13.02%" >}}
+4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "2.05%" >}}
+5. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "1.20%" >}}
+6. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "0.80%" >}}
+7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "0.67%" >}}
+8. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "0.18%" >}}
+9. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "0.18%" >}}
+10. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}} {{< span "weak" "0.04%" >}}
 ---
 
 ### 18. [Veritonic](https://www.veritonic.com/)
 
-Veritonic was found on 0.08% of new episodes in June, growing 21.97% from last month.
+Veritonic was found on 0.08% of new episodes in July, shrinking 3.71% from last month.
 
-Of these, 52.49% had 5 other trackers, 17.54% had 7 other trackers, 12.50% had 4 other trackers, 9.09% had 6 other trackers, 7.10% had 3 other trackers, and 0.07% had 2 other trackers.
+Of these, 53.48% had 5 other trackers, 16.43% had 7 other trackers, 12.88% had 4 other trackers, 9.26% had 6 other trackers, 6.27% had 3 other trackers, 0.42% had 2 other trackers, and 0.07% had one other tracker.
 
-94.89% also included Podscribe, 86.15% also included Magellan AI, 85.23% also included Podsights, 84.16% also included Claritas, 82.39% also included Podtrac, 33.03% also included ArtsAI, 21.80% also included Spotify, 10.58% also included Adswizz, 3.62% also included Swap.fm, 3.48% also included Podroll, 2.56% also included Chartable, 1.92% also included Gumshoe, 0.50% also included United Podcasters, 0.50% also included OP3, 0.28% also included CoHost Prefix, and 0.14% also included Blubrry.
+95.06% also included Podscribe, 87.33% also included Podsights, 86.56% also included Magellan AI, 85.17% also included Claritas, 83.08% also included Podtrac, 32.17% also included ArtsAI, 20.47% also included Spotify, 9.96% also included Adswizz, 2.65% also included Swap.fm, 2.37% also included Podroll, 1.60% also included Chartable, 1.32% also included Gumshoe, 0.56% also included United Podcasters, 0.42% also included OP3, 0.35% also included CoHost Prefix, and 0.21% also included Blubrry.
 
 For episodes that used Veritonic, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "79.55%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "10.72%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "3.76%" >}}
-4. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.62%" >}}
-5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.21%" >}}
-6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.36%" >}}
-7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.28%" >}}
-8. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.21%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "80.15%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "10.24%" >}}
+3. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.69%" >}}
+4. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "3.13%" >}}
+5. {{< a "https://audioboom.com/" "Audioboom" >}} {{< span "weak" "1.32%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "0.35%" >}}
+7. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "0.35%" >}}
+8. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.14%" >}}
 ---
 
 ### 19. [Firstory](https://firstory.me/)
 
-Firstory was found on 0.04% of new episodes in June, growing 7.62% from last month.
+Firstory was found on 0.04% of new episodes in July, shrinking 9.23% from last month.
 
-Of these, 3.72% had one other tracker.
+Of these, 3.87% had one other tracker.
 
-3.72% also included Chartable.
+3.87% also included Chartable.
 
 For episodes that used Firstory, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "99.60%" >}}
-2. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "0.40%" >}}
+1. {{< a "https://www.soundon.fm/" "SoundOn" >}} {{< span "weak" "100.00%" >}}
 ---
 
 ### 20. [United Podcasters](https://up.audio/)
 
-United Podcasters was found on 0.02% of new episodes in June, growing 8.45% from last month.
+United Podcasters was found on 0.02% of new episodes in July, growing 3.13% from last month.
 
-Of these, 29.62% had one other tracker, 18.47% had 3 other trackers, 13.06% had 2 other trackers, 12.10% had 5 other trackers, 6.69% had 4 other trackers, 6.05% had 6 other trackers, and 1.27% had 8 other trackers.
+Of these, 34.40% had one other tracker, 15.45% had 3 other trackers, 11.95% had 5 other trackers, 10.50% had 4 other trackers, 9.04% had 2 other trackers, 4.37% had 6 other trackers, and 1.46% had 8 other trackers.
 
-43.31% also included Podtrac, 36.94% also included Podscribe, 30.57% also included Magellan AI, 29.62% also included Swap.fm, 25.80% also included Podsights, 23.89% also included Podroll, 14.33% also included Claritas, 12.10% also included Adswizz, 7.01% also included Podcorn, 6.37% also included Spotify, 5.10% also included ArtsAI, 3.50% also included Gumshoe, 2.23% also included Veritonic, 1.91% also included OP3, 1.27% also included Chartable, and 0.96% also included Zencastr.
+44.90% also included Podtrac, 36.73% also included Podscribe, 29.45% also included Magellan AI, 27.41% also included Podsights, 26.82% also included Swap.fm, 19.53% also included Podroll, 17.20% also included Claritas, 12.54% also included Podcorn, 9.62% also included Adswizz, 4.66% also included Spotify, 3.21% also included ArtsAI, 2.62% also included Gumshoe, 2.33% also included Veritonic, 1.17% also included Zencastr, and 0.29% also included OP3.
 
 For episodes that used United Podcasters, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "33.12%" >}}
-2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "12.74%" >}}
-3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "12.10%" >}}
-4. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "7.64%" >}}
-5. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "7.01%" >}}
-6. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "7.01%" >}}
-7. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "5.41%" >}}
-8. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "3.50%" >}}
-9. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "3.18%" >}}
-10. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "2.87%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "30.61%" >}}
+2. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "11.66%" >}}
+3. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "10.79%" >}}
+4. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "8.75%" >}}
+5. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "7.58%" >}}
+6. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "7.29%" >}}
+7. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "7.29%" >}}
+8. {{< a "https://www.prx.org/" "PRX" >}} {{< span "weak" "6.71%" >}}
+9. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "3.21%" >}}
+10. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "2.92%" >}}
 ---
 
 ### 21. [CoHost Prefix](https://www.cohostpodcasting.com/cohost-prefix)
 
-CoHost Prefix was found on 0.01% of new episodes in June, growing 7.34% from last month.
+CoHost Prefix was found on 0.01% of new episodes in July, shrinking 12.99% from last month.
 
-Of these, 17.25% had 5 other trackers, 12.55% had one other tracker, 12.55% had 3 other trackers, 10.20% had 4 other trackers, 3.14% had 2 other trackers, 2.75% had 6 other trackers, 2.35% had 10 other trackers, and 1.57% had 7 other trackers.
+Of these, 17.87% had 5 other trackers, 14.04% had one other tracker, 11.06% had 4 other trackers, 10.21% had 3 other trackers, 2.98% had 6 other trackers, 2.98% had 10 other trackers, 2.55% had 2 other trackers, and 2.13% had 7 other trackers.
 
-54.12% also included Podtrac, 45.10% also included Podscribe, 41.96% also included Podsights, 22.75% also included Gumshoe, 16.47% also included Magellan AI, 12.55% also included Claritas, 10.98% also included OP3, 5.88% also included Podroll, 5.49% also included Swap.fm, 5.10% also included Chartable, 5.10% also included Spotify, 2.75% also included ArtsAI, 2.35% also included Podcorn, 2.35% also included Podder, and 1.57% also included Veritonic.
+50.64% also included Podtrac, 46.38% also included Podscribe, 39.57% also included Podsights, 22.55% also included Gumshoe, 20.85% also included Magellan AI, 16.17% also included Claritas, 11.91% also included OP3, 8.94% also included Spotify, 7.23% also included Podroll, 5.96% also included Swap.fm, 4.26% also included Chartable, 3.40% also included ArtsAI, 2.98% also included Podcorn, 2.98% also included Podder, and 2.13% also included Veritonic.
 
 For episodes that used CoHost Prefix, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "52.55%" >}}
-2. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "12.55%" >}}
-3. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "10.20%" >}}
-4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "8.24%" >}}
-5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "4.71%" >}}
-6. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "4.31%" >}}
-7. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "2.75%" >}}
-8. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.35%" >}}
-9. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "1.18%" >}}
-10. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "0.39%" >}}
+1. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "48.94%" >}}
+2. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "13.62%" >}}
+3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "11.06%" >}}
+4. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "8.94%" >}}
+5. {{< a "http://www.art19.com/" "ART19" >}} {{< span "weak" "7.66%" >}}
+6. {{< a "https://redcircle.com/" "RedCircle" >}} {{< span "weak" "3.83%" >}}
+7. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "2.13%" >}}
+8. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "1.28%" >}}
+9. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}} {{< span "weak" "0.85%" >}}
+10. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "0.85%" >}}
 ---
 
 ### 22. [AdBarker](https://adbarker.com/)
 
-AdBarker was found on <0.01% of new episodes in June, growing 25.72% from last month.
+AdBarker was found on 0.01% of new episodes in July, growing 60.16% from last month.
 
-Of these, 16.07% had 4 other trackers, 12.50% had one other tracker, and 3.57% had 2 other trackers.
+Of these, 24.21% had 2 other trackers, 8.42% had one other tracker, 6.32% had 4 other trackers, and 1.05% had 3 other trackers.
 
-32.14% also included Podtrac, 16.07% also included Podcorn, 12.50% also included OP3, 8.93% also included Podscribe, 7.14% also included Blubrry, and 7.14% also included Spotify.
+38.95% also included Podtrac, 27.37% also included OP3, 8.42% also included Podcorn, 4.21% also included Blubrry, 4.21% also included Spotify, and 2.11% also included Podscribe.
 
 For episodes that used AdBarker, here are the top underlying podcast hosts:
 
-1. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "58.93%" >}}
-2. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "12.50%" >}}
-3. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "8.93%" >}}
-4. {{< a "https://adbarker.com/" "AdBarker" >}} {{< span "weak" "5.36%" >}}
-5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "5.36%" >}}
-6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "3.57%" >}}
-7. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "3.57%" >}}
-8. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "1.79%" >}}
+1. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "30.53%" >}}
+2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "24.21%" >}}
+3. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "13.68%" >}}
+4. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "11.58%" >}}
+5. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "6.32%" >}}
+6. {{< a "https://adbarker.com/" "AdBarker" >}} {{< span "weak" "5.26%" >}}
+7. {{< a "https://fireside.fm/" "Fireside" >}} {{< span "weak" "5.26%" >}}
+8. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.16%" >}}
 ---
 
 ### 23. [Zencastr](https://zencastr.com/)
 
-Zencastr was found on <0.01% of new episodes in June, shrinking 7.36% from last month.
+Zencastr was found on <0.01% of new episodes in July, growing 19.46% from last month.
 
-Of these, 12.24% had one other tracker, 6.12% had 5 other trackers, and 6.12% had 6 other trackers.
+Of these, 17.74% had one other tracker, 8.06% had 5 other trackers, and 6.45% had 6 other trackers.
 
-20.41% also included Podtrac, 12.24% also included Podscribe, 12.24% also included Swap.fm, 12.24% also included Podcorn, 12.24% also included Podsights, 6.12% also included United Podcasters, and 4.08% also included Chartable.
+27.42% also included Podtrac, 14.52% also included Podscribe, 14.52% also included Swap.fm, 14.52% also included Podcorn, 14.52% also included Podsights, 6.45% also included United Podcasters, and 4.84% also included Chartable.
 
 For episodes that used Zencastr, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "28.57%" >}}
-2. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "26.53%" >}}
-3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "12.24%" >}}
-4. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "10.20%" >}}
-5. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "8.16%" >}}
-6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.12%" >}}
-7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "6.12%" >}}
-8. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}} {{< span "weak" "2.04%" >}}
+1. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "25.81%" >}}
+2. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "17.74%" >}}
+3. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "16.13%" >}}
+4. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "9.68%" >}}
+5. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "9.68%" >}}
+6. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "8.06%" >}}
+7. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "6.45%" >}}
+8. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}} {{< span "weak" "4.84%" >}}
 ---
 
 ### 24. [Podkite](https://docs.podkite.com/download-analytics/setup/)
 
-Podkite was found on <0.01% of new episodes in June, shrinking 72.76% from last month.
+Podkite was found on <0.01% of new episodes in July, growing 11.19% from last month.
 
-Of these, 17.78% had one other tracker, and 2.22% had 3 other trackers.
+Of these, 11.32% had one other tracker.
 
-8.89% also included Podtrac, 8.89% also included Chartable, 2.22% also included Podscribe, 2.22% also included OP3, and 2.22% also included Adswizz.
+7.55% also included Podtrac, and 3.77% also included Chartable.
 
 For episodes that used Podkite, here are the top underlying podcast hosts:
 
-1. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "51.11%" >}}
-2. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "13.33%" >}}
-3. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "13.33%" >}}
-4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "11.11%" >}}
-5. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "6.67%" >}}
-6. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "4.44%" >}}
+1. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "64.15%" >}}
+2. {{< a "https://www.pinecast.com/" "Pinecast" >}} {{< span "weak" "16.98%" >}}
+3. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "15.09%" >}}
+4. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "3.77%" >}}
 
 ---
 
@@ -762,6 +761,8 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host and analytics service identification and metadata for this ranking.
 
 ---
+*Updated 2026-08-01, with data for the month of July 2026.*
+
 *Updated 2026-07-02, with data for the month of June 2026.*
 
 *Updated 2026-06-07, with data for the month of May 2026.*
@@ -892,6 +893,7 @@ We've incorporated these patterns along with some of our own to come up with the
 
 ---
 Previous versions:
+ - [Podcast Tracker Rankings by Episode Share (June 2026)](/archive/podcast-trackers-by-episode-share-june-2026/)
  - [Podcast Tracker Rankings by Episode Share (May 2026)](/archive/podcast-trackers-by-episode-share-may-2026/)
  - [Podcast Tracker Rankings by Episode Share (April 2026)](/archive/podcast-trackers-by-episode-share-april-2026/)
  - [Podcast Tracker Rankings by Episode Share (March 2026)](/archive/podcast-trackers-by-episode-share-march-2026/)
