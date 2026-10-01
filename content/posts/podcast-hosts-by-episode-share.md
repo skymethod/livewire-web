@@ -1,19 +1,19 @@
 ---
-title: "Top Podcast Hosting Companies by Episode Share (August 2026)"
+title: "Top Podcast Hosting Companies by Episode Share (September 2026)"
 description: "Ranked list of podcast hosts, based on number of new episodes published"
 slug: "podcast-hosts-by-episode-share"
 images:
-- ranking-2026-08.png
-date: 2026-09-01T15:51:00-04:00
-lastmod: 2026-09-01T15:51:00-04:00
+- ranking-2026-09.png
+date: 2026-10-01T15:57:00-04:00
+lastmod: 2026-10-01T15:57:00-04:00
 draft: false
-rssrevision: 2026-08
+rssrevision: 2026-09
 ---
 
 One of the ways to measure the health of the current podcast ecosystem is to measure
 the number of _new episodes published_ in a given period.
 
-We independently verify _every single new podcast episode published_ (about 2.5 million in August 2026, up 32.4% from last month on a normalized basis)
+We independently verify _every single new podcast episode published_ (about 1.9 million in September 2026, down 18.1% from last month on a normalized basis)
 and identify which podcast hosting company it belongs to.
 
 ---
@@ -31,7 +31,7 @@ In cases where a retail podcast host uses another podcast host to serve the audi
 first host. In cases where a podcast migrates from one host to new host, we credit the new host.
 In general, the intent is to identify the podcast host the podcaster would say they are dealing with.
 
-We were _not_ able to identify a known host for 3.02% of the new episodes found in August.
+We were _not_ able to identify a known host for 4.11% of the new episodes found in September.
 
 {{% subscribe %}}
 ---
@@ -87,67 +87,68 @@ First, a quick chart of the top podcast hosting companies over time, based on sh
 ---
 
 {{< graph hostshares "Top Podcast Hosting Companies by New Episode Share" "height:500px">}}
-Month	Spreaker	Spotify for Creators	Buzzsprout	Megaphone	Omny Studio	Podbean	Simplecast	RSS.com	Libsyn	Transistor	Acast	Soundcloud	Captivate	Firstory	iVoox	WideOrbit	Triton Digital	Podigee	Riverside	Audiomeans	RedCircle	Blubrry	Audioboom
-Sep 2021	7	24	8	2	4	5	1	1	5	1	1	5	2		3		2	1				2	1
-Oct 2021	7.3	23.1	8.0	2.1	4.1	4.5	1.4	1.1	4.9	1.1	1.2	4.7	2.1		2.8		1.5					1.8	1.4
-Nov 2021	7.0	22.4	8.4	2.2	4.2	4.5	1.5	1.1	4.9	1.1	1.3	4.6	2.4		2.9		1.4					1.7	1.5
-Dec 2021	7.0	24.4	9.5	2.2	4.3	4.8	1.7	1.3	5.1	1.2	1.3	4.9	2.1		2.9		1.6					1.3	1.0
-Jan 2022	7.2	24.2	9.4	2.3	4.5	4.6	1.7	1.4	4.9	1.1	1.2	4.7	2.1		2.7		1.4					1.3	1.0
-Feb 2022	8.4	24.1	9.7	2.5	4.5	4.5	1.7	1.6	4.9	1.1	1.2	4.5	1.3		2.8		1.4					1.3	
-Mar 2022	8.1	24.8	9.8	2.5	4.7	4.5	1.7	1.6	5.3	1.2	1.3	4.6	1.4		2.9		1.4					1.3	
-Apr 2022	7.7	25.8	8.9	2.5	4.6	4.8	1.6	1.6	5.5	1.1	1.5	4.5	1.2		2.6		1.3					1.3	
-May 2022	7.6	24.3	8.8	2.6	4.8	4.8	1.6	1.6	5.6	1.1	1.5	4.5	1.3		2.8		1.3					1.3	
-Jun 2022	7.4	24.4	8.1	2.7	5.3	4.7	1.7		5.6	1.2	1.5	4.5	1.3		2.7		1.4					1.3	
-Jul 2022	6.8	23.2	7.9	2.6	5.0	4.4	1.6	1.0	5.0	1.1	1.4	4.0	1.3		2.2		1.3					1.2	
-Aug 2022	6.3	22.9	9.0	2.9	5.1	4.2	1.8	1.8	5.2	1.1	1.4	4.1	1.3		1.7		1.1					1.2	
-Sep 2022	6.3	22.2	8.9	3.0	5.0	4.2	1.8	1.9	5.2	1.3	1.6	3.7	1.2		2.2		1.2					1.1	
-Oct 2022	6.1	21.9	9.1	3.2	4.9	4.2	1.8	2.0	5.0	1.3	1.7	3.7	1.3		2.4		1.1					1.2	
-Nov 2022	5.9	21.6	9.0	3.5	4.9	4.1	1.9	2.1	5.0	1.3	1.8	3.6	1.3		2.3		1.1					1.2	
-Dec 2022	5.9	22.3	8.6	3.6	4.7	4.1	1.8	2.0	4.9	1.2	1.8	3.6	1.3		2.1		1.2					1.2	
-Jan 2023	5.7	21.8	9.4	3.7	4.8	4.0	1.9	2.2	4.9	1.4	1.8	3.6	1.3		2.0		1.2						
-Feb 2023	5.4	22.3	9.5	3.7	4.9	4.0	1.9	2.3	4.8	1.4	1.9	3.5	1.3		2.1		1.1						
-Mar 2023	6.5	23.1	9.2	4.0	4.8	3.9	1.9	2.2	4.7	1.4	1.9	3.3	1.3		2.1		1.0				1.0		
-Apr 2023	6.2	24.8	8.9	4.1	4.6	4.0	1.8	2.1	4.5	1.4	1.9	3.3	1.3		1.9		1.0						
-May 2023	6.0	24.2	9.3	4.2	4.6	3.9	1.8	2.2	4.6	1.5	2.0	3.2	1.4		2.0		1.0						
-Jun 2023	6.3	21.8	8.7	4.5	5.2	4.0	1.6	2.0	4.5	1.4	2.0	3.3	1.3		2.1		1.4						
-Jul 2023	6.4	20.1	8.9	4.7	5.6	3.9	1.5	2.1	4.4	1.4	1.9	3.5	1.3		1.8		1.9						
-Aug 2023	6.2	20.5	9.1	5.1	6.0	4.2	1.6	2.1	4.5	1.4	1.9	3.5	1.5		1.4		1.6						
-Sep 2023	5.7	26.2	8.1	4.7	5.2	3.8	1.6	1.9	4.0	1.4	1.8	3.2	1.3		1.7		1.7						
-Oct 2023	5.3	29.3	8.0	4.3	4.7	3.8	1.6	1.9	3.9	1.6	1.8	3.1	1.3		1.8		1.5						
-Nov 2023	5.0	30.0	8.3	4.3	4.5	3.9	1.7	2.0	3.9	1.6	2.0	3.0	1.5		1.8		1.1						
-Dec 2023	5.0	30.4	8.1	4.3	4.2	3.8	1.6	1.9	3.7	1.6	2.0	2.9	1.4		1.6		1.1						
-Jan 2024	4.8	30.8	8.7	4.3	4.2	3.9	1.8	2.1	3.7	1.6	2.0	2.9	1.5		1.6		1.0						
-Feb 2024	4.7	31.2	8.8	4.1	4.2	3.9	1.8	2.2	3.7	1.7	2.2	2.8	1.5		1.7								
-Mar 2024	6.9	28.9	8.3	3.9	4.2	3.9	1.9	2.1	3.6	2.1	2.3	3.0	1.4		1.6		1.0						
-Apr 2024	8.8	27.6	8.5	3.9	4.0	3.9	2.1	2.2	3.6	2.4	2.3	2.8	1.5		1.6								
-May 2024	9.7	27.5	7.8	4.0	4.3	3.9	2.1	1.9	3.5	1.7	2.3	2.8	1.4		1.6								
-Jun 2024	9.3	26.1	7.8	4.1	4.4	4.0	2.1	1.9	3.5	1.7	2.3	2.8	1.4		1.7		1.1						
-Jul 2024	9.9	25.1	8.1	4.2	4.5	4.0	2.1	2.0	3.6	1.7	2.4	2.8	1.5		1.4		1.0						
-Aug 2024	11.6	24.1	8.1	4.8	4.3	4.2	2.1	2.1	3.6	1.7	2.3	2.7	1.5		1.1								
-Sep 2024	10.7	24.6	8.5	4.2	3.6	4.1	2.4	2.2	3.5	1.8	2.4	2.7	1.5		1.4					1.4			
-Oct 2024	12.1	23.6	7.9	4.3	3.7	4.0	2.4	2.2	3.4	1.7	2.5	2.2	1.5		1.6		1.0			1.0			
-Nov 2024	12.7	23.8	7.6	4.2	3.5	4.0	2.3	2.2	3.3	1.9	2.5	2.1	1.4		1.6		1.1						
-Dec 2024	13.3	24.1	7.9	4.1	3.2	4.0	2.3	2.2	3.3	1.8	2.5	2.0	1.5		1.4		1.0	1.0					
-Jan 2025	14.3	27.0	9.4	3.7	2.2	3.9	2.8	2.7	3.3	2.2	2.2	1.7	1.7		1.0			1.1					
-Feb 2025	14.9	28.1	9.4	3.4	2.2	3.9	2.7	2.6	3.2	2.2	2.3	1.7	1.9					1.1					
-Mar 2025	15.0	28.7	9.4	3.2	2.0	3.9	2.8	2.6	3.1	2.3	2.2	1.9	1.8					1.1			1.0		
-Apr 2025	14.5	27.1	9.5	3.5	2.4	4.1	2.7	2.5	3.2	2.3	2.3	2.0	1.8					1.1					
-May 2025	14.6	27.0	8.4	3.6	2.6	4.0	2.5	2.2	3.1	2.1	2.3	2.0	1.7		1.2			1.1					
-Jun 2025	15.0	26.6	8.7	3.6	2.4	4.1	2.4	2.3	3.2	2.2	2.3	2.0	1.9		1.1			1.1					
-Jul 2025	15.5	27.0	9.0	3.7	2.5	4.1	2.5	2.4	3.1	2.4	2.2	1.9	1.9		1.0			1.2					
-Aug 2025	15.2	27.0	8.8	3.9	2.6	4.0	2.7	2.5	3.0	2.3	2.3	1.6	2.0					1.1					
-Sep 2025	17.1	28.2	10.0	3.3	1.9	3.7	3.3	2.9	2.8	2.5	2.1		2.2					1.1					
-Oct 2025	18.1	29.5	10.0	3.1	1.6	3.5	3.4	3.0	2.7	2.8	1.9		2.0					1.3					
-Nov 2025	15.4	26.8	8.6	3.7	2.5	3.9	2.9	2.8	2.7	2.2	2.2	1.6	1.8		1.1			1.2					
-Dec 2025	11.5	24.5	7.3	4.4	3.6	4.5	2.5	2.7	2.9	1.8	2.6	1.8	1.6		1.4	1.2	1.5	1.1		1.0			
-Jan 2026	11.5	24.5	7.2	4.4	3.6	4.3	2.5	3.0	2.8	1.9	2.5	2.0	1.5	1.1	1.4	1.2	1.5	1.0		1.0			
-Feb 2026	13.8	24.4	7.2	4.3	3.7	4.2	2.4	3.1	2.7	2.0	2.3	1.8	1.5		1.5	1.1	1.4	1.0					
-Mar 2026	12.2	24.9	7.7	4.2	3.7	4.1	2.7	3.0	2.6	2.1	2.2	1.8	1.7		1.3	1.0	1.1	1.1					
-Apr 2026	12.5	24.8	7.7	4.3	3.6	4.0	2.8	3.0	2.6	2.3	2.3	1.7	1.7		1.3	1.0	1.1	1.0					
-May 2026	12.3	24.1	7.1	4.3	3.8	4.3	2.7	3.1	2.6	2.2	2.4	2.0	1.6		1.5	1.0	1.1	1.0					
-Jun 2026	13.1	19.8	7.6	4.5	4.1	4.4	2.9	3.1	2.7	2.4	2.5	2.0	1.8	1.1	1.5	1.2	1.2	1.1	1.0	1.0			
-Jul 2026	13.6	23.9	7.0	4.3	4.0	4.2	2.4	2.8	2.5	2.2	2.3	1.8	1.7	1.5	1.3	1.2	1.1	1.0	1.0				
-Aug 2026	38.9	16.2	5.1	3.2	3.1	2.9	1.9	1.9	1.8	1.7	1.6	1.3	1.3	1.0									
+Month	Spotify for Creators	Spreaker	Buzzsprout	Megaphone	Omny Studio	Podbean	Simplecast	RSS.com	Libsyn	Acast	Transistor	Captivate	Soundcloud	Firstory	iVoox	Riverside	WideOrbit	Podigee	Triton Digital	Audiomeans	RedCircle	Blubrry	Audioboom
+Sep 2021	24	7	8	2	4	5	1	1	5	1	1	2	5		3			1	2			2	1
+Oct 2021	23.1	7.3	8.0	2.1	4.1	4.5	1.4	1.1	4.9	1.2	1.1	2.1	4.7		2.8				1.5			1.8	1.4
+Nov 2021	22.4	7.0	8.4	2.2	4.2	4.5	1.5	1.1	4.9	1.3	1.1	2.4	4.6		2.9				1.4			1.7	1.5
+Dec 2021	24.4	7.0	9.5	2.2	4.3	4.8	1.7	1.3	5.1	1.3	1.2	2.1	4.9		2.9				1.6			1.3	1.0
+Jan 2022	24.2	7.2	9.4	2.3	4.5	4.6	1.7	1.4	4.9	1.2	1.1	2.1	4.7		2.7				1.4			1.3	1.0
+Feb 2022	24.1	8.4	9.7	2.5	4.5	4.5	1.7	1.6	4.9	1.2	1.1	1.3	4.5		2.8				1.4			1.3	
+Mar 2022	24.8	8.1	9.8	2.5	4.7	4.5	1.7	1.6	5.3	1.3	1.2	1.4	4.6		2.9				1.4			1.3	
+Apr 2022	25.8	7.7	8.9	2.5	4.6	4.8	1.6	1.6	5.5	1.5	1.1	1.2	4.5		2.6				1.3			1.3	
+May 2022	24.3	7.6	8.8	2.6	4.8	4.8	1.6	1.6	5.6	1.5	1.1	1.3	4.5		2.8				1.3			1.3	
+Jun 2022	24.4	7.4	8.1	2.7	5.3	4.7	1.7		5.6	1.5	1.2	1.3	4.5		2.7				1.4			1.3	
+Jul 2022	23.2	6.8	7.9	2.6	5.0	4.4	1.6	1.0	5.0	1.4	1.1	1.3	4.0		2.2				1.3			1.2	
+Aug 2022	22.9	6.3	9.0	2.9	5.1	4.2	1.8	1.8	5.2	1.4	1.1	1.3	4.1		1.7				1.1			1.2	
+Sep 2022	22.2	6.3	8.9	3.0	5.0	4.2	1.8	1.9	5.2	1.6	1.3	1.2	3.7		2.2				1.2			1.1	
+Oct 2022	21.9	6.1	9.1	3.2	4.9	4.2	1.8	2.0	5.0	1.7	1.3	1.3	3.7		2.4				1.1			1.2	
+Nov 2022	21.6	5.9	9.0	3.5	4.9	4.1	1.9	2.1	5.0	1.8	1.3	1.3	3.6		2.3				1.1			1.2	
+Dec 2022	22.3	5.9	8.6	3.6	4.7	4.1	1.8	2.0	4.9	1.8	1.2	1.3	3.6		2.1				1.2			1.2	
+Jan 2023	21.8	5.7	9.4	3.7	4.8	4.0	1.9	2.2	4.9	1.8	1.4	1.3	3.6		2.0				1.2				
+Feb 2023	22.3	5.4	9.5	3.7	4.9	4.0	1.9	2.3	4.8	1.9	1.4	1.3	3.5		2.1				1.1				
+Mar 2023	23.1	6.5	9.2	4.0	4.8	3.9	1.9	2.2	4.7	1.9	1.4	1.3	3.3		2.1				1.0		1.0		
+Apr 2023	24.8	6.2	8.9	4.1	4.6	4.0	1.8	2.1	4.5	1.9	1.4	1.3	3.3		1.9				1.0				
+May 2023	24.2	6.0	9.3	4.2	4.6	3.9	1.8	2.2	4.6	2.0	1.5	1.4	3.2		2.0				1.0				
+Jun 2023	21.8	6.3	8.7	4.5	5.2	4.0	1.6	2.0	4.5	2.0	1.4	1.3	3.3		2.1				1.4				
+Jul 2023	20.1	6.4	8.9	4.7	5.6	3.9	1.5	2.1	4.4	1.9	1.4	1.3	3.5		1.8				1.9				
+Aug 2023	20.5	6.2	9.1	5.1	6.0	4.2	1.6	2.1	4.5	1.9	1.4	1.5	3.5		1.4				1.6				
+Sep 2023	26.2	5.7	8.1	4.7	5.2	3.8	1.6	1.9	4.0	1.8	1.4	1.3	3.2		1.7				1.7				
+Oct 2023	29.3	5.3	8.0	4.3	4.7	3.8	1.6	1.9	3.9	1.8	1.6	1.3	3.1		1.8				1.5				
+Nov 2023	30.0	5.0	8.3	4.3	4.5	3.9	1.7	2.0	3.9	2.0	1.6	1.5	3.0		1.8				1.1				
+Dec 2023	30.4	5.0	8.1	4.3	4.2	3.8	1.6	1.9	3.7	2.0	1.6	1.4	2.9		1.6				1.1				
+Jan 2024	30.8	4.8	8.7	4.3	4.2	3.9	1.8	2.1	3.7	2.0	1.6	1.5	2.9		1.6				1.0				
+Feb 2024	31.2	4.7	8.8	4.1	4.2	3.9	1.8	2.2	3.7	2.2	1.7	1.5	2.8		1.7								
+Mar 2024	28.9	6.9	8.3	3.9	4.2	3.9	1.9	2.1	3.6	2.3	2.1	1.4	3.0		1.6				1.0				
+Apr 2024	27.6	8.8	8.5	3.9	4.0	3.9	2.1	2.2	3.6	2.3	2.4	1.5	2.8		1.6								
+May 2024	27.5	9.7	7.8	4.0	4.3	3.9	2.1	1.9	3.5	2.3	1.7	1.4	2.8		1.6								
+Jun 2024	26.1	9.3	7.8	4.1	4.4	4.0	2.1	1.9	3.5	2.3	1.7	1.4	2.8		1.7				1.1				
+Jul 2024	25.1	9.9	8.1	4.2	4.5	4.0	2.1	2.0	3.6	2.4	1.7	1.5	2.8		1.4				1.0				
+Aug 2024	24.1	11.6	8.1	4.8	4.3	4.2	2.1	2.1	3.6	2.3	1.7	1.5	2.7		1.1								
+Sep 2024	24.6	10.7	8.5	4.2	3.6	4.1	2.4	2.2	3.5	2.4	1.8	1.5	2.7		1.4					1.4			
+Oct 2024	23.6	12.1	7.9	4.3	3.7	4.0	2.4	2.2	3.4	2.5	1.7	1.5	2.2		1.6				1.0	1.0			
+Nov 2024	23.8	12.7	7.6	4.2	3.5	4.0	2.3	2.2	3.3	2.5	1.9	1.4	2.1		1.6				1.1				
+Dec 2024	24.1	13.3	7.9	4.1	3.2	4.0	2.3	2.2	3.3	2.5	1.8	1.5	2.0		1.4			1.0	1.0				
+Jan 2025	27.0	14.3	9.4	3.7	2.2	3.9	2.8	2.7	3.3	2.2	2.2	1.7	1.7		1.0			1.1					
+Feb 2025	28.1	14.9	9.4	3.4	2.2	3.9	2.7	2.6	3.2	2.3	2.2	1.9	1.7					1.1					
+Mar 2025	28.7	15.0	9.4	3.2	2.0	3.9	2.8	2.6	3.1	2.2	2.3	1.8	1.9					1.1			1.0		
+Apr 2025	27.1	14.5	9.5	3.5	2.4	4.1	2.7	2.5	3.2	2.3	2.3	1.8	2.0					1.1					
+May 2025	27.0	14.6	8.4	3.6	2.6	4.0	2.5	2.2	3.1	2.3	2.1	1.7	2.0		1.2			1.1					
+Jun 2025	26.6	15.0	8.7	3.6	2.4	4.1	2.4	2.3	3.2	2.3	2.2	1.9	2.0		1.1			1.1					
+Jul 2025	27.0	15.5	9.0	3.7	2.5	4.1	2.5	2.4	3.1	2.2	2.4	1.9	1.9		1.0			1.2					
+Aug 2025	27.0	15.2	8.8	3.9	2.6	4.0	2.7	2.5	3.0	2.3	2.3	2.0	1.6					1.1					
+Sep 2025	28.2	17.1	10.0	3.3	1.9	3.7	3.3	2.9	2.8	2.1	2.5	2.2						1.1					
+Oct 2025	29.5	18.1	10.0	3.1	1.6	3.5	3.4	3.0	2.7	1.9	2.8	2.0						1.3					
+Nov 2025	26.8	15.4	8.6	3.7	2.5	3.9	2.9	2.8	2.7	2.2	2.2	1.8	1.6		1.1			1.2					
+Dec 2025	24.5	11.5	7.3	4.4	3.6	4.5	2.5	2.7	2.9	2.6	1.8	1.6	1.8		1.4		1.2	1.1	1.5	1.0			
+Jan 2026	24.5	11.5	7.2	4.4	3.6	4.3	2.5	3.0	2.8	2.5	1.9	1.5	2.0	1.1	1.4		1.2	1.0	1.5	1.0			
+Feb 2026	24.4	13.8	7.2	4.3	3.7	4.2	2.4	3.1	2.7	2.3	2.0	1.5	1.8		1.5		1.1	1.0	1.4				
+Mar 2026	24.9	12.2	7.7	4.2	3.7	4.1	2.7	3.0	2.6	2.2	2.1	1.7	1.8		1.3		1.0	1.1	1.1				
+Apr 2026	24.8	12.5	7.7	4.3	3.6	4.0	2.8	3.0	2.6	2.3	2.3	1.7	1.7		1.3		1.0	1.0	1.1				
+May 2026	24.1	12.3	7.1	4.3	3.8	4.3	2.7	3.1	2.6	2.4	2.2	1.6	2.0		1.5		1.0	1.0	1.1				
+Jun 2026	19.8	13.1	7.6	4.5	4.1	4.4	2.9	3.1	2.7	2.5	2.4	1.8	2.0	1.1	1.5	1.0	1.2	1.1	1.2	1.0			
+Jul 2026	23.9	13.6	7.0	4.3	4.0	4.2	2.4	2.8	2.5	2.3	2.2	1.7	1.8	1.5	1.3	1.0	1.2	1.0	1.1				
+Aug 2026	16.2	38.9	5.1	3.2	3.1	2.9	1.9	1.9	1.8	1.6	1.7	1.3	1.3	1.0									
+Sep 2026	22.5	17.9	6.8	4.0	3.8	3.8	2.9	2.4	2.3	2.2	2.2	1.7	1.6	1.4	1.2	1.1	1.0	1.0	1.0				
 {{< /graph >}}
 
 ---
@@ -159,282 +160,282 @@ Now let's graph the same data again, excluding them to see the others more clear
 ---
 
 {{< graph hostshares2 "Top Podcast Hosting Companies by New Episode Share (excluding top 3)" "height:500px,colorShift:3">}}
-Month	Megaphone	Omny Studio	Podbean	Simplecast	RSS.com	Libsyn	Transistor	Acast	Soundcloud	Captivate	Firstory	iVoox	WideOrbit	Triton Digital	Podigee	Riverside	Audiomeans	RedCircle	Blubrry	Audioboom
-Sep 2021	2	4	5	1	1	5	1	1	5	2		3		2	1				2	1
-Oct 2021	2.1	4.1	4.5	1.4	1.1	4.9	1.1	1.2	4.7	2.1		2.8		1.5					1.8	1.4
-Nov 2021	2.2	4.2	4.5	1.5	1.1	4.9	1.1	1.3	4.6	2.4		2.9		1.4					1.7	1.5
-Dec 2021	2.2	4.3	4.8	1.7	1.3	5.1	1.2	1.3	4.9	2.1		2.9		1.6					1.3	1.0
-Jan 2022	2.3	4.5	4.6	1.7	1.4	4.9	1.1	1.2	4.7	2.1		2.7		1.4					1.3	1.0
-Feb 2022	2.5	4.5	4.5	1.7	1.6	4.9	1.1	1.2	4.5	1.3		2.8		1.4					1.3	
-Mar 2022	2.5	4.7	4.5	1.7	1.6	5.3	1.2	1.3	4.6	1.4		2.9		1.4					1.3	
-Apr 2022	2.5	4.6	4.8	1.6	1.6	5.5	1.1	1.5	4.5	1.2		2.6		1.3					1.3	
-May 2022	2.6	4.8	4.8	1.6	1.6	5.6	1.1	1.5	4.5	1.3		2.8		1.3					1.3	
-Jun 2022	2.7	5.3	4.7	1.7		5.6	1.2	1.5	4.5	1.3		2.7		1.4					1.3	
-Jul 2022	2.6	5.0	4.4	1.6	1.0	5.0	1.1	1.4	4.0	1.3		2.2		1.3					1.2	
-Aug 2022	2.9	5.1	4.2	1.8	1.8	5.2	1.1	1.4	4.1	1.3		1.7		1.1					1.2	
-Sep 2022	3.0	5.0	4.2	1.8	1.9	5.2	1.3	1.6	3.7	1.2		2.2		1.2					1.1	
-Oct 2022	3.2	4.9	4.2	1.8	2.0	5.0	1.3	1.7	3.7	1.3		2.4		1.1					1.2	
-Nov 2022	3.5	4.9	4.1	1.9	2.1	5.0	1.3	1.8	3.6	1.3		2.3		1.1					1.2	
-Dec 2022	3.6	4.7	4.1	1.8	2.0	4.9	1.2	1.8	3.6	1.3		2.1		1.2					1.2	
-Jan 2023	3.7	4.8	4.0	1.9	2.2	4.9	1.4	1.8	3.6	1.3		2.0		1.2						
-Feb 2023	3.7	4.9	4.0	1.9	2.3	4.8	1.4	1.9	3.5	1.3		2.1		1.1						
-Mar 2023	4.0	4.8	3.9	1.9	2.2	4.7	1.4	1.9	3.3	1.3		2.1		1.0				1.0		
-Apr 2023	4.1	4.6	4.0	1.8	2.1	4.5	1.4	1.9	3.3	1.3		1.9		1.0						
-May 2023	4.2	4.6	3.9	1.8	2.2	4.6	1.5	2.0	3.2	1.4		2.0		1.0						
-Jun 2023	4.5	5.2	4.0	1.6	2.0	4.5	1.4	2.0	3.3	1.3		2.1		1.4						
-Jul 2023	4.7	5.6	3.9	1.5	2.1	4.4	1.4	1.9	3.5	1.3		1.8		1.9						
-Aug 2023	5.1	6.0	4.2	1.6	2.1	4.5	1.4	1.9	3.5	1.5		1.4		1.6						
-Sep 2023	4.7	5.2	3.8	1.6	1.9	4.0	1.4	1.8	3.2	1.3		1.7		1.7						
-Oct 2023	4.3	4.7	3.8	1.6	1.9	3.9	1.6	1.8	3.1	1.3		1.8		1.5						
-Nov 2023	4.3	4.5	3.9	1.7	2.0	3.9	1.6	2.0	3.0	1.5		1.8		1.1						
-Dec 2023	4.3	4.2	3.8	1.6	1.9	3.7	1.6	2.0	2.9	1.4		1.6		1.1						
-Jan 2024	4.3	4.2	3.9	1.8	2.1	3.7	1.6	2.0	2.9	1.5		1.6		1.0						
-Feb 2024	4.1	4.2	3.9	1.8	2.2	3.7	1.7	2.2	2.8	1.5		1.7								
-Mar 2024	3.9	4.2	3.9	1.9	2.1	3.6	2.1	2.3	3.0	1.4		1.6		1.0						
-Apr 2024	3.9	4.0	3.9	2.1	2.2	3.6	2.4	2.3	2.8	1.5		1.6								
-May 2024	4.0	4.3	3.9	2.1	1.9	3.5	1.7	2.3	2.8	1.4		1.6								
-Jun 2024	4.1	4.4	4.0	2.1	1.9	3.5	1.7	2.3	2.8	1.4		1.7		1.1						
-Jul 2024	4.2	4.5	4.0	2.1	2.0	3.6	1.7	2.4	2.8	1.5		1.4		1.0						
-Aug 2024	4.8	4.3	4.2	2.1	2.1	3.6	1.7	2.3	2.7	1.5		1.1								
-Sep 2024	4.2	3.6	4.1	2.4	2.2	3.5	1.8	2.4	2.7	1.5		1.4					1.4			
-Oct 2024	4.3	3.7	4.0	2.4	2.2	3.4	1.7	2.5	2.2	1.5		1.6		1.0			1.0			
-Nov 2024	4.2	3.5	4.0	2.3	2.2	3.3	1.9	2.5	2.1	1.4		1.6		1.1						
-Dec 2024	4.1	3.2	4.0	2.3	2.2	3.3	1.8	2.5	2.0	1.5		1.4		1.0	1.0					
+Month	Megaphone	Omny Studio	Podbean	Simplecast	RSS.com	Libsyn	Acast	Transistor	Captivate	Soundcloud	Firstory	iVoox	Riverside	WideOrbit	Podigee	Triton Digital	Audiomeans	RedCircle	Blubrry	Audioboom
+Sep 2021	2	4	5	1	1	5	1	1	2	5		3			1	2			2	1
+Oct 2021	2.1	4.1	4.5	1.4	1.1	4.9	1.2	1.1	2.1	4.7		2.8				1.5			1.8	1.4
+Nov 2021	2.2	4.2	4.5	1.5	1.1	4.9	1.3	1.1	2.4	4.6		2.9				1.4			1.7	1.5
+Dec 2021	2.2	4.3	4.8	1.7	1.3	5.1	1.3	1.2	2.1	4.9		2.9				1.6			1.3	1.0
+Jan 2022	2.3	4.5	4.6	1.7	1.4	4.9	1.2	1.1	2.1	4.7		2.7				1.4			1.3	1.0
+Feb 2022	2.5	4.5	4.5	1.7	1.6	4.9	1.2	1.1	1.3	4.5		2.8				1.4			1.3	
+Mar 2022	2.5	4.7	4.5	1.7	1.6	5.3	1.3	1.2	1.4	4.6		2.9				1.4			1.3	
+Apr 2022	2.5	4.6	4.8	1.6	1.6	5.5	1.5	1.1	1.2	4.5		2.6				1.3			1.3	
+May 2022	2.6	4.8	4.8	1.6	1.6	5.6	1.5	1.1	1.3	4.5		2.8				1.3			1.3	
+Jun 2022	2.7	5.3	4.7	1.7		5.6	1.5	1.2	1.3	4.5		2.7				1.4			1.3	
+Jul 2022	2.6	5.0	4.4	1.6	1.0	5.0	1.4	1.1	1.3	4.0		2.2				1.3			1.2	
+Aug 2022	2.9	5.1	4.2	1.8	1.8	5.2	1.4	1.1	1.3	4.1		1.7				1.1			1.2	
+Sep 2022	3.0	5.0	4.2	1.8	1.9	5.2	1.6	1.3	1.2	3.7		2.2				1.2			1.1	
+Oct 2022	3.2	4.9	4.2	1.8	2.0	5.0	1.7	1.3	1.3	3.7		2.4				1.1			1.2	
+Nov 2022	3.5	4.9	4.1	1.9	2.1	5.0	1.8	1.3	1.3	3.6		2.3				1.1			1.2	
+Dec 2022	3.6	4.7	4.1	1.8	2.0	4.9	1.8	1.2	1.3	3.6		2.1				1.2			1.2	
+Jan 2023	3.7	4.8	4.0	1.9	2.2	4.9	1.8	1.4	1.3	3.6		2.0				1.2				
+Feb 2023	3.7	4.9	4.0	1.9	2.3	4.8	1.9	1.4	1.3	3.5		2.1				1.1				
+Mar 2023	4.0	4.8	3.9	1.9	2.2	4.7	1.9	1.4	1.3	3.3		2.1				1.0		1.0		
+Apr 2023	4.1	4.6	4.0	1.8	2.1	4.5	1.9	1.4	1.3	3.3		1.9				1.0				
+May 2023	4.2	4.6	3.9	1.8	2.2	4.6	2.0	1.5	1.4	3.2		2.0				1.0				
+Jun 2023	4.5	5.2	4.0	1.6	2.0	4.5	2.0	1.4	1.3	3.3		2.1				1.4				
+Jul 2023	4.7	5.6	3.9	1.5	2.1	4.4	1.9	1.4	1.3	3.5		1.8				1.9				
+Aug 2023	5.1	6.0	4.2	1.6	2.1	4.5	1.9	1.4	1.5	3.5		1.4				1.6				
+Sep 2023	4.7	5.2	3.8	1.6	1.9	4.0	1.8	1.4	1.3	3.2		1.7				1.7				
+Oct 2023	4.3	4.7	3.8	1.6	1.9	3.9	1.8	1.6	1.3	3.1		1.8				1.5				
+Nov 2023	4.3	4.5	3.9	1.7	2.0	3.9	2.0	1.6	1.5	3.0		1.8				1.1				
+Dec 2023	4.3	4.2	3.8	1.6	1.9	3.7	2.0	1.6	1.4	2.9		1.6				1.1				
+Jan 2024	4.3	4.2	3.9	1.8	2.1	3.7	2.0	1.6	1.5	2.9		1.6				1.0				
+Feb 2024	4.1	4.2	3.9	1.8	2.2	3.7	2.2	1.7	1.5	2.8		1.7								
+Mar 2024	3.9	4.2	3.9	1.9	2.1	3.6	2.3	2.1	1.4	3.0		1.6				1.0				
+Apr 2024	3.9	4.0	3.9	2.1	2.2	3.6	2.3	2.4	1.5	2.8		1.6								
+May 2024	4.0	4.3	3.9	2.1	1.9	3.5	2.3	1.7	1.4	2.8		1.6								
+Jun 2024	4.1	4.4	4.0	2.1	1.9	3.5	2.3	1.7	1.4	2.8		1.7				1.1				
+Jul 2024	4.2	4.5	4.0	2.1	2.0	3.6	2.4	1.7	1.5	2.8		1.4				1.0				
+Aug 2024	4.8	4.3	4.2	2.1	2.1	3.6	2.3	1.7	1.5	2.7		1.1								
+Sep 2024	4.2	3.6	4.1	2.4	2.2	3.5	2.4	1.8	1.5	2.7		1.4					1.4			
+Oct 2024	4.3	3.7	4.0	2.4	2.2	3.4	2.5	1.7	1.5	2.2		1.6				1.0	1.0			
+Nov 2024	4.2	3.5	4.0	2.3	2.2	3.3	2.5	1.9	1.4	2.1		1.6				1.1				
+Dec 2024	4.1	3.2	4.0	2.3	2.2	3.3	2.5	1.8	1.5	2.0		1.4			1.0	1.0				
 Jan 2025	3.7	2.2	3.9	2.8	2.7	3.3	2.2	2.2	1.7	1.7		1.0			1.1					
-Feb 2025	3.4	2.2	3.9	2.7	2.6	3.2	2.2	2.3	1.7	1.9					1.1					
-Mar 2025	3.2	2.0	3.9	2.8	2.6	3.1	2.3	2.2	1.9	1.8					1.1			1.0		
-Apr 2025	3.5	2.4	4.1	2.7	2.5	3.2	2.3	2.3	2.0	1.8					1.1					
-May 2025	3.6	2.6	4.0	2.5	2.2	3.1	2.1	2.3	2.0	1.7		1.2			1.1					
-Jun 2025	3.6	2.4	4.1	2.4	2.3	3.2	2.2	2.3	2.0	1.9		1.1			1.1					
-Jul 2025	3.7	2.5	4.1	2.5	2.4	3.1	2.4	2.2	1.9	1.9		1.0			1.2					
-Aug 2025	3.9	2.6	4.0	2.7	2.5	3.0	2.3	2.3	1.6	2.0					1.1					
-Sep 2025	3.3	1.9	3.7	3.3	2.9	2.8	2.5	2.1		2.2					1.1					
-Oct 2025	3.1	1.6	3.5	3.4	3.0	2.7	2.8	1.9		2.0					1.3					
-Nov 2025	3.7	2.5	3.9	2.9	2.8	2.7	2.2	2.2	1.6	1.8		1.1			1.2					
-Dec 2025	4.4	3.6	4.5	2.5	2.7	2.9	1.8	2.6	1.8	1.6		1.4	1.2	1.5	1.1		1.0			
-Jan 2026	4.4	3.6	4.3	2.5	3.0	2.8	1.9	2.5	2.0	1.5	1.1	1.4	1.2	1.5	1.0		1.0			
-Feb 2026	4.3	3.7	4.2	2.4	3.1	2.7	2.0	2.3	1.8	1.5		1.5	1.1	1.4	1.0					
-Mar 2026	4.2	3.7	4.1	2.7	3.0	2.6	2.1	2.2	1.8	1.7		1.3	1.0	1.1	1.1					
-Apr 2026	4.3	3.6	4.0	2.8	3.0	2.6	2.3	2.3	1.7	1.7		1.3	1.0	1.1	1.0					
-May 2026	4.3	3.8	4.3	2.7	3.1	2.6	2.2	2.4	2.0	1.6		1.5	1.0	1.1	1.0					
-Jun 2026	4.5	4.1	4.4	2.9	3.1	2.7	2.4	2.5	2.0	1.8	1.1	1.5	1.2	1.2	1.1	1.0	1.0			
-Jul 2026	4.3	4.0	4.2	2.4	2.8	2.5	2.2	2.3	1.8	1.7	1.5	1.3	1.2	1.1	1.0	1.0				
-Aug 2026	3.2	3.1	2.9	1.9	1.9	1.8	1.7	1.6	1.3	1.3	1.0									
+Feb 2025	3.4	2.2	3.9	2.7	2.6	3.2	2.3	2.2	1.9	1.7					1.1					
+Mar 2025	3.2	2.0	3.9	2.8	2.6	3.1	2.2	2.3	1.8	1.9					1.1			1.0		
+Apr 2025	3.5	2.4	4.1	2.7	2.5	3.2	2.3	2.3	1.8	2.0					1.1					
+May 2025	3.6	2.6	4.0	2.5	2.2	3.1	2.3	2.1	1.7	2.0		1.2			1.1					
+Jun 2025	3.6	2.4	4.1	2.4	2.3	3.2	2.3	2.2	1.9	2.0		1.1			1.1					
+Jul 2025	3.7	2.5	4.1	2.5	2.4	3.1	2.2	2.4	1.9	1.9		1.0			1.2					
+Aug 2025	3.9	2.6	4.0	2.7	2.5	3.0	2.3	2.3	2.0	1.6					1.1					
+Sep 2025	3.3	1.9	3.7	3.3	2.9	2.8	2.1	2.5	2.2						1.1					
+Oct 2025	3.1	1.6	3.5	3.4	3.0	2.7	1.9	2.8	2.0						1.3					
+Nov 2025	3.7	2.5	3.9	2.9	2.8	2.7	2.2	2.2	1.8	1.6		1.1			1.2					
+Dec 2025	4.4	3.6	4.5	2.5	2.7	2.9	2.6	1.8	1.6	1.8		1.4		1.2	1.1	1.5	1.0			
+Jan 2026	4.4	3.6	4.3	2.5	3.0	2.8	2.5	1.9	1.5	2.0	1.1	1.4		1.2	1.0	1.5	1.0			
+Feb 2026	4.3	3.7	4.2	2.4	3.1	2.7	2.3	2.0	1.5	1.8		1.5		1.1	1.0	1.4				
+Mar 2026	4.2	3.7	4.1	2.7	3.0	2.6	2.2	2.1	1.7	1.8		1.3		1.0	1.1	1.1				
+Apr 2026	4.3	3.6	4.0	2.8	3.0	2.6	2.3	2.3	1.7	1.7		1.3		1.0	1.0	1.1				
+May 2026	4.3	3.8	4.3	2.7	3.1	2.6	2.4	2.2	1.6	2.0		1.5		1.0	1.0	1.1				
+Jun 2026	4.5	4.1	4.4	2.9	3.1	2.7	2.5	2.4	1.8	2.0	1.1	1.5	1.0	1.2	1.1	1.2	1.0			
+Jul 2026	4.3	4.0	4.2	2.4	2.8	2.5	2.3	2.2	1.7	1.8	1.5	1.3	1.0	1.2	1.0	1.1				
+Aug 2026	3.2	3.1	2.9	1.9	1.9	1.8	1.6	1.7	1.3	1.3	1.0									
+Sep 2026	4.0	3.8	3.8	2.9	2.4	2.3	2.2	2.2	1.7	1.6	1.4	1.2	1.1	1.0	1.0	1.0
 {{< /graph >}}
 
 ---
 
 And finally, a ranking of podcast hosters ordered by new episodes published during 
-the month of August 2026.
+the month of September 2026.
 
 A rounded percentage of episode share is also included if at least 1%.
 
 ---
-1. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "38.9%" >}}
-2. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "16.2%" >}}
-3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "5.1%" >}}
-4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "3.2%" >}}
-5. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.1%" >}}
-6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "2.9%" >}}
-7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "1.9%" >}}
-8. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "1.9%" >}}
-9. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "1.8%" >}}
-10. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "1.7%" >}}
-11. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "1.6%" >}}
-12. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "1.3%" >}}
-13. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.3%" >}}
-14. {{< a "https://firstory.me/" "Firstory" >}} {{< span "weak" "1.0%" >}}
-15. {{< a "https://www.wideorbit.com/" "WideOrbit" >}}
-16. {{< a "https://riverside.com/" "Riverside" >}}
-17. {{< a "https://www.ivoox.com/" "iVoox" >}}
-18. {{< a "https://www.tritondigital.com/" "Triton Digital" >}}
-19. {{< a "https://www.podigee.com/" "Podigee" >}}
-20. {{< a "https://castos.com/" "Castos" >}}
+1. {{< a "https://creators.spotify.com/" "Spotify for Creators" >}} {{< span "weak" "22.5%" >}}
+2. {{< a "https://www.spreaker.com/" "Spreaker" >}} {{< span "weak" "17.9%" >}}
+3. {{< a "https://www.buzzsprout.com/" "Buzzsprout" >}} {{< span "weak" "6.8%" >}}
+4. {{< a "https://www.megaphone.fm/" "Megaphone" >}} {{< span "weak" "4.0%" >}}
+5. {{< a "https://omnystudio.com/learn" "Omny Studio" >}} {{< span "weak" "3.8%" >}}
+6. {{< a "https://www.podbean.com/" "Podbean" >}} {{< span "weak" "3.8%" >}}
+7. {{< a "https://simplecast.com/" "Simplecast" >}} {{< span "weak" "2.9%" >}}
+8. {{< a "https://rss.com/" "RSS.com" >}} {{< span "weak" "2.4%" >}}
+9. {{< a "https://libsyn.com/" "Libsyn" >}} {{< span "weak" "2.3%" >}}
+10. {{< a "https://www.acast.com/" "Acast" >}} {{< span "weak" "2.2%" >}}
+11. {{< a "https://transistor.fm/" "Transistor" >}} {{< span "weak" "2.2%" >}}
+12. {{< a "https://www.captivate.fm/" "Captivate" >}} {{< span "weak" "1.7%" >}}
+13. {{< a "https://soundcloud.com/stream" "Soundcloud" >}} {{< span "weak" "1.6%" >}}
+14. {{< a "https://firstory.me/" "Firstory" >}} {{< span "weak" "1.4%" >}}
+15. {{< a "https://www.ivoox.com/" "iVoox" >}} {{< span "weak" "1.2%" >}}
+16. {{< a "https://riverside.com/" "Riverside" >}} {{< span "weak" "1.1%" >}}
+17. {{< a "https://www.wideorbit.com/" "WideOrbit" >}} {{< span "weak" "1.0%" >}}
+18. {{< a "https://www.podigee.com/" "Podigee" >}} {{< span "weak" "1.0%" >}}
+19. {{< a "https://www.tritondigital.com/" "Triton Digital" >}} {{< span "weak" "1.0%" >}}
+20. {{< a "https://www.audiomeans.fr/" "Audiomeans" >}}
 21. {{< a "https://redcircle.com/" "RedCircle" >}}
-22. {{< a "https://www.ximalaya.com/" "Ximalaya" >}}
-23. {{< a "https://www.soundon.fm/" "SoundOn" >}}
-24. {{< a "https://www.audiomeans.fr/" "Audiomeans" >}}
-25. {{< a "https://www.subsplash.com/" "Subsplash" >}}
-26. {{< a "http://www.art19.com/" "ART19" >}}
-27. {{< a "https://audioboom.com/" "Audioboom" >}}
-28. {{< a "https://stand.fm/" "stand.fm" >}}
-29. {{< a "https://www.blubrry.com/" "Blubrry" >}}
-30. {{< a "https://www.ausha.co/" "Ausha" >}}
-31. {{< a "https://www.xiaoyuzhoufm.com/" "Small Universe" >}}
-32. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}}
+22. {{< a "https://castos.com/" "Castos" >}}
+23. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}}
+24. {{< a "https://www.ximalaya.com/" "Ximalaya" >}}
+25. {{< a "https://www.soundon.fm/" "SoundOn" >}}
+26. {{< a "https://www.ausha.co/" "Ausha" >}}
+27. {{< a "http://www.art19.com/" "ART19" >}}
+28. {{< a "https://www.subsplash.com/" "Subsplash" >}}
+29. {{< a "https://audioboom.com/" "Audioboom" >}}
+30. {{< a "https://www.blubrry.com/" "Blubrry" >}}
+31. {{< a "https://stand.fm/" "stand.fm" >}}
+32. {{< a "https://www.xiaoyuzhoufm.com/" "Small Universe" >}}
 33. {{< a "https://www.squarespace.com/" "Squarespace" >}}
 34. {{< a "https://mave.digital/" "mave" >}}
-35. {{< a "https://library.substack.com/p/how-to-use-substack-for-podcasts" "Substack" >}}
+35. {{< a "https://aws.amazon.com/s3/" "Amazon S3" >}}
 36. {{< a "https://www.podomatic.com/" "Podomatic" >}}
 37. {{< a "https://aws.amazon.com/cloudfront/" "Amazon CloudFront" >}}
 38. {{< a "https://portal.rozhlas.cz/" "Cesky rozhlas" >}}
-39. {{< a "https://www.akamai.com/" "Akamai CDN" >}}
-40. {{< a "https://soundstack.com/" "SoundStack" >}}
-41. {{< a "https://www.deutschlandradio.de/" "Deutschlandradio" >}}
+39. {{< a "https://soundstack.com/" "SoundStack" >}}
+40. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}}
+41. {{< a "https://www.akamai.com/" "Akamai CDN" >}}
 42. {{< a "https://www.podcaster.de/" "podcaster.de" >}}
 43. {{< a "https://www.streamguys.com/" "StreamGuys" >}}
-44. {{< a "https://iono.fm/" "iono.fm" >}}
+44. {{< a "https://www.deutschlandradio.de/" "Deutschlandradio" >}}
 45. {{< a "https://www.sharp-stream.com/" "Sharpstream" >}}
-46. {{< a "https://futurimedia.com/" "Futuri Media" >}}
-47. {{< a "https://www.nrjgroup.fr/" "NRJ-Group" >}}
-48. {{< a "https://enacast.com/" "Enacast" >}}
-49. {{< a "https://www.npr.org/" "NPR" >}}
-50. {{< a "https://letscast.fm/" "LetsCast.fm" >}}
-51. {{< a "https://www.prx.org/" "PRX" >}}
-52. {{< a "https://kajabi.com/" "Kajabi" >}}
-53. {{< a "https://archive.org/" "Internet Archive" >}}
-54. {{< a "https://www.bbc.co.uk/" "BBC" >}}
-55. {{< a "https://wasabi.com/" "Wasabi Cloud Storage" >}}
-56. {{< a "https://www.oneplace.com/" "OnePlace.com" >}}
-57. {{< a "https://kabbalahmedia.info/" "Kabbalah Media" >}}
-58. {{< a "https://sermon.net/" "Sermon.net" >}}
-59. {{< a "https://www.podserve.fm/" "PodServe.fm" >}}
-60. {{< a "https://www.podcast.co/" "Podcast.co" >}}
-61. {{< a "https://octopus.saooti.com/" "Octopus" >}}
-62. {{< a "https://www.sermonaudio.com/" "SermonAudio" >}}
-63. {{< a "https://promodj.com/" "PromoDJ" >}}
-64. {{< a "https://www.livebox.cz/" "LIVEBOX" >}}
-65. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}}
-66. {{< a "https://fireside.fm/" "Fireside" >}}
-67. {{< a "https://pod.space/" "Podspace" >}}
-68. {{< a "https://sverigesradio.se/" "Sveriges Radio" >}}
-69. {{< a "https://www.pinecast.com/" "Pinecast" >}}
-70. {{< a "https://hearthis.at/" "hearthis.at" >}}
-71. {{< a "https://feedpress.com/" "Feedpress" >}}
-72. {{< a "https://www.vaticannews.va/en.html" "Vatican News" >}}
-73. {{< a "https://www.srf.ch/" "SRF" >}}
-74. {{< a "https://www.podcastics.com/en/" "Podcastics" >}}
-75. {{< a "https://cloud.google.com/" "Google Cloud" >}}
-76. {{< a "https://sonicbowl.cloud/" "Sonicbowl" >}}
-77. {{< a "https://castbox.fm/" "Castbox" >}}
-78. {{< a "https://www.sbs.co.kr/" "Seoul Broadcasting System" >}}
-79. {{< a "https://radiotalk.jp/" "Radiotalk" >}}
+46. {{< a "https://iono.fm/" "iono.fm" >}}
+47. {{< a "https://enacast.com/" "Enacast" >}}
+48. {{< a "https://futurimedia.com/" "Futuri Media" >}}
+49. {{< a "https://www.prx.org/" "PRX" >}}
+50. {{< a "https://octopus.saooti.com/" "Octopus" >}}
+51. {{< a "https://letscast.fm/" "LetsCast.fm" >}}
+52. {{< a "https://www.npr.org/" "NPR" >}}
+53. {{< a "https://kajabi.com/" "Kajabi" >}}
+54. {{< a "https://archive.org/" "Internet Archive" >}}
+55. {{< a "https://www.bbc.co.uk/" "BBC" >}}
+56. {{< a "https://www.podserve.fm/" "PodServe.fm" >}}
+57. {{< a "https://www.oneplace.com/" "OnePlace.com" >}}
+58. {{< a "https://wasabi.com/" "Wasabi Cloud Storage" >}}
+59. {{< a "https://sermon.net/" "Sermon.net" >}}
+60. {{< a "https://pod.space/" "Podspace" >}}
+61. {{< a "https://www.pinecast.com/" "Pinecast" >}}
+62. {{< a "https://www.podcast.co/" "Podcast.co" >}}
+63. {{< a "https://www.livebox.cz/" "LIVEBOX" >}}
+64. {{< a "https://www.sermonaudio.com/" "SermonAudio" >}}
+65. {{< a "https://www.podcastics.com/en/" "Podcastics" >}}
+66. {{< a "https://feedpress.com/" "Feedpress" >}}
+67. {{< a "https://www.digitalocean.com/products/spaces/" "DigitalOcean Spaces" >}}
+68. {{< a "https://fireside.fm/" "Fireside" >}}
+69. {{< a "https://promodj.com/" "PromoDJ" >}}
+70. {{< a "https://sverigesradio.se/" "Sveriges Radio" >}}
+71. {{< a "https://hearthis.at/" "hearthis.at" >}}
+72. {{< a "https://cloud.google.com/" "Google Cloud" >}}
+73. {{< a "https://www.vaticannews.va/en.html" "Vatican News" >}}
+74. {{< a "https://kabbalahmedia.info/" "Kabbalah Media" >}}
+75. {{< a "https://www.srf.ch/" "SRF" >}}
+76. {{< a "https://castbox.fm/" "Castbox" >}}
+77. {{< a "https://sonicbowl.cloud/" "Sonicbowl" >}}
+78. {{< a "https://flightcast.com/" "Flightcast" >}}
+79. {{< a "https://www.sbs.co.kr/" "Seoul Broadcasting System" >}}
 80. {{< a "https://www.ndr.de/" "Norddeutscher Rundfunk" >}}
-81. {{< a "https://azure.microsoft.com/en-us/services/storage/blobs/" "Microsoft Azure Blob Storage" >}}
-82. {{< a "https://wordpress.com/" "WordPress" >}}
-83. {{< a "https://podcastle.ai/" "Podcastle" >}}
-84. {{< a "https://www.patreon.com/" "Patreon" >}}
-85. {{< a "https://flightcast.com/" "Flightcast" >}}
-86. {{< a "https://podeo.co/" "Podeo" >}}
-87. {{< a "https://www.imbc.com/" "MBC TV" >}}
-88. {{< a "https://www.ondacero.es/" "Onda Cero" >}}
-89. {{< a "https://alitu.com/" "Alitu" >}}
-90. {{< a "https://prestocast.com/" "PrestoCast" >}}
-91. {{< a "http://www.npo.nl/" "Nederlandse Publieke Omroep" >}}
-92. {{< a "https://www.planningcenter.com/" "Planning Center" >}}
-93. {{< a "https://sermons.faithlife.com/" "Faithlife Sermons" >}}
-94. (all other known hosts)
-95. {{< a "https://www.err.ee/" "Eesti Rahvusringhääling" >}}
-96. {{< a "https://podpoint.com/" "PodPoint" >}}
-97. {{< a "https://jewishpodcasts.fm/" "Jewish Podcasts" >}}
-98. {{< a "https://srnnews.com/" "SRN News" >}}
-99. {{< a "https://der.orf.at/" "Österreichischer Rundfunk" >}}
-100. {{< a "https://civicmedia.us/" "Civic Media" >}}
-101. {{< a "http://thecloudnetwork.com/" "the Cloud Network" >}}
-102. {{< a "https://www.cope.es/" "COPE" >}}
-103. {{< a "https://podetize.com/" "Podetize" >}}
-104. {{< a "https://www.mediastre.am/" "mediastream" >}}
-105. {{< a "https://www.julephosting.de/" "Julep Hosting" >}}
-106. {{< a "https://www3.nhk.or.jp/news/" "NHK" >}}
-107. {{< a "https://www.rtvslo.si/" "Radiotelevizija Slovenija" >}}
-108. {{< a "https://springcast.fm/" "Springcast" >}}
-109. {{< a "https://podster.fm/" "Podster.fm" >}}
-110. {{< a "https://blog.seesaa.jp/" "Seesaa" >}}
-111. {{< a "https://www.kbs.co.kr/" "Korean Broadcasting System" >}}
-112. {{< a "https://www.wdr.de/" "Westdeutscher Rundfunk" >}}
-113. {{< a "https://www.zencastr.com/" "Zencastr" >}}
-114. {{< a "https://www.rte.ie/" "RTÉ Radio" >}}
-115. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}}
-116. {{< a "https://www.beehiiv.com/" "beehiiv" >}}
-117. {{< a "https://listen.style/" "LISTEN" >}}
-118. {{< a "https://www.fluidstream.net/" "Fluidstream" >}}
-119. {{< a "https://www.br.de/index.html" "Bayerischer Rundfunk" >}}
-120. {{< a "https://podcloud.fr/" "podCloud" >}}
-121. {{< a "https://hubhopper.com/" "Hubhopper" >}}
-122. {{< a "https://www.lsm.lv/" "LSM.lv" >}}
-123. {{< a "https://awr.org/" "Adventist World Radio" >}}
-124. {{< a "https://www.helloaudio.fm/" "Hello Audio" >}}
-125. {{< a "https://www.zencast.fm/" "Zencast" >}}
-126. {{< a "https://www.backblaze.com/b2/cloud-storage.html" "Backblaze B2 Cloud Storage" >}}
-127. {{< a "https://www.securenetsystems.net/" "Securenet Systems" >}}
-128. {{< a "https://github.com/" "GitHub" >}}
-129. {{< a "https://podhome.fm/" "Podhome" >}}
-130. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}}
-131. {{< a "https://www.talkshoe.com/" "Talkshoe" >}}
+81. {{< a "https://www.ondacero.es/" "Onda Cero" >}}
+82. {{< a "https://radiotalk.jp/" "Radiotalk" >}}
+83. {{< a "https://azure.microsoft.com/en-us/services/storage/blobs/" "Microsoft Azure Blob Storage" >}}
+84. {{< a "http://www.npo.nl/" "Nederlandse Publieke Omroep" >}}
+85. {{< a "https://www.err.ee/" "Eesti Rahvusringhääling" >}}
+86. {{< a "https://podcastle.ai/" "Podcastle" >}}
+87. {{< a "https://alitu.com/" "Alitu" >}}
+88. {{< a "https://prestocast.com/" "PrestoCast" >}}
+89. (all other known hosts)
+90. {{< a "https://podeo.co/" "Podeo" >}}
+91. {{< a "https://wordpress.com/" "WordPress" >}}
+92. {{< a "https://www.mediastre.am/" "mediastream" >}}
+93. {{< a "https://www.patreon.com/" "Patreon" >}}
+94. {{< a "https://www.planningcenter.com/" "Planning Center" >}}
+95. {{< a "https://der.orf.at/" "Österreichischer Rundfunk" >}}
+96. {{< a "https://www.imbc.com/" "MBC TV" >}}
+97. {{< a "https://sermons.faithlife.com/" "Faithlife Sermons" >}}
+98. {{< a "https://podster.fm/" "Podster.fm" >}}
+99. {{< a "https://www.cope.es/" "COPE" >}}
+100. {{< a "https://springcast.fm/" "Springcast" >}}
+101. {{< a "https://www.rtvslo.si/" "Radiotelevizija Slovenija" >}}
+102. {{< a "http://thecloudnetwork.com/" "the Cloud Network" >}}
+103. {{< a "https://podpoint.com/" "PodPoint" >}}
+104. {{< a "https://www.zencastr.com/" "Zencastr" >}}
+105. {{< a "https://jewishpodcasts.fm/" "Jewish Podcasts" >}}
+106. {{< a "https://www.fluidstream.net/" "Fluidstream" >}}
+107. {{< a "https://www.wdr.de/" "Westdeutscher Rundfunk" >}}
+108. {{< a "https://podetize.com/" "Podetize" >}}
+109. {{< a "https://www.julephosting.de/" "Julep Hosting" >}}
+110. {{< a "https://beehiiv.com/" "beehiiv" >}}
+111. {{< a "https://srnnews.com/" "SRN News" >}}
+112. {{< a "https://www.kbs.co.kr/" "Korean Broadcasting System" >}}
+113. {{< a "https://kostenlos-hosten.de/" "Podcastbude" >}}
+114. {{< a "https://blog.seesaa.jp/" "Seesaa" >}}
+115. {{< a "https://www3.nhk.or.jp/news/" "NHK" >}}
+116. {{< a "https://www.lsm.lv/" "LSM.lv" >}}
+117. {{< a "https://www.br.de/index.html" "Bayerischer Rundfunk" >}}
+118. {{< a "https://www.ilsole24ore.com/" "Il Sole 24 Ore" >}}
+119. {{< a "https://www.backblaze.com/b2/cloud-storage.html" "Backblaze B2 Cloud Storage" >}}
+120. {{< a "https://awr.org/" "Adventist World Radio" >}}
+121. {{< a "https://listen.style/" "LISTEN" >}}
+122. {{< a "https://podhome.fm/" "Podhome" >}}
+123. {{< a "https://www.helloaudio.fm/" "Hello Audio" >}}
+124. {{< a "https://hubhopper.com/" "Hubhopper" >}}
+125. {{< a "https://cba.media/" "cba.media" >}}
+126. {{< a "https://www.securenetsystems.net/" "Securenet Systems" >}}
+127. {{< a "http://www.lizhi.fm/" "lizhi.fm" >}}
+128. {{< a "https://www.chga.fm/" "CHGA" >}}
+129. {{< a "https://www.deejay.it/" "Dee Jay" >}}
+130. {{< a "https://www.zencast.fm/" "Zencast" >}}
+131. {{< a "https://www.audion.fm/" "Audion" >}}
 132. {{< a "https://www.houstonpublicmedia.org/" "Houston Public Media" >}}
-133. {{< a "https://zenomedia.com/" "Zeno Media" >}}
-134. {{< a "https://cba.media/" "cba.media" >}}
-135. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}}
-136. {{< a "https://www.rts.ch/" "Radio Télévision Suisse" >}}
-137. {{< a "https://www.chga.fm/" "CHGA" >}}
-138. {{< a "https://hr.de/" "Norddeutscher Rundfunk" >}}
-139. {{< a "https://www.lightcast.com/" "Lightcast" >}}
-140. {{< a "https://www.audiorella.com/" "Audiorella" >}}
-141. {{< a "https://joy.org.au/" "JOY Media" >}}
-142. {{< a "https://www.boxcast.com/" "BoxCast" >}}
-143. {{< a "https://echo.msk.ru/" "msk.ru" >}}
-144. {{< a "https://www.wnyc.org/" "WNYC" >}}
-145. {{< a "https://www.rmf.fm/" "RMF FM" >}}
-146. {{< a "http://www.lizhi.fm/" "lizhi.fm" >}}
-147. {{< a "https://kboo.fm/" "KBOO" >}}
-148. {{< a "https://www.barstoolsports.com/" "Barstool Sports" >}}
-149. {{< a "https://95bfm.com/" "95bFM" >}}
-150. {{< a "https://fountain.fm/" "Fountain" >}}
-151. {{< a "https://www.yutorah.org/" "YUTorah Online" >}}
-152. {{< a "https://www.freie-radios.net/" "Bundesverband Freier Radios" >}}
-153. {{< a "https://vodio.fr/" "Vodio" >}}
-154. {{< a "https://www.nucleus.church/" "Nucleus" >}}
-155. {{< a "https://www.dr.dk/" "DR" >}}
-156. {{< a "https://www.dropbox.com/" "Dropbox" >}}
-157. {{< a "https://jornal.usp.br/" "Jornal da USP" >}}
-158. {{< a "https://wistia.com/" "Wistia" >}}
-159. {{< a "https://podcastai.com/" "PodcastAI" >}}
-160. {{< a "https://news.un.org/" "United Nations" >}}
-161. {{< a "https://www.qingting.fm/" "Dragonfly FM" >}}
-162. {{< a "https://pub.rncmedia.ca/" "RNC Media" >}}
-163. {{< a "https://type3.audio/" "Type III Audio" >}}
-164. {{< a "https://www.audion.fm/" "Audion" >}}
-165. {{< a "https://funkhaus-rosenheim.de/" "Funkhaus Rosenheim" >}}
-166. {{< a "https://www.christianworldmedia.com/" "ChristianWorldMedia.com" >}}
-167. {{< a "https://www.radionikkei.jp/" "Radio Nikkei" >}}
-168. {{< a "https://studeo.fm/" "Studeo" >}}
-169. {{< a "https://redbasset.tech/" "Red Basset" >}}
-170. {{< a "https://radioscoop.com/" "Radio SCOOP" >}}
-171. {{< a "https://www.podtoo.com/" "PodToo" >}}
-172. {{< a "https://wavpub.com/" "WavPub" >}}
-173. {{< a "https://www.jwplayer.com/" "JW Player" >}}
-174. {{< a "https://fusebox.fm/" "Fusebox" >}}
-175. {{< a "http://www.podcasts.com/" "podcasts.com" >}}
-176. {{< a "https://www.ilsole24ore.com/" "Il Sole 24 Ore" >}}
+133. {{< a "https://www.rmf.fm/" "RMF FM" >}}
+134. {{< a "https://www.yutorah.org/" "YUTorah Online" >}}
+135. {{< a "https://github.com/" "GitHub" >}}
+136. {{< a "https://zenomedia.com/" "Zeno Media" >}}
+137. {{< a "https://civicmedia.us/" "Civic Media" >}}
+138. {{< a "https://www.americanpublicmedia.org/" "American Public Media" >}}
+139. {{< a "https://hr.de/" "Norddeutscher Rundfunk" >}}
+140. {{< a "https://www.cohostpodcasting.com/" "CoHost" >}}
+141. {{< a "https://www.lightcast.com/" "Lightcast" >}}
+142. {{< a "https://www.barstoolsports.com/" "Barstool Sports" >}}
+143. {{< a "https://vodio.fr/" "Vodio" >}}
+144. {{< a "https://www.rts.ch/" "Radio Télévision Suisse" >}}
+145. {{< a "https://www.audiorella.com/" "Audiorella" >}}
+146. {{< a "https://redbasset.tech/" "Red Basset" >}}
+147. {{< a "https://www.talkshoe.com/" "Talkshoe" >}}
+148. {{< a "https://95bfm.com/" "95bFM" >}}
+149. {{< a "https://fountain.fm/" "Fountain" >}}
+150. {{< a "https://echo.msk.ru/" "msk.ru" >}}
+151. {{< a "https://kboo.fm/" "KBOO" >}}
+152. {{< a "https://www.controradio.it/" "Controradio" >}}
+153. {{< a "https://www.freie-radios.net/" "Bundesverband Freier Radios" >}}
+154. {{< a "https://joy.org.au/" "JOY Media" >}}
+155. {{< a "https://www.wnyc.org/" "WNYC" >}}
+156. {{< a "https://www.boxcast.com/" "BoxCast" >}}
+157. {{< a "https://radioscoop.com/" "Radio SCOOP" >}}
+158. {{< a "https://www.dr.dk/" "DR" >}}
+159. {{< a "https://wistia.com/" "Wistia" >}}
+160. {{< a "https://funkhaus-rosenheim.de/" "Funkhaus Rosenheim" >}}
+161. {{< a "https://www.nucleus.church/" "Nucleus" >}}
+162. {{< a "https://jornal.usp.br/" "Jornal da USP" >}}
+163. {{< a "https://podcastai.com/" "PodcastAI" >}}
+164. {{< a "https://baladoquebec.ca/" "BaladoQuebec" >}}
+165. {{< a "https://news.un.org/" "United Nations" >}}
+166. {{< a "https://podcloud.fr/" "podCloud" >}}
+167. {{< a "https://www.christianworldmedia.com/" "ChristianWorldMedia.com" >}}
+168. {{< a "https://www.podtoo.com/" "PodToo" >}}
+169. {{< a "https://www.radionikkei.jp/" "Radio Nikkei" >}}
+170. {{< a "https://www.jwplayer.com/" "JW Player" >}}
+171. {{< a "https://www.linode.com/products/object-storage/" "Linode Object Storage" >}}
+172. {{< a "https://fusebox.fm/" "Fusebox" >}}
+173. {{< a "https://type3.audio/" "Type III Audio" >}}
+174. {{< a "https://studeo.fm/" "Studeo" >}}
+175. {{< a "https://www.qingting.fm/" "Dragonfly FM" >}}
+176. {{< a "https://djpod.com/" "Djpod" >}}
 177. {{< a "https://podle.io/" "Podle" >}}
-178. {{< a "https://baladoquebec.ca/" "BaladoQuebec" >}}
-179. {{< a "https://doctorpodcasting.com/" "DoctorPodcasting" >}}
-180. {{< a "https://fans.fm/notes" "Fans.fm" >}}
-181. {{< a "https://thisisdistorted.com/" "This Is Distorted" >}}
-182. {{< a "https://www.controradio.it/" "Controradio" >}}
-183. {{< a "https://www.linode.com/products/object-storage/" "Linode Object Storage" >}}
-184. {{< a "https://www.twentythree.com/" "TwentyThree" >}}
-185. {{< a "https://djpod.com/" "Djpod" >}}
-186. {{< a "https://dropwave.io/" "Dropwave" >}}
-187. {{< a "https://koelab.co.jp/" "Koelab" >}}
-188. {{< a "https://issuesetc.org/" "Issues, Etc." >}}
-189. {{< a "https://typlog.com/" "Typlog" >}}
-190. {{< a "https://www.stationista.com/" "stationista" >}}
-191. {{< a "https://www.discerninghearts.com/" "Discerning Hearts" >}}
-192. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}}
+178. {{< a "https://fans.fm/notes" "Fans.fm" >}}
+179. {{< a "https://radiolaser.fr/" "Radio Laser" >}}
+180. {{< a "https://thisisdistorted.com/" "This Is Distorted" >}}
+181. {{< a "https://wavpub.com/" "WavPub" >}}
+182. {{< a "https://doctorpodcasting.com/" "DoctorPodcasting" >}}
+183. {{< a "https://www.dropbox.com/" "Dropbox" >}}
+184. {{< a "https://speakeasystudio.ai/" "Speakeasy" >}}
+185. {{< a "https://koelab.co.jp/" "Koelab" >}}
+186. {{< a "https://pub.rncmedia.ca/" "RNC Media" >}}
+187. {{< a "https://www.twentythree.com/" "TwentyThree" >}}
+188. {{< a "https://dropwave.io/" "Dropwave" >}}
+189. {{< a "https://issuesetc.org/" "Issues, Etc." >}}
+190. {{< a "https://syndicast.co.uk/" "Syndicast" >}}
+191. {{< a "https://www.stationista.com/" "stationista" >}}
+192. {{< a "https://www.attitudefm.com/" "Attitude" >}}
 193. {{< a "https://videonest.co/" "VideoNest" >}}
-194. {{< a "https://speakeasystudio.ai/" "Speakeasy" >}}
-195. {{< a "https://syndicast.co.uk/" "Syndicast" >}}
-196. {{< a "https://aiir.com/" "Aiir" >}}
-197. {{< a "https://www.radionz.co.nz/" "Radio New Zealand" >}}
-198. {{< a "https://sepia.sk/" "Sepia Systems" >}}
-199. {{< a "https://afripods.africa/" "Afripods" >}}
-200. {{< a "https://www.justcast.com/" "JustCast" >}}
-201. {{< a "https://podnews.net/" "Podnews" >}}
-202. {{< a "https://progzilla.com/" "Progzilla Radio" >}}
-203. {{< a "https://twit.tv/" "TWiT" >}}
-204. {{< a "https://1310kfka.com/" "Podcast 45" >}}
-205. {{< a "https://www.lightsource.com/" "LightSource" >}}
+194. {{< a "http://www.podcasts.com/" "podcasts.com" >}}
+195. {{< a "https://www.justcast.com/" "JustCast" >}}
+196. {{< a "https://noxsolutions.com/podcasting" "Nox Solutions" >}}
+197. {{< a "https://twit.tv/" "TWiT" >}}
+198. {{< a "https://podnews.net/" "Podnews" >}}
+199. {{< a "https://www.lightsource.com/" "LightSource" >}}
+200. {{< a "https://beamly.com/" "Beamly" >}}
+201. {{< a "https://typlog.com/" "Typlog" >}}
+202. {{< a "https://afripods.africa/" "Afripods" >}}
+203. {{< a "https://www.discerninghearts.com/" "Discerning Hearts" >}}
+204. {{< a "https://sepia.sk/" "Sepia Systems" >}}
 ---
 
 Analysis by [John Spurlock](https://twitter.com/johnspurlock)
@@ -446,6 +447,8 @@ And thanks to the [Open Podcast Analytics Working Group](https://github.com/opaw
 We've incorporated these patterns along with some of our own to come up with the host identification and metadata for this ranking.
 
 ---
+*Updated 2026-10-01, with data for the month of September 2026. Still ex Radio France.*
+
 *Updated 2026-09-01, with data for the month of August 2026. Still ex Radio France.*
 
 *Updated 2026-08-01, with data for the month of July 2026. Still ex Radio France.*
@@ -577,6 +580,7 @@ as part of a single request chain, we credit the redirecting host, not the targe
 
 ---
 Previous versions:
+ - [Podcast Host Rankings by Episode Share (August 2026)](/archive/podcast-hosts-by-episode-share-august-2026/)
  - [Podcast Host Rankings by Episode Share (July 2026)](/archive/podcast-hosts-by-episode-share-july-2026/)
  - [Podcast Host Rankings by Episode Share (June 2026)](/archive/podcast-hosts-by-episode-share-june-2026/)
  - [Podcast Host Rankings by Episode Share (May 2026)](/archive/podcast-hosts-by-episode-share-may-2026/)
